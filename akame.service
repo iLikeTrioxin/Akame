@@ -1,0 +1,10 @@
+[Unit]
+Description=Discord bot named Akane.
+After=network.target
+[Service]
+WorkingDirectory=/root/Akame
+User=root
+#Restart=always
+ExecStart=screen -S akame -D -m python3 main.py
+[Install]
+WantedBy=multi-user.target

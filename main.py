@@ -2,11 +2,43 @@ from discord     import Client, VoiceClient
 from discord.ext import commands
 from nekos       import img
 from random      import randrange
+from datetime    import datetime
+from json        import loads, dumps
 
 # defines TOKEN for discord
 from credentials import TOKEN
 
 bot = commands.Bot(command_prefix='#')
+
+@bot.event
+async def on_message(msg: str):
+    date     = datetime.now()
+    filename = f"{msg.author.guild.name}-;-{msg.channel.name}.log"
+    
+    with open(filename, "a") as f:
+        data = {}
+        
+        data['msg'] = msg.content
+        
+        data['Date'] = {
+            'y': date.year  ,
+            'm': date.month ,
+            'd': date.day   ,
+            'H': date.hour  ,
+            'M': date.minute,
+            'S': date.second
+        }
+        
+        data['Author'] = {
+            "ID"  : msg.author.id  ,
+            "name": msg.author.name,
+            "nick": msg.author.nick,
+        }
+        
+        print(dumps(data) + ",", file=f)
+    
+    await bot.process_commands(msg)
+
 
 tags = ['lewdkemo'         , 'holoero', 'solog' , 'tits' , 'poke', 
         'hololewd'         , 'erofeet', 'spank' , 'feet' , 'anal', 
