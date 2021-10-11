@@ -8,13 +8,17 @@ from credentials import TOKEN
 
 bot = commands.Bot(command_prefix='#')
 
-cClients = []
-tags = ['feet'             , 'yuri' , 'trap', 'futanari', 'hololewd', 'lewdkemo', 'solog', 'feetg', 'cum', 'erokemo', 'les',
-        'wallpaper'        , 'lewdk', 'ngif', 'tickle', 'lewd', 'feed', 'gecg', 'eroyuri', 'eron', 'cum_jpg', 'bj',
-        'nsfw_neko_gif'    , 'solo', 'kemonomimi', 'nsfw_avatar', 'gasm', 'poke', 'anal', 'slap', 'hentai', 'avatar',
-        'erofeet'          , 'holo', 'keta', 'blowjob', 'pussy', 'tits', 'holoero', 'lizard', 'pussy_jpg', 'pwankg', 'classic',
-        'kuni'             , 'waifu', 'pat', '8ball', 'kiss', 'femdom', 'neko', 'spank', 'cuddle', 'erok', 'fox_girl', 'boobs',
-        'random_hentai_gif', 'smallboobs', 'hug', 'ero', 'smug', 'goose', 'baka', 'woof']
+tags = ['lewdkemo'         , 'holoero', 'solog' , 'tits' , 'poke', 
+        'hololewd'         , 'erofeet', 'spank' , 'feet' , 'anal', 
+        'fox_girl'         , 'blowjob', 'pussy' , 'woof' , 'slap', 
+        'futanari'         , 'erokemo', 'lewdk' , 'ngif' , 'baka', 'bj'  , 
+        'pussy_jpg'        , 'eroyuri', 'waifu' , 'eron' , 'holo', 'cum' , 
+        'wallpaper'        , 'cum_jpg', 'boobs' , 'yuri' , 'keta', 'pat' , 
+        'smallboobs'       , 'classic', 'goose' , 'trap' , 'solo', 'les' , 
+        'kemonomimi'       , 'avatar' , 'feetg' , 'gecg' , 'kuni', 'ero' , 
+        'nsfw_avatar'      , 'pwankg' , 'cuddle', 'feed' , 'smug', 'hug' , 
+        'nsfw_neko_gif'    , 'hentai' , 'tickle', 'lewd' , 'kiss', 'erok', 
+        'random_hentai_gif', 'lizard' , 'femdom', '8ball', 'neko', 'gasm' ]
 
 
 @bot.command(name='wojciechowski')
