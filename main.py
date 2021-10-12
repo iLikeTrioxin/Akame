@@ -4,18 +4,27 @@ from nekos       import img
 from random      import randrange
 from datetime    import datetime
 from json        import loads, dumps
+from os          import mkdir
+from mysql       import connector
 
-# defines TOKEN for discord
+# defines TOKEN, DB_USERNAME and DB_PASSWORD
 from credentials import TOKEN
 
 bot = commands.Bot(command_prefix='#')
 
+dbConnection = connector.connect(
+    host     = '127.0.0.1',
+    user     = DB_USERNAME,
+    password = DB_PASSWORD
+)
+
+
 @bot.event
 async def on_message(msg: str):
     date     = datetime.now()
-    filename = f"{msg.author.guild.name}-;-{msg.channel.name}.log"
+    filename = f"./logs/{msg.author.guild.name}-;-{msg.channel.name}.log"
     
-    with open(filename, "a") as f:
+    with open(filename, "a+") as f:
         data = {}
         
         data['msg'] = msg.content
@@ -137,3 +146,4 @@ async def h(ctx):
 
 
 bot.run(TOKEN)
+dbConnection.close()
