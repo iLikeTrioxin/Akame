@@ -18,34 +18,15 @@ dbConnection = connector.connect(
     password = DB_PASSWORD
 )
 
+async def checkServer(name: str):
+    dbCursor = dbConnection.cursor()
+    dbName   = name.replace(' ', '_')
+    dbCursor.execute("CREATE DATABASE IF NOT EXISTS {dbName}; USE {dbName};")
+
 
 @bot.event
-async def on_message(msg: str):
-    date     = datetime.now()
-    filename = f"./logs/{msg.author.guild.name}-;-{msg.channel.name}.log"
-    
-    with open(filename, "a+") as f:
-        data = {}
-        
-        data['msg'] = msg.content
-        
-        data['Date'] = {
-            'y': date.year  ,
-            'm': date.month ,
-            'd': date.day   ,
-            'H': date.hour  ,
-            'M': date.minute,
-            'S': date.second
-        }
-        
-        data['Author'] = {
-            "ID"  : msg.author.id  ,
-            "name": msg.author.name,
-            "nick": msg.author.nick,
-        }
-        
-        print(dumps(data) + ",", file=f)
-    
+async def on_message(msg):
+    checkServer("")
     await bot.process_commands(msg)
 
 
