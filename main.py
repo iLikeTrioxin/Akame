@@ -7,39 +7,93 @@ from json        import loads, dumps
 from os          import mkdir
 from mysql       import connector
 
+# type aliases
+from mysql.connector.cursor_cext import CMySQLCursor as Cursor
+
 # defines TOKEN, DB_USERNAME and DB_PASSWORD
-from credentials import TOKEN
+from credentials import *
 
 bot = commands.Bot(command_prefix='#')
 
 dbConnection = connector.connect(
-    host     = '127.0.0.1',
-    user     = DB_USERNAME,
-    password = DB_PASSWORD
+    host        = '127.0.0.1',
+    user        = DB_USERNAME,
+    password    = DB_PASSWORD
 )
 
-async def checkServer(name: str):
-    dbCursor = dbConnection.cursor()
-    dbName   = name.replace(' ', '_')
-    dbCursor.execute("CREATE DATABASE IF NOT EXISTS {dbName}; USE {dbName};")
 
+def getServerDB(id: int) -> Cursor:
+    dbCursor = dbConnection.cursor(buffered=True)
+    dbCursor.execute(f"CREATE DATABASE IF NOT EXISTS Akane_{id};")
+    dbCursor.execute(f"USE Akane_{id};")
+    dbCursor.execute( "CREATE TABLE    IF NOT EXISTS channels(ID BIGINT UNSIGNED PRIMARY KEY, name VARCHAR(100));")
+    dbCursor.execute( "CREATE TABLE    IF NOT EXISTS messages(ID BIGINT UNSIGNED PRIMARY KEY, channel_id BIGINT UNSIGNED NOT NULL, author_id BIGINT UNSIGNED NOT NULL, type TINYINT UNSIGNED, message VARCHAR(2000));")
+    dbCursor.execute( "CREATE TABLE    IF NOT EXISTS    users(ID BIGINT UNSIGNED PRIMARY KEY, username VARCHAR(100) NOT NULL, nickname VARCHAR(100));")
+    return dbCursor;
+
+
+def createUserINE(cursor: Cursor, id: int, username: str, nickname: str) -> int:
+    cursor.execute("SELECT `ID`, `username`, `nickname` FROM users WHERE `ID` = %s;", [id])
+    
+    if cursor.rowcount > 0:
+        un, nn = cursor.fetchone()
+        
+        if un != username: cursor.execute("UPDATE users SET `username` = %s WHERE `ID` = %s;", [username, id])
+        if nn != nickname: cursor.execute("UPDATE users SET `nickname` = %s WHERE `ID` = %s;", [nickname, id])
+    else:
+        cursor.execute("INSERT INTO users VALUES (%s, %s, %s);", [id, username, nickname])
+    
+    return 0
+
+
+def createChannelINE(cursor: Cursor, id: int, name: str):
+    cursor.execute("SELECT `ID`, `name` FROM channels WHERE `ID` = %s;", [id])
+    
+    if cursor.rowcount > 0:
+        n = cursor.fetchone()[1]
+        
+        if n != name: cursor.execute("UPDATE channels SET `name` = %s WHERE `ID` = %s;", [name, id])
+    else:
+        cursor.execute("INSERT INTO channels VALUES (%s, %s);", [id, name])
+    
+    return 0
+
+
+def logMessage(cursor      : Cursor,
+               id          : int   ,
+               channel_id  : int   ,
+               author_id   : int   ,
+               msg_type    : int   ,
+               content     : str   ,
+               attachments : list   ) -> int:
+    for x in attachments:
+        content += ("\n" + x.url)
+    sql    = "INSERT INTO messages VALUES (%s, %s, %s, %s, %s);"
+    values = [id, channel_id, author_id, msg_type.value, content]
+    cursor.execute(sql, values)
+    dbConnection.commit()
+    return 0
 
 @bot.event
 async def on_message(msg):
-    checkServer("")
+    cursor = getServerDB(msg.author.guild.id)
+    createChannelINE(cursor, msg.channel.id, msg.channel.name)
+    createUserINE(cursor, msg.author.id, msg.author.name, msg.author.nick)
+    logMessage(cursor, msg.id, msg.channel.id, msg.author.id, msg.type, msg.content, msg.attachments)
+    cursor.close()
     await bot.process_commands(msg)
 
 
-tags = ['lewdkemo'         , 'holoero', 'solog' , 'tits' , 'poke', 
-        'hololewd'         , 'erofeet', 'spank' , 'feet' , 'anal', 
-        'fox_girl'         , 'blowjob', 'pussy' , 'woof' , 'slap', 
-        'futanari'         , 'erokemo', 'lewdk' , 'ngif' , 'baka', 'bj'  , 
-        'pussy_jpg'        , 'eroyuri', 'waifu' , 'eron' , 'holo', 'cum' , 
-        'wallpaper'        , 'cum_jpg', 'boobs' , 'yuri' , 'keta', 'pat' , 
-        'smallboobs'       , 'classic', 'goose' , 'trap' , 'solo', 'les' , 
-        'kemonomimi'       , 'avatar' , 'feetg' , 'gecg' , 'kuni', 'ero' , 
-        'nsfw_avatar'      , 'pwankg' , 'cuddle', 'feed' , 'smug', 'hug' , 
-        'nsfw_neko_gif'    , 'hentai' , 'tickle', 'lewd' , 'kiss', 'erok', 
+tags = ['lewdkemo'         , 'holoero', 'solog' , 'tits' , 'poke',
+        'hololewd'         , 'erofeet', 'spank' , 'feet' , 'anal',
+        'fox_girl'         , 'blowjob', 'pussy' , 'woof' , 'slap',
+        'futanari'         , 'erokemo', 'lewdk' , 'ngif' , 'baka', 'bj'  ,
+        'pussy_jpg'        , 'eroyuri', 'waifu' , 'eron' , 'holo', 'cum' ,
+        'wallpaper'        , 'cum_jpg', 'boobs' , 'yuri' , 'keta', 'pat' ,
+        'smallboobs'       , 'classic', 'goose' , 'trap' , 'solo', 'les' ,
+        'kemonomimi'       , 'avatar' , 'feetg' , 'gecg' , 'kuni', 'ero' ,
+        'nsfw_avatar'      , 'pwankg' , 'cuddle', 'feed' , 'smug', 'hug' ,
+        'nsfw_neko_gif'    , 'hentai' , 'tickle', 'lewd' , 'kiss', 'erok',
         'random_hentai_gif', 'lizard' , 'femdom', '8ball', 'neko', 'gasm' ]
 
 
