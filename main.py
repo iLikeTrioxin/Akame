@@ -36,10 +36,10 @@ def getServerDB(id: int) -> Cursor:
 
 
 def createUserINE(cursor: Cursor, id: int, username: str, nickname: str) -> int:
-    cursor.execute("SELECT `ID`, `username`, `nickname` FROM users WHERE `ID` = %s;", [id])
+    cursor.execute("SELECT `username`, `nickname` FROM users WHERE `ID` = %s;", [id])
     
     if cursor.rowcount > 0:
-        un, nn = cursor.fetchone()
+        (un, nn) = cursor.fetchone()
         
         if un != username: cursor.execute("UPDATE users SET `username` = %s WHERE `ID` = %s;", [username, id])
         if nn != nickname: cursor.execute("UPDATE users SET `nickname` = %s WHERE `ID` = %s;", [nickname, id])
@@ -50,10 +50,10 @@ def createUserINE(cursor: Cursor, id: int, username: str, nickname: str) -> int:
 
 
 def createChannelINE(cursor: Cursor, id: int, name: str):
-    cursor.execute("SELECT `ID`, `name` FROM channels WHERE `ID` = %s;", [id])
+    cursor.execute("SELECT `name` FROM channels WHERE `ID` = %s;", [id])
     
     if cursor.rowcount > 0:
-        n = cursor.fetchone()[1]
+        n = cursor.fetchone()[0]
         
         if n != name: cursor.execute("UPDATE channels SET `name` = %s WHERE `ID` = %s;", [name, id])
     else:
