@@ -16,19 +16,22 @@ from credentials import *
 bot = commands.Bot(command_prefix='#')
 
 dbConnection = connector.connect(
-    host        = '127.0.0.1',
-    user        = DB_USERNAME,
-    password    = DB_PASSWORD
+    host     = '127.0.0.1',
+    user     = DB_USERNAME,
+    password = DB_PASSWORD
 )
 
 
 def getServerDB(id: int) -> Cursor:
     dbCursor = dbConnection.cursor(buffered=True)
+    
     dbCursor.execute(f"CREATE DATABASE IF NOT EXISTS Akane_{id};")
     dbCursor.execute(f"USE Akane_{id};")
-    dbCursor.execute( "CREATE TABLE    IF NOT EXISTS channels(ID BIGINT UNSIGNED PRIMARY KEY, name VARCHAR(100));")
-    dbCursor.execute( "CREATE TABLE    IF NOT EXISTS messages(ID BIGINT UNSIGNED PRIMARY KEY, channel_id BIGINT UNSIGNED NOT NULL, author_id BIGINT UNSIGNED NOT NULL, type TINYINT UNSIGNED, message VARCHAR(2000));")
-    dbCursor.execute( "CREATE TABLE    IF NOT EXISTS    users(ID BIGINT UNSIGNED PRIMARY KEY, username VARCHAR(100) NOT NULL, nickname VARCHAR(100));")
+    
+    dbCursor.execute( "CREATE TABLE IF NOT EXISTS channels(ID BIGINT UNSIGNED PRIMARY KEY, name VARCHAR(100));")
+    dbCursor.execute( "CREATE TABLE IF NOT EXISTS messages(ID BIGINT UNSIGNED PRIMARY KEY, channel_id BIGINT UNSIGNED NOT NULL, author_id BIGINT UNSIGNED NOT NULL, type TINYINT UNSIGNED, message VARCHAR(2000));")
+    dbCursor.execute( "CREATE TABLE IF NOT EXISTS    users(ID BIGINT UNSIGNED PRIMARY KEY, username VARCHAR(100) NOT NULL, nickname VARCHAR(100));")
+    
     return dbCursor;
 
 
@@ -66,8 +69,9 @@ def logMessage(cursor      : Cursor,
                msg_type    : int   ,
                content     : str   ,
                attachments : list   ) -> int:
-    for x in attachments:
-        content += ("\n" + x.url)
+    
+    for x in attachments: content += ("\n" + x.url)
+    
     sql    = "INSERT INTO messages VALUES (%s, %s, %s, %s, %s);"
     values = [id, channel_id, author_id, msg_type.value, content]
     cursor.execute(sql, values)
@@ -76,11 +80,17 @@ def logMessage(cursor      : Cursor,
 
 @bot.event
 async def on_message(msg):
-    cursor = getServerDB(msg.author.guild.id)
-    createChannelINE(cursor, msg.channel.id, msg.channel.name)
-    createUserINE(cursor, msg.author.id, msg.author.name, msg.author.nick)
-    logMessage(cursor, msg.id, msg.channel.id, msg.author.id, msg.type, msg.content, msg.attachments)
+    channel = msg.channel
+    author  = msg.author
+    guild   = msg.author.guild
+    cursor  = getServerDB(guild.id)
+    
+    createChannelINE(cursor, channel.id, channel.name)
+    createUserINE   (cursor,  author.id,  author.name, author.nick)
+    logMessage      (cursor,     msg.id, channel.id  , author.id, msg.type, msg.content, msg.attachments)
+    
     cursor.close()
+    
     await bot.process_commands(msg)
 
 
