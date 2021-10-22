@@ -1,0 +1,353 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,27,&H000D0D0D,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,53,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:05.54,0:00:06.56,Default,Mine,0000,0000,0000,,Don't try and stop me.
+Dialogue: 0,0:00:07.14,0:00:08.32,Default,Mine,0000,0000,0000,,I'm going.
+Dialogue: 0,0:00:08.32,0:00:10.07,Default,Akame,0000,0000,0000,,This is a trap.
+Dialogue: 0,0:00:10.07,0:00:12.15,Default,Mine,0000,0000,0000,,You don't have to tell me!
+Dialogue: 0,0:00:12.65,0:00:16.12,Default,Mine,0000,0000,0000,,But there's no way I can just \Nleave Tatsumi like that.
+Dialogue: 0,0:00:17.19,0:00:18.57,Default,Akame,0000,0000,0000,,You've changed quite a bit, Mine.
+Dialogue: 0,0:00:19.30,0:00:21.62,Default,Akame,0000,0000,0000,,In the past, you'd have been \Nthe one stopping me.
+Dialogue: 0,0:00:21.93,0:00:25.04,Default - flashback,Mine,0000,0000,0000,,{\fad(1,307)}You'd better not say something stupid \Nlike you're gonna go help, Akame.
+Dialogue: 0,0:00:25.83,0:00:29.86,Default,Mine,0000,0000,0000,,To me, he's different now.
+Dialogue: 0,0:00:29.86,0:00:31.12,Default,Akame,0000,0000,0000,,I'm going, too.
+Dialogue: 0,0:00:31.95,0:00:34.47,Default,Mine,0000,0000,0000,,There's no point in endangering yourself, also!
+Dialogue: 0,0:00:34.47,0:00:35.50,Default,Mine,0000,0000,0000,,Are you dumb?
+Dialogue: 0,0:00:35.50,0:00:36.39,Default,Akame,0000,0000,0000,,You're the one being dumb.
+Dialogue: 0,0:00:37.77,0:00:41.04,Default,Akame,0000,0000,0000,,If we work together, our chances \Nof returning alive are greater.
+Dialogue: 0,0:00:45.28,0:00:48.52,Default,Mine,0000,0000,0000,,You've gotten a lot mushier, as well, you know?
+Dialogue: 0,0:00:49.00,0:00:50.99,Default,Akame,0000,0000,0000,,I don't want to hear that from you.
+Dialogue: 0,0:00:50.99,0:00:51.96,Default,,0000,0000,0000,,Wha—
+Dialogue: 0,0:00:51.96,0:00:54.59,Default,Mine,0000,0000,0000,,Hmph! Fine!
+Dialogue: 0,0:00:54.59,0:00:55.93,Default,Mine,0000,0000,0000,,If you're going that far...
+Dialogue: 0,0:00:55.93,0:00:57.11,Default,Leone,0000,0000,0000,,Then it's decided.
+Dialogue: 0,0:00:58.30,0:00:59.52,Default,Mine,0000,0000,0000,,Leone?
+Dialogue: 0,0:00:59.52,0:01:03.73,Default,Leone,0000,0000,0000,,After all, I was the one who \Nscouted and recruited him.
+Dialogue: 0,0:01:03.73,0:01:07.96,Default,Leone,0000,0000,0000,,If I let him be executed, \N it'd cost me my reputation.
+Dialogue: 0,0:01:07.96,0:01:10.49,Default,Mine,0000,0000,0000,,Huh? You wanna come, too?
+Dialogue: 0,0:01:10.49,0:01:13.03,Default,Leone,0000,0000,0000,,That said, boss... Don't try to stop us.
+Dialogue: 0,0:01:13.43,0:01:15.20,Default,Najenda,0000,0000,0000,,Who said I was going to stop you?
+Dialogue: 0,0:01:15.74,0:01:16.81,Default,Mine,0000,0000,0000,,Boss?
+Dialogue: 0,0:01:16.81,0:01:21.77,Default,Najenda,0000,0000,0000,,If this public execution is meant to lower \Nthe Revolutionary Army's morale,
+Dialogue: 0,0:01:21.77,0:01:24.97,Default,Najenda,0000,0000,0000,,it's our duty to obstruct it.
+Dialogue: 0,0:01:24.97,0:01:29.99,Default,Najenda,0000,0000,0000,,And Tatsumi's Incursio will be \Ncritical to the final battle.
+Dialogue: 0,0:01:29.99,0:01:32.48,Default,Leone,0000,0000,0000,,Jeez, boss, you're not being honest...
+Dialogue: 0,0:01:33.56,0:01:35.32,Default,Leone,0000,0000,0000,,Heh, it's nothing.
+Dialogue: 0,0:01:36.07,0:01:37.95,Default,Najenda,0000,0000,0000,,This is an emergency Night Raid mission.
+Dialogue: 0,0:01:38.44,0:01:40.20,Default,Najenda,0000,0000,0000,,We're going to rescue Tatsumi!
+Dialogue: 0,0:01:50.12,0:01:51.45,Default,Esdeath,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:03:24.39,0:03:26.33,Title1a,Esdeath,0000,0000,0000,,{\fad(523,1)}Kill the Despair
+Dialogue: 0,0:03:25.80,0:03:27.93,Default,Esdeath,0000,0000,0000,,It's been a while, Tatsumi.
+Dialogue: 0,0:03:26.33,0:03:27.81,Title1b,Esdeath,0000,0000,0000,,{\fad(1,728)}Kill the Despair
+Dialogue: 0,0:03:29.33,0:03:31.70,Default,Esdeath,0000,0000,0000,,So you're with Night Raid.
+Dialogue: 0,0:03:32.68,0:03:34.86,Default,Esdeath,0000,0000,0000,,There was a lot I wanted to say to you,
+Dialogue: 0,0:03:35.40,0:03:37.94,Default,Esdeath,0000,0000,0000,,but that all disappeared after seeing your face.
+Dialogue: 0,0:03:38.54,0:03:40.06,Default,Esdeath,0000,0000,0000,,Aren't you miserable?
+Dialogue: 0,0:03:40.44,0:03:41.95,Default,Esdeath,0000,0000,0000,,Come and join me instead.
+Dialogue: 0,0:03:42.59,0:03:46.25,Default,Esdeath,0000,0000,0000,,That way, I can absolve you \Nof everything you've done.
+Dialogue: 0,0:03:46.96,0:03:49.41,Default,Tatsumi,0000,0000,0000,,I have no intention of joining you.
+Dialogue: 0,0:03:53.60,0:03:56.29,Default,Esdeath,0000,0000,0000,,If you refuse, death is the only alternative.
+Dialogue: 0,0:03:56.61,0:03:58.17,Default,Tatsumi,0000,0000,0000,,I'm prepared to die!
+Dialogue: 0,0:04:03.61,0:04:05.64,Default,Esdeath,0000,0000,0000,,I'm not asking you to betray your allies.
+Dialogue: 0,0:04:06.30,0:04:08.35,Default,Esdeath,0000,0000,0000,,Simply being close would be enough.
+Dialogue: 0,0:04:09.07,0:04:11.77,Default,Tatsumi,0000,0000,0000,,Why do you feel so strongly about me?
+Dialogue: 0,0:04:12.39,0:04:14.98,Default,Esdeath,0000,0000,0000,,Because you have stolen my heart.
+Dialogue: 0,0:04:14.98,0:04:17.53,Default,Esdeath,0000,0000,0000,,Tatsumi, be with me.
+Dialogue: 0,0:04:17.53,0:04:18.48,Default,Tatsumi,0000,0000,0000,,No!
+Dialogue: 0,0:04:20.14,0:04:23.70,Default,Tatsumi,0000,0000,0000,,I don't want to be with someone \Nwho spreads destruction!
+Dialogue: 0,0:04:26.41,0:04:28.87,Default,Esdeath,0000,0000,0000,,I see. Then I suppose there's no choice.
+Dialogue: 0,0:04:32.07,0:04:34.69,Default,Esdeath,0000,0000,0000,,I, myself, will perform the execution.
+Dialogue: 0,0:04:35.29,0:04:38.63,Default,Esdeath,0000,0000,0000,,The rest will be wagered on your will to live.
+Dialogue: 0,0:04:39.57,0:04:42.38,Default,Wave,0000,0000,0000,,Isn't the captain in love with Tatsumi?
+Dialogue: 0,0:04:42.95,0:04:44.38,Default,Wave,0000,0000,0000,,So why?
+Dialogue: 0,0:04:44.38,0:04:47.76,Default,Ran,0000,0000,0000,,Perhaps you could say that it's out of love.
+Dialogue: 0,0:04:48.85,0:04:50.66,Default,Ran,0000,0000,0000,,We've been given our orders.
+Dialogue: 0,0:04:50.66,0:04:54.10,Default,Ran,0000,0000,0000,,During tomorrow's public execution, \Nthe palace will be short-handed.
+Dialogue: 0,0:04:54.48,0:04:56.73,Default,Ran,0000,0000,0000,,We're tasked with standing guard.
+Dialogue: 0,0:04:58.75,0:05:01.11,Default,Wave,0000,0000,0000,,To kill the one you love...
+Dialogue: 0,0:05:01.11,0:05:02.44,Default,Wave,0000,0000,0000,,What does that even mean?
+Dialogue: 0,0:05:04.84,0:05:06.50,Default,Wave,0000,0000,0000,,I just can't understand.
+Dialogue: 0,0:05:06.99,0:05:09.03,Default,Kurome,0000,0000,0000,,I do.
+Dialogue: 0,0:05:09.49,0:05:11.90,Default,Kurome,0000,0000,0000,,If someone else will do it anyway,
+Dialogue: 0,0:05:11.90,0:05:13.80,Default,Kurome,0000,0000,0000,,I'd rather do it myself.
+Dialogue: 0,0:05:15.20,0:05:17.53,Default,Kurome,0000,0000,0000,,Just like how I want to be the one to kill my sister.
+Dialogue: 0,0:05:18.40,0:05:19.82,Default,Kurome,0000,0000,0000,,Because I love her.
+Dialogue: 0,0:05:25.51,0:05:26.97,Default,Kurome,0000,0000,0000,,But now...
+Dialogue: 0,0:05:28.15,0:05:30.30,Default,,0000,0000,0000,,I don't have enough time.
+Dialogue: 0,0:05:33.84,0:05:36.39,Default,Kurome,0000,0000,0000,,I don't have enough time...
+Dialogue: 0,0:05:37.17,0:05:39.89,Default,Najenda,0000,0000,0000,,We’ve received word that, along with Esdeath,
+Dialogue: 0,0:05:39.89,0:05:42.69,Default,Najenda,0000,0000,0000,,Commander-in-Chief Budou will \Nguard the public execution.
+Dialogue: 0,0:05:42.69,0:05:44.37,Default,Mine,0000,0000,0000,,By "Budou," do you mean...
+Dialogue: 0,0:05:44.37,0:05:48.58,Default,Akame,0000,0000,0000,,The Commander-in-Chief who holds sole \Nleadership over the imperial guard.
+Dialogue: 0,0:05:48.95,0:05:51.58,Default,Akame,0000,0000,0000,,A formidable enemy whose Imperial \NArms is the Adramelech.
+Dialogue: 0,0:05:51.58,0:05:52.74,Default,Leone,0000,0000,0000,,Jeez.
+Dialogue: 0,0:05:52.74,0:05:55.25,Default,Najenda,0000,0000,0000,,Susanoo, are you prepared with our trump card?
+Dialogue: 0,0:05:55.50,0:05:56.55,Default,Susanoo,0000,0000,0000,,Yes.
+Dialogue: 0,0:05:56.55,0:05:59.12,Default,Susanoo,0000,0000,0000,,Whenever you give the order, I can invoke it.
+Dialogue: 0,0:05:59.45,0:06:00.40,Default,Najenda,0000,0000,0000,,Right.
+Dialogue: 0,0:06:02.33,0:06:06.47,Default,Najenda,0000,0000,0000,,For the sake of our fallen brethren, \Nwe must succeed.
+Dialogue: 0,0:06:07.07,0:06:08.47,Default,Najenda,0000,0000,0000,,Rest in peace,
+Dialogue: 0,0:06:09.41,0:06:10.47,Default,,0000,0000,0000,,Lubbock.
+Dialogue: 0,0:06:22.86,0:06:24.58,Default,Emperor,0000,0000,0000,,Citizens of the empire...
+Dialogue: 0,0:06:25.16,0:06:30.30,Default,Emperor,0000,0000,0000,,As of late, there seem to be those who \Nwould instill fear into your hearts
+Dialogue: 0,0:06:30.30,0:06:32.74,Default,Emperor,0000,0000,0000,,by spreading preposterous rumors \Nabout taking down the capital.
+Dialogue: 0,0:06:32.74,0:06:36.50,Default,Emperor,0000,0000,0000,,However, there is no need to lend \Nyour ears to such rabble-raising!
+Dialogue: 0,0:06:36.96,0:06:40.67,Default,Emperor,0000,0000,0000,,Here, today, we will execute a member \Nof an insurgency known as Night Raid,
+Dialogue: 0,0:06:40.67,0:06:42.96,Default,Emperor,0000,0000,0000,,which have terrorized the public time and again!
+Dialogue: 0,0:06:43.77,0:06:47.16,Default,Emperor,0000,0000,0000,,These conspirators are the rebel army's vanguard. \NThe rebel army that is responsible
+Dialogue: 0,0:06:47.16,0:06:49.08,Default,Emperor,0000,0000,0000,,for our current state of chaos.
+Dialogue: 0,0:06:49.60,0:06:56.35,Default,Emperor,0000,0000,0000,,Deceiving innocent citizens for their own \Nself-interest, they are villainous assassins.
+Dialogue: 0,0:07:00.12,0:07:06.91,Default,Emperor,0000,0000,0000,,No one has the right to infringe upon the \Npeaceful lives of the empire's citizenry.
+Dialogue: 0,0:07:07.39,0:07:09.99,Default,Emperor,0000,0000,0000,,The empire... This capital is indestructible!
+Dialogue: 0,0:07:18.90,0:07:21.02,Default,Emperor,0000,0000,0000,,Was that all right, minister?
+Dialogue: 0,0:07:21.02,0:07:23.65,Default,Onest,0000,0000,0000,,You did wonderfully, Your Excellency.
+Dialogue: 0,0:07:24.05,0:07:25.29,Default,Onest,0000,0000,0000,,General Esdeath,
+Dialogue: 0,0:07:25.85,0:07:28.80,Default,Ones,0000,0000,0000,,I will leave that one's head to you.
+Dialogue: 0,0:07:29.49,0:07:31.97,Default,Budou,0000,0000,0000,,Minister, where are you going?
+Dialogue: 0,0:07:31.97,0:07:34.34,Default,Onest,0000,0000,0000,,Well, it's lunchtime.
+Dialogue: 0,0:07:34.82,0:07:36.31,Default,Onest,0000,0000,0000,,Now, now, Your Excellency.
+Dialogue: 0,0:07:36.31,0:07:38.57,Default,Emperor,0000,0000,0000,,Hmm? Really?
+Dialogue: 0,0:07:39.19,0:07:42.19,Default,Emperor,0000,0000,0000,,I'll leave the rest to you, Budou.
+Dialogue: 0,0:07:42.50,0:07:43.13,Default,Budou,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:07:43.13,0:07:44.97,Default,Ones,0000,0000,0000,,{\an8}I'm hungry...
+Dialogue: 0,0:07:43.58,0:07:46.12,Default - italics,Budou,0000,0000,0000,,So the minister's running away.
+Dialogue: 0,0:08:14.80,0:08:19.26,Default - italics,Esdeath,0000,0000,0000,,Whether it be to kill or spare a person, \NI know exactly where to strike.
+Dialogue: 0,0:08:21.74,0:08:24.73,Default,Esdeath,0000,0000,0000,,You said you were ready to die \Nfor your cause, Tatsumi.
+Dialogue: 0,0:08:25.88,0:08:27.99,Default,Esdeath,0000,0000,0000,,If you are truly the man I thought,
+Dialogue: 0,0:08:27.99,0:08:30.57,Default,Esdeath,0000,0000,0000,,you'll show me your will to live.
+Dialogue: 0,0:08:36.29,0:08:37.71,Default,Mine,0000,0000,0000,,Dumbass Tatsumi...
+Dialogue: 0,0:08:37.71,0:08:39.28,Default,Mine,0000,0000,0000,,What are you doing getting captured?
+Dialogue: 0,0:08:39.28,0:08:41.04,Default,Tatsumi,0000,0000,0000,,Mine, why did you come?
+Dialogue: 0,0:08:41.04,0:08:44.44,Default,Mine,0000,0000,0000,,After making me worry, \Nhow dare you say such a thing?
+Dialogue: 0,0:08:46.43,0:08:48.63,Default,Tatsumi,0000,0000,0000,,Idiot, where are you aiming?!
+Dialogue: 0,0:08:49.29,0:08:50.25,Default,Esdeath,0000,0000,0000,,Najenda?
+Dialogue: 0,0:08:57.57,0:08:59.43,Default,Esdeath,0000,0000,0000,,So you finally show yourself.
+Dialogue: 0,0:09:00.00,0:09:02.18,Default,Najenda,0000,0000,0000,,The circumstances necessitated it.
+Dialogue: 0,0:09:02.18,0:09:04.94,Default,Esdeath,0000,0000,0000,,Hmph... The empire's traitor.
+Dialogue: 0,0:09:05.47,0:09:09.07,Default,Esdeath,0000,0000,0000,,It's been a while, so why not chat a bit?
+Dialogue: 0,0:09:09.61,0:09:11.50,Default,Esdeath,0000,0000,0000,,In the torture chamber.
+Dialogue: 0,0:09:11.50,0:09:14.00,Default,Najenda,0000,0000,0000,,I don't have much to say to you.
+Dialogue: 0,0:09:14.00,0:09:15.15,Default,Najenda,0000,0000,0000,,So I'll pass.
+Dialogue: 0,0:09:19.18,0:09:22.33,Default,Najenda,0000,0000,0000,,Lubbock, these are the explosives you planted.
+Dialogue: 0,0:09:22.33,0:09:24.66,Default,Najenda,0000,0000,0000,,Even though it isn't as planned, \NI'll put them to good use.
+Dialogue: 0,0:09:28.58,0:09:31.88,Default,Esdeath,0000,0000,0000,,I knew you wouldn't come without a plan...
+Dialogue: 0,0:09:32.23,0:09:33.09,Default,Esdeath,0000,0000,0000,,How interesting.
+Dialogue: 0,0:09:33.09,0:09:37.34,Default,Budou,0000,0000,0000,,So you've come to save your friends, Night Raid!
+Dialogue: 0,0:09:38.91,0:09:39.71,Default,Najenda,0000,0000,0000,,Here we go!
+Dialogue: 0,0:09:39.71,0:09:40.62,Default,Both,0000,0000,0000,,Right.
+Dialogue: 0,0:09:43.16,0:09:45.41,Default,Mine,0000,0000,0000,,Then you're Commander-in-Chief Budou.
+Dialogue: 0,0:09:45.41,0:09:47.90,Default,Leone,0000,0000,0000,,I'm not really interested in straight-laced guys.
+Dialogue: 0,0:09:49.27,0:09:54.81,Default,Budou,0000,0000,0000,,People like you don't belong \Nin a sacred place like this.
+Dialogue: 0,0:09:55.90,0:09:58.32,Default,Budou,0000,0000,0000,,Fall before my Imperial Arms!
+Dialogue: 0,0:10:00.34,0:10:01.66,Default,Akame,0000,0000,0000,,If we must fight,
+Dialogue: 0,0:10:03.17,0:10:04.52,Default,Akame,0000,0000,0000,,I will eliminate you.
+Dialogue: 0,0:10:06.66,0:10:08.84,Default,Esdeath,0000,0000,0000,,So this is your Imperial Arms.
+Dialogue: 0,0:10:08.84,0:10:10.74,Default,Najenda,0000,0000,0000,,Yeah, its name is...
+Dialogue: 0,0:10:10.74,0:10:12.11,Default,Susanoo,0000,0000,0000,,Susanoo.
+Dialogue: 0,0:10:12.62,0:10:13.92,Default,Esdeath,0000,0000,0000,,No need to tell me your name.
+Dialogue: 0,0:10:14.31,0:10:16.76,Default,Esdeath,0000,0000,0000,,Before I can memorize it, I'll destroy you.
+Dialogue: 0,0:10:21.14,0:10:22.05,Default,Najenda,0000,0000,0000,,Take this!
+Dialogue: 0,0:10:28.90,0:10:30.01,Default,Esdeath,0000,0000,0000,,Not bad...
+Dialogue: 0,0:10:30.01,0:10:30.77,Default,Esdeath,0000,0000,0000,,More!
+Dialogue: 0,0:10:34.90,0:10:38.06,Default,Leone,0000,0000,0000,,Jeez, you're so tiny, you're hard to catch.
+Dialogue: 0,0:10:38.06,0:10:40.52,Default,Mine,0000,0000,0000,,Say anything else about my size, and I'll kill you.
+Dialogue: 0,0:10:40.52,0:10:41.28,Default,Leone,0000,0000,0000,,Watch out.
+Dialogue: 0,0:10:42.29,0:10:43.58,Default,Mine,0000,0000,0000,,Ouch...
+Dialogue: 0,0:10:46.34,0:10:48.41,Default,Budou,0000,0000,0000,,So you're in charge of close-quarters combat, eh?
+Dialogue: 0,0:10:49.44,0:10:50.67,Default,Leone,0000,0000,0000,,Now! Shoot!
+Dialogue: 0,0:10:50.67,0:10:53.00,Default,Budou,0000,0000,0000,,Then you'll die, too.
+Dialogue: 0,0:10:53.37,0:10:56.01,Default,Leone,0000,0000,0000,,I'm confident in my healing abilities.
+Dialogue: 0,0:10:56.01,0:10:57.88,Default,Mine,0000,0000,0000,,I believe in you.
+Dialogue: 0,0:11:06.47,0:11:07.66,Default,Leone,0000,0000,0000,,Damn it.
+Dialogue: 0,0:11:07.66,0:11:09.81,Default,Leone,0000,0000,0000,,I'm paralyzed from the shock...
+Dialogue: 0,0:11:10.07,0:11:12.45,Default,Budou,0000,0000,0000,,Not bad at all.
+Dialogue: 0,0:11:12.45,0:11:16.03,Default,Budou,0000,0000,0000,,It's unfortunate that you all, \Nincluding the boy being executed,
+Dialogue: 0,0:11:16.03,0:11:19.07,Default,Budou,0000,0000,0000,,have chosen the wrong path.
+Dialogue: 0,0:11:19.28,0:11:21.00,Default,Mine,0000,0000,0000,,That's none of your concern.
+Dialogue: 0,0:11:21.00,0:11:24.33,Default,Mine,0000,0000,0000,,Wrong or not, I'll follow my own path.
+Dialogue: 0,0:11:26.31,0:11:27.24,Default,Leone,0000,0000,0000,,Mine...
+Dialogue: 0,0:11:29.70,0:11:30.85,Default,Budou,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:11:30.85,0:11:31.96,Default,Budou,0000,0000,0000,,Are you already done?
+Dialogue: 0,0:11:32.31,0:11:35.38,Default,Mine,0000,0000,0000,,You may not know this,
+Dialogue: 0,0:11:35.38,0:11:41.67,Default,Mine,0000,0000,0000,,but Pumpkin, my Imperial Arms, \Nbecomes stronger when I'm in a pinch.
+Dialogue: 0,0:11:41.67,0:11:44.93,Default,Mine,0000,0000,0000,,That's why I deliberately put myself in danger.
+Dialogue: 0,0:11:45.37,0:11:47.39,Default,Mine,0000,0000,0000,,That's my strength.
+Dialogue: 0,0:11:55.45,0:11:57.07,Default,Mine,0000,0000,0000,,It wasn't enough.
+Dialogue: 0,0:11:57.57,0:11:59.46,Default,Guard,0000,0000,0000,,We shall not let you pass.
+Dialogue: 0,0:12:07.15,0:12:07.95,Default,Akame,0000,0000,0000,,There it is.
+Dialogue: 0,0:12:08.64,0:12:10.29,Default,Akame,0000,0000,0000,,Tatsumi, I'm coming.
+Dialogue: 0,0:12:13.99,0:12:15.04,Default,Esdeath,0000,0000,0000,,Freeze.
+Dialogue: 0,0:12:21.47,0:12:22.26,Default,Najenda,0000,0000,0000,,Susanoo!
+Dialogue: 0,0:12:23.24,0:12:26.70,Default,Esdeath,0000,0000,0000,,I respected you as a general,
+Dialogue: 0,0:12:27.14,0:12:28.39,Default,Esdeath,0000,0000,0000,,but is this all?
+Dialogue: 0,0:12:28.98,0:12:32.02,Default - italics,Najenda,0000,0000,0000,,With Esdeath as my opponent, \Nthere's no time to conserve energy.
+Dialogue: 0,0:12:33.33,0:12:34.60,Default - italics,Najenda,0000,0000,0000,,Magatama Manifestation!
+Dialogue: 0,0:12:40.34,0:12:41.57,Default,Esdeath,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:12:42.07,0:12:46.08,Default,Najenda,0000,0000,0000,,We've survived this long because we're tenacious.
+Dialogue: 0,0:12:46.08,0:12:49.70,Default,Najenda,0000,0000,0000,,Even if you did have him stuck in ice, \Nyou shouldn't lower your guard.
+Dialogue: 0,0:12:50.62,0:12:52.33,Default,Najenda,0000,0000,0000,,Go, Susanoo.
+Dialogue: 0,0:12:53.10,0:12:55.25,Default,Najenda,0000,0000,0000,,Defeat Esdeath!
+Dialogue: 0,0:12:56.88,0:12:59.38,Default,Esdeath,0000,0000,0000,,Then this is your trump card. How fun.
+Dialogue: 0,0:13:03.40,0:13:06.09,Default,Esdeath,0000,0000,0000,,However, you still cannot defeat me.
+Dialogue: 0,0:13:06.09,0:13:08.34,Default,Esdeath,0000,0000,0000,,I'll pulverize you to your core.
+Dialogue: 0,0:13:09.10,0:13:10.93,Default - italics,Susanoo,0000,0000,0000,,Mirror of Yata!
+Dialogue: 0,0:13:15.74,0:13:16.98,Default,Najenda,0000,0000,0000,,As expected.
+Dialogue: 0,0:13:19.31,0:13:21.11,Default,Mine,0000,0000,0000,,You old lightning man...
+Dialogue: 0,0:13:21.11,0:13:22.28,Default,Tatsumi,0000,0000,0000,,Mine, get some distance.
+Dialogue: 0,0:13:22.28,0:13:24.22,Default,Mine,0000,0000,0000,,It's fine, Tatsumi.
+Dialogue: 0,0:13:24.22,0:13:28.99,Default,Mine,0000,0000,0000,,I'll counter the biggest pinch \Nyet, and come save you!
+Dialogue: 0,0:13:28.99,0:13:30.19,Default,Budou,0000,0000,0000,,I see...
+Dialogue: 0,0:13:30.19,0:13:33.95,Default,Budou,0000,0000,0000,,You can control that Imperial Arms \Ndue to your personality.
+Dialogue: 0,0:13:33.95,0:13:37.33,Default,Budou,0000,0000,0000,,And your Imperial Arms is living \Nup to your expectations.
+Dialogue: 0,0:13:38.16,0:13:39.59,Default,Mine,0000,0000,0000,,Take this!
+Dialogue: 0,0:13:41.51,0:13:43.71,Default,Budou,0000,0000,0000,,But you cannot win against me.
+Dialogue: 0,0:13:43.71,0:13:45.97,Default,Mine,0000,0000,0000,,That's my line.
+Dialogue: 0,0:13:52.53,0:13:54.01,Default,Tatsumi,0000,0000,0000,,Mine!
+Dialogue: 0,0:13:54.71,0:13:56.77,Default,Mine,0000,0000,0000,,I'm all right, Tatsumi.
+Dialogue: 0,0:13:57.33,0:13:58.58,Default,Mine,0000,0000,0000,,Did you forget?
+Dialogue: 0,0:13:59.07,0:14:02.52,Default,Mine,0000,0000,0000,,I told you I'd be standing on the \Nwinning side, no matter what.
+Dialogue: 0,0:14:03.23,0:14:06.90,Default,Mine,0000,0000,0000,,My power... Pumpkin's power...
+Dialogue: 0,0:14:11.53,0:14:13.04,Default,Mine,0000,0000,0000,,is about to be unleashed.
+Dialogue: 0,0:14:15.52,0:14:17.08,Default,Budou,0000,0000,0000,,I'll finish you.
+Dialogue: 0,0:14:17.08,0:14:18.83,Default,Budou,0000,0000,0000,,Out of pity.
+Dialogue: 0,0:14:20.38,0:14:22.29,Default,Mine,0000,0000,0000,,There's no need for pity.
+Dialogue: 0,0:14:25.40,0:14:30.34,Default,Mine,0000,0000,0000,,We're all going to leave this place together,
+Dialogue: 0,0:14:30.68,0:14:31.93,Default,Mine,0000,0000,0000,,no matter what.
+Dialogue: 0,0:14:31.93,0:14:36.56,Default,Budou,0000,0000,0000,,Feel the wrath of my Imperial Arms \NAdramelech's secret ability!
+Dialogue: 0,0:14:37.94,0:14:40.98,Default - italics,Budou,0000,0000,0000,,Solid Shooter!
+Dialogue: 0,0:14:45.32,0:14:46.19,Default,Leone,0000,0000,0000,,This is bad.
+Dialogue: 0,0:14:46.93,0:14:47.70,Default,Tatsumi,0000,0000,0000,,Mine!
+Dialogue: 0,0:14:51.87,0:14:54.05,Default - italics,Mine,0000,0000,0000,,Pumpkin, I'm begging you.
+Dialogue: 0,0:14:54.05,0:14:55.91,Default - italics,Mine,0000,0000,0000,,Respond to me.
+Dialogue: 0,0:14:56.45,0:14:57.62,Default,Budou,0000,0000,0000,,This is the end.
+Dialogue: 0,0:15:02.78,0:15:03.88,Default - italics,Mine,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:15:12.64,0:15:16.27,Default,Mine,0000,0000,0000,,Like hell I'll lose!
+Dialogue: 0,0:15:19.98,0:15:20.89,Default,Budou,0000,0000,0000,,What?
+Dialogue: 0,0:15:48.33,0:15:50.46,Default,Mine,0000,0000,0000,,I won...
+Dialogue: 0,0:15:52.37,0:15:53.14,Default,Tatsumi,0000,0000,0000,,Mine!
+Dialogue: 0,0:15:54.99,0:15:55.93,Default,Akame,0000,0000,0000,,Tatsumi!
+Dialogue: 0,0:15:57.60,0:15:58.98,Default,Tatsumi,0000,0000,0000,,Mine!
+Dialogue: 0,0:16:08.38,0:16:09.11,Default,Tatsumi,0000,0000,0000,,Mine...
+Dialogue: 0,0:16:09.63,0:16:10.85,Default,Tatsumi,0000,0000,0000,,Mine!
+Dialogue: 0,0:16:11.71,0:16:12.78,Default,Najenda,0000,0000,0000,,Mine...
+Dialogue: 0,0:16:14.96,0:16:16.08,Default,Najenda,0000,0000,0000,,Mission accomplished.
+Dialogue: 0,0:16:16.57,0:16:18.04,Default,Najenda,0000,0000,0000,,Retreat now!
+Dialogue: 0,0:16:19.64,0:16:20.95,Default,Esdeath,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:16:20.95,0:16:22.43,Default,Esdeath,0000,0000,0000,,I won't let you go.
+Dialogue: 0,0:16:24.71,0:16:26.42,Default - italics,Susanoo,0000,0000,0000,,Ameno Murakumo!
+Dialogue: 0,0:16:33.50,0:16:34.64,Default,Najenda,0000,0000,0000,,I've got you!
+Dialogue: 0,0:16:39.08,0:16:42.02,Default,Esdeath,0000,0000,0000,,All will freeze before me.
+Dialogue: 0,0:16:42.02,0:16:43.52,Default - italics,Esdeath,0000,0000,0000,,Makahadoma.
+Dialogue: 0,0:16:48.47,0:16:50.18,Default,Esdeath,0000,0000,0000,,This exhaustion.
+Dialogue: 0,0:16:50.70,0:16:53.53,Default,Esdeath,0000,0000,0000,,Once a day is my limit, but...
+Dialogue: 0,0:16:55.03,0:16:57.99,Default,Esdeath,0000,0000,0000,,Don't you think it's more than enough?
+Dialogue: 0,0:17:00.59,0:17:02.33,Default,Susanoo,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:17:02.86,0:17:04.21,Default,Najenda,0000,0000,0000,,What happened?
+Dialogue: 0,0:17:04.71,0:17:07.23,Default,Esdeath,0000,0000,0000,,I literally froze time and space.
+Dialogue: 0,0:17:07.23,0:17:10.48,Default,Esdeath,0000,0000,0000,,I developed this, not only so Tatsumi \Nwould never again escape,
+Dialogue: 0,0:17:11.01,0:17:13.90,Default,Esdeath,0000,0000,0000,,but also to ensure my enemy's defeat.
+Dialogue: 0,0:17:13.90,0:17:15.34,Default,Esdeath,0000,0000,0000,,This is my trump card.
+Dialogue: 0,0:17:17.40,0:17:19.10,Default,Najenda,0000,0000,0000,,Susanoo, escape!
+Dialogue: 0,0:17:20.81,0:17:23.31,Default,Esdeath,0000,0000,0000,,I'll commend you for making me play my trump.
+Dialogue: 0,0:17:25.18,0:17:27.06,Default - italics,Najenda,0000,0000,0000,,Susanoo's core...
+Dialogue: 0,0:17:36.39,0:17:37.49,Default,Esdeath,0000,0000,0000,,This is the end.
+Dialogue: 0,0:17:38.38,0:17:41.41,Default,Esdeath,0000,0000,0000,,Let's escort you all to the torture chamber.
+Dialogue: 0,0:17:45.22,0:17:46.87,Default,Esdeath,0000,0000,0000,,Wh-What's this?
+Dialogue: 0,0:17:48.56,0:17:50.71,Default,Esdeath,0000,0000,0000,,He's fully regenerating himself.
+Dialogue: 0,0:17:51.10,0:17:54.23,Default,Najenda,0000,0000,0000,,A third Magatama Manifestation.
+Dialogue: 0,0:17:54.23,0:17:57.94,Default,Najenda,0000,0000,0000,,Using it repetitively shouldn't be possible,
+Dialogue: 0,0:17:58.59,0:18:00.72,Default,Najenda,0000,0000,0000,,but if I can supplement \Nthe power with my life...
+Dialogue: 0,0:18:02.88,0:18:06.43,Default - italics,Najenda,0000,0000,0000,,Since Commander-in-Chief Budou's been \Ndefeated, more enemies will come.
+Dialogue: 0,0:18:06.43,0:18:09.61,Default - italics,Najenda,0000,0000,0000,,My life force is depleted.
+Dialogue: 0,0:18:09.61,0:18:12.19,Default - italics,Najenda,0000,0000,0000,,I'm leaving the rest to you, Susanoo.
+Dialogue: 0,0:18:12.19,0:18:13.94,Default,Esdeath,0000,0000,0000,,Najenda! You...
+Dialogue: 0,0:18:15.31,0:18:17.99,Default - italics,Susanoo,0000,0000,0000,,Yasakani no Magatama.
+Dialogue: 0,0:18:19.81,0:18:21.08,Default,Esdeath,0000,0000,0000,,His power has increased.
+Dialogue: 0,0:18:24.63,0:18:26.24,Default,Tatsumi,0000,0000,0000,,Su, I'll go, too.
+Dialogue: 0,0:18:26.24,0:18:27.57,Default,Najenda,0000,0000,0000,,Run away, Tatsumi.
+Dialogue: 0,0:18:28.27,0:18:30.89,Default,Tatsumi,0000,0000,0000,,But Su can probably...
+Dialogue: 0,0:18:30.89,0:18:33.13,Default,Najenda,0000,0000,0000,,This is the result of his passing the limit.
+Dialogue: 0,0:18:33.63,0:18:36.98,Default,Najenda,0000,0000,0000,,Susanoo's strength hasn't actually doubled.
+Dialogue: 0,0:18:37.50,0:18:40.84,Default,Najenda,0000,0000,0000,,In this state, he won't even come \Nclose to defeating Esdeath.
+Dialogue: 0,0:18:42.99,0:18:43.68,Default,Tatsumi,0000,0000,0000,,Su!
+Dialogue: 0,0:18:44.34,0:18:47.85,Default,Esdeath,0000,0000,0000,,It seems you've increased in strength, \Nbut you're still no match for me.
+Dialogue: 0,0:18:48.56,0:18:51.11,Default,Esdeath,0000,0000,0000,,You cannot even scratch me.
+Dialogue: 0,0:18:52.02,0:18:53.19,Default,Tatsumi,0000,0000,0000,,Su!
+Dialogue: 0,0:18:53.19,0:18:56.65,Default,Susanoo,0000,0000,0000,,You must understand why we've come this far.
+Dialogue: 0,0:18:56.98,0:18:58.28,Default,Susanoo,0000,0000,0000,,Go, Tatsumi.
+Dialogue: 0,0:18:58.77,0:18:59.82,Default,Tatsumi,0000,0000,0000,,Su...
+Dialogue: 0,0:19:00.42,0:19:02.28,Default,Susanoo,0000,0000,0000,,A thousand years have passed since my creation.
+Dialogue: 0,0:19:02.77,0:19:06.20,Default,Susanoo,0000,0000,0000,,And the joy I've experienced in the \Nrecent past has been unparalleled.
+Dialogue: 0,0:19:06.94,0:19:08.36,Default,Susanoo,0000,0000,0000,,I have no regrets.
+Dialogue: 0,0:19:08.36,0:19:09.33,Default,Najenda,0000,0000,0000,,Susanoo...
+Dialogue: 0,0:19:10.36,0:19:11.45,Default,Susanoo,0000,0000,0000,,This is goodbye.
+Dialogue: 0,0:19:18.53,0:19:19.49,Default,Esdeath,0000,0000,0000,,I won't let you escape.
+Dialogue: 0,0:19:19.49,0:19:20.34,Default,Susanoo,0000,0000,0000,,I won't let you interfere.
+Dialogue: 0,0:19:23.98,0:19:25.47,Default - italics,Esdeath,0000,0000,0000,,A reflective mirror.
+Dialogue: 0,0:19:26.31,0:19:28.18,Default,Susanoo,0000,0000,0000,,I won't let you pursue them.
+Dialogue: 0,0:19:28.77,0:19:33.04,Default,Esdeath,0000,0000,0000,,You're buying time by sacrificing \Nyourself, to help them escape.
+Dialogue: 0,0:19:33.62,0:19:36.32,Default,Esdeath,0000,0000,0000,,All of Najenda's subordinates \Nare too compassionate.
+Dialogue: 0,0:19:36.32,0:19:38.43,Default,Susanoo,0000,0000,0000,,I'm a human-based Imperial Arms.
+Dialogue: 0,0:19:39.03,0:19:40.70,Default,Susanoo,0000,0000,0000,,I've already used my trump.
+Dialogue: 0,0:19:41.30,0:19:44.58,Default,Susanoo,0000,0000,0000,,As a pawn, this is all I can do.
+Dialogue: 0,0:19:44.96,0:19:48.30,Default,Esdeath,0000,0000,0000,,You... You said your name was Susanoo.
+Dialogue: 0,0:19:49.36,0:19:50.71,Default,Susanoo,0000,0000,0000,,Then you remembered.
+Dialogue: 0,0:19:51.49,0:19:53.08,Default,Esdeath,0000,0000,0000,,I will remember your name.
+Dialogue: 0,0:19:53.08,0:19:55.59,Default,Esdeath,0000,0000,0000,,Not as an Imperial Arms, but as a warrior.
+Dialogue: 0,0:19:57.23,0:20:00.30,Default,Esdeath,0000,0000,0000,,Celebrate your last moment \Nof life with this duel.
+Dialogue: 0,0:20:00.56,0:20:02.05,Default,Esdeath,0000,0000,0000,,Show me what you've got!
+Dialogue: 0,0:20:08.26,0:20:10.48,Default,Tatsumi,0000,0000,0000,,I'm taking you to the hideout right now.
+Dialogue: 0,0:20:10.48,0:20:12.82,Default,Tatsumi,0000,0000,0000,,Your wounds will heal quickly, okay?
+Dialogue: 0,0:20:12.82,0:20:13.85,Default,Mine,0000,0000,0000,,Put me down.
+Dialogue: 0,0:20:13.85,0:20:15.02,Default,Tatsumi,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:20:15.02,0:20:17.00,Default,Tatsumi,0000,0000,0000,,We have to hurry and treat your injuries.
+Dialogue: 0,0:20:17.00,0:20:19.69,Default,Mine,0000,0000,0000,,Just put me down...
+Dialogue: 0,0:20:28.46,0:20:29.62,Default,Mine,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:20:29.62,0:20:31.29,Default,Tatsumi,0000,0000,0000,,I'm right here.
+Dialogue: 0,0:20:31.71,0:20:35.38,Default,Mine,0000,0000,0000,,You saved me in Kyoroch,
+Dialogue: 0,0:20:35.38,0:20:39.05,Default,Mine,0000,0000,0000,,so I was thinking I had to return the favor.
+Dialogue: 0,0:20:39.43,0:20:40.83,Default,Tatsumi,0000,0000,0000,,That's not...
+Dialogue: 0,0:20:40.83,0:20:44.10,Default,Mine,0000,0000,0000,,We're even now, right?
+Dialogue: 0,0:20:44.10,0:20:46.93,Default,Tatsumi,0000,0000,0000,,Yeah, so hold yourself together.
+Dialogue: 0,0:20:47.54,0:20:48.85,Default,Mine,0000,0000,0000,,You're a fool.
+Dialogue: 0,0:20:48.85,0:20:51.79,Default,Mine,0000,0000,0000,,I can't heal like Leone.
+Dialogue: 0,0:20:53.19,0:20:57.08,Default,Mine,0000,0000,0000,,I wanted to fight together till the end, but...
+Dialogue: 0,0:20:57.08,0:20:58.44,Default,Tatsumi,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:20:58.78,0:21:00.44,Default,Tatsumi,0000,0000,0000,,We're still going to
+Dialogue: 0,0:21:00.44,0:21:02.35,Default,Tatsumi,0000,0000,0000,,fight together...
+Dialogue: 0,0:21:02.82,0:21:05.48,Default,Mine,0000,0000,0000,,You're a bad liar, Tatsumi.
+Dialogue: 0,0:21:06.00,0:21:09.41,Default,Mine,0000,0000,0000,,You're as mushy as usual.
+Dialogue: 0,0:21:09.85,0:21:12.80,Default,Tatsumi,0000,0000,0000,,This can't... You idiot.
+Dialogue: 0,0:21:12.80,0:21:16.54,Default,Tatsumi,0000,0000,0000,,Why did you have to come save me?
+Dialogue: 0,0:21:17.26,0:21:20.78,Default,Mine,0000,0000,0000,,Stop crying. You're a man, aren't you?
+Dialogue: 0,0:21:21.87,0:21:23.04,Default,Mine,0000,0000,0000,,Hey...
+Dialogue: 0,0:21:23.93,0:21:28.44,Default,Mine,0000,0000,0000,,I'm glad I fell in love with you.
+Dialogue: 0,0:21:29.02,0:21:30.01,Default,Tatsumi,0000,0000,0000,,Mine...
+Dialogue: 0,0:21:30.44,0:21:32.78,Default,Tatsumi,0000,0000,0000,,Don't die. Don't you dare die.
+Dialogue: 0,0:21:32.78,0:21:35.88,Default,Tatsumi,0000,0000,0000,,You're gonna stand on the \Nwinning side, aren't you?
+Dialogue: 0,0:21:35.88,0:21:37.45,Default,Mine,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:21:37.81,0:21:40.02,Default,Mine,0000,0000,0000,,I'm already on the winning side.
+Dialogue: 0,0:21:44.77,0:21:46.87,Default,Mine,0000,0000,0000,,I love you.
+Dialogue: 0,0:21:48.99,0:21:51.64,Default,Tatsumi,0000,0000,0000,,Mine... Mine...
+Dialogue: 0,0:21:52.16,0:21:55.35,Default,Tatsumi,0000,0000,0000,,Mine!
+Dialogue: 0,0:23:34.30,0:23:40.89,Title2,,0000,0000,0000,,{\fad(322,1)}Kill the Little Sister
+Dialogue: 0,0:23:40.89,0:23:42.89,Title2,,0000,0000,0000,,

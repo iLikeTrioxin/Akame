@@ -1,0 +1,266 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,30,&H00855369,&H000000FF,&H00D8A0DC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,13,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:13.74,0:00:16.12,Default,Tatsumi,0000,0000,0000,,So this is the capital's red-light district?
+Dialogue: 0,0:00:16.12,0:00:17.34,Default,Tatsumi,0000,0000,0000,,It makes my heart race.
+Dialogue: 0,0:00:17.34,0:00:20.37,Default,Leone,0000,0000,0000,,Oh? Your straightforward \Nreaction is pretty cute.
+Dialogue: 0,0:00:22.03,0:00:23.35,Default,Leone,0000,0000,0000,,Now, then...
+Dialogue: 0,0:00:23.35,0:00:26.38,Default,Leone,0000,0000,0000,,Time to get to work, and repay those debts.
+Dialogue: 0,0:00:26.70,0:00:28.56,Default - italics,Leone,0000,0000,0000,,Transform: Lionel!
+Dialogue: 0,0:00:36.97,0:00:37.98,Default,Leone,0000,0000,0000,,All right.
+Dialogue: 0,0:00:37.98,0:00:40.95,Default,Leone,0000,0000,0000,,Changing into this always gets me pumped!
+Dialogue: 0,0:00:40.95,0:00:42.73,Default,Tatsumi,0000,0000,0000,,Wow!
+Dialogue: 0,0:00:43.55,0:00:45.73,Default,Leone,0000,0000,0000,,Now, let's sneak in and kill them.
+Dialogue: 0,0:00:46.39,0:00:46.98,Default,Tatsumi,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:49.86,0:00:50.79,Default,Tatsumi,0000,0000,0000,,W-Wait.
+Dialogue: 0,0:00:50.79,0:00:52.28,Default,Tatsumi,0000,0000,0000,,W-W-Wait! Wh-What?
+Dialogue: 0,0:02:30.62,0:02:32.84,Title1a,Title,0000,0000,0000,,{\fad(423,1)}Kill the Absolute Justice
+Dialogue: 0,0:02:32.84,0:02:33.92,Title1b,Title,0000,0000,0000,,{\fad(1,726)}Kill the Absolute Justice
+Dialogue: 0,0:02:39.33,0:02:40.01,Default,Man,0000,0000,0000,,Hmm?
+Dialogue: 0,0:02:45.71,0:02:47.00,Default,Leone,0000,0000,0000,,Whew!
+Dialogue: 0,0:02:47.00,0:02:48.35,Default,Leone,0000,0000,0000,,Made it.
+Dialogue: 0,0:02:48.74,0:02:51.19,Default,Tatsumi,0000,0000,0000,,You call that "sneaking in"?
+Dialogue: 0,0:02:56.62,0:02:57.77,Default,Leone,0000,0000,0000,,Take a look.
+Dialogue: 0,0:03:09.53,0:03:11.97,Default,Boss,0000,0000,0000,,Oh, nice... Very nice.
+Dialogue: 0,0:03:13.01,0:03:17.34,Default,Boss,0000,0000,0000,,Girls, if you keep earning, \NI'll bring more drugs, okay?
+Dialogue: 0,0:03:17.76,0:03:19.34,Default,Girls,0000,0000,0000,,Okay.
+Dialogue: 0,0:03:19.97,0:03:20.59,Default,Lackey,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:21.01,0:03:22.22,Default,Lackey,0000,0000,0000,,Hey, boss...
+Dialogue: 0,0:03:22.22,0:03:24.25,Default,Lackey,0000,0000,0000,,Take a look at this one.
+Dialogue: 0,0:03:24.25,0:03:26.57,Default,Boss,0000,0000,0000,,Well, this is no good.
+Dialogue: 0,0:03:26.57,0:03:28.56,Default,Boss,0000,0000,0000,,She smells like fish, and she's broken.
+Dialogue: 0,0:03:28.56,0:03:29.97,Default,Boss,0000,0000,0000,,Get rid of her.
+Dialogue: 0,0:03:30.42,0:03:32.33,Default,Boss,0000,0000,0000,,Replace her with a new one.
+Dialogue: 0,0:03:32.33,0:03:34.02,Default,Woman,0000,0000,0000,,Please, more drugs!
+Dialogue: 0,0:03:32.76,0:03:34.02,Default,Lackey,0000,0000,0000,,All right...
+Dialogue: 0,0:03:36.31,0:03:39.91,Default,Lakey,0000,0000,0000,,Let's get some dumb slum broads again.
+Dialogue: 0,0:03:39.91,0:03:40.73,Default,Boss,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:40.73,0:03:44.53,Default,Boss,0000,0000,0000,,Those good-for-nothings will \Ndo anything for money.
+Dialogue: 0,0:03:45.03,0:03:47.36,Default,Tatsumi,0000,0000,0000,,As the request said, they're awful bastards.
+Dialogue: 0,0:03:47.75,0:03:48.70,Default,Tatsumi,0000,0000,0000,,Unforgivable!
+Dialogue: 0,0:03:50.15,0:03:51.72,Default,Leone,0000,0000,0000,,The girl that just got hit...
+Dialogue: 0,0:03:52.31,0:03:54.42,Default,Leone,0000,0000,0000,,I knew her from the slums.
+Dialogue: 0,0:03:55.26,0:03:56.51,Default,Leone,0000,0000,0000,,They piss me off.
+Dialogue: 0,0:03:56.51,0:03:58.79,Default,Leone,0000,0000,0000,,Let's hurry up and kill these targets.
+Dialogue: 0,0:03:58.79,0:03:59.80,Default,Tatsumi,0000,0000,0000,,Roger that.
+Dialogue: 0,0:04:00.48,0:04:01.92,Default,Lackey,0000,0000,0000,,Boss...
+Dialogue: 0,0:04:01.92,0:04:05.26,Default,Lackey,0000,0000,0000,,It's about time we expanded our \Ndrug territory, don't you think?
+Dialogue: 0,0:04:05.26,0:04:06.76,Default,Boss,0000,0000,0000,,You're right...
+Dialogue: 0,0:04:06.76,0:04:10.18,Default,Boss,0000,0000,0000,,Maybe we should pay Tybil a visit to discuss it.
+Dialogue: 0,0:04:12.78,0:04:15.06,Default,Both,0000,0000,0000,,The only place you two are going
+Dialogue: 0,0:04:15.41,0:04:16.56,Default,Both,0000,0000,0000,,is hell!
+Dialogue: 0,0:04:16.83,0:04:18.76,Default,Lackey,0000,0000,0000,,I-Intruders!
+Dialogue: 0,0:04:18.76,0:04:20.16,Default,Lackey,0000,0000,0000,,Get rid of them!
+Dialogue: 0,0:04:27.01,0:04:29.92,Default,Leone,0000,0000,0000,,Our target is the drug-smuggling gang.
+Dialogue: 0,0:04:29.92,0:04:31.45,Default,Leone,0000,0000,0000,,But you're just as guilty,
+Dialogue: 0,0:04:31.99,0:04:33.58,Default,Leone,0000,0000,0000,,so you can all die together.
+Dialogue: 0,0:04:34.37,0:04:35.83,Default,Lackey D,0000,0000,0000,,Kill them!
+Dialogue: 0,0:04:48.74,0:04:51.39,Default,Lackey,0000,0000,0000,,Y-You've gotta be kidding...
+Dialogue: 0,0:04:51.39,0:04:53.68,Default,Lackey,0000,0000,0000,,I don't deserve this!
+Dialogue: 0,0:04:55.20,0:04:57.65,Default,Tatsumi,0000,0000,0000,,Beg the devil for mercy!
+Dialogue: 0,0:05:06.19,0:05:07.93,Default,Boss,0000,0000,0000,,What is it you want?
+Dialogue: 0,0:05:07.93,0:05:08.98,Default,Boss,0000,0000,0000,,Money?
+Dialogue: 0,0:05:09.29,0:05:10.24,Default,Boss,0000,0000,0000,,Drugs?
+Dialogue: 0,0:05:10.63,0:05:13.41,Default,Boss,0000,0000,0000,,I'll give you anything, so release me...
+Dialogue: 0,0:05:13.69,0:05:15.06,Default,Leone,0000,0000,0000,,No thanks.
+Dialogue: 0,0:05:15.91,0:05:18.17,Default,Leone,0000,0000,0000,,All I want is to take your life.
+Dialogue: 0,0:05:18.50,0:05:21.17,Default,Boss,0000,0000,0000,,Wh-Who the hell are you two?
+Dialogue: 0,0:05:24.04,0:05:25.59,Default,Leone,0000,0000,0000,,Just some good-for-nothings.
+Dialogue: 0,0:05:31.94,0:05:35.85,Default,Leone,0000,0000,0000,,Which is precisely why ridding the \Nworld of trash suits us fine.
+Dialogue: 0,0:05:43.55,0:05:44.68,Default,Tatsumi,0000,0000,0000,,Hey...
+Dialogue: 0,0:05:44.68,0:05:48.46,Default,Tatsumi,0000,0000,0000,,What's going to happen to all those girls?
+Dialogue: 0,0:05:48.97,0:05:51.78,Default,Leone,0000,0000,0000,,That isn't our responsibility, is it?
+Dialogue: 0,0:05:52.21,0:05:53.18,Default,Leone,0000,0000,0000,,But...
+Dialogue: 0,0:05:54.47,0:05:57.63,Default,Leone,0000,0000,0000,,In the slums, there's an old, retired doctor.
+Dialogue: 0,0:05:57.63,0:05:59.67,Default,Leone,0000,0000,0000,,And he's still pretty skilled.
+Dialogue: 0,0:05:59.97,0:06:02.33,Default,Leone,0000,0000,0000,,I'll explain the situation, \Nand have him take a look.
+Dialogue: 0,0:06:02.33,0:06:05.44,Default,Leone,0000,0000,0000,,He loves young girls, so I'm sure he'll do it.
+Dialogue: 0,0:06:07.10,0:06:08.54,Default,Tatsumi,0000,0000,0000,,Sis!
+Dialogue: 0,0:06:10.29,0:06:12.38,Default,Tatsumi,0000,0000,0000,,When all is said and done, you're pretty nice.
+Dialogue: 0,0:06:12.38,0:06:15.06,Default,Leone,0000,0000,0000,,It's only because I knew one of them.
+Dialogue: 0,0:06:15.37,0:06:17.31,Default,Leone,0000,0000,0000,,There's no other reason!
+Dialogue: 0,0:06:17.72,0:06:19.58,Default,Tatsumi,0000,0000,0000,,The reason doesn't matter.
+Dialogue: 0,0:06:20.57,0:06:23.40,Default,Tatsumi,0000,0000,0000,,As long as a tiny bit of hope exists, \Nthat's all that matters.
+Dialogue: 0,0:06:25.88,0:06:26.85,Default,Leone,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:06:27.34,0:06:29.10,Default,Leone,0000,0000,0000,,I've thought this from the start,
+Dialogue: 0,0:06:29.10,0:06:32.23,Default,Leone,0000,0000,0000,,but that expression you make is really cute.
+Dialogue: 0,0:06:33.36,0:06:35.44,Default,Tatsumi,0000,0000,0000,,Huh?! Wh-Wh-Wh-What?
+Dialogue: 0,0:06:36.59,0:06:39.92,Default,Leone,0000,0000,0000,,I was marking you, literally.
+Dialogue: 0,0:06:39.92,0:06:42.71,Default,Leone,0000,0000,0000,,If you grow up to be a \Ngood-looking man, you're mine.
+Dialogue: 0,0:06:44.40,0:06:47.47,Default,Leone,0000,0000,0000,,Anyway, I wonder if the others are okay.
+Dialogue: 0,0:06:50.73,0:06:54.50,Default,Mine,0000,0000,0000,,That Tybil guy was almost too vigilant.
+Dialogue: 0,0:06:54.96,0:06:57.64,Default,Sheele,0000,0000,0000,,But we still finished him without problem.
+Dialogue: 0,0:07:11.88,0:07:12.99,Default,Mine,0000,0000,0000,,An enemy?
+Dialogue: 0,0:07:13.37,0:07:15.01,Default,Mine,0000,0000,0000,,What's with her?
+Dialogue: 0,0:07:15.01,0:07:17.01,Default,Mine,0000,0000,0000,,I didn't feel her presence at all.
+Dialogue: 0,0:07:17.83,0:07:21.87,Default,Sheele,0000,0000,0000,,She's different from the other imperial police, \Nwho don't hide their presences.
+Dialogue: 0,0:07:24.49,0:07:25.83,Default - italics,Seryu,0000,0000,0000,,As I thought.
+Dialogue: 0,0:07:25.83,0:07:27.81,Default - italics,Seryu,0000,0000,0000,,Her face matches the wanted poster.
+Dialogue: 0,0:07:27.81,0:07:30.01,Default - italics,Seryu,0000,0000,0000,,Night Raid's Sheele, confirmed.
+Dialogue: 0,0:07:30.44,0:07:32.38,Default - italics,Seryu,0000,0000,0000,,And judging by the Imperial Arms,
+Dialogue: 0,0:07:32.38,0:07:34.89,Default - italics,Seryu,0000,0000,0000,,the other girl is also a Night Raid member.
+Dialogue: 0,0:07:36.28,0:07:40.02,Default - italics,Seryu,0000,0000,0000,,Hiding night after night was worth it...
+Dialogue: 0,0:07:40.32,0:07:41.43,Default,Seryu,0000,0000,0000,,Finally...
+Dialogue: 0,0:07:41.98,0:07:45.44,Default,Seryu,0000,0000,0000,,We finally meet, Night Raid!
+Dialogue: 0,0:07:46.27,0:07:48.86,Default,Seryu,0000,0000,0000,,I'm Seryu Ubiquitous, of the imperial police.
+Dialogue: 0,0:07:48.86,0:07:51.29,Default,Seryu,0000,0000,0000,,In the name of absolute justice,
+Dialogue: 0,0:07:51.29,0:07:53.78,Default,Seryu,0000,0000,0000,,I shall make evil pay, here and now!
+Dialogue: 0,0:08:06.22,0:08:08.08,Default,Mine,0000,0000,0000,,Given that you recognize us,
+Dialogue: 0,0:08:08.08,0:08:10.67,Default,Mine,0000,0000,0000,,we have to take you with us or kill you.
+Dialogue: 0,0:08:11.38,0:08:13.57,Default,Seryu,0000,0000,0000,,"Wanted dead or alive."
+Dialogue: 0,0:08:13.57,0:08:15.80,Default,Seryu,0000,0000,0000,,Then I shall execute them!
+Dialogue: 0,0:08:16.33,0:08:19.72,Default,Seryu,0000,0000,0000,,Father died in the line of duty, \Nfighting villains like you!
+Dialogue: 0,0:08:20.21,0:08:24.52,Default,Seryu,0000,0000,0000,,And you killed my mentor, General Ogre!
+Dialogue: 0,0:08:24.52,0:08:26.48,Default,Seryu,0000,0000,0000,,I will never forgive you!
+Dialogue: 0,0:08:26.88,0:08:28.98,Default,Mine,0000,0000,0000,,She seems ready to go...
+Dialogue: 0,0:08:28.98,0:08:30.03,Default,Mine,0000,0000,0000,,Very well.
+Dialogue: 0,0:08:30.03,0:08:31.53,Default,Mine,0000,0000,0000,,Advantage favors whoever strikes first!
+Dialogue: 0,0:08:38.20,0:08:38.95,Default,Mine,0000,0000,0000,,Did I get her?
+Dialogue: 0,0:08:50.55,0:08:53.01,Default,Sheele,0000,0000,0000,,Mine, that's an Imperial Arms.
+Dialogue: 0,0:08:53.01,0:08:54.54,Default,Mine,0000,0000,0000,,Seems like it.
+Dialogue: 0,0:08:54.54,0:08:56.43,Default,Mine,0000,0000,0000,,And it's organism-based.
+Dialogue: 0,0:08:58.03,0:08:58.72,Default - italics,Seryu,0000,0000,0000,,Tonfa Gun!
+Dialogue: 0,0:09:02.64,0:09:05.47,Default - italics,Seryu,0000,0000,0000,,Even if I hit them from this distance, \Nit won't be very effective.
+Dialogue: 0,0:09:05.95,0:09:07.65,Default,Seryu,0000,0000,0000,,Coro, prey!
+Dialogue: 0,0:09:15.95,0:09:17.16,Default,Sheele,0000,0000,0000,,Forgive me.
+Dialogue: 0,0:09:45.10,0:09:47.74,Default,Mine,0000,0000,0000,,Don't you remember the documents, Sheele?
+Dialogue: 0,0:09:47.74,0:09:50.80,Default,Mine,0000,0000,0000,,Organism-based Imperial Arms \Nhave a core in their bodies.
+Dialogue: 0,0:09:50.80,0:09:53.07,Default,Mine,0000,0000,0000,,If you don't destroy it, they'll keep regenerating.
+Dialogue: 0,0:09:53.07,0:09:57.33,Default,Mine,0000,0000,0000,,And Akame's Murasame won't \Nwork without a heart, either.
+Dialogue: 0,0:09:57.33,0:09:59.60,Default,Sheele,0000,0000,0000,,Quite a troublesome opponent, isn't it?
+Dialogue: 0,0:10:00.13,0:10:01.66,Default,Seryu,0000,0000,0000,,Coro, arms.
+Dialogue: 0,0:10:09.01,0:10:11.09,Default,Mine,0000,0000,0000,,Ew... Gross...
+Dialogue: 0,0:10:11.31,0:10:12.35,Default,Seryu,0000,0000,0000,,Pulverize!
+Dialogue: 0,0:10:14.31,0:10:16.01,Default,Sheele,0000,0000,0000,,Mine, get behind me.
+Dialogue: 0,0:10:21.88,0:10:22.69,Default - italics,Sheele,0000,0000,0000,,Heavy!
+Dialogue: 0,0:10:29.21,0:10:31.20,Default - italics,Mine,0000,0000,0000,,A tempest of attacks.
+Dialogue: 0,0:10:31.80,0:10:33.02,Default - italics,Mine,0000,0000,0000,,And she's called for backup.
+Dialogue: 0,0:10:33.65,0:10:35.16,Default,Mine,0000,0000,0000,,That's what I'd call
+Dialogue: 0,0:10:35.57,0:10:36.19,Default,Mine,0000,0000,0000,,a pinch!
+Dialogue: 0,0:10:38.02,0:10:41.45,Default,Mine,0000,0000,0000,,So, now... Go!
+Dialogue: 0,0:10:46.49,0:10:47.50,Default,Seryu,0000,0000,0000,,Its power increased?
+Dialogue: 0,0:10:52.44,0:10:53.47,Default,Mine,0000,0000,0000,,Damn it...
+Dialogue: 0,0:10:53.47,0:10:55.00,Default,Mine,0000,0000,0000,,It's already started regenerating.
+Dialogue: 0,0:10:55.00,0:10:56.78,Default,Mine,0000,0000,0000,,What energy...
+Dialogue: 0,0:11:00.16,0:11:02.22,Default,Seryu,0000,0000,0000,,Don't underestimate the \Nstamina of Imperial Arms.
+Dialogue: 0,0:11:04.43,0:11:05.89,Default,Sheele,0000,0000,0000,,Imperial Arms are tools.
+Dialogue: 0,0:11:06.12,0:11:09.04,Default,Sheele,0000,0000,0000,,It will stop once its user is killed.
+Dialogue: 0,0:11:09.04,0:11:11.00,Default - italics,Seryu,0000,0000,0000,,She was aiming for me from the start!
+Dialogue: 0,0:11:12.12,0:11:13.56,Default - italics,Sheele,0000,0000,0000,,I'll get her with my secret move.
+Dialogue: 0,0:11:13.56,0:11:14.82,Default - italics,Sheele,0000,0000,0000,,Extase!
+Dialogue: 0,0:11:16.86,0:11:19.03,Default - italics,Seryu,0000,0000,0000,,Light-generating metal? \NHow can such a move exist?
+Dialogue: 0,0:11:21.83,0:11:22.68,Default,Sheele,0000,0000,0000,,This is the end.
+Dialogue: 0,0:11:30.13,0:11:32.06,Default - italics,Sheele,0000,0000,0000,,She's strong!
+Dialogue: 0,0:11:36.83,0:11:37.81,Default,Mine,0000,0000,0000,,Stop right there.
+Dialogue: 0,0:11:38.26,0:11:40.37,Default,Mine,0000,0000,0000,,I'm your opponent, remember?
+Dialogue: 0,0:11:40.37,0:11:41.51,Default,Mine,0000,0000,0000,,I won't let you go.
+Dialogue: 0,0:11:42.14,0:11:45.15,Default - italics,Mine,0000,0000,0000,,As the threat lessens, its power weakens.
+Dialogue: 0,0:11:45.15,0:11:47.22,Default - italics,Mine,0000,0000,0000,,But it's enough to keep it busy.
+Dialogue: 0,0:11:47.61,0:11:48.77,Default - italics,Mine,0000,0000,0000,,And by process of elimination,
+Dialogue: 0,0:11:48.77,0:11:51.19,Default - italics,Mine,0000,0000,0000,,I'm starting to figure out where its core is.
+Dialogue: 0,0:12:00.85,0:12:01.40,Default - italics,Seryu,0000,0000,0000,,Crap!
+Dialogue: 0,0:12:08.28,0:12:10.39,Default - italics,Sheele,0000,0000,0000,,She sacrificed her arms to stop a fatal blow.
+Dialogue: 0,0:12:12.67,0:12:15.79,Default,Seryu,0000,0000,0000,,Justice will always prevail!
+Dialogue: 0,0:12:16.04,0:12:17.25,Default - italics,Sheele,0000,0000,0000,,Body modification?
+Dialogue: 0,0:12:17.53,0:12:19.68,Default,Seryu,0000,0000,0000,,This is the trump card General Ogre gave me.
+Dialogue: 0,0:12:19.68,0:12:21.09,Default,Seryu,0000,0000,0000,,Take this!
+Dialogue: 0,0:12:33.21,0:12:34.69,Default - italics,Seryu,0000,0000,0000,,She blocked it?
+Dialogue: 0,0:12:45.01,0:12:46.28,Default - italics,Seryu,0000,0000,0000,,Not done yet...
+Dialogue: 0,0:12:46.94,0:12:50.93,Default - italics,Seryu,0000,0000,0000,,If I use it, Coro will overheat and \Nbe temporarily immobile.
+Dialogue: 0,0:12:52.07,0:12:53.25,Default - italics,Seryu,0000,0000,0000,,But I have no choice!
+Dialogue: 0,0:12:53.45,0:12:55.46,Default,Seryu,0000,0000,0000,,Coro, last resort!
+Dialogue: 0,0:12:55.46,0:12:57.29,Default,Seryu,0000,0000,0000,,Berserker!
+Dialogue: 0,0:13:18.73,0:13:20.52,Default - italics,Mine,0000,0000,0000,,So they have a secret skill, too.
+Dialogue: 0,0:13:22.61,0:13:23.69,Default,Mine,0000,0000,0000,,Oh, no—
+Dialogue: 0,0:13:23.69,0:13:24.90,Default,Sheele,0000,0000,0000,,Mine!
+Dialogue: 0,0:13:24.90,0:13:28.24,Default,Seryu,0000,0000,0000,,Crush her to death!
+Dialogue: 0,0:13:45.84,0:13:46.68,Default,Mine,0000,0000,0000,,Sheele!
+Dialogue: 0,0:13:48.39,0:13:50.18,Default,Sheele,0000,0000,0000,,I made it just in time!
+Dialogue: 0,0:14:02.78,0:14:04.14,Default - italics,Sheele,0000,0000,0000,,My body...
+Dialogue: 0,0:14:07.10,0:14:08.43,Default - italics,Sheele,0000,0000,0000,,won't move.
+Dialogue: 0,0:14:10.90,0:14:12.95,Default,Seryu,0000,0000,0000,,Justice is served!
+Dialogue: 0,0:14:24.34,0:14:25.39,Default,Mine,0000,0000,0000,,She—
+Dialogue: 0,0:14:27.90,0:14:31.05,Default,Mine,0000,0000,0000,,Sheele!
+Dialogue: 0,0:14:36.21,0:14:37.77,Default,Mine,0000,0000,0000,,How dare you...
+Dialogue: 0,0:14:37.77,0:14:40.00,Default,Mine,0000,0000,0000,,How dare you do that to Sheele?
+Dialogue: 0,0:14:44.52,0:14:48.20,Default,Mine,0000,0000,0000,,This broken arm won't stop me!
+Dialogue: 0,0:15:05.56,0:15:06.38,Default,Seryu,0000,0000,0000,,What?
+Dialogue: 0,0:15:06.38,0:15:08.30,Default,Guard A,0000,0000,0000,,What is this?
+Dialogue: 0,0:15:08.70,0:15:10.84,Default,Guard B,0000,0000,0000,,Be careful! We don't know what might happen!
+Dialogue: 0,0:15:31.66,0:15:33.95,Default - italics,Sheele,0000,0000,0000,,Extase...
+Dialogue: 0,0:15:34.48,0:15:37.97,Default,Mine,0000,0000,0000,,Sheele!
+Dialogue: 0,0:15:38.83,0:15:40.18,Default,Seryu,0000,0000,0000,,That woman...
+Dialogue: 0,0:15:40.18,0:15:41.79,Default,Seryu,0000,0000,0000,,She's still fighting in that state?
+Dialogue: 0,0:15:41.79,0:15:45.75,Default,Sheele,0000,0000,0000,,Please get out of here, Mine!
+Dialogue: 0,0:15:46.62,0:15:48.46,Default,Mine,0000,0000,0000,,B-But...
+Dialogue: 0,0:16:06.75,0:16:08.07,Default - italics,Sheele,0000,0000,0000,,Mine...
+Dialogue: 0,0:16:08.68,0:16:10.02,Default - italics,Sheele,0000,0000,0000,,I'm glad...
+Dialogue: 0,0:16:11.12,0:16:13.53,Default - italics,Sheele,0000,0000,0000,,I was useful in the end.
+Dialogue: 0,0:16:15.20,0:16:15.95,Default,Seryu,0000,0000,0000,,Coro!
+Dialogue: 0,0:16:16.76,0:16:18.95,Default,Seryu,0000,0000,0000,,Hurry up and finish her!
+Dialogue: 0,0:16:24.63,0:16:26.21,Default - italics,Sheele,0000,0000,0000,,Night Raid...
+Dialogue: 0,0:16:28.00,0:16:29.71,Default - italics,Sheele,0000,0000,0000,,The place where I belonged.
+Dialogue: 0,0:16:46.77,0:16:51.49,SignA,,0000,0000,0000,,Congratulations on Getting Your Own Imperial Arms
+Dialogue: 0,0:16:56.07,0:17:00.10,Default - italics,Sheele,0000,0000,0000,,I loved all of you...
+Dialogue: 0,0:17:09.73,0:17:11.79,Default - italics,Sheele,0000,0000,0000,,It was so much fun.
+Dialogue: 0,0:17:25.77,0:17:28.61,Default - italics,Sheele,0000,0000,0000,,My apologies, Tatsumi...
+Dialogue: 0,0:17:29.52,0:17:30.49,Default - italics,Sheele,0000,0000,0000,,I won't
+Dialogue: 0,0:17:31.27,0:17:33.43,Default - italics,Sheele,0000,0000,0000,,be able to hold you any longer.
+Dialogue: 0,0:18:09.68,0:18:12.46,Default,Guard B,0000,0000,0000,,Wh-What was that light just now?
+Dialogue: 0,0:18:12.46,0:18:14.69,Default,Guard A,0000,0000,0000,,Hey, are you okay, Seryu?
+Dialogue: 0,0:18:19.43,0:18:20.66,Default,Seryu,0000,0000,0000,,I did it!
+Dialogue: 0,0:18:21.20,0:18:25.28,Default,Seryu,0000,0000,0000,,If she abandoned her friend like evil-doers do, \Nit would have been a great fight.
+Dialogue: 0,0:18:25.28,0:18:27.04,Default,Seryu,0000,0000,0000,,What a halfhearted person.
+Dialogue: 0,0:18:29.58,0:18:33.64,Default,Seryu,0000,0000,0000,,Daddy, I defeated one of the villains.
+Dialogue: 0,0:18:33.64,0:18:36.42,Default,Seryu,0000,0000,0000,,The light of justice shone upon the world!
+Dialogue: 0,0:19:13.52,0:19:17.24,Default,Tatsumi,0000,0000,0000,,Wh-Who did this?
+Dialogue: 0,0:19:17.24,0:19:18.26,Default,Tatsumi,0000,0000,0000,,Mine?
+Dialogue: 0,0:19:19.08,0:19:20.39,Default,Tatsumi,0000,0000,0000,,Hey, Mine!
+Dialogue: 0,0:19:20.39,0:19:21.22,Default,Tatsumi,0000,0000,0000,,Mine!
+Dialogue: 0,0:19:21.54,0:19:22.82,Default,Najenda,0000,0000,0000,,Wait, Tatsumi.
+Dialogue: 0,0:19:23.33,0:19:24.47,Default,Najenda,0000,0000,0000,,What will you do with that information?
+Dialogue: 0,0:19:25.39,0:19:26.87,Default,Tatsumi,0000,0000,0000,,Isn't it obvious?
+Dialogue: 0,0:19:26.87,0:19:27.98,Default,Tatsumi,0000,0000,0000,,Revenge!
+Dialogue: 0,0:19:28.46,0:19:29.52,Default,Najenda,0000,0000,0000,,Stop.
+Dialogue: 0,0:19:29.52,0:19:32.23,Default,Najenda,0000,0000,0000,,Jumping in without a plan will \Nonly increase the body count.
+Dialogue: 0,0:19:32.23,0:19:34.77,Default,Tatsumi,0000,0000,0000,,Our friend was just killed! You know?
+Dialogue: 0,0:19:35.12,0:19:36.73,Default,Tatsumi,0000,0000,0000,,I can't sit here and—
+Dialogue: 0,0:19:39.39,0:19:41.29,Default,Bulat,0000,0000,0000,,You're embarrassing yourself, Tatsumi!
+Dialogue: 0,0:19:41.29,0:19:42.28,Default,Bulat,0000,0000,0000,,Don't lose control!
+Dialogue: 0,0:19:43.10,0:19:46.06,Default,Bulat,0000,0000,0000,,Didn't we say that anyone \Ncould die at any moment?
+Dialogue: 0,0:19:46.06,0:19:49.01,Default,Bulat,0000,0000,0000,,You knew this when you agreed to join us!
+Dialogue: 0,0:19:58.39,0:20:00.16,Default - italics,Mine,0000,0000,0000,,You were only doing your duty.
+Dialogue: 0,0:20:00.58,0:20:02.01,Default - italics,Mine,0000,0000,0000,,This is retribution.
+Dialogue: 0,0:20:02.42,0:20:04.26,Default - italics,Mine,0000,0000,0000,,I know all of this.
+Dialogue: 0,0:20:04.87,0:20:07.97,Default - italics,Mine,0000,0000,0000,,But you killed Sheele...
+Dialogue: 0,0:20:09.22,0:20:11.66,Default - italics,Mine,0000,0000,0000,,And you'll continue to hunt us down.
+Dialogue: 0,0:20:12.33,0:20:13.48,Default - italics,Mine,0000,0000,0000,,In that case...
+Dialogue: 0,0:20:13.80,0:20:15.36,Default - italics,Mine,0000,0000,0000,,Seryu Ubiquitous!
+Dialogue: 0,0:20:15.36,0:20:18.59,Default - italics,Mine,0000,0000,0000,,I will be the one to take you down!
+Dialogue: 0,0:20:19.46,0:20:22.31,Default,Najenda,0000,0000,0000,,Sheele's death was not in vain.
+Dialogue: 0,0:20:23.07,0:20:25.29,Default,Najenda,0000,0000,0000,,The Capital should now understand.
+Dialogue: 0,0:20:26.24,0:20:28.30,Default,Najenda,0000,0000,0000,,It takes Imperial Arms to fight Imperial Arms!
+Dialogue: 0,0:20:28.77,0:20:31.80,Default,Najenda,0000,0000,0000,,Battles with Imperial Arms users will increase.
+Dialogue: 0,0:20:31.80,0:20:33.72,Default,Najenda,0000,0000,0000,,But that means more chances to collect them.
+Dialogue: 0,0:20:34.55,0:20:37.53,Default,Najenda,0000,0000,0000,,There will be more mortal struggles, Tatsumi.
+Dialogue: 0,0:21:51.23,0:21:53.78,Default,Esdeath,0000,0000,0000,,Capital, I'm home.
+Dialogue: 0,0:23:34.45,0:23:40.94,Title2,title,0000,0000,0000,,{\fad(341,1)}Kill the Three \N{\fs20}— Part One —

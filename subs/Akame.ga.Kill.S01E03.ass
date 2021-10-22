@@ -1,0 +1,380 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,36,&H008BBEB6,&H000000FF,&H001B433C,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,53,53,17,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,mine,0000,0000,0000,,What?
+Dialogue: 0,0:00:03.25,0:00:05.09,Default,Naj,0000,0000,0000,,How many intruders, and where are they?
+Dialogue: 0,0:00:05.48,0:00:08.57,Default,lubbock,0000,0000,0000,,According to my barrier's signal, apparently eight.
+Dialogue: 0,0:00:08.97,0:00:11.36,Default,lubbock,0000,0000,0000,,They're all in the vicinity of our base.
+Dialogue: 0,0:00:11.57,0:00:13.74,Default,naj,0000,0000,0000,,I have to commend them \Nfor sniffing this place out.
+Dialogue: 0,0:00:14.29,0:00:16.20,Default,naj,0000,0000,0000,,They're probably assassins from \None of the surrounding tribes.
+Dialogue: 0,0:00:16.69,0:00:19.41,Default,naj,0000,0000,0000,,Move out. Do not let any escape.
+Dialogue: 0,0:00:23.93,0:00:26.34,Default,bul,0000,0000,0000,,You still aren't used to combat with groups.
+Dialogue: 0,0:00:26.34,0:00:27.56,Default,bul,0000,0000,0000,,Don't push yourself!
+Dialogue: 0,0:00:27.82,0:00:31.05,Default,bul,0000,0000,0000,,First, you should concentrate on gaining \Nfirst-hand battlefield experience.
+Dialogue: 0,0:00:31.05,0:00:31.77,Default,tatsu,0000,0000,0000,,Right.
+Dialogue: 0,0:00:32.27,0:00:35.21,Default,bul,0000,0000,0000,,Also, when you refer to me, \Ncall me "Bro" or "Handsome."
+Dialogue: 0,0:00:35.21,0:00:36.54,Default,tatsu,0000,0000,0000,,Got it, Bro.
+Dialogue: 0,0:00:36.54,0:00:38.26,Default,bul,0000,0000,0000,,All right! That feels great!
+Dialogue: 0,0:00:38.26,0:00:40.26,Default,bul,0000,0000,0000,,In return, I'll show you something awesome.
+Dialogue: 0,0:00:41.56,0:00:43.94,Default - italics,bul,0000,0000,0000,,Incursio!
+Dialogue: 0,0:00:55.17,0:00:57.20,Default,tatsu,0000,0000,0000,,Whoa, amazing!
+Dialogue: 0,0:00:57.20,0:00:58.16,Default,bul,0000,0000,0000,,Right?
+Dialogue: 0,0:00:58.16,0:01:00.11,Default,bul,0000,0000,0000,,This is the Imperial Arm Incursio.
+Dialogue: 0,0:01:00.11,0:01:00.87,Default,tatsu,0000,0000,0000,,Imperial Arm?
+Dialogue: 0,0:01:01.22,0:01:03.19,Default,tatsu,0000,0000,0000,,I don't really get it, but I'm fired up!
+Dialogue: 0,0:01:03.19,0:01:06.12,Default,bul,0000,0000,0000,,Oh? You understand its awesomeness?
+Dialogue: 0,0:01:14.74,0:01:15.64,Default,tatsu,0000,0000,0000,,The enemy.
+Dialogue: 0,0:01:15.64,0:01:16.56,Default,bul,0000,0000,0000,,Let's go.
+Dialogue: 0,0:01:16.56,0:01:18.30,Default,bul,0000,0000,0000,,Be sure to take a good look at \Nthe Imperial Arm's power.
+Dialogue: 0,0:01:18.60,0:01:19.53,Default,tatsu,0000,0000,0000,,Right!
+Dialogue: 0,0:02:51.94,0:02:54.57,Title1a,,0000,0000,0000,,{\fad(565,1)}Kill Your Cares
+Dialogue: 0,0:02:54.57,0:02:55.48,Title1b,,0000,0000,0000,,{\fad(1,806)}Kill Your Cares
+Dialogue: 0,0:03:00.51,0:03:02.55,Default,killer a,0000,0000,0000,,That's one of the faces from the wanted posters.
+Dialogue: 0,0:03:02.55,0:03:05.58,Default,killer a,0000,0000,0000,,It appears that Night Raid's secret base is close.
+Dialogue: 0,0:03:05.84,0:03:07.46,Default,killer b,0000,0000,0000,,She's pretty cute.
+Dialogue: 0,0:03:07.46,0:03:09.62,Default,killer a,0000,0000,0000,,Seems we can have fun, even after we kill her.
+Dialogue: 0,0:03:09.62,0:03:11.25,Default,killer a,0000,0000,0000,,Make sure you don't wound her too badly...
+Dialogue: 0,0:03:13.54,0:03:14.40,Default,killer b,0000,0000,0000,,Ah.
+Dialogue: 0,0:03:14.40,0:03:15.00,Default,killer a,0000,0000,0000,,Eh?
+Dialogue: 0,0:03:15.25,0:03:18.26,Default,akame,0000,0000,0000,,You lowered your guard far too \Nmuch for enemy territory.
+Dialogue: 0,0:03:18.72,0:03:19.80,Default,killer a,0000,0000,0000,,She's way too fast—
+Dialogue: 0,0:03:22.85,0:03:25.29,Default,killer c,0000,0000,0000,,Damn it! I'll at least take her with me!
+Dialogue: 0,0:03:27.42,0:03:29.89,Default,killer c,0000,0000,0000,,Cursed poison from my wounds?
+Dialogue: 0,0:03:34.46,0:03:36.24,Default,akame,0000,0000,0000,,One slice, certain death.
+Dialogue: 0,0:03:37.61,0:03:38.98,Default - italics,killer d,0000,0000,0000,,They've noticed our infiltration...
+Dialogue: 0,0:03:39.27,0:03:42.65,Default - italics,killer d,0000,0000,0000,,But we've confirmed that Night \NRaid's secret base is here.
+Dialogue: 0,0:03:42.65,0:03:45.07,Default - italics,killer d,0000,0000,0000,,That information alone is worth a great deal.
+Dialogue: 0,0:03:48.37,0:03:50.58,Default,mine,0000,0000,0000,,Looks like they've gotten pretty far.
+Dialogue: 0,0:03:51.39,0:03:54.19,Default,mine,0000,0000,0000,,I don't really like being seen, but...
+Dialogue: 0,0:03:57.48,0:03:58.92,Default,kiler e,0000,0000,0000,,I've got you!
+Dialogue: 0,0:04:01.45,0:04:02.76,Default,sheele,0000,0000,0000,,My apologies.
+Dialogue: 0,0:04:03.13,0:04:04.72,Default,mine,0000,0000,0000,,Thank you, Sheele.
+Dialogue: 0,0:04:05.15,0:04:06.44,Default,mine,0000,0000,0000,,It was a nice pinch.
+Dialogue: 0,0:04:06.44,0:04:08.61,Default,,0000,0000,0000,,That risk was enough to reach him!
+Dialogue: 0,0:04:23.70,0:04:25.44,Default,mine,0000,0000,0000,,All right... Bullseye.
+Dialogue: 0,0:04:25.44,0:04:29.37,Default,mine,0000,0000,0000,,The more trouble we're in, \Nthe greater Pumpkin's firepower.
+Dialogue: 0,0:04:29.75,0:04:30.29,Default,leone,0000,0000,0000,,Oh?
+Dialogue: 0,0:04:30.78,0:04:33.35,Default,leone,0000,0000,0000,,That was Mine's Pumpkin.
+Dialogue: 0,0:04:33.35,0:04:35.90,Default,leone,0000,0000,0000,,I'm surprised she'd use such an \Nannoying Imperial Arm...
+Dialogue: 0,0:04:36.39,0:04:40.30,Default,leone,0000,0000,0000,,In my case, I simply turn into \Na beast and hit people.
+Dialogue: 0,0:04:40.30,0:04:41.38,Default,,0000,0000,0000,,So simple!
+Dialogue: 0,0:04:42.42,0:04:44.75,Default,lub,0000,0000,0000,,I thought the resistance on the strings was light.
+Dialogue: 0,0:04:44.75,0:04:45.88,Default,lub,0000,0000,0000,,So, you're a girl.
+Dialogue: 0,0:04:46.16,0:04:48.93,Default,girl,0000,0000,0000,,Please save me! I'll do anything!
+Dialogue: 0,0:04:49.38,0:04:50.31,Default,lub,0000,0000,0000,,Nope.
+Dialogue: 0,0:04:51.01,0:04:54.14,Default,,0000,0000,0000,,I knew someone who died because \Nthey fell for a woman's charms.
+Dialogue: 0,0:05:10.20,0:05:12.22,Default,lub,0000,0000,0000,,Aw, such a waste.
+Dialogue: 0,0:05:13.20,0:05:15.97,Default,lub,0000,0000,0000,,This job really sucks at times like this...
+Dialogue: 0,0:05:33.62,0:05:34.22,Default,tatsu,0000,0000,0000,,Bro!
+Dialogue: 0,0:05:41.12,0:05:42.73,Default,tatsu,0000,0000,0000,,S-Strong...
+Dialogue: 0,0:05:43.26,0:05:47.20,Default - italics,tatsu,0000,0000,0000,,This is Night Raid's power?
+Dialogue: 0,0:05:48.77,0:05:50.62,Default,bul,0000,0000,0000,,So you survived, Tatsumi.
+Dialogue: 0,0:05:52.19,0:05:53.41,Default,tatsu,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:05:53.79,0:05:56.71,Default,bul,0000,0000,0000,,Good! That means you're \Nshowing promise, Tatsumi.
+Dialogue: 0,0:05:59.90,0:06:00.75,Default,tatsu,0000,0000,0000,,Right!
+Dialogue: 0,0:06:16.43,0:06:17.92,Default - italics,tatsu,0000,0000,0000,,Assassins...
+Dialogue: 0,0:06:17.92,0:06:19.81,Default - italics,,0000,0000,0000,,And the need for revolution.
+Dialogue: 0,0:06:20.43,0:06:21.70,Default - italics,,0000,0000,0000,,Night Raid.
+Dialogue: 0,0:06:22.60,0:06:25.90,Default,tatsu,0000,0000,0000,,Apparently, I joined an amazing group.
+Dialogue: 0,0:06:36.82,0:06:39.08,Default - italics,tatsu,0000,0000,0000,,Why did I just picture Bro's face?
+Dialogue: 0,0:06:45.51,0:06:47.21,Default - flashback,sayo,0000,0000,0000,,This is where the capital is.
+Dialogue: 0,0:06:47.44,0:06:49.63,Default - flashback,ieyasu,0000,0000,0000,,The vast castle walls that protect the capital,
+Dialogue: 0,0:06:49.63,0:06:51.60,Default - flashback,,0000,0000,0000,,the trade ships that go up and down the canals.
+Dialogue: 0,0:06:51.60,0:06:53.08,Default - flashback,ieyasu,0000,0000,0000,,There's a lot to look forward to.
+Dialogue: 0,0:06:53.92,0:06:56.50,Default - flashback,ieyasu,0000,0000,0000,,Especially all the hot babes there.
+Dialogue: 0,0:06:56.50,0:06:57.22,Default - flashback,tatsu,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:57.38,0:06:58.14,Default - flashback,sayo,0000,0000,0000,,So gross.
+Dialogue: 0,0:06:58.85,0:07:00.10,Default - flashback,ieyasu,0000,0000,0000,,Why just me?
+Dialogue: 0,0:07:03.78,0:07:05.69,Default - italics,tatsu,0000,0000,0000,,Sayo... Ieyasu...
+Dialogue: 0,0:07:06.40,0:07:08.62,Default - italics,tatsu,0000,0000,0000,,I'm gonna do my best.
+Dialogue: 0,0:07:17.46,0:07:18.91,Default,sheele,0000,0000,0000,,Is something the matter?
+Dialogue: 0,0:07:18.91,0:07:20.49,Default,tatsu,0000,0000,0000,,Oh, Sheele...
+Dialogue: 0,0:07:20.90,0:07:21.81,Default,tatsu,0000,0000,0000,,Well...
+Dialogue: 0,0:07:22.34,0:07:25.58,Default,tatsu,0000,0000,0000,,I was told, starting today, I'd be \Non assignment with Mine.
+Dialogue: 0,0:07:25.58,0:07:27.09,Default,tatsu,0000,0000,0000,,So I've been waiting, but...
+Dialogue: 0,0:07:27.29,0:07:30.37,Default,sheele,0000,0000,0000,,Oh, Mine doesn't wake up easily.
+Dialogue: 0,0:07:30.37,0:07:32.66,Default,tatsu,0000,0000,0000,,What the hell? But this is work...
+Dialogue: 0,0:07:33.14,0:07:34.94,Default,sheele,0000,0000,0000,,I guess it can't be helped...
+Dialogue: 0,0:07:34.94,0:07:36.53,Default,,0000,0000,0000,,Shall I go wake her up?
+Dialogue: 0,0:07:36.53,0:07:38.85,Default,najen,0000,0000,0000,,No, Tatsumi should go.
+Dialogue: 0,0:07:39.08,0:07:40.44,Default,tatsu,0000,0000,0000,,Why me?!
+Dialogue: 0,0:07:40.44,0:07:42.63,Default,najen,0000,0000,0000,,Tatsumi, you're Mine's subordinate today.
+Dialogue: 0,0:07:42.63,0:07:45.11,Default,najen,0000,0000,0000,,It's a subordinate's job to get his superior.
+Dialogue: 0,0:07:47.52,0:07:48.32,Default,tatsu,0000,0000,0000,,Fine.
+Dialogue: 0,0:07:50.93,0:07:52.77,Default,sheele,0000,0000,0000,,Is that true?
+Dialogue: 0,0:07:54.02,0:07:55.16,Default,najen,0000,0000,0000,,This is just another trial.
+Dialogue: 0,0:07:55.62,0:07:56.31,Default,sheele,0000,0000,0000,,Eh?
+Dialogue: 0,0:07:57.27,0:08:00.08,Default,tatsu,0000,0000,0000,,Hey, Mine! Hurry and wake up alrea—
+Dialogue: 0,0:08:15.33,0:08:17.07,Default,tatsu,0000,0000,0000,,A-Are you trying to kill me?!
+Dialogue: 0,0:08:17.07,0:08:18.16,Default,mine,0000,0000,0000,,Yes!
+Dialogue: 0,0:08:18.16,0:08:19.82,Default,mine,0000,0000,0000,,That's why I shot you!
+Dialogue: 0,0:08:19.82,0:08:21.98,Default,mine,0000,0000,0000,,How dare you dodge that, you perv!
+Dialogue: 0,0:08:22.29,0:08:23.45,Default,tatsu,0000,0000,0000,,You idiot!
+Dialogue: 0,0:08:23.45,0:08:27.27,Default,tatsu,0000,0000,0000,,I was told to come wake... you up...
+Dialogue: 0,0:08:27.55,0:08:30.53,Default,mine,0000,0000,0000,,Don't you know how to knock? You hick!
+Dialogue: 0,0:08:34.07,0:08:36.10,Default,leone,0000,0000,0000,,What was that? Is there some kind of festival?
+Dialogue: 0,0:08:36.10,0:08:37.81,Default,sheele,0000,0000,0000,,They're really going at it.
+Dialogue: 0,0:08:38.15,0:08:40.04,Default,najen,0000,0000,0000,,Looks like Tatsumi's going \Nto have more work to do.
+Dialogue: 0,0:08:47.63,0:08:51.30,Default - italics,tatsu,0000,0000,0000,,Now that I look more closely at \Nthe capital I admired so much,
+Dialogue: 0,0:08:51.30,0:08:53.42,Default - italics,tatsu,0000,0000,0000,,there are so many people with gloomy faces.
+Dialogue: 0,0:08:53.42,0:08:55.80,Default,mine,0000,0000,0000,,Hey! Hey, peeping tom!
+Dialogue: 0,0:08:55.80,0:08:59.03,Default,mine,0000,0000,0000,,What's taking you so long, you hick?
+Dialogue: 0,0:08:59.76,0:09:02.64,Default,mine,0000,0000,0000,,Today, you're following me around \Nas my minion, aren't you?
+Dialogue: 0,0:09:02.64,0:09:03.52,Default,tatsu,0000,0000,0000,,Minion?
+Dialogue: 0,0:09:03.52,0:09:05.00,Default,mine,0000,0000,0000,,Isn't that what the boss told you?
+Dialogue: 0,0:09:05.00,0:09:07.40,Default,tatsu,0000,0000,0000,,She just told me to learn from you!
+Dialogue: 0,0:09:07.67,0:09:10.04,Default,mine,0000,0000,0000,,Then that means you're my minion.
+Dialogue: 0,0:09:10.04,0:09:11.92,Default,mine,0000,0000,0000,,Just hurry it up!
+Dialogue: 0,0:09:11.92,0:09:13.15,Default,tatsu,0000,0000,0000,,H-Hey, wai—
+Dialogue: 0,0:09:16.90,0:09:17.90,Default,tatsu,0000,0000,0000,,Hey, Mine...
+Dialogue: 0,0:09:18.76,0:09:21.35,Default,tatsu,0000,0000,0000,,Doesn't it seem like lots \Nof people are suffering?
+Dialogue: 0,0:09:21.35,0:09:24.23,Default,mine,0000,0000,0000,,They're dealing with recession and \Nthe political realities of fear...
+Dialogue: 0,0:09:24.62,0:09:26.90,Default,mine,0000,0000,0000,,Only one social segment lives in prosperity.
+Dialogue: 0,0:09:26.90,0:09:28.85,Default,,0000,0000,0000,,The rest of them are in slums.
+Dialogue: 0,0:09:28.85,0:09:30.09,Default,,0000,0000,0000,,This is reality.
+Dialogue: 0,0:09:35.76,0:09:37.18,Default,tatssu,0000,0000,0000,,Hey, what are you guys do—
+Dialogue: 0,0:09:37.18,0:09:39.51,Default,mine,0000,0000,0000,,Stop picking on the weak.
+Dialogue: 0,0:09:40.08,0:09:41.73,Default,boy a,0000,0000,0000,,Who the hell are you guys?
+Dialogue: 0,0:09:41.73,0:09:45.29,Default,boy b,0000,0000,0000,,This girl is a refugee.
+Dialogue: 0,0:09:45.29,0:09:47.23,Default,,0000,0000,0000,,She has to do what we say.
+Dialogue: 0,0:09:47.23,0:09:48.19,Default,mine,0000,0000,0000,,And?
+Dialogue: 0,0:09:49.38,0:09:50.13,Default,mine,0000,0000,0000,,Tatsumi?
+Dialogue: 0,0:09:50.13,0:09:50.83,Default,tatsu,0000,0000,0000,,Right.
+Dialogue: 0,0:10:01.66,0:10:03.62,Default,girl,0000,0000,0000,,U-Um, thank you—
+Dialogue: 0,0:10:03.62,0:10:05.24,Default,mine,0000,0000,0000,,Don't thank me.
+Dialogue: 0,0:10:05.97,0:10:09.05,Default,mine,0000,0000,0000,,You need to learn how to protect yourself.
+Dialogue: 0,0:10:15.04,0:10:18.71,Default,tatsu,0000,0000,0000,,By the way, is it all right for us \Nto walk around during the day?
+Dialogue: 0,0:10:18.71,0:10:19.40,Default,mine,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:19.40,0:10:22.68,Default,mine,0000,0000,0000,,Well, those four are the only ones \Nwhose faces have been seen.
+Dialogue: 0,0:10:23.53,0:10:24.76,Default,tatsu,0000,0000,0000,,I see...
+Dialogue: 0,0:10:26.56,0:10:28.33,Default,tatsu,0000,0000,0000,,Who's the guy in the middle?
+Dialogue: 0,0:10:28.33,0:10:29.48,Default,mine,0000,0000,0000,,Bulat.
+Dialogue: 0,0:10:29.48,0:10:31.40,Default,tatsu,0000,0000,0000,,Oh, Bulat...
+Dialogue: 0,0:10:32.69,0:10:34.62,Default,tatsu,0000,0000,0000,,B-Bro?
+Dialogue: 0,0:10:34.62,0:10:36.74,Default,mine,0000,0000,0000,,That's what he looked like when \Nhe was in the military.
+Dialogue: 0,0:10:36.74,0:10:38.86,Default,mine,0000,0000,0000,,He changed his image after joining Night Raid.
+Dialogue: 0,0:10:41.80,0:10:43.48,Default,tatsu,0000,0000,0000,,Isn't that going a bit far?
+Dialogue: 0,0:10:45.05,0:10:48.28,Default,tatsu,0000,0000,0000,,Th-This is like the world's \Nworst "before and after."
+Dialogue: 0,0:10:48.28,0:10:50.74,Default,mine,0000,0000,0000,,Anyway, this is why the two of \Nus, who haven't been seen,
+Dialogue: 0,0:10:50.74,0:10:52.30,Default,,0000,0000,0000,,have an assignment here.
+Dialogue: 0,0:10:52.30,0:10:53.14,Default,mine,0000,0000,0000,,Got it?
+Dialogue: 0,0:10:53.14,0:10:54.37,Default,tatsu,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:10:54.37,0:10:56.30,Default,,0000,0000,0000,,That's why you brought me, right?
+Dialogue: 0,0:10:56.30,0:10:57.28,Default,mine,0000,0000,0000,,Good!
+Dialogue: 0,0:10:57.28,0:10:59.64,Default,mine,0000,0000,0000,,Let's begin the investigation into \Nthe capital city's conditions!
+Dialogue: 0,0:10:59.64,0:11:01.89,Default,tatsu,0000,0000,0000,,I don't really know what's going on, but sure!
+Dialogue: 0,0:11:20.86,0:11:22.41,Default,mine,0000,0000,0000,,What a haul!
+Dialogue: 0,0:11:22.41,0:11:25.27,Default,mine,0000,0000,0000,,For spring, pink clothes are best...
+Dialogue: 0,0:11:25.61,0:11:26.62,Default,tatsu,0000,0000,0000,,Right.
+Dialogue: 0,0:11:26.62,0:11:29.36,Default,mine,0000,0000,0000,,We have to stretch our wings on our days off.
+Dialogue: 0,0:11:29.36,0:11:30.16,Default,tatsu,0000,0000,0000,,Right.
+Dialogue: 0,0:11:31.14,0:11:32.92,Default,mine,0000,0000,0000,,All right, mission complete!
+Dialogue: 0,0:11:33.28,0:11:35.75,Default,tatsu,0000,0000,0000,,The hell? This was just shopping!
+Dialogue: 0,0:11:35.94,0:11:37.12,Default,mine,0000,0000,0000,,Lower your head.
+Dialogue: 0,0:11:38.80,0:11:41.37,Default,mine,0000,0000,0000,,I'm on top, and you're the bottom.
+Dialogue: 0,0:11:41.37,0:11:42.89,Default,mine,0000,0000,0000,,A subordinate shouldn't talk back.
+Dialogue: 0,0:11:43.84,0:11:46.68,Default,mine,0000,0000,0000,,You should be thankful you're \Ncarrying my packages!
+Dialogue: 0,0:11:47.34,0:11:49.85,Default,tatsu,0000,0000,0000,,You're my superior, but only for the moment!
+Dialogue: 0,0:11:49.85,0:11:51.64,Default,tatsu,0000,0000,0000,,And this isn't any kind of training!
+Dialogue: 0,0:11:51.64,0:11:53.02,Default,mine,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:53.02,0:11:55.71,Default,,0000,0000,0000,,You really thought you'd be on \Nequal terms just like that?
+Dialogue: 0,0:11:56.14,0:11:58.82,Default,mine,0000,0000,0000,,Sounds like you're confident with your sword.
+Dialogue: 0,0:12:01.08,0:12:04.11,Default,mine,0000,0000,0000,,But compared to you, the number of battles \Nwe've faced is far too different.
+Dialogue: 0,0:12:04.78,0:12:05.66,Default,tatsu,0000,0000,0000,,Even I...
+Dialogue: 0,0:12:07.11,0:12:11.39,Default,tatsu,0000,0000,0000,,Even I know that I'm not experienced enough.
+Dialogue: 0,0:12:12.28,0:12:12.87,Default,tatsu,0000,0000,0000,,But...
+Dialogue: 0,0:12:13.32,0:12:15.34,Default,tatsu,0000,0000,0000,,I still have to keep moving forward.
+Dialogue: 0,0:12:15.34,0:12:17.09,Default,tatsu,0000,0000,0000,,For Sayo and Ieyasu's sake!
+Dialogue: 0,0:12:19.33,0:12:20.03,Default,mine,0000,0000,0000,,Hmph.
+Dialogue: 0,0:12:20.32,0:12:23.22,Default,,0000,0000,0000,,It seems Akame and Bulat \Nhave high hopes for you,
+Dialogue: 0,0:12:23.22,0:12:24.64,Default,mine,0000,0000,0000,,but I wonder...
+Dialogue: 0,0:12:28.18,0:12:29.34,Default,tatsu,0000,0000,0000,,What's that fuss about?
+Dialogue: 0,0:12:29.64,0:12:31.14,Default,mine,0000,0000,0000,,They're probably having a public execution.
+Dialogue: 0,0:12:31.50,0:12:33.40,Default,mine,0000,0000,0000,,In the capital, it happens all the time.
+Dialogue: 0,0:12:45.35,0:12:46.05,Default,tatsu,0000,0000,0000,,That...
+Dialogue: 0,0:12:46.99,0:12:48.74,Default,,0000,0000,0000,,That's awful.
+Dialogue: 0,0:12:49.43,0:12:52.33,Default,mine,0000,0000,0000,,The current cabinet minister \Ncan do this without remorse.
+Dialogue: 0,0:12:52.80,0:12:56.25,Default,mine,0000,0000,0000,,In the quarrel over succession, he cunningly \Nobtained the title for the youngest heir.
+Dialogue: 0,0:12:56.96,0:12:57.67,Default,mine,0000,0000,0000,,I won't
+Dialogue: 0,0:12:58.71,0:13:00.38,Default,mine,0000,0000,0000,,end up like that.
+Dialogue: 0,0:13:02.83,0:13:05.34,Default,mine,0000,0000,0000,,I'm going to survive and be one of the winners.
+Dialogue: 0,0:13:08.10,0:13:09.71,Default - italics,tatsu,0000,0000,0000,,A sly minister, huh?
+Dialogue: 0,0:13:10.41,0:13:13.01,Default - italics,tatsu,0000,0000,0000,,I wonder what he's like.
+Dialogue: 0,0:13:22.84,0:13:24.43,Default,emp,0000,0000,0000,,Domestic Affairs Official Shoui,
+Dialogue: 0,0:13:24.98,0:13:28.22,Default,emp,0000,0000,0000,,for speaking against my policies and \Ndelaying government affairs,
+Dialogue: 0,0:13:28.22,0:13:31.45,Default,emp,0000,0000,0000,,you are sentenced to death by being \Ndrawn and quartered by bulls.
+Dialogue: 0,0:13:34.69,0:13:36.58,Default,emp,0000,0000,0000,,This is what needs to be done, right, Minister?
+Dialogue: 0,0:13:39.03,0:13:40.49,Default,min,0000,0000,0000,,Well done, my lord.
+Dialogue: 0,0:13:40.92,0:13:44.30,Default,min,0000,0000,0000,,You are such a wise ruler, my lord...
+Dialogue: 0,0:13:44.59,0:13:47.43,Default,emp,0000,0000,0000,,Meat again? You sure eat a lot.
+Dialogue: 0,0:13:48.71,0:13:51.31,Default,min,0000,0000,0000,,Well, it's best to eat it when it's fresh.
+Dialogue: 0,0:13:51.72,0:13:53.27,Default,min,0000,0000,0000,,Buono, buono.
+Dialogue: 0,0:13:54.29,0:13:57.02,Default,shou,0000,0000,0000,,My lord! You're being tricked by the Minister!
+Dialogue: 0,0:13:57.29,0:14:00.99,Default,shou,0000,0000,0000,,Please listen to your people!
+Dialogue: 0,0:14:01.69,0:14:04.39,Default,emp,0000,0000,0000,,Hey, Minister, did you hear what \Nhe just said about you?
+Dialogue: 0,0:14:04.83,0:14:07.38,Default,min,0000,0000,0000,,I'm sure he's merely gone mad.
+Dialogue: 0,0:14:07.38,0:14:11.37,Default,emp,0000,0000,0000,,Right! After all, you've never been wrong!
+Dialogue: 0,0:14:13.33,0:14:14.50,Default,min,0000,0000,0000,,Sir Shoui...
+Dialogue: 0,0:14:15.70,0:14:17.37,Default,min,0000,0000,0000,,This is our sad farewell.
+Dialogue: 0,0:14:17.37,0:14:18.69,Default,shou,0000,0000,0000,,My lord!
+Dialogue: 0,0:14:18.69,0:14:21.50,Default,,0000,0000,0000,,At this rate, the empire's glorious \N1,000-year history will be...
+Dialogue: 0,0:14:25.09,0:14:26.57,Default,min,0000,0000,0000,,Sir Shoui,
+Dialogue: 0,0:14:27.23,0:14:32.54,Default,min,0000,0000,0000,,don't worry about that beautiful \Nwife you're leaving behind.
+Dialogue: 0,0:14:32.96,0:14:35.31,Default,min,0000,0000,0000,,I'll take good care of her...
+Dialogue: 0,0:14:36.34,0:14:38.44,Default,min,0000,0000,0000,,To the fullest extent.
+Dialogue: 0,0:14:41.50,0:14:46.73,Default,shou,0000,0000,0000,,Is... Is this really allowed to happen?
+Dialogue: 0,0:14:47.33,0:14:50.13,Default,shou,0000,0000,0000,,Every crime cries for punishment.
+Dialogue: 0,0:14:50.70,0:14:53.03,Default,shou,0000,0000,0000,,Anyone, please...
+Dialogue: 0,0:14:53.49,0:14:57.41,Default,shou,0000,0000,0000,,Please see that this demon \Ngets what he deserves!
+Dialogue: 0,0:14:59.33,0:15:01.07,Default,najen,0000,0000,0000,,We just got a new assignment.
+Dialogue: 0,0:15:01.67,0:15:05.88,Default,najen,0000,0000,0000,,The target, Iokal, is distantly \Nrelated to Minister Onest.
+Dialogue: 0,0:15:06.35,0:15:07.88,Default,najen,0000,0000,0000,,He's uses the minister's name
+Dialogue: 0,0:15:07.88,0:15:11.06,Default,,0000,0000,0000,,to kidnap women and beat them to death.
+Dialogue: 0,0:15:11.06,0:15:12.55,Default,najen,0000,0000,0000,,His five guards
+Dialogue: 0,0:15:12.55,0:15:15.19,Default,,0000,0000,0000,,are getting their shares, \Nand are guilty, as well.
+Dialogue: 0,0:15:15.87,0:15:17.10,Default,najen,0000,0000,0000,,This is an extremely important mission.
+Dialogue: 0,0:15:17.74,0:15:19.06,Default,najen,0000,0000,0000,,I'm sending in all of you!
+Dialogue: 0,0:15:20.77,0:15:23.13,Default,tatsu,0000,0000,0000,,Then that's the mansion Iokal lives in.
+Dialogue: 0,0:15:24.26,0:15:25.52,Default,tatsu,0000,0000,0000,,It's huge.
+Dialogue: 0,0:15:26.71,0:15:27.34,Default,tatsu,0000,0000,0000,,Hey.
+Dialogue: 0,0:15:27.34,0:15:28.48,Default,mine,0000,0000,0000,,What?
+Dialogue: 0,0:15:28.48,0:15:30.34,Default,tatsu,0000,0000,0000,,Is that another of those Imperial Arms?
+Dialogue: 0,0:15:30.34,0:15:32.45,Default,mine,0000,0000,0000,,Yeah, Imperial Arm Pumpkin.
+Dialogue: 0,0:15:32.86,0:15:36.28,Default,mine,0000,0000,0000,,The more of a pinch its user is in, \Nthe more its destructive power.
+Dialogue: 0,0:15:36.91,0:15:40.29,Default,mine,0000,0000,0000,,Though I'm never in a pinch.
+Dialogue: 0,0:15:40.65,0:15:43.30,Default,tatsu,0000,0000,0000,,How do you even make something like that?
+Dialogue: 0,0:15:43.62,0:15:45.84,Default,mine,0000,0000,0000,,Imperial Arms are ancient super weapons.
+Dialogue: 0,0:15:45.84,0:15:48.40,Default,,0000,0000,0000,,And currently, it's unclear how they were made.
+Dialogue: 0,0:15:48.40,0:15:50.33,Default,mine,0000,0000,0000,,You're really nosy, you know that?
+Dialogue: 0,0:15:54.19,0:15:56.61,Default,mine,0000,0000,0000,,I shouldn't have any problem at this distance.
+Dialogue: 0,0:15:56.61,0:15:59.39,Default,mine,0000,0000,0000,,As soon as he leaves his mansion, \NI'll shoot right through him.
+Dialogue: 0,0:15:59.39,0:16:03.62,Default,tatsu,0000,0000,0000,,All right! After you snipe him, \Nmy job is to be your escort.
+Dialogue: 0,0:16:03.62,0:16:04.74,Default,tatsu,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:16:04.74,0:16:05.54,Default,mine,0000,0000,0000,,Hmph.
+Dialogue: 0,0:16:05.98,0:16:07.79,Default,,0000,0000,0000,,I'm not expecting anything.
+Dialogue: 0,0:16:16.13,0:16:18.03,Default - italics,tatsu,0000,0000,0000,,Her concentration is amazing.
+Dialogue: 0,0:16:18.03,0:16:20.20,Default - italics,,0000,0000,0000,,I can feel her drive from here.
+Dialogue: 0,0:16:20.20,0:16:21.17,Default,mine,0000,0000,0000,,He came out.
+Dialogue: 0,0:16:21.17,0:16:21.92,Default,tatsu,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:22.25,0:16:23.14,Default,,0000,0000,0000,,Where?
+Dialogue: 0,0:16:25.46,0:16:28.27,Default,tatsu,0000,0000,0000,,A lot of people who aren't \Nour target came out, as well.
+Dialogue: 0,0:16:28.27,0:16:29.35,Default,mine,0000,0000,0000,,And?
+Dialogue: 0,0:16:29.35,0:16:30.77,Default,tatsu,0000,0000,0000,,What do you mean, "and"?
+Dialogue: 0,0:16:30.77,0:16:32.29,Default,tatsu,0000,0000,0000,,How are you going to shoot him?
+Dialogue: 0,0:16:32.29,0:16:33.49,Default,mine,0000,0000,0000,,It's irrelevant.
+Dialogue: 0,0:16:33.78,0:16:35.09,Default,tatsu,0000,0000,0000,,Irrelevant?
+Dialogue: 0,0:16:35.09,0:16:37.47,Default,,0000,0000,0000,,You don't mean you're going \Nto involve innocent pe—
+Dialogue: 0,0:16:45.71,0:16:48.57,Default,mine,0000,0000,0000,,I'm a master sniper.
+Dialogue: 0,0:16:49.21,0:16:52.00,Default,guy a,0000,0000,0000,,Find the person who killed Lord Iokal at once!
+Dialogue: 0,0:16:52.00,0:16:54.81,Default,guy a,0000,0000,0000,,If they get away, the minister will kill us.
+Dialogue: 0,0:16:54.81,0:16:56.41,Default,guy b,0000,0000,0000,,They couldn't have gone far!
+Dialogue: 0,0:16:58.88,0:17:00.41,Default,leone,0000,0000,0000,,Here they come.
+Dialogue: 0,0:17:00.54,0:17:04.37,Default,,0000,0000,0000,,This time, I'm gonna get wild!
+Dialogue: 0,0:17:06.39,0:17:10.10,Default,mine,0000,0000,0000,,Ugh... This other route is \Nreally hard to traverse.
+Dialogue: 0,0:17:10.55,0:17:12.05,Default,tatsu,0000,0000,0000,,I wonder if all pursuit has been eliminated.
+Dialogue: 0,0:17:12.83,0:17:16.13,Default,mine,0000,0000,0000,,All the guards around here \Nhave trained at Koukenji.
+Dialogue: 0,0:17:16.13,0:17:17.84,Default,mine,0000,0000,0000,,It probably won't be that easy.
+Dialogue: 0,0:17:17.84,0:17:21.01,Default,tatsu,0000,0000,0000,,Koukenji, the empire's top martial arts temple.
+Dialogue: 0,0:17:17.84,0:17:21.47,SignA,sign,0000,0000,0000,,Koukenji
+Dialogue: 0,0:17:21.87,0:17:25.58,Default,tatsu,0000,0000,0000,,When you work for the minister, I guess \Nthey don't mess around with the guards.
+Dialogue: 0,0:17:25.58,0:17:27.78,Default,mine,0000,0000,0000,,Doing anything because of \Nwho they're related to...
+Dialogue: 0,0:17:27.78,0:17:29.73,Default,mine,0000,0000,0000,,That pisses me off more than anything else.
+Dialogue: 0,0:17:33.22,0:17:34.70,Default - italics,tatsu,0000,0000,0000,,I wonder what happened in her past.
+Dialogue: 0,0:17:36.47,0:17:39.55,Default,mine,0000,0000,0000,,As a special treat, I'll tell you \Na little about my past.
+Dialogue: 0,0:17:39.55,0:17:40.91,Default - italics,tatsu,0000,0000,0000,,She's gonna tell me anyway!
+Dialogue: 0,0:17:43.68,0:17:46.62,Default,mine,0000,0000,0000,,I'm from a land near the western border.
+Dialogue: 0,0:17:47.61,0:17:49.45,Default,,0000,0000,0000,,And I'm half foreigner.
+Dialogue: 0,0:17:50.03,0:17:52.13,Default,mine,0000,0000,0000,,In the city, I was really discriminated against.
+Dialogue: 0,0:17:52.87,0:17:55.63,Default,mine,0000,0000,0000,,No one accepted me.
+Dialogue: 0,0:17:56.58,0:17:58.56,Default,mine,0000,0000,0000,,It was a very tragic childhood.
+Dialogue: 0,0:18:00.03,0:18:01.08,Default,mine,0000,0000,0000,,But...
+Dialogue: 0,0:18:01.08,0:18:05.13,Default,mine,0000,0000,0000,,The Revolutionary Army and the \Nwestern foreigners are allies.
+Dialogue: 0,0:18:05.13,0:18:09.61,Default,mine,0000,0000,0000,,Once the capital has a new ruler, borders will \Nbe opened and geography won't matter.
+Dialogue: 0,0:18:09.96,0:18:13.94,Default,mine,0000,0000,0000,,Then others won't have to go through what I did.
+Dialogue: 0,0:18:14.38,0:18:17.45,Default,mine,0000,0000,0000,,I won't let anyone be discriminated against again!
+Dialogue: 0,0:18:18.92,0:18:19.66,Default,tatsumi,0000,0000,0000,,Mine...
+Dialogue: 0,0:18:20.79,0:18:23.48,Default,mine,0000,0000,0000,,And so, I'll get rich from the reward
+Dialogue: 0,0:18:23.48,0:18:26.90,Default,,0000,0000,0000,,from helping the revolution, \Nand I'll live a life of luxury!
+Dialogue: 0,0:18:32.56,0:18:34.22,Default,leone,0000,0000,0000,,I feel so refreshed and calm!
+Dialogue: 0,0:18:34.80,0:18:36.55,Default,sheele,0000,0000,0000,,They were quite strong.
+Dialogue: 0,0:18:37.00,0:18:38.07,Default,akame,0000,0000,0000,,It's strange...
+Dialogue: 0,0:18:38.65,0:18:40.97,Default,akame,0000,0000,0000,,There should have been five guards.
+Dialogue: 0,0:18:41.35,0:18:44.69,Default,lub,0000,0000,0000,,I didn't even get to kill one... \NSo we're missing one.
+Dialogue: 0,0:18:44.69,0:18:46.98,Default,leone,0000,0000,0000,,Then you only get half the reward, Lubbock.
+Dialogue: 0,0:18:46.98,0:18:47.60,Default,lub,0000,0000,0000,,What?!
+Dialogue: 0,0:18:48.08,0:18:50.42,Default,lub,0000,0000,0000,,That's not fair, Sis!
+Dialogue: 0,0:18:48.54,0:18:50.42,Default,leone,0000,0000,0000,,Half a man...
+Dialogue: 0,0:18:54.36,0:18:55.32,Default,akame,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:18:59.15,0:19:01.02,Default,mine,0000,0000,0000,,This is where we're supposed to regroup.
+Dialogue: 0,0:19:01.02,0:19:02.37,Default,misne,0000,0000,0000,,Mission complete.
+Dialogue: 0,0:19:02.84,0:19:04.83,Default,tatsu,0000,0000,0000,,It's not complete until we report it!
+Dialogue: 0,0:19:05.76,0:19:07.22,Default,mine,0000,0000,0000,,Did you get that from Akame?
+Dialogue: 0,0:19:10.00,0:19:10.88,Default,tatsu,0000,0000,0000,,Look out!
+Dialogue: 0,0:19:10.43,0:19:10.88,Default,mine,0000,0000,0000,,He—
+Dialogue: 0,0:19:13.13,0:19:13.91,Default,mine,0000,0000,0000,,Tatsumi!
+Dialogue: 0,0:19:13.91,0:19:15.25,Default,mine,0000,0000,0000,,Wh-Why, you...
+Dialogue: 0,0:19:15.59,0:19:18.36,Default,guy,0000,0000,0000,,Not bad, if I do say so myself.
+Dialogue: 0,0:19:18.36,0:19:20.26,Default,mine,0000,0000,0000,,You must be a Koukenji martial artist.
+Dialogue: 0,0:19:20.74,0:19:23.36,Default,guy,0000,0000,0000,,Precisely. I was even a master...
+Dialogue: 0,0:19:23.69,0:19:25.31,Default,guy,0000,0000,0000,,Though that was ten years ago!
+Dialogue: 0,0:19:25.69,0:19:28.13,Default,mine,0000,0000,0000,,And now, you're just a lowly guard?
+Dialogue: 0,0:19:28.13,0:19:30.56,Default,mine,0000,0000,0000,,Looks like you've fallen from the ranks!
+Dialogue: 0,0:19:30.56,0:19:32.69,Default,guy,0000,0000,0000,,I was a little bad, so they kicked me out.
+Dialogue: 0,0:19:36.64,0:19:39.00,Default,guy,0000,0000,0000,,I'll have a little fun before I hand \Nyou over to the minister.
+Dialogue: 0,0:19:39.00,0:19:40.03,Default,guy,0000,0000,0000,,Hope you're prepared!
+Dialogue: 0,0:19:41.03,0:19:42.28,Default,mine,0000,0000,0000,,You've got to be kidding.
+Dialogue: 0,0:19:49.72,0:19:51.17,Default,tatsu,0000,0000,0000,,Now, Mine! Shoot!
+Dialogue: 0,0:19:52.27,0:19:53.44,Default,mine,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:19:54.23,0:19:56.46,Default,,0000,0000,0000,,You're risking your life to...
+Dialogue: 0,0:19:56.63,0:19:58.09,Default,tatsu,0000,0000,0000,,No, I'm not, you idiot!
+Dialogue: 0,0:19:58.54,0:20:00.55,Default,tatsumi,0000,0000,0000,,You're a master sniper, right?
+Dialogue: 0,0:20:00.55,0:20:01.55,Default,tatsu,0000,0000,0000,,I believe in you.
+Dialogue: 0,0:20:04.71,0:20:07.10,Default,guy,0000,0000,0000,,Why you... Damn it, let go...
+Dialogue: 0,0:20:06.78,0:20:07.72,Default,tatsu,0000,0000,0000,,Hurry!
+Dialogue: 0,0:20:08.74,0:20:10.40,Default,mine,0000,0000,0000,,You stupid newbie.
+Dialogue: 0,0:20:11.05,0:20:13.06,Default,mine,0000,0000,0000,,All right, I'll do it!
+Dialogue: 0,0:20:13.76,0:20:14.31,Default,guy,0000,0000,0000,,Wait!
+Dialogue: 0,0:20:35.57,0:20:36.77,Default,guy,0000,0000,0000,,You bastards...
+Dialogue: 0,0:20:36.77,0:20:38.41,Default,guy,0000,0000,0000,,Don't think you'll get away...
+Dialogue: 0,0:20:38.41,0:20:42.09,Default,,0000,0000,0000,,with killing one of the minister's relatives...
+Dialogue: 0,0:20:50.72,0:20:53.78,Default,mine,0000,0000,0000,,You've got some guts.
+Dialogue: 0,0:20:54.68,0:20:57.19,Default,mine,0000,0000,0000,,I guess I have no choice but to \Nacknowledge you a little—
+Dialogue: 0,0:20:57.19,0:20:59.94,Default,tatsu,0000,0000,0000,,That bullet was way too close...
+Dialogue: 0,0:21:00.39,0:21:03.20,Default,tatsu,0000,0000,0000,,Look what you did to my head!
+Dialogue: 0,0:21:03.42,0:21:05.54,Default,mine,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:21:05.54,0:21:07.71,Default,mine,0000,0000,0000,,And I was just about to acknowledge you!
+Dialogue: 0,0:21:07.71,0:21:08.62,Default,tatsu,0000,0000,0000,,Shut up!
+Dialogue: 0,0:21:08.62,0:21:10.37,Default,tatsu,0000,0000,0000,,You're no master sniper.
+Dialogue: 0,0:21:10.37,0:21:11.31,Default,tatsu,0000,0000,0000,,{\an8}You aren't even competent!
+Dialogue: 0,0:21:10.58,0:21:13.12,Default,leone,0000,0000,0000,,Apparently, we didn't need to \Nrush over here, after all.
+Dialogue: 0,0:21:11.31,0:21:13.12,Default,mine,0000,0000,0000,,{\an8}What? Of course I am!
+Dialogue: 0,0:21:13.68,0:21:16.07,Default,tatsu,0000,0000,0000,,Masters don't call themselves \N"masters," to begin with!
+Dialogue: 0,0:21:20.64,0:21:22.73,Default,zank,0000,0000,0000,,Just like me...
+Dialogue: 0,0:21:22.73,0:21:26.51,Default,zank,0000,0000,0000,,An Imperial Arm user, an assassin...
+Dialogue: 0,0:21:27.54,0:21:29.71,Default,zank,0000,0000,0000,,Splendid... Splendid.
+Dialogue: 0,0:21:29.71,0:21:31.77,Default,zank,0000,0000,0000,,So someone like her is running amok.
+Dialogue: 0,0:21:32.12,0:21:33.89,Default,guard a,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:21:33.89,0:21:36.44,Default,guard b,0000,0000,0000,,You look suspicious... Don't move!
+Dialogue: 0,0:21:43.80,0:21:48.44,Default,zank,0000,0000,0000,,It appears that the capital is a \Nvery comfortable place to live.
+Dialogue: 0,0:21:49.24,0:21:52.98,Default,zank,0000,0000,0000,,There are so many people, there's no \Nend to the number I can cut down!
+Dialogue: 0,0:21:52.98,0:21:55.24,Default,zank,0000,0000,0000,,Splendid... Splendid.
+Dialogue: 0,0:23:35.39,0:23:41.02,Title2,sign,0000,0000,0000,,{\fad(442,1)}Kill the Imperial Arm Users

@@ -1,0 +1,422 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,27,&H0012111B,&H000000FF,&H0067855D,&H00000000,1,0,0,0,100,100,0,0,1,2,0,4,107,53,27,0
+Style: SignB,Open Sans Semibold,27,&H0012111B,&H000000FF,&H00748E6B,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,87,53,347,0
+Style: SignC,Open Sans Semibold,30,&H00000000,&H000000FF,&H0097CEE0,&H00000000,1,0,0,0,100,100,0,0,1,2,0,5,13,13,24,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.51,0:00:04.90,Default,Gebaze,0000,0000,0000,,Livestock...
+Dialogue: 0,0:00:04.90,0:00:06.02,Default,Gebaze,0000,0000,0000,,Livestock...
+Dialogue: 0,0:00:06.02,0:00:07.15,Default,Gebaze,0000,0000,0000,,Livestock.
+Dialogue: 0,0:00:07.15,0:00:10.11,Default,Gabaze,0000,0000,0000,,Everyone has a splendid look on their faces.
+Dialogue: 0,0:00:10.11,0:00:13.07,Default,Gebaze,0000,0000,0000,,Feeble pigs, simply existing to be exploited.
+Dialogue: 0,0:00:16.99,0:00:21.04,Default,Gebaze,0000,0000,0000,,Wine bought with citizen taxes sure is delicious.
+Dialogue: 0,0:00:21.32,0:00:23.85,Default,Chelsea,0000,0000,0000,,Master, it's time for your massage.
+Dialogue: 0,0:00:23.85,0:00:24.58,Default,Gebaze,0000,0000,0000,,Oh!
+Dialogue: 0,0:00:25.09,0:00:28.92,Default,Gebaze,0000,0000,0000,,Today, I'd like the refreshing,\N full-body rubdown.
+Dialogue: 0,0:00:33.57,0:00:35.27,Default,Chelsea,0000,0000,0000,,The job's done.
+Dialogue: 0,0:00:35.27,0:00:37.30,Default,Chelsea,0000,0000,0000,,What the hell kind of massage did he even want?
+Dialogue: 0,0:00:38.72,0:00:40.14,Default,Wave,0000,0000,0000,,We're the Jaegers!
+Dialogue: 0,0:00:40.14,0:00:43.35,Default,Wave,0000,0000,0000,,Due to an emergency, we'll be \Ninspecting your quarters!
+Dialogue: 0,0:00:44.04,0:00:45.06,Default,Kurome,0000,0000,0000,,Wave...
+Dialogue: 0,0:00:46.16,0:00:47.46,Default,Wave,0000,0000,0000,,We were too late...
+Dialogue: 0,0:00:48.10,0:00:54.19,Default,Chelsea,0000,0000,0000,,So our information was leaked, \Nand I almost ran into the Jaegers.
+Dialogue: 0,0:00:54.41,0:00:56.28,Default,Mine,0000,0000,0000,,And you still managed to safely escape.
+Dialogue: 0,0:00:56.28,0:00:57.61,Default,Mine,0000,0000,0000,,You're pretty tough.
+Dialogue: 0,0:00:58.39,0:00:59.74,Default,Chelsea,0000,0000,0000,,He owned a few cats,
+Dialogue: 0,0:00:59.74,0:01:02.78,Default,Chelsea,0000,0000,0000,,so I transformed into one and snuck out.
+Dialogue: 0,0:01:03.89,0:01:06.84,Default,Mine,0000,0000,0000,,I would have had difficulty getting out.
+Dialogue: 0,0:01:06.84,0:01:09.29,Default,Mine,0000,0000,0000,,I hate to admit it, but your \NImperial Arms is actually pretty useful.
+Dialogue: 0,0:01:09.29,0:01:12.58,Default,Chelsea,0000,0000,0000,,For someone like you, with a recognizable \Nface, the situation's pretty tough.
+Dialogue: 0,0:01:12.58,0:01:15.51,Default,Chelsea,0000,0000,0000,,From now on, you can just \Nleave everything to me.
+Dialogue: 0,0:01:16.91,0:01:18.01,Default,Mine,0000,0000,0000,,Chelsea...
+Dialogue: 0,0:01:18.30,0:01:21.01,Default,Chelsea,0000,0000,0000,,So while I'm out, babysit the hideout, okay?
+Dialogue: 0,0:01:21.01,0:01:22.47,Default,Chelsea,0000,0000,0000,,Miss Substitute.
+Dialogue: 0,0:01:23.14,0:01:25.19,Default,Mine,0000,0000,0000,,How dare you insult your comrade like that?
+Dialogue: 0,0:01:25.19,0:01:27.11,Default,Mine,0000,0000,0000,,You're unforgivable!
+Dialogue: 0,0:01:28.77,0:01:31.52,Default,Tatsumi,0000,0000,0000,,Even though you've said similar things before...
+Dialogue: 0,0:01:32.12,0:01:33.69,Default,Akame,0000,0000,0000,,Bearing this incident in mind,
+Dialogue: 0,0:01:33.69,0:01:36.36,Default,Akame,0000,0000,0000,,the Jaegers seem to be targeting us directly now.
+Dialogue: 0,0:01:36.68,0:01:39.32,Default,Leone,0000,0000,0000,,All the new Danger Beasts have been exterminated,
+Dialogue: 0,0:01:39.32,0:01:42.45,Default,Leone,0000,0000,0000,,so Night Raid's the only thing left in their way.
+Dialogue: 0,0:01:42.98,0:01:46.79,Default,Leone,0000,0000,0000,,Maybe they'd leave us alone \Nif we gave them Tatsumi,
+Dialogue: 0,0:01:46.79,0:01:49.09,Default,Leone,0000,0000,0000,,who's been vacationing on the southern islands.
+Dialogue: 0,0:01:49.95,0:01:52.46,Default,Tatsumi,0000,0000,0000,,I told you that I was forced into that!
+Dialogue: 0,0:01:49.95,0:01:52.46,SignA,Tatsumi,0000,0000,0000,,
+Dialogue: 0,0:01:52.46,0:01:58.47,SignB,,0000,0000,0000,,Najenda
+Dialogue: 0,0:01:52.92,0:01:56.21,Default,Lubbok,0000,0000,0000,,On a southern island, with only a beautiful woman...
+Dialogue: 0,0:01:56.21,0:01:58.47,Default,Lubbok,0000,0000,0000,,It isn't like I'm jealous or anything.
+Dialogue: 0,0:01:58.47,0:02:05.47,SignA,,0000,0000,0000,,{\an8\fs22}Najenda
+Dialogue: 0,0:01:59.03,0:02:02.22,Default,Lubbok,0000,0000,0000,,But why didn't you just leave her there?
+Dialogue: 0,0:02:02.22,0:02:03.97,Default,Lubbok,0000,0000,0000,,After all, she's the enemy.
+Dialogue: 0,0:02:03.97,0:02:05.47,Default,Lubbok,0000,0000,0000,,And it isn't like anyone's jealous or anything.
+Dialogue: 0,0:02:05.47,0:02:06.94,Default,Lubbok,0000,0000,0000,,No, seriously...
+Dialogue: 0,0:02:06.94,0:02:08.74,Default,Leone,0000,0000,0000,,Wipe your tears, Lubba...
+Dialogue: 0,0:02:08.74,0:02:12.23,Default,Leone,0000,0000,0000,,Here, I'll overwrite your memories of that sadist!
+Dialogue: 0,0:02:12.23,0:02:13.57,Default,Leone,0000,0000,0000,,There! There!
+Dialogue: 0,0:02:14.66,0:02:17.03,Default,Najenda,0000,0000,0000,,As long as I've known her, she's always been tough...
+Dialogue: 0,0:02:17.44,0:02:19.95,Default,Najenda,0000,0000,0000,,Even if you'd left her, she'd have found a way back.
+Dialogue: 0,0:02:20.66,0:02:23.08,Default,Najenda,0000,0000,0000,,So clearing your debts to her was better.
+Dialogue: 0,0:02:23.08,0:02:26.25,Default,Najenda,0000,0000,0000,,This way, when you fight her as an \Nenemy, you can give it your all.
+Dialogue: 0,0:02:26.25,0:02:27.98,Default,Tatsumi,0000,0000,0000,,As long as you've known her...
+Dialogue: 0,0:02:28.35,0:02:30.37,Default,Tatsumi,0000,0000,0000,,Speaking of which, how old are you, boss?
+Dialogue: 0,0:02:30.64,0:02:32.90,Default,Najenda,0000,0000,0000,,I'm in my mid-twenties,
+Dialogue: 0,0:02:32.90,0:02:34.38,Default,Najenda,0000,0000,0000,,but Esdeath is younger.
+Dialogue: 0,0:02:34.58,0:02:36.78,Default,Tatsumi,0000,0000,0000,,Boss, I didn't know you were that young!
+Dialogue: 0,0:02:36.78,0:02:37.59,Default,Tatsumi,0000,0000,0000,,So unexpected!
+Dialogue: 0,0:02:41.98,0:02:45.47,Default,Akame,0000,0000,0000,,Asking a woman about her \Nage is rude, Tatsumi.
+Dialogue: 0,0:02:45.97,0:02:50.23,Default,Tatsumi,0000,0000,0000,,But at one point, you even discussed her weight...
+Dialogue: 0,0:02:51.25,0:02:52.48,Default,Akame,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:02:52.85,0:02:54.32,Default,Susanoo,0000,0000,0000,,The meal is ready.
+Dialogue: 0,0:02:59.09,0:03:02.07,Default,Najenda,0000,0000,0000,,It's a bit sudden, but we'll discuss \Nour strategy after the meal.
+Dialogue: 0,0:03:03.09,0:03:04.58,Default,Najenda,0000,0000,0000,,The time is near.
+Dialogue: 0,0:03:04.58,0:03:06.47,Default,Najenda,0000,0000,0000,,We, the Revolutionary Army,
+Dialogue: 0,0:03:06.47,0:03:09.97,Default,,0000,0000,0000,,will take our first step to overthrow \Nthe corrupt government!
+Dialogue: 0,0:04:44.11,0:04:45.59,Title1a,Title,0000,0000,0000,,{\fad(466,1)}Kill the Religious Organization
+Dialogue: 0,0:04:45.59,0:04:47.30,Title1b,Title,0000,0000,0000,,{\fad(1,1056)}Kill the Religious Organization
+Dialogue: 0,0:04:48.49,0:04:51.02,Default,Thief 1,0000,0000,0000,,W-We don't belong to Night Raid!
+Dialogue: 0,0:04:51.33,0:04:53.74,Default,Thief 2,0000,0000,0000,,We're stealing because we're \Nhaving trouble finding food!
+Dialogue: 0,0:04:53.74,0:04:55.27,Default,Thief 2,0000,0000,0000,,We haven't even killed anyone!
+Dialogue: 0,0:04:55.27,0:04:57.63,Default,Seryu,0000,0000,0000,,You admit to theft?
+Dialogue: 0,0:04:57.63,0:05:00.41,Default,Seryu,0000,0000,0000,,Once evil has tainted you, \Ndeath is the only solution.
+Dialogue: 0,0:05:01.43,0:05:02.74,Default,Seryu,0000,0000,0000,,Coro, eat!
+Dialogue: 0,0:05:05.22,0:05:06.91,Default,Thief 3,0000,0000,0000,,P-Please wait!
+Dialogue: 0,0:05:06.91,0:05:10.32,Default,Thief 3,0000,0000,0000,,They threatened me, and forced me to help!
+Dialogue: 0,0:05:10.32,0:05:12.13,Default,Thief 3,0000,0000,0000,,I can prove it to you!
+Dialogue: 0,0:05:12.13,0:05:14.29,Default,Thief 3,0000,0000,0000,,Please give me a fair trial!
+Dialogue: 0,0:05:15.07,0:05:16.60,Default,Seryu,0000,0000,0000,,Even still, you helped.
+Dialogue: 0,0:05:16.98,0:05:18.48,Default,Seryu,0000,0000,0000,,A sin is a sin.
+Dialogue: 0,0:05:18.48,0:05:21.30,Default,Seryu,0000,0000,0000,,You aren't worth troubling the \Ncaptain or her superiors.
+Dialogue: 0,0:05:21.68,0:05:24.19,Default,Seryu,0000,0000,0000,,I shall pass judgment on evil,\N here and now!
+Dialogue: 0,0:05:28.90,0:05:30.51,Default,Seryu,0000,0000,0000,,Justice is served.
+Dialogue: 0,0:05:32.29,0:05:34.60,Default,Wave,0000,0000,0000,,Hey, Seryu!
+Dialogue: 0,0:05:36.77,0:05:38.78,Default,Wave,0000,0000,0000,,What happened to the bandits we captured?
+Dialogue: 0,0:05:38.78,0:05:40.69,Default,Seryu,0000,0000,0000,,They aren't here anymore!
+Dialogue: 0,0:05:44.23,0:05:45.32,Default,Wave,0000,0000,0000,,Wait.
+Dialogue: 0,0:05:45.32,0:05:48.06,Default,Wave,0000,0000,0000,,You killed those bandits, didn't you?
+Dialogue: 0,0:05:48.72,0:05:51.22,Default,Wave,0000,0000,0000,,As Jaegers, we may have special privileges,
+Dialogue: 0,0:05:51.57,0:05:53.87,Default,Wave,0000,0000,0000,,but there are things we can and can't do—
+Dialogue: 0,0:05:54.63,0:05:57.17,Default,Seryu,0000,0000,0000,,Those guys didn't belong to Night Raid.
+Dialogue: 0,0:05:57.17,0:05:59.29,Default,Seryu,0000,0000,0000,,But since they were evil,\N it wasn't a waste!
+Dialogue: 0,0:05:59.74,0:06:03.47,Default,Seryu,0000,0000,0000,,Let's continue to destroy evil at this pace!
+Dialogue: 0,0:06:06.73,0:06:08.13,Default - italics,Wave,0000,0000,0000,,Seryu...
+Dialogue: 0,0:06:09.66,0:06:11.79,Default - italics,Wave,0000,0000,0000,,I had a hunch...
+Dialogue: 0,0:06:12.56,0:06:14.96,Default - italics,Wave,0000,0000,0000,,But the capital's worse than I'd thought.
+Dialogue: 0,0:06:15.77,0:06:17.35,Default - italics,Wave,0000,0000,0000,,To be that distorted...
+Dialogue: 0,0:06:18.64,0:06:21.11,Default - italics,Wave,0000,0000,0000,,But I must repay my debt.
+Dialogue: 0,0:06:22.45,0:06:25.99,Default - italics,Wave,0000,0000,0000,,I'm simply going to carry out \Nmy duties as a soldier.
+Dialogue: 0,0:06:27.31,0:06:29.57,Default,Najenda,0000,0000,0000,,The time has come for the \NRevolutionary Army to rise.
+Dialogue: 0,0:06:30.08,0:06:34.53,Default,Najenda,0000,0000,0000,,That said, I'll explain the first \Nmission we've been assigned.
+Dialogue: 0,0:06:35.43,0:06:36.95,Default,Najenda,0000,0000,0000,,Are you all aware of
+Dialogue: 0,0:06:36.95,0:06:39.75,Default,Najenda,0000,0000,0000,,the religious group, Path of Peace, \Nthat's popular among the people?
+Dialogue: 0,0:06:39.75,0:06:41.71,Default,Chelsea,0000,0000,0000,,The one that believes
+Dialogue: 0,0:06:41.71,0:06:44.25,Default,,0000,0000,0000,,good deeds contribute to\N happiness and longevity?
+Dialogue: 0,0:06:44.69,0:06:47.86,Default,Tatsumi,0000,0000,0000,,Oh! They even came to my village!
+Dialogue: 0,0:06:47.86,0:06:52.76,Default,Tatsumi,0000,0000,0000,,The icon that my chief gave \Nme was from that religion.
+Dialogue: 0,0:06:53.23,0:06:56.08,Default,Najenda,0000,0000,0000,,Over the past decade, Path of Peace \Nhas gained many followers.
+Dialogue: 0,0:06:56.08,0:06:58.77,Default,Najenda,0000,0000,0000,,And they've become highly influential \Nin the capital's east side.
+Dialogue: 0,0:06:59.22,0:07:01.75,Default,Najenda,0000,0000,0000,,Soon, they will cause an armed uprising.
+Dialogue: 0,0:07:02.16,0:07:04.15,Default,Najenda,0000,0000,0000,,Meaning, they'll incite religious insurrection.
+Dialogue: 0,0:07:05.63,0:07:08.40,Default,Najenda,0000,0000,0000,,We shall use this to our advantage.
+Dialogue: 0,0:07:08.93,0:07:10.82,Default,Tatsumi,0000,0000,0000,,W-Wait a second!
+Dialogue: 0,0:07:10.82,0:07:14.42,Default,Tatsumi,0000,0000,0000,,If an uprising like that occurs, \Nhow many people will die?
+Dialogue: 0,0:07:14.42,0:07:16.83,Default,Tatsumi,0000,0000,0000,,In fact, shouldn't we stop an \Nuprising, in the first place?
+Dialogue: 0,0:07:17.09,0:07:20.27,Default,Najenda,0000,0000,0000,,The corrupt government has oppressed \Nthe citizens excessively.
+Dialogue: 0,0:07:21.91,0:07:24.50,Default,Najenda,0000,0000,0000,,Even if we prevent Path \Nof Peace's insurrection,
+Dialogue: 0,0:07:24.50,0:07:27.21,Default,Najenda,0000,0000,0000,,the populace's rage will still \Nexplode at some point.
+Dialogue: 0,0:07:27.89,0:07:31.31,Default,Najenda,0000,0000,0000,,This country is that close to demise already.
+Dialogue: 0,0:07:32.30,0:07:33.81,Default,Tatsumi,0000,0000,0000,,I see...
+Dialogue: 0,0:07:35.91,0:07:38.89,Default,Chelsea,0000,0000,0000,,We should listen to the whole thing at least.
+Dialogue: 0,0:07:38.89,0:07:41.08,Default,Lubbok,0000,0000,0000,,Remember when I told you about \Nthe revolt of the savage tribes?
+Dialogue: 0,0:07:41.08,0:07:43.35,Default,Lubbok,0000,0000,0000,,And also about the northern hero?
+Dialogue: 0,0:07:45.06,0:07:47.91,Default,Tatsumi,0000,0000,0000,,Those were both stopped by Esdeath, right?
+Dialogue: 0,0:07:47.91,0:07:52.20,Default,Lubbok,0000,0000,0000,,Their flaw was that they tried to rebel \Nagainst the capital by themselves.
+Dialogue: 0,0:07:52.54,0:07:55.12,Default,Lubbok,0000,0000,0000,,The capital is still incredibly powerful.
+Dialogue: 0,0:07:55.12,0:07:58.90,Default,Lubbok,0000,0000,0000,,Even if Path of Peace revolts, \Nthey'll be suppressed eventually.
+Dialogue: 0,0:07:58.90,0:08:00.62,Default,Lubbok,0000,0000,0000,,And there'll be a lot of bloodshed.
+Dialogue: 0,0:08:02.81,0:08:05.08,Default,Najenda,0000,0000,0000,,Therefore it's finally the \NRevolutionary Army's turn.
+Dialogue: 0,0:08:05.84,0:08:08.63,Default,Najenda,0000,0000,0000,,The moment Path of Peace \Nbegins their armed uprising,
+Dialogue: 0,0:08:08.63,0:08:12.26,Default,Najenda,0000,0000,0000,,we'll have a western allied \Ntribe begin an invasion.
+Dialogue: 0,0:08:12.66,0:08:16.76,Default,Najenda,0000,0000,0000,,That way, the capital will have enemies \Non both the inside and outside.
+Dialogue: 0,0:08:17.56,0:08:19.91,Default,Najenda,0000,0000,0000,,But they'll probably be able to tough that out.
+Dialogue: 0,0:08:20.50,0:08:22.25,Default,Najenda,0000,0000,0000,,So for the clincher,
+Dialogue: 0,0:08:22.25,0:08:24.85,Default,,0000,0000,0000,,the Revolutionary Army will begin \Ntheir rebellion from the south.
+Dialogue: 0,0:08:25.27,0:08:27.31,Default,Najenda,0000,0000,0000,,They'll advance toward the capital,
+Dialogue: 0,0:08:27.31,0:08:28.97,Default,Najenda,0000,0000,0000,,and overthrow it.
+Dialogue: 0,0:08:29.35,0:08:30.76,Default,Tatsumi,0000,0000,0000,,I get it...
+Dialogue: 0,0:08:30.76,0:08:32.24,Default,Tatsumi,0000,0000,0000,,A three-pronged attack, huh?
+Dialogue: 0,0:08:32.59,0:08:35.46,Default,Najenda,0000,0000,0000,,The capital underestimates \Nthe Revolutionary Army.
+Dialogue: 0,0:08:35.46,0:08:38.33,Default,Najenda,0000,0000,0000,,Since we're gathering the infection \Ncalled the rebellion in one location,
+Dialogue: 0,0:08:38.33,0:08:40.04,Default,Najenda,0000,0000,0000,,you could even say they're grateful.
+Dialogue: 0,0:08:40.41,0:08:43.32,Default,Najenda,0000,0000,0000,,The Revolutionary Army base \Nis at the capital's border.
+Dialogue: 0,0:08:43.32,0:08:45.27,Default,Najenda,0000,0000,0000,,In order to get to the capital,
+Dialogue: 0,0:08:45.27,0:08:48.29,Default,,0000,0000,0000,,they'll have to break through \Nseveral forts and castles.
+Dialogue: 0,0:08:48.58,0:08:52.84,Default,Najenda,0000,0000,0000,,However, we've arranged for several castle \Nviceroys to betray their positions.
+Dialogue: 0,0:08:53.23,0:08:57.29,Default,Najenda,0000,0000,0000,,Since there were so many demoted simply \Nfor taking their jobs seriously,
+Dialogue: 0,0:08:58.01,0:08:59.87,Default,Najenda,0000,0000,0000,,convincing them was easy.
+Dialogue: 0,0:09:00.61,0:09:01.85,Default,Najenda,0000,0000,0000,,The capital will be surprised
+Dialogue: 0,0:09:01.85,0:09:04.36,Default,Najenda,0000,0000,0000,,since the Revolutionary Army \Nwill advance at daunting speed
+Dialogue: 0,0:09:04.36,0:09:07.27,Default,Najenda,0000,0000,0000,,without bloodshed, \Nand with repeated surrenders.
+Dialogue: 0,0:09:07.80,0:09:11.77,Default,Najenda,0000,0000,0000,,But even then, the capital's trump card, Commander-in-Chief Budou,
+Dialogue: 0,0:09:11.77,0:09:14.26,Default,,0000,0000,0000,,and his guards will intercept them.
+Dialogue: 0,0:09:14.26,0:09:17.28,Default,Najenda,0000,0000,0000,,But this will mean the palace's security \Nwill be gravely compromised.
+Dialogue: 0,0:09:17.89,0:09:20.95,Default,Akame,0000,0000,0000,,When that happens, it will create the perfect \Nopportunity to assassinate the minister.
+Dialogue: 0,0:09:22.33,0:09:24.71,Default,Akame,0000,0000,0000,,We'll invade the palace,
+Dialogue: 0,0:09:24.71,0:09:26.08,Default,Akame,0000,0000,0000,,and eliminate the minister.
+Dialogue: 0,0:09:27.11,0:09:28.92,Default,Akame,0000,0000,0000,,We'll destroy the capital from the inside.
+Dialogue: 0,0:09:29.24,0:09:33.07,Default,Lubbok,0000,0000,0000,,But in the end, sneaky bastards \Nlike those generally run away.
+Dialogue: 0,0:09:33.07,0:09:34.42,Default,Leone,0000,0000,0000,,I won't let that happen.
+Dialogue: 0,0:09:34.73,0:09:36.05,Default,Leone,0000,0000,0000,,He's the ringleader.
+Dialogue: 0,0:09:36.05,0:09:38.31,Default,Leone,0000,0000,0000,,He needs to die.
+Dialogue: 0,0:09:38.91,0:09:42.10,Default,Najenda,0000,0000,0000,,To compensate the western tribe for helping us,
+Dialogue: 0,0:09:42.10,0:09:44.46,Default,Najenda,0000,0000,0000,,we've agreed to restore their original \Nterritory to its natural state.
+Dialogue: 0,0:09:44.83,0:09:45.52,Default,Tatsumi,0000,0000,0000,,Restore?
+Dialogue: 0,0:09:46.11,0:09:50.90,Default,Mine,0000,0000,0000,,Originally, the western region of the \Ncapital belonged to the tribes.
+Dialogue: 0,0:09:51.89,0:09:54.40,Default,Mine,0000,0000,0000,,And having it restored is their fondest wish.
+Dialogue: 0,0:09:55.22,0:09:56.92,Default - italics,Tatsumi,0000,0000,0000,,Oh, that's right.
+Dialogue: 0,0:09:56.92,0:09:59.28,Default - italics,Tatsumi,0000,0000,0000,,Mine is partly descended from the western tribes.
+Dialogue: 0,0:09:59.28,0:10:03.79,Default,Najenda,0000,0000,0000,,If the capital and its corrupt laws collapse, \Nthe citizens' rage will dissipate.
+Dialogue: 0,0:10:04.33,0:10:07.09,Default,Najenda,0000,0000,0000,,As long as we move swiftly \Nforward with our plans,
+Dialogue: 0,0:10:07.09,0:10:09.29,Default,,0000,0000,0000,,bloodshed should be minimal.
+Dialogue: 0,0:10:10.22,0:10:12.16,Default,Najenda,0000,0000,0000,,Are you satisfied with this, Tatsumi?
+Dialogue: 0,0:10:12.48,0:10:13.54,Default,Tatsumi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:13.54,0:10:14.80,Default,Tatsumi,0000,0000,0000,,I apologize for getting hung up.
+Dialogue: 0,0:10:15.26,0:10:18.96,Default,Najenda,0000,0000,0000,,However, Path of Peace, \Nthe crucial key to this plan
+Dialogue: 0,0:10:18.96,0:10:20.30,Default,Najenda,0000,0000,0000,,seems to be unstable now.
+Dialogue: 0,0:10:22.11,0:10:25.75,Default,Crowd,0000,0000,0000,,Lord! Lord! Lord!
+Dialogue: 0,0:10:25.75,0:10:28.37,Default,Najenda,0000,0000,0000,,The religion's founder is intensely charismatic.
+Dialogue: 0,0:10:28.37,0:10:33.32,Default,Najenda,0000,0000,0000,,But it turns out that his advisor, Borick, \Nis actually a spy sent by the minister.
+Dialogue: 0,0:10:33.67,0:10:37.72,Default,Najenda,0000,0000,0000,,Borick's mission was to usurp the founder's position,
+Dialogue: 0,0:10:37.72,0:10:39.78,Default,Najenda,0000,0000,0000,,and stop the armed uprising.
+Dialogue: 0,0:10:40.06,0:10:41.53,Default,Najenda,0000,0000,0000,,Now, here's the mission.
+Dialogue: 0,0:10:41.98,0:10:45.87,Default,Najenda,0000,0000,0000,,We go to Path of Peace headquarters, \Nand take down Borick.
+Dialogue: 0,0:10:45.87,0:10:51.08,Default,Najenda,0000,0000,0000,,He's a villain that's mixing drugs \Ninto some of the followers' food,
+Dialogue: 0,0:10:51.08,0:10:53.66,Default,Najenda,0000,0000,0000,,and turning them into his obedient puppets.
+Dialogue: 0,0:10:53.66,0:10:54.88,Default,Najenda,0000,0000,0000,,No need for restraint.
+Dialogue: 0,0:10:55.87,0:10:58.63,Default,Lubbok,0000,0000,0000,,He's probably going from girl to girl, \Nand having his way with them.
+Dialogue: 0,0:10:59.08,0:11:02.51,Default,Susanoo,0000,0000,0000,,Mixing drugs into food is a crime against food!
+Dialogue: 0,0:11:02.70,0:11:04.40,Default,Both,0000,0000,0000,,I'll never forgive him!
+Dialogue: 0,0:11:04.87,0:11:07.98,Default,Najenda,0000,0000,0000,,You two... Don't you think you're missing \Nthe mark as to what should anger you?
+Dialogue: 0,0:11:08.26,0:11:11.48,Default,Leone,0000,0000,0000,,If they're left alone,\N more followers will be drugged...
+Dialogue: 0,0:11:12.29,0:11:14.15,Default,Leone,0000,0000,0000,,We must put a stop to that.
+Dialogue: 0,0:11:14.15,0:11:16.32,Default,Najenda,0000,0000,0000,,Finally, regarding the Jaegers...
+Dialogue: 0,0:11:16.69,0:11:20.99,Default,Najenda,0000,0000,0000,,As long as Esdeath leads them, they're still \Npart of the minister's private army.
+Dialogue: 0,0:11:21.46,0:11:24.60,Default,Najenda,0000,0000,0000,,That said, in order for our plan to go smoothly,
+Dialogue: 0,0:11:24.60,0:11:26.28,Default,Najenda,0000,0000,0000,,dealing with them first would be best.
+Dialogue: 0,0:11:27.00,0:11:30.62,Default,Najenda,0000,0000,0000,,At this point, they're giving \Ntheir all to hunt us down.
+Dialogue: 0,0:11:30.62,0:11:32.88,Default,Najenda,0000,0000,0000,,Since that's the case, we'll lure \Nthem outside the capital.
+Dialogue: 0,0:11:33.39,0:11:34.71,Default,Najenda,0000,0000,0000,,And then we'll attack.
+Dialogue: 0,0:11:34.71,0:11:36.96,Default,Mine,0000,0000,0000,,So it's finally time for an all-out showdown!
+Dialogue: 0,0:11:38.52,0:11:42.26,Default,Najenda,0000,0000,0000,,Headquarters has also sent a specific request to \Ntake out Kurome and Bols if given the chance.
+Dialogue: 0,0:11:42.26,0:11:43.72,Default,Najenda,0000,0000,0000,,You can fight them without objection,
+Dialogue: 0,0:11:44.42,0:11:47.47,Default,Najenda,0000,0000,0000,,even though you became acquainted \Nwith them, right, Tatsumi?
+Dialogue: 0,0:11:48.56,0:11:50.39,Default - italics,Tatsumi,0000,0000,0000,,Wave was a good guy.
+Dialogue: 0,0:11:50.39,0:11:51.93,Default - italics,Tatsumi,0000,0000,0000,,He wasn't even listed as a target.
+Dialogue: 0,0:11:51.93,0:11:53.35,Default - italics,,0000,0000,0000,,There's no reason to fight him.
+Dialogue: 0,0:11:53.93,0:11:58.39,Default - italics,Tatsumi,0000,0000,0000,,But even he's prepared to do \Nhis best for his comrades.
+Dialogue: 0,0:11:58.85,0:12:00.78,Default - italics,Tatsumi,0000,0000,0000,,He isn't someone I can take lightly.
+Dialogue: 0,0:12:01.48,0:12:03.81,Default - italics,Tatsumi,0000,0000,0000,,And above all things, I'm a killer.
+Dialogue: 0,0:12:03.81,0:12:05.08,Default - italics,Tatsumi,0000,0000,0000,,I've made up my own mind.
+Dialogue: 0,0:12:05.57,0:12:07.69,Default - italics,Tatsumi,0000,0000,0000,,I've braced myself for the worst, \Nand became a part of this.
+Dialogue: 0,0:12:09.13,0:12:10.00,Default,Tatsumi,0000,0000,0000,,I can do it.
+Dialogue: 0,0:12:10.55,0:12:13.82,Default,Tatsumi,0000,0000,0000,,I'll give it all I've got, even if \Nthey aren't our main targets.
+Dialogue: 0,0:12:13.82,0:12:14.75,Default,Tatsumi,0000,0000,0000,,I have no doubts!
+Dialogue: 0,0:12:19.37,0:12:20.21,Default,Najenda,0000,0000,0000,,Good.
+Dialogue: 0,0:12:20.63,0:12:21.98,Default - italics,Chelsea,0000,0000,0000,,His eyes are great.
+Dialogue: 0,0:12:21.98,0:12:23.25,Default - italics,Chelsea,0000,0000,0000,,I can feel his resolve.
+Dialogue: 0,0:12:23.65,0:12:27.94,Default - italics,Chelsea,0000,0000,0000,,Seems like we won't sustain any casualties \Nby showing mercy to the enemy.
+Dialogue: 0,0:12:29.19,0:12:30.06,Default - italics,Chelsea,0000,0000,0000,,Wait...
+Dialogue: 0,0:12:30.50,0:12:33.73,Default - italics,Chelsea,0000,0000,0000,,Why am I looking at Tatsumi like this?
+Dialogue: 0,0:12:35.53,0:12:38.57,Default,Lubbok,0000,0000,0000,,{\an8}Showing off again... I bet \Nyour fly's open again, too!
+Dialogue: 0,0:12:36.82,0:12:39.61,Default - italics,Chelsea,0000,0000,0000,,It seems I just can't ignore him...
+Dialogue: 0,0:12:38.57,0:12:39.68,Default,Tatsumi,0000,0000,0000,,{\an8}No, it's not!
+Dialogue: 0,0:12:48.51,0:12:49.46,Default,Ran,0000,0000,0000,,Captain...
+Dialogue: 0,0:12:50.34,0:12:53.51,Default,Ran,0000,0000,0000,,There's been word that \NNight Raid's Akame and Mine
+Dialogue: 0,0:12:53.51,0:12:56.64,Default,Ran,0000,0000,0000,,were spotted near the \Neastern side of Romary Street.
+Dialogue: 0,0:13:01.67,0:13:04.19,Default,Esdeath,0000,0000,0000,,Gather all the Jaegers.
+Dialogue: 0,0:13:05.77,0:13:08.54,Default,Narrator,0000,0000,0000,,As human beings slowly decay,
+Dialogue: 0,0:13:08.54,0:13:10.47,Default,Narrator,0000,0000,0000,,kingdoms also fall eventually.
+Dialogue: 0,0:13:10.91,0:13:13.81,Default,Narrator,0000,0000,0000,,Those who seek the birth of a new kingdom...
+Dialogue: 0,0:13:14.27,0:13:16.26,Default,Narrator,0000,0000,0000,,And those who defend their kingdom...
+Dialogue: 0,0:13:17.23,0:13:22.12,Default,Narrator,0000,0000,0000,,With their differing ideologies, \Nprinciples, and goals,
+Dialogue: 0,0:13:22.12,0:13:24.41,Default,Narrator,0000,0000,0000,,and due to their unavoidable destiny,
+Dialogue: 0,0:13:24.41,0:13:26.20,Default,Narrator,0000,0000,0000,,they near their collision.
+Dialogue: 0,0:13:26.63,0:13:29.41,Default,Narrator,0000,0000,0000,,Arming themselves with their deadly weapons,
+Dialogue: 0,0:13:29.41,0:13:31.79,Default,Narrator,0000,0000,0000,,carrying their determination in their hearts,
+Dialogue: 0,0:13:32.70,0:13:34.44,Default,Narrator,0000,0000,0000,,they close in on their ultimate battle.
+Dialogue: 0,0:13:47.92,0:13:49.32,Default,Rebel 1,0000,0000,0000,,It's the Jaegers!
+Dialogue: 0,0:13:49.32,0:13:50.93,Default,Rebel 1,0000,0000,0000,,All six are headed east!
+Dialogue: 0,0:13:51.22,0:13:53.89,Default,Rebel 2,0000,0000,0000,,It's all going according to Najenda's plan!
+Dialogue: 0,0:13:54.49,0:13:56.20,Default,Rebel 1,0000,0000,0000,,I'm counting on you, margue falcon...
+Dialogue: 0,0:13:56.20,0:13:57.98,Default,Rebel 1,0000,0000,0000,,Take this message to Night Raid!
+Dialogue: 0,0:14:00.37,0:14:04.30,Default - italics,Rebel 2,0000,0000,0000,,Assassinating a religious leader, \Nand fighting a battle with the Jaegers...
+Dialogue: 0,0:14:04.30,0:14:06.81,Default - italics,Rebel 2,0000,0000,0000,,Regardless of their manpower, \Nit's a treacherous mission.
+Dialogue: 0,0:14:07.70,0:14:09.71,Default - italics,Rebel 2,0000,0000,0000,,But you must survive, Night Raid!
+Dialogue: 0,0:14:10.09,0:14:14.45,Default - italics,Rebel 2,0000,0000,0000,,We need your power, \Nto destroy this depraved world.
+Dialogue: 0,0:14:15.96,0:14:17.26,Default,Najenda,0000,0000,0000,,Six, huh?
+Dialogue: 0,0:14:17.69,0:14:20.38,Default,Najenda,0000,0000,0000,,So all the Jaegers are on the move.
+Dialogue: 0,0:14:21.06,0:14:23.79,Default,Najenda,0000,0000,0000,,Judging by Esdeath's speed,
+Dialogue: 0,0:14:23.79,0:14:27.02,Default,,0000,0000,0000,,even if they had our location information,
+Dialogue: 0,0:14:27.02,0:14:29.39,Default,Najenda,0000,0000,0000,,they'd arrive sometime past noon tomorrow.
+Dialogue: 0,0:14:32.47,0:14:33.18,Default,Najenda,0000,0000,0000,,All right.
+Dialogue: 0,0:14:34.91,0:14:37.43,Default,Najenda,0000,0000,0000,,I received information from the \NRevolutionary Army's spies.
+Dialogue: 0,0:14:37.79,0:14:41.79,Default,Najenda,0000,0000,0000,,You two, casually attract attention as planned.
+Dialogue: 0,0:14:41.79,0:14:42.77,Default,Both,0000,0000,0000,,Roger that.
+Dialogue: 0,0:14:45.78,0:14:47.40,Default,Lubbok,0000,0000,0000,,Well...
+Dialogue: 0,0:14:47.40,0:14:51.18,Default,Lubbok,0000,0000,0000,,It's sure nice to be able to see girls, \Nin swimsuits, in a place like this!
+Dialogue: 0,0:14:51.18,0:14:52.72,Default,Tatsumi,0000,0000,0000,,Stop drooling.
+Dialogue: 0,0:14:52.72,0:14:54.78,Default,Tatsumi,0000,0000,0000,,You know this is also part of the plan, right?
+Dialogue: 0,0:14:54.78,0:14:56.41,Default,Lubbok,0000,0000,0000,,Huh? Are you dumb?
+Dialogue: 0,0:14:56.41,0:14:57.42,Default,Lubbok,0000,0000,0000,,Are you gay?
+Dialogue: 0,0:14:57.42,0:14:58.22,Default,Tatsumi,0000,0000,0000,,I'm not!
+Dialogue: 0,0:14:58.22,0:14:59.27,Default,Leone,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:14:59.87,0:15:03.92,Default,Leone,0000,0000,0000,,Tatsumi, which bikini do you \Nprefer, Chelsea's or mine?
+Dialogue: 0,0:15:03.92,0:15:05.80,Default,Chelsea,0000,0000,0000,,Oh, I'd like to hear the answer to that.
+Dialogue: 0,0:15:06.33,0:15:07.36,Default,Leone,0000,0000,0000,,So?
+Dialogue: 0,0:15:07.71,0:15:09.13,Default,Chelsea,0000,0000,0000,,Which one?
+Dialogue: 0,0:15:09.13,0:15:11.39,Default,Tatsumi,0000,0000,0000,,Uh... I, well...
+Dialogue: 0,0:15:11.85,0:15:14.84,Default,Tatsumi,0000,0000,0000,,Wow, Su, you're buff! Just as I expected!
+Dialogue: 0,0:15:15.32,0:15:17.31,Default,Leone,0000,0000,0000,,Aw, he got away.
+Dialogue: 0,0:15:17.31,0:15:19.00,Default,Lubbok,0000,0000,0000,,If you'd just ask me,
+Dialogue: 0,0:15:19.00,0:15:21.40,Default,,0000,0000,0000,,I'd be glad to answer that I \Nlove them both equally!
+Dialogue: 0,0:15:21.40,0:15:24.08,Default,Lubbok,0000,0000,0000,,Then, I'd dive into your breasts \Nand sing the national anthem!
+Dialogue: 0,0:15:24.08,0:15:25.52,Default,Lubbok,0000,0000,0000,,So why ask Tatsumi?!
+Dialogue: 0,0:15:25.77,0:15:28.05,Default,Leone,0000,0000,0000,,Because you're precisely that kind of guy.
+Dialogue: 0,0:15:28.88,0:15:30.90,Default,Chelsea,0000,0000,0000,,Exactly! And that's no fun.
+Dialogue: 0,0:15:30.90,0:15:32.39,Default,Lubbok,0000,0000,0000,,Why?
+Dialogue: 0,0:15:32.39,0:15:33.79,Default,Lubbok,0000,0000,0000,,Why Tatsumi and not me?
+Dialogue: 0,0:15:33.79,0:15:35.31,Default,Lubbok,0000,0000,0000,,I don't understand!
+Dialogue: 0,0:15:35.31,0:15:36.87,Default,Leone,0000,0000,0000,,Just stay confused forever!
+Dialogue: 0,0:15:36.87,0:15:40.64,Default,Mine,0000,0000,0000,,Team Anonymous down there is pretty rowdy.
+Dialogue: 0,0:15:41.18,0:15:45.05,Default,Mine,0000,0000,0000,,Damn it! I wanted to play a bit more, too!
+Dialogue: 0,0:15:46.00,0:15:48.07,Default,Mine,0000,0000,0000,,What's wrong, Akame?
+Dialogue: 0,0:15:48.07,0:15:49.76,Default,Akame,0000,0000,0000,,Oh, nothing.
+Dialogue: 0,0:15:53.41,0:15:55.89,Default,Mine,0000,0000,0000,,You're thinking about your sister, aren't you?
+Dialogue: 0,0:16:00.15,0:16:01.10,Default,Akame,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:03.58,0:16:06.38,Default,Akame,0000,0000,0000,,She's coming after me as a target, after all.
+Dialogue: 0,0:16:06.81,0:16:09.02,Default,Akame,0000,0000,0000,,I can't help but think about it.
+Dialogue: 0,0:16:17.45,0:16:19.18,Default,Mine,0000,0000,0000,,Even if your sister dies,
+Dialogue: 0,0:16:19.18,0:16:22.80,Default,Mine,0000,0000,0000,,don't you dare say you're alone.
+Dialogue: 0,0:16:24.20,0:16:27.38,Default,Mine,0000,0000,0000,,You have us. Be grateful for that!
+Dialogue: 0,0:16:30.45,0:16:31.30,Default,Akame,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:32.87,0:16:34.84,Default,Esdeath,0000,0000,0000,,Najenda is continuing east.
+Dialogue: 0,0:16:35.15,0:16:36.75,Default,Esdeath,0000,0000,0000,,Akame is headed south.
+Dialogue: 0,0:16:37.25,0:16:42.27,Default,Esdeath,0000,0000,0000,,After coming here, they were seen \Nsplitting into two groups.
+Dialogue: 0,0:16:38.67,0:16:42.27,Default,Seryu,0000,0000,0000,,{\an8}No, this is mine! I'll feed you meat later!
+Dialogue: 0,0:16:42.55,0:16:46.31,Default,Bols,0000,0000,0000,,If we go east, we'll end up in Kyoroch, \Nthe Path of Peace's headquarters.
+Dialogue: 0,0:16:46.31,0:16:49.94,Default,Bols,0000,0000,0000,,If we go south, we'll run into \Ncities friendly to the rebels.
+Dialogue: 0,0:16:50.32,0:16:52.28,Default,Bols,0000,0000,0000,,In any case, this is suspicious.
+Dialogue: 0,0:16:52.28,0:16:54.40,Default,Wave,0000,0000,0000,,If we hurry, we can catch up to them.
+Dialogue: 0,0:16:54.75,0:16:55.76,Default,Wave,0000,0000,0000,,Let's go.
+Dialogue: 0,0:16:55.76,0:16:56.95,Default,Esdeath,0000,0000,0000,,Well, wait...
+Dialogue: 0,0:16:57.42,0:16:59.48,Default,Esdeath,0000,0000,0000,,Night Raid's members are the capital's traitors.
+Dialogue: 0,0:17:00.00,0:17:02.79,Default,Esdeath,0000,0000,0000,,The wanted posters haven't circulated \Namong the outer districts,
+Dialogue: 0,0:17:02.79,0:17:05.29,Default,Esdeath,0000,0000,0000,,so they lowered their guard, \Nand that's how they were tracked.
+Dialogue: 0,0:17:05.88,0:17:09.17,Default,Esdeath,0000,0000,0000,,They were even seen splitting into two groups.
+Dialogue: 0,0:17:09.62,0:17:11.23,Default,Esdeath,0000,0000,0000,,Isn't it a little too convenient?
+Dialogue: 0,0:17:11.23,0:17:12.10,Default,Ran,0000,0000,0000,,I agree.
+Dialogue: 0,0:17:12.10,0:17:13.80,Default,Ran,0000,0000,0000,,I highly suspect it's a trap.
+Dialogue: 0,0:17:14.40,0:17:16.36,Default,Ran,0000,0000,0000,,Perhaps they wanted to be witnessed.
+Dialogue: 0,0:17:16.36,0:17:19.05,Default,Seryu,0000,0000,0000,,Was it to lure us away from \Nthe capital and defeat us?
+Dialogue: 0,0:17:20.17,0:17:22.03,Default,Esdeath,0000,0000,0000,,That's like Najenda.
+Dialogue: 0,0:17:22.44,0:17:25.06,Default,Esdeath,0000,0000,0000,,She fights calmly, with a burning heart.
+Dialogue: 0,0:17:25.06,0:17:27.17,Default,Wave,0000,0000,0000,,Which means following them will be dangerous.
+Dialogue: 0,0:17:27.17,0:17:29.48,Default,Esdeath,0000,0000,0000,,No, we can't waste this chance.
+Dialogue: 0,0:17:29.79,0:17:32.52,Default,Esdeath,0000,0000,0000,,Night Raid's been carefully concealing themselves.
+Dialogue: 0,0:17:32.52,0:17:35.05,Default,Esdeath,0000,0000,0000,,And now, they're practically flaunting \Nthemselves in the open.
+Dialogue: 0,0:17:35.05,0:17:36.84,Default,Esdeath,0000,0000,0000,,Not only will we be prepared for the trap,
+Dialogue: 0,0:17:36.84,0:17:38.37,Default,Esdeath,0000,0000,0000,,but we'll crush them.
+Dialogue: 0,0:17:38.73,0:17:41.09,Default,Esdeath,0000,0000,0000,,Seryu, Ran, and I will pursue Najenda.
+Dialogue: 0,0:17:41.62,0:17:43.70,Default,Esdeath,0000,0000,0000,,Kurome, Wave, Bols will go after Akame.
+Dialogue: 0,0:17:45.57,0:17:48.05,Default,Esdeath,0000,0000,0000,,Be aware of your surroundings at all times.
+Dialogue: 0,0:17:48.05,0:17:52.39,Default,Esdeath,0000,0000,0000,,If you're completely outnumbered, \Nit's fine to retreat.
+Dialogue: 0,0:17:52.39,0:17:56.09,Default,Esdeath,0000,0000,0000,,I want you to give it all you're worth, \Nbut this isn't a suicide mission.
+Dialogue: 0,0:17:56.09,0:17:58.66,Default,Esdeath,0000,0000,0000,,They're the last rats to defy the capital.
+Dialogue: 0,0:17:58.66,0:18:00.89,Default,Esdeath,0000,0000,0000,,Chase them down, and take them out!
+Dialogue: 0,0:18:01.22,0:18:02.35,Default,All,0000,0000,0000,,Roger that!
+Dialogue: 0,0:18:05.92,0:18:09.04,Default,Bols,0000,0000,0000,,So our opponents are the \Ncapital's strongest, Night Raid.
+Dialogue: 0,0:18:09.04,0:18:11.08,Default,Bols,0000,0000,0000,,I wonder if someone like me can win.
+Dialogue: 0,0:18:11.08,0:18:12.40,Default,Wave,0000,0000,0000,,It'll be fine...
+Dialogue: 0,0:18:12.40,0:18:15.78,Default,Wave,0000,0000,0000,,When I faced a Night Raid member before,
+Dialogue: 0,0:18:15.78,0:18:17.68,Default,,0000,0000,0000,,he didn't accept my challenge.
+Dialogue: 0,0:18:18.15,0:18:20.78,Default,Wave,0000,0000,0000,,But I could tell he was about as strong as I am.
+Dialogue: 0,0:18:21.60,0:18:23.89,Default,Wave,0000,0000,0000,,If we fight together, we'll definitely win.
+Dialogue: 0,0:18:24.30,0:18:27.34,Default,Wave,0000,0000,0000,,Bols, your Imperial Arms is optimal \Nfor taking on multiple opponents.
+Dialogue: 0,0:18:27.34,0:18:28.85,Default,Wave,0000,0000,0000,,It's reassuring.
+Dialogue: 0,0:18:29.23,0:18:30.58,Default,Bols,0000,0000,0000,,You think so?
+Dialogue: 0,0:18:30.58,0:18:33.25,Default,Kurome,0000,0000,0000,,You say slick things like that,
+Dialogue: 0,0:18:33.25,0:18:35.22,Default,Kurome,0000,0000,0000,,but you'll probably hold us back the most, Wave.
+Dialogue: 0,0:18:35.22,0:18:36.09,Default,Wave,0000,0000,0000,,How dare you?
+Dialogue: 0,0:18:36.09,0:18:39.02,Default,Wave,0000,0000,0000,,Are you saying you don't trust my skill?!
+Dialogue: 0,0:18:39.02,0:18:41.80,Default,Kurome,0000,0000,0000,,Right. I feel when we need \Nyou most, you'll be weak.
+Dialogue: 0,0:18:41.80,0:18:44.26,Default,Wave,0000,0000,0000,,If I equip Grand Chariot—
+Dialogue: 0,0:18:44.55,0:18:45.89,Default,Kurome,0000,0000,0000,,Then show me how strong you are.
+Dialogue: 0,0:18:45.89,0:18:48.05,Default,Wave,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:18:48.05,0:18:49.90,Default,Bols,0000,0000,0000,,Stop fighting, you two.
+Dialogue: 0,0:18:51.76,0:18:53.77,Default,Wave,0000,0000,0000,,Hey, there's something ahead of us.
+Dialogue: 0,0:18:54.41,0:18:55.79,Default,Kurome,0000,0000,0000,,A scarecrow?
+Dialogue: 0,0:18:55.79,0:18:57.10,Default,Bols,0000,0000,0000,,It's true.
+Dialogue: 0,0:18:55.99,0:18:59.24,SignC,Bols,0000,0000,0000,,Hot Guy
+Dialogue: 0,0:18:57.10,0:18:59.24,Default,Bols,0000,0000,0000,,This is the most suspicious thing ever.
+Dialogue: 0,0:18:59.62,0:19:01.17,Default,Bols,0000,0000,0000,,If it's a trap, it'll be trouble.
+Dialogue: 0,0:19:01.62,0:19:03.28,Default,Wave,0000,0000,0000,,Let's be careful checking it out.
+Dialogue: 0,0:19:05.60,0:19:07.04,Default - italics,Mine,0000,0000,0000,,Target acquired.
+Dialogue: 0,0:19:07.04,0:19:10.11,Default - italics,Mine,0000,0000,0000,,Judging by the numbers,\N it seems they've split up,
+Dialogue: 0,0:19:10.11,0:19:13.29,Default - italics,,0000,0000,0000,,and Esdeath headed east, after our boss.
+Dialogue: 0,0:19:13.96,0:19:14.96,Default - italics,Mine,0000,0000,0000,,Exactly as planned.
+Dialogue: 0,0:19:20.59,0:19:21.76,Default - italics,Mine,0000,0000,0000,,They look so similar...
+Dialogue: 0,0:19:22.90,0:19:25.16,Default - italics,Mine,0000,0000,0000,,They are sisters, after all.
+Dialogue: 0,0:19:25.65,0:19:28.89,Default - italics,Mine,0000,0000,0000,,But that's exactly why I don't want \Nto leave this for Akame.
+Dialogue: 0,0:19:28.89,0:19:30.06,Default - italics,Mine,0000,0000,0000,,I'll take care of this!
+Dialogue: 0,0:19:30.06,0:19:32.65,Default - italics,Mine,0000,0000,0000,,I'll do it quickly and painlessly, in one shot.
+Dialogue: 0,0:19:40.12,0:19:41.03,Default - italics,Mine,0000,0000,0000,,She dodged it!
+Dialogue: 0,0:19:41.82,0:19:44.91,Default - italics,Mine,0000,0000,0000,,What was that superhuman reaction time?
+Dialogue: 0,0:19:49.11,0:19:50.12,Default,Wave,0000,0000,0000,,Kurome, watch out!
+Dialogue: 0,0:19:55.24,0:19:56.17,Default,Bols,0000,0000,0000,,Wave!
+Dialogue: 0,0:19:56.51,0:19:58.57,Default,Najenda,0000,0000,0000,,We failed to snipe you.
+Dialogue: 0,0:19:58.57,0:19:59.80,Default,Najenda,0000,0000,0000,,But in terms of war,
+Dialogue: 0,0:20:00.43,0:20:04.22,Default,,0000,0000,0000,,the fact that we blew away one, \Nwho wasn't even a target, is a good start.
+Dialogue: 0,0:20:04.55,0:20:05.68,Default - italics,Bols,0000,0000,0000,,Night Raid...
+Dialogue: 0,0:20:05.95,0:20:07.87,Default - italics,Bols,0000,0000,0000,,And this is all of them?
+Dialogue: 0,0:20:07.87,0:20:09.93,Default - italics,Bols,0000,0000,0000,,So going east was a complete decoy.
+Dialogue: 0,0:20:10.40,0:20:12.01,Default,Najenda,0000,0000,0000,,Kurome and Bols...
+Dialogue: 0,0:20:12.01,0:20:14.65,Default,Najenda,0000,0000,0000,,You're our targets among the Jaegers.
+Dialogue: 0,0:20:14.95,0:20:16.23,Default,Najenda,0000,0000,0000,,Brace yourselves!
+Dialogue: 0,0:20:16.23,0:20:17.82,Default - italics,Bols,0000,0000,0000,,Targets...
+Dialogue: 0,0:20:19.64,0:20:22.09,Default - italics,Bols,0000,0000,0000,,In the past, I've incinerated countless people,
+Dialogue: 0,0:20:22.09,0:20:24.57,Default - italics,Bols,0000,0000,0000,,so being targeted by assassins can't be helped.
+Dialogue: 0,0:20:26.94,0:20:28.04,Default - italics,Bols,0000,0000,0000,,However...
+Dialogue: 0,0:20:28.90,0:20:31.16,Default - italics,Bols,0000,0000,0000,,I can't die!
+Dialogue: 0,0:20:33.85,0:20:35.13,Default,Kurome,0000,0000,0000,,Sis...
+Dialogue: 0,0:20:36.08,0:20:36.67,Default,Akame,0000,0000,0000,,Kurome.
+Dialogue: 0,0:20:37.16,0:20:40.53,Default,Kurome,0000,0000,0000,,I really wanted to see you. I'm so glad...
+Dialogue: 0,0:20:41.61,0:20:43.84,Default,Kurome,0000,0000,0000,,Because if I'm the one to kill you,
+Dialogue: 0,0:20:44.94,0:20:49.64,Default,Kurome,0000,0000,0000,,I can add you to Yatsufusa's collection.
+Dialogue: 0,0:21:04.80,0:21:06.74,Default,Tatsumi,0000,0000,0000,,Wh-What is this? An earthquake?
+Dialogue: 0,0:21:09.61,0:21:11.86,Default,Kurome,0000,0000,0000,,Unlike the me of the past,
+Dialogue: 0,0:21:11.86,0:21:15.47,Default,Kurome,0000,0000,0000,,I can turn any dead body into a puppet now...
+Dialogue: 0,0:21:16.94,0:21:18.09,Default,Kurome,0000,0000,0000,,Sis.
+Dialogue: 0,0:21:27.44,0:21:32.27,Default,Kurome,0000,0000,0000,,Even if it's a mega-class Danger \NBeast, like the destaghoul.
+Dialogue: 0,0:21:33.00,0:21:36.22,Default - italics,Najenda,0000,0000,0000,,Whether Esdeath would split her \Ngroup into two was a gamble.
+Dialogue: 0,0:21:36.61,0:21:39.30,Default - italics,Najenda,0000,0000,0000,,But I see now that,\N if Yatsufusa's this powerful,
+Dialogue: 0,0:21:39.30,0:21:41.69,Default - italics,,0000,0000,0000,,a little trap won't mean anything to them.
+Dialogue: 0,0:21:42.18,0:21:45.65,Default,Kurome,0000,0000,0000,,Now, then... The battle between \NImperial Arms is about to unfold.
+Dialogue: 0,0:21:49.97,0:21:52.41,Default,Kurome,0000,0000,0000,,I wonder how many are going to die?
+Dialogue: 0,0:23:34.41,0:23:40.98,Title2,Title,0000,0000,0000,,{\fad(296,1)}Kill the Puppets

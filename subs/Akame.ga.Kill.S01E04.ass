@@ -1,0 +1,414 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,36,&H008BBEB6,&H000000FF,&H001B433C,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,53,53,17,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.25,0:00:13.45,Default,lady,0000,0000,0000,,Please... Don't kill me!
+Dialogue: 0,0:00:13.88,0:00:15.49,Default,Zank,0000,0000,0000,,Oh, but I must.
+Dialogue: 0,0:00:15.49,0:00:18.88,Default,zank,0000,0000,0000,,It's your own fault for walking \Naround so late at night.
+Dialogue: 0,0:00:18.88,0:00:20.75,Default,zank,0000,0000,0000,,Your parents taught you that, didn't they?
+Dialogue: 0,0:00:20.75,0:00:24.08,Default,zank,0000,0000,0000,,That scary monsters come out late at night?
+Dialogue: 0,0:00:24.41,0:00:28.23,Default,lady,0000,0000,0000,,I-If you let me live, I'll d-do anything...
+Dialogue: 0,0:00:28.23,0:00:29.23,Default,zank,0000,0000,0000,,Really?
+Dialogue: 0,0:00:29.89,0:00:33.65,Default,zank,0000,0000,0000,,I like to talk a lot, so will you talk with me?
+Dialogue: 0,0:00:33.65,0:00:35.59,Default,lady,0000,0000,0000,,Yes, I will! I really will!
+Dialogue: 0,0:00:35.89,0:00:39.47,Default,zank,0000,0000,0000,,Then... How does it feel when your head \Ngets separated from your body?
+Dialogue: 0,0:00:40.94,0:00:42.47,Default,zank,0000,0000,0000,,Is it a bit lonely?
+Dialogue: 0,0:00:42.99,0:00:43.48,Default,lady,0000,0000,0000,,Eh?
+Dialogue: 0,0:00:46.89,0:00:48.56,Default,zank,0000,0000,0000,,Splendid... Splendid.
+Dialogue: 0,0:00:49.17,0:00:51.90,Default,zank,0000,0000,0000,,I could never quit this!
+Dialogue: 0,0:02:25.52,0:02:28.00,Title1a,title,0000,0000,0000,,{\fad(565,1)}Kill the Imperial Arms Users
+Dialogue: 0,0:02:28.00,0:02:28.96,Title1b,,0000,0000,0000,,{\fad(1,812)}Kill the Imperial Arms Users
+Dialogue: 0,0:02:40.28,0:02:42.68,Default,tatsu,0000,0000,0000,,I can't do this anymore, Bro. My arms...
+Dialogue: 0,0:02:43.16,0:02:43.97,Default,bulat,0000,0000,0000,,Hmm?
+Dialogue: 0,0:02:44.89,0:02:46.12,Default,bulat,0000,0000,0000,,What?
+Dialogue: 0,0:02:46.12,0:02:48.48,Default,bulat,0000,0000,0000,,Looks like your muscles still move unnecessarily.
+Dialogue: 0,0:02:50.69,0:02:54.08,Default,bulat,0000,0000,0000,,Concentrate... Strengthen your will.
+Dialogue: 0,0:02:54.08,0:02:57.57,Default,bulat,0000,0000,0000,,If you can lose all the unnecessary \Nmotion, you'll last twice as long.
+Dialogue: 0,0:02:59.74,0:03:01.32,Default,tatsu,0000,0000,0000,,B-Bro...
+Dialogue: 0,0:03:01.32,0:03:03.45,Default,bulat,0000,0000,0000,,You can become stronger.
+Dialogue: 0,0:03:03.71,0:03:05.11,Default,,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:03:05.11,0:03:06.38,Default,tatsu,0000,0000,0000,,R-Right!
+Dialogue: 0,0:03:06.38,0:03:07.33,Default,akame,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:03:08.88,0:03:10.91,Default,akame,0000,0000,0000,,Time to prepare breakfast.
+Dialogue: 0,0:03:16.84,0:03:18.13,Default,tatsu,0000,0000,0000,,What are we making today?
+Dialogue: 0,0:03:18.86,0:03:20.01,Default,akame,0000,0000,0000,,Croquette bowls.
+Dialogue: 0,0:03:20.41,0:03:22.24,Default - italics,tatsu,0000,0000,0000,,Croquette bowls in the morning?
+Dialogue: 0,0:03:22.24,0:03:24.26,Default - italics,tatsu,0000,0000,0000,,Nothing less from assassins... Damn.
+Dialogue: 0,0:03:26.53,0:03:27.80,Default,leone,0000,0000,0000,,Thanks for the food!
+Dialogue: 0,0:03:28.34,0:03:29.69,Default,tatsu,0000,0000,0000,,My stomach's not great.
+Dialogue: 0,0:03:30.19,0:03:31.10,Default,tatsu,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:31.10,0:03:33.49,Default,tatsu,0000,0000,0000,,Mine and Sheele aren't awake yet?
+Dialogue: 0,0:03:33.49,0:03:35.56,Default,akame,0000,0000,0000,,Yeah, but it's always that way.
+Dialogue: 0,0:03:41.45,0:03:44.45,Default,tatsu,0000,0000,0000,,You ate that super-fast, didn't you? Damn...
+Dialogue: 0,0:03:44.92,0:03:48.16,Default,akame,0000,0000,0000,,Tatsumi, we're making tuna bowls for lunch.
+Dialogue: 0,0:03:48.36,0:03:49.95,Default,tatsu,0000,0000,0000,,Akame is dangerous.
+Dialogue: 0,0:03:50.96,0:03:53.50,Default,sheele,0000,0000,0000,,Huh? Where's my breakfast?
+Dialogue: 0,0:03:56.55,0:03:58.67,Default,najen,0000,0000,0000,,Well done. Where are the others?
+Dialogue: 0,0:03:59.20,0:04:02.27,Default,spy,0000,0000,0000,,I'm the only one who made it here.
+Dialogue: 0,0:04:02.27,0:04:02.93,Default,najen,0000,0000,0000,,I see...
+Dialogue: 0,0:04:03.49,0:04:08.21,Default,spy,0000,0000,0000,,These are the names of supporters who've \Noffered assistance when the revolt starts.
+Dialogue: 0,0:04:08.21,0:04:09.82,Default,najen,0000,0000,0000,,I will take good care of it.
+Dialogue: 0,0:04:09.82,0:04:11.18,Default,najen,0000,0000,0000,,Leave the rest to me.
+Dialogue: 0,0:04:12.28,0:04:14.40,Default,spy,0000,0000,0000,,Please... Ensure the revolution...
+Dialogue: 0,0:04:17.06,0:04:19.36,Default,najen,0000,0000,0000,,Yes, no matter what.
+Dialogue: 0,0:04:20.37,0:04:24.07,Default,najen,0000,0000,0000,,This time, our target is the slasher we \Nkeep hearing about in the capital.
+Dialogue: 0,0:04:24.65,0:04:28.10,Default,najen,0000,0000,0000,,He appears late at night, and takes \Npeople's heads indiscriminately.
+Dialogue: 0,0:04:28.79,0:04:31.20,Default,,0000,0000,0000,,It's uncertain how many he's killed.
+Dialogue: 0,0:04:31.82,0:04:34.40,Default,najen,0000,0000,0000,,And a third of those killed were guards, right?
+Dialogue: 0,0:04:34.40,0:04:35.53,Default,tatsu,0000,0000,0000,,He must be strong.
+Dialogue: 0,0:04:35.53,0:04:38.95,Default,Lub,0000,0000,0000,,Without a doubt, it's gotta be Zank the Executioner.
+Dialogue: 0,0:04:39.63,0:04:40.46,Default,tatsu,0000,0000,0000,,Who the heck is that?
+Dialogue: 0,0:04:40.46,0:04:42.23,Default,mine,0000,0000,0000,,You've never heard of him?
+Dialogue: 0,0:04:42.23,0:04:44.30,Default,mine,0000,0000,0000,,You must have really lived in the sticks.
+Dialogue: 0,0:04:44.53,0:04:47.54,Default,sheele,0000,0000,0000,,My apologies. I don't know who that is, either.
+Dialogue: 0,0:04:47.54,0:04:50.43,Default,mine,0000,0000,0000,,I think you just forgot, Sheele...
+Dialogue: 0,0:04:51.26,0:04:53.48,Default,tatsu,0000,0000,0000,,So, what kind of bad guy is he?
+Dialogue: 0,0:04:54.36,0:04:55.85,Default,mine,0000,0000,0000,,Zank the Executioner...
+Dialogue: 0,0:04:56.82,0:05:02.03,Default,mine,0000,0000,0000,,Originally, he was apparently the executioner \Nin the largest prison in the capital.
+Dialogue: 0,0:05:02.47,0:05:06.03,Default,mine,0000,0000,0000,,Because of the cabinet minister, the number \Nof people for execution increased.
+Dialogue: 0,0:05:06.03,0:05:10.05,Default,mine,0000,0000,0000,,Day after day, he kept cutting off
+Dialogue: 0,0:05:10.05,0:05:13.55,Default,,0000,0000,0000,,the heads of people who were begging for mercy.
+Dialogue: 0,0:05:14.03,0:05:15.98,Default,mine,0000,0000,0000,,After doing this for so many years,
+Dialogue: 0,0:05:15.98,0:05:18.76,Default,,0000,0000,0000,,it seems cutting off heads became a habit.
+Dialogue: 0,0:05:19.84,0:05:22.34,Default,tatsu,0000,0000,0000,,I guess that would mess someone up.
+Dialogue: 0,0:05:22.34,0:05:26.51,Default,mine,0000,0000,0000,,So, since beheading at the prison wasn't \Nenough, he began to kill at random.
+Dialogue: 0,0:05:26.80,0:05:31.40,Default,bulat,0000,0000,0000,,Once a punitive squad was formed, he disappeared.
+Dialogue: 0,0:05:31.40,0:05:33.64,Default,bulat,0000,0000,0000,,To think he'd reappear in the capital...
+Dialogue: 0,0:05:34.19,0:05:35.75,Default,tatsu,0000,0000,0000,,What a dangerous guy.
+Dialogue: 0,0:05:36.20,0:05:37.52,Default,,0000,0000,0000,,Let's find and defeat him!
+Dialogue: 0,0:05:37.52,0:05:39.15,Default,bulat,0000,0000,0000,,Well, wait a sec, Tatsumi.
+Dialogue: 0,0:05:39.41,0:05:40.24,Default,tatsu,0000,0000,0000,,Bro?
+Dialogue: 0,0:05:40.68,0:05:44.49,Default,bulat,0000,0000,0000,,Zank stole the warden's Imperial Arms, \Nand started his random attacks.
+Dialogue: 0,0:05:45.14,0:05:47.66,Default,bulat,0000,0000,0000,,We should travel in pairs,
+Dialogue: 0,0:05:47.66,0:05:49.49,Default,,0000,0000,0000,,or you'll be in danger.
+Dialogue: 0,0:05:49.49,0:05:51.83,Default - italics,tatsu,0000,0000,0000,,Right now, I think I'm in danger for \Na completely different reason.
+Dialogue: 0,0:05:52.06,0:05:53.46,Default,mine,0000,0000,0000,,Hey, boss...
+Dialogue: 0,0:05:53.46,0:05:56.87,Default,mine,0000,0000,0000,,Did we ever find out what \NImperial Arms Zank has?
+Dialogue: 0,0:05:56.87,0:05:59.08,Default,najen,0000,0000,0000,,Sadly, we're still looking into that.
+Dialogue: 0,0:05:59.08,0:06:01.96,Default,leone,0000,0000,0000,,Then he won't reveal things so easily...
+Dialogue: 0,0:06:01.96,0:06:02.96,Default,,0000,0000,0000,,That's troublesome.
+Dialogue: 0,0:06:03.15,0:06:06.65,Default,tatsu,0000,0000,0000,,Um, what are Imperial Arms, anyway?
+Dialogue: 0,0:06:07.79,0:06:08.95,Default,akame,0000,0000,0000,,Something like this.
+Dialogue: 0,0:06:08.95,0:06:10.80,Default,tatsu,0000,0000,0000,,I d-don't understand...
+Dialogue: 0,0:06:11.12,0:06:12.67,Default,najen,0000,0000,0000,,This is a good opportunity.
+Dialogue: 0,0:06:12.67,0:06:14.52,Default,najen,0000,0000,0000,,Let's explain it to Tatsumi.
+Dialogue: 0,0:06:15.93,0:06:17.54,Default,najen,0000,0000,0000,,Around a thousand years ago,
+Dialogue: 0,0:06:17.54,0:06:20.43,Default,,0000,0000,0000,,the emperor who founded the \Nempire was deep in thought.
+Dialogue: 0,0:06:21.17,0:06:24.12,Default - flashback,emper,0000,0000,0000,,I want to protect this kingdom forever,
+Dialogue: 0,0:06:24.12,0:06:25.99,Default - flashback,,0000,0000,0000,,but someday, I will die.
+Dialogue: 0,0:06:26.40,0:06:31.49,Default - flashback,emper,0000,0000,0000,,However, weapons and armor can \Nbe passed down, into the future.
+Dialogue: 0,0:06:32.10,0:06:33.95,Default - flashback,emper,0000,0000,0000,,To make this kingdom everlasting,
+Dialogue: 0,0:06:33.95,0:06:36.45,Default - flashback,,0000,0000,0000,,create weapons of utmost intelligence!
+Dialogue: 0,0:06:37.21,0:06:40.46,Default,najen,0000,0000,0000,,Materials from legendary super-leveled Danger Beasts.
+Dialogue: 0,0:06:41.58,0:06:43.46,Default,najen,0000,0000,0000,,And rare metals like orichalcum.
+Dialogue: 0,0:06:44.18,0:06:47.46,Default,najen,0000,0000,0000,,The best of the best were summoned \Nfrom around the world.
+Dialogue: 0,0:06:48.38,0:06:51.21,Default,najen,0000,0000,0000,,The first emperor's power and assets
+Dialogue: 0,0:06:51.21,0:06:55.88,Default,najen,0000,0000,0000,,produced forty-eight weapons that could not be reproduced today,
+Dialogue: 0,0:06:55.88,0:06:57.47,Default,najen,0000,0000,0000,,and they were called Imperial Arms.
+Dialogue: 0,0:06:58.29,0:07:00.60,Default,,0000,0000,0000,,Imperial Arms are all powerful.
+Dialogue: 0,0:07:00.60,0:07:04.02,Default,,0000,0000,0000,,And among them are said to be some \Nthat have the power of a thousand men.
+Dialogue: 0,0:07:04.53,0:07:07.02,Default,najen,0000,0000,0000,,The retainers that received the Imperial Arms
+Dialogue: 0,0:07:07.02,0:07:09.80,Default,,0000,0000,0000,,were able to achieve even greater military gains.
+Dialogue: 0,0:07:10.31,0:07:13.69,Default,najen,0000,0000,0000,,However, due to the great civil \Nwar five hundred years ago,
+Dialogue: 0,0:07:13.69,0:07:17.49,Default,najen,0000,0000,0000,,about half those weapons \Ndisappeared throughout the land.
+Dialogue: 0,0:07:18.82,0:07:20.03,Default,najen,0000,0000,0000,,And that's that.
+Dialogue: 0,0:07:20.32,0:07:21.39,Default,tatsu,0000,0000,0000,,Then that's
+Dialogue: 0,0:07:21.87,0:07:24.59,Default,tatsu,0000,0000,0000,,one of the forty-eight weapons?
+Dialogue: 0,0:07:26.00,0:07:28.35,Default,najen,0000,0000,0000,,Ichizan Hissatsu: Murasame.
+Dialogue: 0,0:07:28.72,0:07:30.52,Default,najen,0000,0000,0000,,If you are cut by this enchanted sword,
+Dialogue: 0,0:07:30.52,0:07:34.07,Default,,0000,0000,0000,,cursed poison enters the wound, leading to death.
+Dialogue: 0,0:07:34.42,0:07:35.60,Default,najen,0000,0000,0000,,There is no antidote for the poison.
+Dialogue: 0,0:07:36.47,0:07:38.86,Default,najen,0000,0000,0000,,Hundred Beast King Transformation: Lionel.
+Dialogue: 0,0:07:38.86,0:07:40.24,Default,najen,0000,0000,0000,,An Imperial Arms shaped like a belt.
+Dialogue: 0,0:07:40.70,0:07:43.07,Default,najen,0000,0000,0000,,Users turn themselves into a beast,
+Dialogue: 0,0:07:43.07,0:07:45.08,Default,,0000,0000,0000,,increasing their physical abilities.
+Dialogue: 0,0:07:45.08,0:07:47.94,Default,najen,0000,0000,0000,,Sense of smell is also heightened, \Nenabling them to track enemies.
+Dialogue: 0,0:07:48.65,0:07:50.45,Default,najen,0000,0000,0000,,Adventurous Spirit Battery: Pumpkin.
+Dialogue: 0,0:07:50.91,0:07:54.92,Default,najen,0000,0000,0000,,An Imperial Arms that takes spiritual \Nenergy and expels it as shock wave.
+Dialogue: 0,0:07:54.92,0:07:56.70,Default,najen,0000,0000,0000,,The more the wielder is in a pinch,
+Dialogue: 0,0:07:56.70,0:07:58.62,Default,,0000,0000,0000,,the more destructive its powers.
+Dialogue: 0,0:07:59.70,0:08:02.01,Default,najen,0000,0000,0000,,Demon Binding: Incursio.
+Dialogue: 0,0:08:02.38,0:08:05.34,Default,najen,0000,0000,0000,,An Imperial Arms armor with impregnable defense.
+Dialogue: 0,0:08:05.76,0:08:07.78,Default,najen,0000,0000,0000,,Because the bearer is at great risk wearing this,
+Dialogue: 0,0:08:07.78,0:08:10.46,Default,,0000,0000,0000,,normal people die if they try to don it.
+Dialogue: 0,0:08:11.12,0:08:13.98,Default,najen,0000,0000,0000,,Infinite Variety: Cross Tail.
+Dialogue: 0,0:08:13.98,0:08:15.93,Default,najen,0000,0000,0000,,An Imperial Arms consisting of stiff strings.
+Dialogue: 0,0:08:15.93,0:08:19.69,Default,najen,0000,0000,0000,,He can spread them, creating a barrier \Nthat can find traps and enemies.
+Dialogue: 0,0:08:19.69,0:08:21.95,Default,najen,0000,0000,0000,,It also has the ability to bind and sever.
+Dialogue: 0,0:08:21.95,0:08:23.77,Default,,0000,0000,0000,,It lives up to the name "Infinite Variety."
+Dialogue: 0,0:08:24.86,0:08:26.91,Default,najen,0000,0000,0000,,Creation Bisector: Extase.
+Dialogue: 0,0:08:27.28,0:08:28.96,Default,najen,0000,0000,0000,,Imperial Arms in the form of giant scissors.
+Dialogue: 0,0:08:29.53,0:08:32.47,Default,najen,0000,0000,0000,,It possesses the power to bisect \Nanything in the world.
+Dialogue: 0,0:08:32.47,0:08:35.07,Default,najen,0000,0000,0000,,Because of its hardness, it can \Nalso be used for defense.
+Dialogue: 0,0:08:35.67,0:08:38.84,Default,najen,0000,0000,0000,,There are also Imperial Arms \Nthat have trump cards.
+Dialogue: 0,0:08:38.84,0:08:42.73,Default,najen,0000,0000,0000,,Incursio can take advantage of the \Nmaterials it was constructed of
+Dialogue: 0,0:08:42.73,0:08:45.96,Default,,0000,0000,0000,,and make itself invisible for a short while.
+Dialogue: 0,0:08:46.26,0:08:50.25,Default,najen,0000,0000,0000,,Because the Imperial Arms have such potential, \Nincluding such trump cards,
+Dialogue: 0,0:08:50.25,0:08:52.97,Default,najen,0000,0000,0000,,one rule has been inviolable through the ages.
+Dialogue: 0,0:08:53.32,0:08:56.39,Default,najen,0000,0000,0000,,Using these weapons with murderous \Nintent, without exception,
+Dialogue: 0,0:08:56.39,0:08:59.53,Default,najen,0000,0000,0000,,will ultimately result in a victim.
+Dialogue: 0,0:09:00.52,0:09:03.64,Default,najen,0000,0000,0000,,Meaning, if Imperial Arms wielders \Nwere to fight one another,
+Dialogue: 0,0:09:03.64,0:09:05.62,Default,najen,0000,0000,0000,,one is guaranteed to die.
+Dialogue: 0,0:09:08.97,0:09:11.24,Default,najen,0000,0000,0000,,The target, Zank, is an Imperial Arms user.
+Dialogue: 0,0:09:11.24,0:09:14.61,Default,najen,0000,0000,0000,,Even if the battle ends in a draw, \Nboth wielders cannot live.
+Dialogue: 0,0:09:14.98,0:09:16.57,Default,tatsu,0000,0000,0000,,Th-That's amazing.
+Dialogue: 0,0:09:16.57,0:09:18.04,Default,lub,0000,0000,0000,,And now...
+Dialogue: 0,0:09:18.04,0:09:21.05,Default,lub,0000,0000,0000,,You know all our secrets,
+Dialogue: 0,0:09:21.60,0:09:24.30,Default,,0000,0000,0000,,so we share a common destiny.
+Dialogue: 0,0:09:24.30,0:09:25.25,Default,tatsu,0000,0000,0000,,R-Right.
+Dialogue: 0,0:09:25.68,0:09:27.50,Default,leone,0000,0000,0000,,Don't be scared, Tatsumi.
+Dialogue: 0,0:09:27.50,0:09:30.13,Default,leone,0000,0000,0000,,This just means the boss trusts you now.
+Dialogue: 0,0:09:30.36,0:09:33.42,Default,najen,0000,0000,0000,,Our Night Raid may be few in \Nnumbers, but as you can see,
+Dialogue: 0,0:09:33.42,0:09:35.61,Default,,0000,0000,0000,,our combat potential is vast.
+Dialogue: 0,0:09:36.25,0:09:38.14,Default,najen,0000,0000,0000,,We are the ones who will make \Nthis revolution happen.
+Dialogue: 0,0:09:38.51,0:09:40.74,Default,tatsu,0000,0000,0000,,B-Boss, what about me?
+Dialogue: 0,0:09:40.74,0:09:41.64,Default,mine,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:41.90,0:09:44.67,Default,,0000,0000,0000,,You think you get an Imperial Arms, too?
+Dialogue: 0,0:09:44.67,0:09:46.29,Default,tatsu,0000,0000,0000,,Huh? I don't?
+Dialogue: 0,0:09:47.93,0:09:50.86,Default,najen,0000,0000,0000,,If it's meant to be, you may obtain one someday.
+Dialogue: 0,0:09:52.96,0:09:54.40,Default,najen,0000,0000,0000,,That's all I have to say.
+Dialogue: 0,0:09:54.64,0:09:56.90,Default,najen,0000,0000,0000,,Go hunt down the prey that \Nthe heavens cannot judge.
+Dialogue: 0,0:09:57.51,0:09:58.58,Default,tatsumi,0000,0000,0000,,Roger.
+Dialogue: 0,0:10:04.33,0:10:06.46,Default,akame,0000,0000,0000,,We're in charge of this section.
+Dialogue: 0,0:10:07.48,0:10:10.54,Default,tatsu,0000,0000,0000,,The capital's citizens are so scared \Nof the slasher, they're staying in.
+Dialogue: 0,0:10:10.89,0:10:12.13,Default,tatsu,0000,0000,0000,,Actually, that makes things easi—
+Dialogue: 0,0:10:13.82,0:10:15.07,Default,akame,0000,0000,0000,,The Imperial Capital Guard.
+Dialogue: 0,0:10:16.58,0:10:18.84,Default,tatsu,0000,0000,0000,,Say, Akame... Can I ask you something?
+Dialogue: 0,0:10:18.84,0:10:20.34,Default,akame,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:10:20.34,0:10:22.18,Default,,0000,0000,0000,,I've brought emergency rations.
+Dialogue: 0,0:10:22.18,0:10:23.56,Default,tatsu,0000,0000,0000,,That isn't what I meant.
+Dialogue: 0,0:10:24.17,0:10:27.36,Default,tatsu,0000,0000,0000,,Even with a scratch, that blade will \Ninflict a mortal wound, right?
+Dialogue: 0,0:10:27.76,0:10:28.27,Default,akame,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:30.39,0:10:33.15,Default,tatsu,0000,0000,0000,,I'm surprised I survived...
+Dialogue: 0,0:10:33.56,0:10:35.89,Default,akame,0000,0000,0000,,I've had this blade for a while,
+Dialogue: 0,0:10:36.37,0:10:40.11,Default,akame,0000,0000,0000,,but it's become famous as the one slice, \Ncertain death enchanted sword.
+Dialogue: 0,0:10:40.46,0:10:42.03,Default,tatsu,0000,0000,0000,,You aren't supposed to get well known, are you?
+Dialogue: 0,0:10:42.37,0:10:44.93,Default,tatsu,0000,0000,0000,,But regardless, that just means you're invincible.
+Dialogue: 0,0:10:44.93,0:10:48.01,Default,akame,0000,0000,0000,,No, this blade has a weakness.
+Dialogue: 0,0:10:48.01,0:10:49.18,Default,tatsu,0000,0000,0000,,For example?
+Dialogue: 0,0:10:49.18,0:10:50.96,Default,tatsu,0000,0000,0000,,Maintaining it is nerve-racking.
+Dialogue: 0,0:10:51.72,0:10:53.59,Default,,0000,0000,0000,,If you accidentally cut your finger, you die instantly.
+Dialogue: 0,0:10:53.59,0:10:54.91,Default,tatsu,0000,0000,0000,,Ah...
+Dialogue: 0,0:10:54.91,0:10:57.39,Default,akame,0000,0000,0000,,In battle, if you don't directly \Ncut your opponent's skin,
+Dialogue: 0,0:10:57.39,0:10:58.72,Default,,0000,0000,0000,,the curse won't be executed.
+Dialogue: 0,0:10:59.53,0:11:03.14,Default,tatsu,0000,0000,0000,,Facing someone like Bro, with armor \Nlike that, seems it might be tough.
+Dialogue: 0,0:11:03.83,0:11:06.38,Default,akame,0000,0000,0000,,This is a one slice, certain death \Nworld to begin with.
+Dialogue: 0,0:11:07.07,0:11:09.48,Default,akame,0000,0000,0000,,I try not to overestimate the abilities \Nof the Imperial Arms.
+Dialogue: 0,0:11:10.48,0:11:12.81,Default - italics,tatsu,0000,0000,0000,,I'm sure she's around my age.
+Dialogue: 0,0:11:13.36,0:11:17.39,Default - italics,tatsu,0000,0000,0000,,I wonder how many battles Akame \Nhas faced up till now.
+Dialogue: 0,0:11:20.50,0:11:24.53,Default,zank,0000,0000,0000,,It seems assassins have now arrived, \Nin addition to the slasher.
+Dialogue: 0,0:11:25.30,0:11:28.36,Default,zank,0000,0000,0000,,Talk about a violent city...
+Dialogue: 0,0:11:28.36,0:11:30.00,Default,zank,0000,0000,0000,,Splendid... Splendid.
+Dialogue: 0,0:11:30.56,0:11:31.83,Default,zank,0000,0000,0000,,Night Raid...
+Dialogue: 0,0:11:32.59,0:11:36.36,Default,zank,0000,0000,0000,,Now, I wonder whose head I'll take first.
+Dialogue: 0,0:11:36.79,0:11:40.25,Default,zank,0000,0000,0000,,Ah, eyes filled with such \Npassion and sense of duty.
+Dialogue: 0,0:11:40.25,0:11:41.63,Default,zank,0000,0000,0000,,Admirable... Admirable.
+Dialogue: 0,0:11:41.89,0:11:43.01,Default,zank,0000,0000,0000,,I've decided!
+Dialogue: 0,0:11:43.46,0:11:46.43,Default,,0000,0000,0000,,I'll have the most delicious one first.
+Dialogue: 0,0:11:47.31,0:11:49.98,Default,tatsu,0000,0000,0000,,Seems they won't come out so easily.
+Dialogue: 0,0:11:50.41,0:11:52.30,Default,tatsu,0000,0000,0000,,I guess we'll just have to be patient.
+Dialogue: 0,0:11:53.57,0:11:54.65,Default,tatsu,0000,0000,0000,,Excuse me a sec.
+Dialogue: 0,0:11:55.27,0:11:56.27,Default,akame,0000,0000,0000,,You're going to the bathroom?
+Dialogue: 0,0:12:00.14,0:12:01.86,Default - italics,tatsu,0000,0000,0000,,I'm totally tense.
+Dialogue: 0,0:12:07.64,0:12:08.74,Default,tatsu,0000,0000,0000,,Sayo...
+Dialogue: 0,0:12:09.98,0:12:11.37,Default,tatsu,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:12:11.85,0:12:13.37,Default,akame,0000,0000,0000,,You're late, Tatsumi.
+Dialogue: 0,0:12:24.21,0:12:25.60,Default,tatsu,0000,0000,0000,,There's no doubt about it.
+Dialogue: 0,0:12:25.60,0:12:26.59,Default,,0000,0000,0000,,That's Sayo...
+Dialogue: 0,0:12:27.01,0:12:29.31,Default,tatsu,0000,0000,0000,,What the heck? So you were alive.
+Dialogue: 0,0:12:29.69,0:12:31.56,Default,tatsu,0000,0000,0000,,Anyway, I'm just happy.
+Dialogue: 0,0:12:32.79,0:12:34.77,Default,zank,0000,0000,0000,,So passionate...
+Dialogue: 0,0:12:35.21,0:12:38.15,Default,zank,0000,0000,0000,,Looks like I showed you something rather special.
+Dialogue: 0,0:12:39.30,0:12:40.86,Default,zank,0000,0000,0000,,Good evening.
+Dialogue: 0,0:12:41.76,0:12:43.40,Default,tatsu,0000,0000,0000,,Sayo turned into a suspicious old man!
+Dialogue: 0,0:12:43.76,0:12:46.32,Default,zank,0000,0000,0000,,Rather than "old man," call me this...
+Dialogue: 0,0:12:46.97,0:12:48.28,Default,zank,0000,0000,0000,,Affectionately...
+Dialogue: 0,0:12:49.64,0:12:51.45,Default,zank,0000,0000,0000,,Zank the Executioner.
+Dialogue: 0,0:12:52.15,0:12:53.32,Default,tatsu,0000,0000,0000,,You are
+Dialogue: 0,0:12:53.88,0:12:55.25,Default,,0000,0000,0000,,Zank the Executioner!
+Dialogue: 0,0:12:57.51,0:12:58.92,Default,zank,0000,0000,0000,,Hmm...
+Dialogue: 0,0:12:58.92,0:13:01.43,Default,zank,0000,0000,0000,,If you wait for the partner \Nyou were separated from...
+Dialogue: 0,0:13:01.43,0:13:03.53,Default,zank,0000,0000,0000,,But do you have that kind of a chance?
+Dialogue: 0,0:13:03.53,0:13:04.72,Default,,0000,0000,0000,,That's what you thought, isn't it?
+Dialogue: 0,0:13:06.00,0:13:08.12,Default - italics,tatsu,0000,0000,0000,,What? Did he read my thoughts?
+Dialogue: 0,0:13:09.14,0:13:11.02,Default - italics,tatsu,0000,0000,0000,,Is that eye an Imperial Arms?
+Dialogue: 0,0:13:11.02,0:13:14.27,Default,zank,0000,0000,0000,,Bingo! The Imperial Arms Spected.
+Dialogue: 0,0:13:14.74,0:13:17.57,Default,zank,0000,0000,0000,,One of its five visionary \Npowers, Perceptive Sight.
+Dialogue: 0,0:13:17.57,0:13:21.68,Default,zank,0000,0000,0000,,I can tell my opponent's thoughts, \Njust by looking at their expression.
+Dialogue: 0,0:13:22.12,0:13:26.13,Default,zank,0000,0000,0000,,My observations are sharp to the ultimate degree.
+Dialogue: 0,0:13:26.13,0:13:28.65,Default,zank,0000,0000,0000,,Want a shrunken head as a reward?
+Dialogue: 0,0:13:28.65,0:13:31.58,Default,tatsu,0000,0000,0000,,Like hell! But man, you sure talk a lot.
+Dialogue: 0,0:13:32.12,0:13:34.47,Default,zank,0000,0000,0000,,Well, my hobby is to talk...
+Dialogue: 0,0:13:34.47,0:13:37.88,Default,zank,0000,0000,0000,,By the way, I found you with \Nthe power of my Far Sight.
+Dialogue: 0,0:13:38.28,0:13:39.49,Default,zank,0000,0000,0000,,Even at night or in fog,
+Dialogue: 0,0:13:39.49,0:13:42.63,Default,zank,0000,0000,0000,,I can see through things extremely far away!
+Dialogue: 0,0:13:44.11,0:13:45.84,Default,zank,0000,0000,0000,,This is splendid!
+Dialogue: 0,0:13:45.84,0:13:47.91,Default,zank,0000,0000,0000,,You thought if you attacked while I was talking,
+Dialogue: 0,0:13:47.91,0:13:49.09,Default,,0000,0000,0000,,something would come of it?
+Dialogue: 0,0:13:49.33,0:13:50.98,Default,zank,0000,0000,0000,,Impossible... Impossible.
+Dialogue: 0,0:13:50.98,0:13:53.31,Default,zank,0000,0000,0000,,I can see everything within your heart.
+Dialogue: 0,0:13:54.89,0:13:57.14,Default,zank,0000,0000,0000,,You'll take a huge step, then swing from above...
+Dialogue: 0,0:13:58.56,0:14:00.31,Default,zank,0000,0000,0000,,Then strike up,
+Dialogue: 0,0:14:01.37,0:14:04.47,Default,zank,0000,0000,0000,,which was a fake, to aim for my throat!
+Dialogue: 0,0:14:06.06,0:14:07.74,Default,zank,0000,0000,0000,,That's what you thought, wasn't it?
+Dialogue: 0,0:14:12.45,0:14:14.91,Default - italics,tatsu,0000,0000,0000,,He's far stronger than others I've fought.
+Dialogue: 0,0:14:14.91,0:14:18.23,Default,zank,0000,0000,0000,,The expression on the person's face \Nwhen you chop their head off
+Dialogue: 0,0:14:18.23,0:14:20.91,Default,zank,0000,0000,0000,,is irresistibly amazing!
+Dialogue: 0,0:14:20.91,0:14:23.47,Default,zank,0000,0000,0000,,The most common is the blank stare.
+Dialogue: 0,0:14:23.47,0:14:25.17,Default,zank,0000,0000,0000,,And they always say, "Eh?"
+Dialogue: 0,0:14:25.63,0:14:28.39,Default,zank,0000,0000,0000,,I wonder what kind of expression you'll have.
+Dialogue: 0,0:14:28.39,0:14:29.51,Default,zank,0000,0000,0000,,Splendid... Splendid.
+Dialogue: 0,0:14:29.93,0:14:33.51,Default,tatsu,0000,0000,0000,,My neck isn't so weak that \Nyou'll be able to cut it!
+Dialogue: 0,0:14:35.33,0:14:36.44,Default,akame,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:14:39.73,0:14:42.86,Default,zank,0000,0000,0000,,Wonderful. Youths are so straightforward.
+Dialogue: 0,0:14:42.86,0:14:44.10,Default,,0000,0000,0000,,I'm liking you even more.
+Dialogue: 0,0:14:44.10,0:14:47.07,Default,zank,0000,0000,0000,,I'll add you to my shrunken heads collection!
+Dialogue: 0,0:14:49.56,0:14:51.12,Default,zank,0000,0000,0000,,Splendid... Splendid.
+Dialogue: 0,0:14:52.32,0:14:55.43,Default,zank,0000,0000,0000,,A magnificent wound I've inflicted \Nupon you, if I do say so myself.
+Dialogue: 0,0:14:55.43,0:14:56.99,Default,tatsu,0000,0000,0000,,What?
+Dialogue: 0,0:14:56.99,0:14:59.72,Default,zank,0000,0000,0000,,When people with wonderful eyes \Nlike yours beg for their lives,
+Dialogue: 0,0:14:59.72,0:15:01.29,Default,,0000,0000,0000,,it's very comforting.
+Dialogue: 0,0:15:01.72,0:15:04.00,Default,zank,0000,0000,0000,,So I'm taking my time.
+Dialogue: 0,0:15:04.83,0:15:07.40,Default,zank,0000,0000,0000,,Now, beg...
+Dialogue: 0,0:15:07.40,0:15:10.76,Default,zank,0000,0000,0000,,If you do, it might buy some time \Nfor your friends to arrive.
+Dialogue: 0,0:15:14.71,0:15:16.05,Default,tatsu,0000,0000,0000,,Don't be ridiculous.
+Dialogue: 0,0:15:16.05,0:15:20.52,Default,,0000,0000,0000,,I would never beg for my life \Nfrom a rotten rat like you
+Dialogue: 0,0:15:20.52,0:15:23.38,Default,tatsu,0000,0000,0000,,who only knows how to behead people!
+Dialogue: 0,0:15:24.57,0:15:27.85,Default - italics,tatsu,0000,0000,0000,,He's looking into my heart, so I'll keep it simple...
+Dialogue: 0,0:15:29.00,0:15:30.65,Default - italics,tatsu,0000,0000,0000,,I'm putting everything on the line...
+Dialogue: 0,0:15:30.65,0:15:32.57,Default - italics,tatsu,0000,0000,0000,,With this one strike!
+Dialogue: 0,0:15:33.12,0:15:35.94,Default,zank,0000,0000,0000,,Well, that's very valiant of you.
+Dialogue: 0,0:15:35.94,0:15:38.10,Default,zank,0000,0000,0000,,I'm sure your wounds hurt...
+Dialogue: 0,0:15:38.10,0:15:41.12,Default,zank,0000,0000,0000,,I, the master of executions, \Nshall relieve you from that.
+Dialogue: 0,0:15:41.61,0:15:42.50,Default,tatsu,0000,0000,0000,,Here I go!
+Dialogue: 0,0:15:48.23,0:15:51.01,Default - italics,zank,0000,0000,0000,,His attack was much faster than I anticipated.
+Dialogue: 0,0:15:51.01,0:15:52.18,Default - italics,zank,0000,0000,0000,,He's...
+Dialogue: 0,0:15:53.28,0:15:54.96,Default,tatsu,0000,0000,0000,,I got a strike in.
+Dialogue: 0,0:15:56.06,0:15:58.69,Default,tatsu,0000,0000,0000,,Master of executions, my ass.
+Dialogue: 0,0:15:59.30,0:16:01.42,Default,tatsu,0000,0000,0000,,You totally missed my neck.
+Dialogue: 0,0:16:01.42,0:16:03.35,Default,tatsu,0000,0000,0000,,Don't make me laugh, you dumbass.
+Dialogue: 0,0:16:03.35,0:16:04.31,Default,zank,0000,0000,0000,,Silence!
+Dialogue: 0,0:16:16.19,0:16:17.52,Default,akame,0000,0000,0000,,Well done on the insults.
+Dialogue: 0,0:16:18.04,0:16:20.08,Default,akame,0000,0000,0000,,Mentally, you've won this fight.
+Dialogue: 0,0:16:20.08,0:16:21.08,Default,tatsumi,0000,0000,0000,,Akame!
+Dialogue: 0,0:16:21.46,0:16:23.18,Default,akame,0000,0000,0000,,I've finally found you.
+Dialogue: 0,0:16:23.18,0:16:24.57,Default,akame,0000,0000,0000,,Just wait.
+Dialogue: 0,0:16:24.57,0:16:26.46,Default,akame,0000,0000,0000,,I'll end this quickly and tend to your wounds.
+Dialogue: 0,0:16:29.69,0:16:33.03,Default,zank,0000,0000,0000,,The infamous Akame and her \Nenchanted sword, Murasame.
+Dialogue: 0,0:16:33.48,0:16:35.08,Default,zank,0000,0000,0000,,Splendid... Splendid.
+Dialogue: 0,0:16:35.08,0:16:36.30,Default,zank,0000,0000,0000,,I've been wanting to meet you.
+Dialogue: 0,0:16:36.30,0:16:39.56,Default,akame,0000,0000,0000,,I wanted to meet you, as well. \NBecause it's my mission.
+Dialogue: 0,0:16:40.31,0:16:41.39,Default - italics,zank,0000,0000,0000,,Transparent Sight!
+Dialogue: 0,0:16:42.53,0:16:45.35,Default,zank,0000,0000,0000,,Results... No sign of hidden weapons.
+Dialogue: 0,0:16:46.30,0:16:47.75,Default,tatsu,0000,0000,0000,,Be careful, Akame...
+Dialogue: 0,0:16:47.75,0:16:49.86,Default,,0000,0000,0000,,He can read your thoughts with that eye!
+Dialogue: 0,0:16:49.86,0:16:51.17,Default,akame,0000,0000,0000,,I see.
+Dialogue: 0,0:16:51.17,0:16:53.17,Default,,0000,0000,0000,,So that's the power of that Imperial Arms.
+Dialogue: 0,0:16:53.80,0:16:57.53,Default,akame,0000,0000,0000,,But even if you can read thoughts, \Nif you can't counter the actions,
+Dialogue: 0,0:16:57.53,0:16:58.91,Default,akame,0000,0000,0000,,there's no point.
+Dialogue: 0,0:17:03.06,0:17:05.50,Default - italics,akame,0000,0000,0000,,He's used to this. He's seen quite a few battles.
+Dialogue: 0,0:17:06.09,0:17:08.46,Default - italics,zank,0000,0000,0000,,She doesn't only have speed. \NShe has arm strength, as well.
+Dialogue: 0,0:17:11.52,0:17:13.39,Default - italics,tatsu,0000,0000,0000,,F-Fast!
+Dialogue: 0,0:17:13.39,0:17:16.49,Default - italics,,0000,0000,0000,,So this is a fight between Imperial Arms users?
+Dialogue: 0,0:17:17.61,0:17:19.73,Default - italics,akame,0000,0000,0000,,With him reading my heart, \Nwe're evenly matched.
+Dialogue: 0,0:17:20.51,0:17:21.48,Default - italics,akame,0000,0000,0000,,Then...
+Dialogue: 0,0:17:23.78,0:17:26.90,Default,zank,0000,0000,0000,,Oh? You've arrived at a state of nothingness.
+Dialogue: 0,0:17:27.13,0:17:30.49,Default,zank,0000,0000,0000,,But this Spected has the Future Sight.
+Dialogue: 0,0:17:30.49,0:17:31.76,Default,zank,0000,0000,0000,,Judging by your muscles,
+Dialogue: 0,0:17:31.76,0:17:33.74,Default,zank,0000,0000,0000,,your next move will be—
+Dialogue: 0,0:17:36.12,0:17:37.32,Default,zank,0000,0000,0000,,I see it!
+Dialogue: 0,0:17:45.68,0:17:47.83,Default - italics,tatsu,0000,0000,0000,,The fact that Akame took an attack...
+Dialogue: 0,0:17:47.83,0:17:49.39,Default,zank,0000,0000,0000,,Good grief.
+Dialogue: 0,0:17:49.39,0:17:52.12,Default,,0000,0000,0000,,It's rather unfair that sword is so unforgiving
+Dialogue: 0,0:17:52.12,0:17:54.14,Default,,0000,0000,0000,,with even the slightest scratch, right?
+Dialogue: 0,0:17:54.14,0:17:56.75,Default,akame,0000,0000,0000,,My moves and thoughts are being read,
+Dialogue: 0,0:17:57.26,0:17:58.62,Default,akame,0000,0000,0000,,so I think we're even.
+Dialogue: 0,0:17:58.62,0:17:59.92,Default,zank,0000,0000,0000,,Say, Akame...
+Dialogue: 0,0:18:00.32,0:18:02.10,Default,,0000,0000,0000,,How do you deal with the voices?
+Dialogue: 0,0:18:03.27,0:18:03.85,Default,akame,0000,0000,0000,,Voices?
+Dialogue: 0,0:18:05.31,0:18:08.97,Default,zank,0000,0000,0000,,You know, the ones you hear \Nwhen you get really quiet.
+Dialogue: 0,0:18:08.97,0:18:12.82,Default,zank,0000,0000,0000,,The voices of everyone you've killed, \Ngroaning from the depths of hell.
+Dialogue: 0,0:18:12.82,0:18:14.70,Default,zank,0000,0000,0000,,They hold a grudge against me,
+Dialogue: 0,0:18:14.70,0:18:17.66,Default,,0000,0000,0000,,and they tell me to hurry and join them...
+Dialogue: 0,0:18:18.42,0:18:21.90,Default,zank,0000,0000,0000,,When I was cutting off heads every day \Nat the jail, I started hearing them.
+Dialogue: 0,0:18:21.90,0:18:23.83,Default,,0000,0000,0000,,But lately, it's gotten worse.
+Dialogue: 0,0:18:24.08,0:18:27.96,Default,zank,0000,0000,0000,,I talk to deal with it, but how do you—
+Dialogue: 0,0:18:27.96,0:18:29.25,Default,akame,0000,0000,0000,,I don't hear them.
+Dialogue: 0,0:18:29.73,0:18:32.63,Default,akame,0000,0000,0000,,I don't hear voices like that.
+Dialogue: 0,0:18:32.82,0:18:34.22,Default,zank,0000,0000,0000,,This is surprising...
+Dialogue: 0,0:18:34.22,0:18:38.38,Default,zank,0000,0000,0000,,I thought I'd be able to discuss this \Nwith an assassin of your caliber.
+Dialogue: 0,0:18:39.97,0:18:42.10,Default,zank,0000,0000,0000,,How depressing!
+Dialogue: 0,0:18:51.65,0:18:52.65,Default,akame,0000,0000,0000,,Kurome...
+Dialogue: 0,0:18:53.57,0:18:57.07,Default,tatsu,0000,0000,0000,,Wh-What's wrong? Akame! Akame!
+Dialogue: 0,0:18:57.31,0:18:58.83,Default,zank,0000,0000,0000,,Illusion Sight...
+Dialogue: 0,0:18:58.83,0:19:03.28,Default,,0000,0000,0000,,The person she values most appeared before her.
+Dialogue: 0,0:19:04.02,0:19:06.10,Default,zank,0000,0000,0000,,She's in her memories right now,
+Dialogue: 0,0:19:06.10,0:19:09.29,Default,,0000,0000,0000,,reunited with the one most precious to her.
+Dialogue: 0,0:19:10.12,0:19:12.09,Default,tatsu,0000,0000,0000,,So that's what that Sayo was.
+Dialogue: 0,0:19:12.55,0:19:13.25,Default,tatsu,0000,0000,0000,,Akame,
+Dialogue: 0,0:19:13.66,0:19:15.43,Default,,0000,0000,0000,,you're seeing an illusion!
+Dialogue: 0,0:19:15.43,0:19:16.71,Default,tatsu,0000,0000,0000,,Don't be fooled!
+Dialogue: 0,0:19:16.71,0:19:18.04,Default,zank,0000,0000,0000,,It's no use.
+Dialogue: 0,0:19:18.04,0:19:21.46,Default,,0000,0000,0000,,It only works on one at a time, \Nbut the hypnosis is strong.
+Dialogue: 0,0:19:21.46,0:19:24.68,Default,zank,0000,0000,0000,,And no matter how experienced one may be,
+Dialogue: 0,0:19:24.68,0:19:27.85,Default,,0000,0000,0000,,it is impossible for one to kill \Nthose they love most.
+Dialogue: 0,0:19:28.66,0:19:32.52,Default,zank,0000,0000,0000,,Die, looking at the illusion of \Nthe one you love, Akame!
+Dialogue: 0,0:19:38.43,0:19:39.40,Default - italics,zank,0000,0000,0000,,She...
+Dialogue: 0,0:19:42.99,0:19:44.36,Default - italics,zank,0000,0000,0000,,She didn't even falter.
+Dialogue: 0,0:19:46.15,0:19:47.48,Default,zank,0000,0000,0000,,Why?!
+Dialogue: 0,0:19:47.48,0:19:49.66,Default,zank,0000,0000,0000,,You should have seen the one you love most!
+Dialogue: 0,0:19:50.31,0:19:52.08,Default,akame,0000,0000,0000,,It's because I loved her most
+Dialogue: 0,0:19:52.69,0:19:54.54,Default,,0000,0000,0000,,that I wanted to kill her as swiftly as possible.
+Dialogue: 0,0:19:55.96,0:19:57.56,Default - italics,zank,0000,0000,0000,,What did she...
+Dialogue: 0,0:19:58.31,0:20:00.10,Default,akame,0000,0000,0000,,This settles the battle.
+Dialogue: 0,0:20:01.71,0:20:03.26,Default - italics,zank,0000,0000,0000,,No good... It's going to break.
+Dialogue: 0,0:20:03.69,0:20:05.59,Default,akame,0000,0000,0000,,First, I'll destroy your weapon!
+Dialogue: 0,0:20:06.47,0:20:08.64,Default,zank,0000,0000,0000,,I won't die!
+Dialogue: 0,0:20:10.50,0:20:11.94,Default - italics,zank,0000,0000,0000,,I'll kill you first!
+Dialogue: 0,0:20:11.94,0:20:14.71,Default - italics,zank,0000,0000,0000,,I have the advantage because \NI can see your future motion!
+Dialogue: 0,0:20:14.71,0:20:16.20,Default - italics,zank,0000,0000,0000,,She can't kill me immediately.
+Dialogue: 0,0:20:16.20,0:20:18.57,Default - italics,zank,0000,0000,0000,,Before you strike, my sword will—
+Dialogue: 0,0:20:26.63,0:20:27.58,Default,akame,0000,0000,0000,,Eliminate.
+Dialogue: 0,0:20:35.97,0:20:37.04,Default,tatsu,0000,0000,0000,,We did it!
+Dialogue: 0,0:20:38.77,0:20:40.59,Default - italics,tatsu,0000,0000,0000,,She saved me this time, but...
+Dialogue: 0,0:20:41.18,0:20:43.46,Default - italics,tatsu,0000,0000,0000,,I need to become stronger.
+Dialogue: 0,0:20:45.09,0:20:49.18,Default,akame,0000,0000,0000,,Zank, I'm sure you can't hear the groaning anymore.
+Dialogue: 0,0:20:53.76,0:20:55.05,Default,zank,0000,0000,0000,,The noises
+Dialogue: 0,0:20:56.35,0:20:57.46,Default,,0000,0000,0000,,have stopped.
+Dialogue: 0,0:21:00.02,0:21:03.48,Default,zank,0000,0000,0000,,S-Splendid... Splendid.
+Dialogue: 0,0:21:04.02,0:21:07.41,Default,zank,0000,0000,0000,,Thank you, Akame...
+Dialogue: 0,0:21:16.46,0:21:17.36,Default,tatsu,0000,0000,0000,,Sayo...
+Dialogue: 0,0:21:18.47,0:21:19.98,Default,akame,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:21:19.98,0:21:21.41,Default,akame,0000,0000,0000,,It's time to prepare dinner.
+Dialogue: 0,0:21:22.05,0:21:23.76,Default,,0000,0000,0000,,Even wounded, there are things you can do.
+Dialogue: 0,0:21:24.25,0:21:28.76,Default,tatsu,0000,0000,0000,,Say, Akame, who did you see back there?
+Dialogue: 0,0:21:32.19,0:21:34.10,Default,akame,0000,0000,0000,,When the time comes, I'll tell you.
+Dialogue: 0,0:21:35.21,0:21:37.18,Default,akame,0000,0000,0000,,However, I can say this much.
+Dialogue: 0,0:21:37.18,0:21:41.27,Default,akame,0000,0000,0000,,Right now, everyone in Night \NRaid is precious to me.
+Dialogue: 0,0:21:42.84,0:21:44.03,Default,akame,0000,0000,0000,,Including you.
+Dialogue: 0,0:21:44.03,0:21:44.99,Default,tatsu,0000,0000,0000,,What?
+Dialogue: 0,0:21:45.70,0:21:46.91,Default,akame,0000,0000,0000,,Let's go.
+Dialogue: 0,0:21:46.91,0:21:48.91,Default,tatsu,0000,0000,0000,,Ah, hey... Wait!
+Dialogue: 0,0:21:48.91,0:21:50.49,Default,akame,0000,0000,0000,,Tonight, we're having all of the meat.
+Dialogue: 0,0:21:50.49,0:21:52.59,Default,tatsu,0000,0000,0000,,We just ate meat yesterday!
+Dialogue: 0,0:21:52.59,0:21:53.93,Default,tatsu,0000,0000,0000,,Are you thinking about nutrition?
+Dialogue: 0,0:21:53.93,0:21:55.35,Default,,0000,0000,0000,,We need to eat vegetables, too!
+Dialogue: 0,0:23:36.20,0:23:41.02,Title2,title,0000,0000,0000,,{\fad(341,1)}Kill the Dream

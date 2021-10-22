@@ -1,0 +1,253 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,27,&H000D0D0D,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,53,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:09.96,0:00:12.19,Default,Esdeath,0000,0000,0000,,Tatsumi died because he was weak.
+Dialogue: 0,0:00:12.96,0:00:14.44,Default,Esdeath,0000,0000,0000,,That's all there is to it.
+Dialogue: 0,0:00:15.83,0:00:18.83,Default,Esdeath,0000,0000,0000,,But what is this feeling?
+Dialogue: 0,0:00:21.57,0:00:22.92,Default,Soldiers,0000,0000,0000,,It's General Esdeath!
+Dialogue: 0,0:00:22.92,0:00:24.13,Default,Soldiers,0000,0000,0000,,She's the only one left.
+Dialogue: 0,0:00:24.13,0:00:24.87,Default,Soldiers,0000,0000,0000,,Get her!
+Dialogue: 0,0:00:25.22,0:00:27.20,Default,Esdeath,0000,0000,0000,,A pathetic kingdom like this...
+Dialogue: 0,0:00:28.89,0:00:29.59,Default,Akame,0000,0000,0000,,Don't!
+Dialogue: 0,0:00:30.83,0:00:32.46,Default,Esdeath,0000,0000,0000,,...should be eradicated!
+Dialogue: 0,0:00:49.31,0:00:50.63,Default,Esdeath,0000,0000,0000,,So you're Akame...
+Dialogue: 0,0:00:51.14,0:00:52.53,Default,Akame,0000,0000,0000,,You've lost.
+Dialogue: 0,0:00:52.86,0:00:54.63,Default,Esdeath,0000,0000,0000,,The empire has lost.
+Dialogue: 0,0:00:55.27,0:00:57.91,Default,Esdeath,0000,0000,0000,,But my hunt continues.
+Dialogue: 0,0:00:58.22,0:00:59.19,Default,Akame,0000,0000,0000,,Your hunt?
+Dialogue: 0,0:00:59.88,0:01:01.29,Default,Akame,0000,0000,0000,,The war's over.
+Dialogue: 0,0:01:01.71,0:01:04.00,Default,Esdeath,0000,0000,0000,,I'll move on to the next battlefield.
+Dialogue: 0,0:01:04.60,0:01:06.42,Default,Esdeath,0000,0000,0000,,And if I don't find it, I'll simply create one.
+Dialogue: 0,0:01:06.94,0:01:09.51,Default,Akame,0000,0000,0000,,For the sake of peace in the new world,
+Dialogue: 0,0:01:09.88,0:01:13.42,Default,Akame,0000,0000,0000,,I can't let someone like you live.
+Dialogue: 0,0:01:13.42,0:01:15.14,Default,Esdeath,0000,0000,0000,,I don't need your tedious speech.
+Dialogue: 0,0:01:15.14,0:01:17.22,Default,Esdeath,0000,0000,0000,,If you want to stop me,
+Dialogue: 0,0:01:17.58,0:01:19.22,Default,Esdeath,0000,0000,0000,,show me your strength!
+Dialogue: 0,0:01:21.55,0:01:22.50,Default - italics,Najenda,0000,0000,0000,,Esdeath...
+Dialogue: 0,0:01:22.84,0:01:25.57,Default - italics,Najenda,0000,0000,0000,,Just as I predicted, you're the \Nlast one standing in the way.
+Dialogue: 0,0:01:27.12,0:01:28.12,Default,Najenda,0000,0000,0000,,Akame,
+Dialogue: 0,0:01:28.12,0:01:29.31,Default,Najenda,0000,0000,0000,,kill Esdeath!
+Dialogue: 0,0:01:30.84,0:01:31.98,Default,Akame,0000,0000,0000,,Eliminate.
+Dialogue: 0,0:01:31.98,0:01:32.90,Default,Esdeath,0000,0000,0000,,I'll crush you.
+Dialogue: 0,0:03:30.87,0:03:31.69,Default,Esdeath,0000,0000,0000,,Freeze.
+Dialogue: 0,0:03:56.73,0:03:59.26,Default,Esdeath,0000,0000,0000,,As expected of the infamous Akame...
+Dialogue: 0,0:03:59.62,0:04:01.07,Default,Esdeath,0000,0000,0000,,This is fantastic!
+Dialogue: 0,0:04:01.07,0:04:02.26,Default,Akame,0000,0000,0000,,Esdeath,
+Dialogue: 0,0:04:02.81,0:04:05.98,Default,Akame,0000,0000,0000,,why continue to create and kill enemies?
+Dialogue: 0,0:04:06.65,0:04:08.01,Default,Akame,0000,0000,0000,,What will be left in the end?
+Dialogue: 0,0:04:08.44,0:04:09.97,Default,Esdeath,0000,0000,0000,,The winner.
+Dialogue: 0,0:04:10.39,0:04:13.40,Default,Akame,0000,0000,0000,,That's just a butcher, standing on \Na mound of corpses.
+Dialogue: 0,0:04:13.71,0:04:16.30,Default,Esdeath,0000,0000,0000,,Those words don't offend me in the least.
+Dialogue: 0,0:04:17.05,0:04:18.78,Default,Esdeath,0000,0000,0000,,If you value your life,
+Dialogue: 0,0:04:18.78,0:04:20.93,Default,Esdeath,0000,0000,0000,,drop your sword and become my subordinate.
+Dialogue: 0,0:04:21.34,0:04:22.33,Default,Akame,0000,0000,0000,,No.
+Dialogue: 0,0:04:22.33,0:04:24.53,Default,Esdeath,0000,0000,0000,,If you cannot, you'll die.
+Dialogue: 0,0:04:25.03,0:04:26.99,Default,Esdath,0000,0000,0000,,That's how this world works, right?
+Dialogue: 0,0:04:27.22,0:04:27.95,Default,Akame,0000,0000,0000,,You're wrong!
+Dialogue: 0,0:04:29.10,0:04:30.97,Default,Akame,0000,0000,0000,,Everyone wants to live...
+Dialogue: 0,0:04:30.97,0:04:33.33,Default,Akame,0000,0000,0000,,Everyone wanted to live...
+Dialogue: 0,0:04:39.84,0:04:42.88,Default,Akame,0000,0000,0000,,Lives aren't meant to be trampled on!
+Dialogue: 0,0:04:43.06,0:04:46.59,Default,Esdeath,0000,0000,0000,,I cannot comprehend what you're saying!
+Dialogue: 0,0:04:55.55,0:04:56.35,Default,Esdeath,0000,0000,0000,,Pierce through.
+Dialogue: 0,0:05:24.13,0:05:25.41,Default,Esdeath,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:05:25.41,0:05:26.74,Default,Esdeath,0000,0000,0000,,Is this all you have?
+Dialogue: 0,0:05:27.57,0:05:30.39,Default,Esdeath,0000,0000,0000,,The weak have no right to stand before me.
+Dialogue: 0,0:05:30.83,0:05:33.24,Default,Esdeath,0000,0000,0000,,Those without strength should \Nnot have hopes and dreams.
+Dialogue: 0,0:05:33.78,0:05:36.69,Default,Esdeath,0000,0000,0000,,Lie down and die before me, \Nlike a pig should.
+Dialogue: 0,0:05:37.22,0:05:39.81,Default,Akame,0000,0000,0000,,What do you think people are?
+Dialogue: 0,0:05:40.04,0:05:42.27,Default,Esdeath,0000,0000,0000,,I have no interest in the weak.
+Dialogue: 0,0:05:42.27,0:05:43.32,Default,Akame,0000,0000,0000,,Esdeath!
+Dialogue: 0,0:05:54.29,0:05:55.32,Default,Esdeath,0000,0000,0000,,Oh?
+Dialogue: 0,0:05:55.32,0:05:57.36,Default,Esdeath,0000,0000,0000,,You'll finally show me what you're made of.
+Dialogue: 0,0:06:50.50,0:06:52.26,Default,Esdeath,0000,0000,0000,,So this is your trump card.
+Dialogue: 0,0:06:52.88,0:06:55.35,Default,Akame,0000,0000,0000,,I've killed countless people...
+Dialogue: 0,0:06:55.92,0:07:00.49,Default,Akame,0000,0000,0000,,Grief, sorrow, rage, resentment.
+Dialogue: 0,0:07:01.03,0:07:02.86,Default,Akame,0000,0000,0000,,The Murasame remembers
+Dialogue: 0,0:07:03.59,0:07:07.20,Default,Akame,0000,0000,0000,,all the lives I've taken.
+Dialogue: 0,0:07:09.81,0:07:12.16,Default,Akame,0000,0000,0000,,I accept responsibility for all of them.
+Dialogue: 0,0:07:14.22,0:07:15.49,Default,Esdeath,0000,0000,0000,,This is the turning point.
+Dialogue: 0,0:07:16.07,0:07:17.66,Default,Esdeath,0000,0000,0000,,You are no longer human.
+Dialogue: 0,0:07:18.21,0:07:20.50,Default,Esdeath,0000,0000,0000,,A trump card worthy of a demonic sword.
+Dialogue: 0,0:07:21.58,0:07:23.36,Default,Akame,0000,0000,0000,,Even if this consumes me,
+Dialogue: 0,0:07:23.76,0:07:26.05,Default,Akame,0000,0000,0000,,I'll defeat you.
+Dialogue: 0,0:07:42.06,0:07:43.07,Default,Esdeath,0000,0000,0000,,Why, you...
+Dialogue: 0,0:08:33.65,0:08:34.71,Default,Esdeath,0000,0000,0000,,How amusing.
+Dialogue: 0,0:08:34.71,0:08:36.36,Default,Esdeath,0000,0000,0000,,This is indeed amusing!
+Dialogue: 0,0:08:37.08,0:08:40.24,Default,Esdeath,0000,0000,0000,,This is worth the sacrifice of an arm.
+Dialogue: 0,0:08:41.69,0:08:43.09,Default,Esdeath,0000,0000,0000,,Let's do this.
+Dialogue: 0,0:08:43.09,0:08:45.66,Default,Esdeath,0000,0000,0000,,Let's fight each other to the death!
+Dialogue: 0,0:09:20.57,0:09:23.45,Default - italics,Akame,0000,0000,0000,,This form won't last much longer.
+Dialogue: 0,0:09:25.10,0:09:26.00,Default - italics,Akame,0000,0000,0000,,I must finish this
+Dialogue: 0,0:09:26.81,0:09:27.83,Default - italics,Akame,0000,0000,0000,,with my next move!
+Dialogue: 0,0:09:28.52,0:09:31.50,Default,Esdeath,0000,0000,0000,,You have my full attention...
+Dialogue: 0,0:09:32.07,0:09:32.80,Default,Esdeath,0000,0000,0000,,Come.
+Dialogue: 0,0:10:00.30,0:10:01.58,Default - italics,Esdeath,0000,0000,0000,,Makahadoma!
+Dialogue: 0,0:10:06.86,0:10:10.32,Default,Esdeath,0000,0000,0000,,This is the second time I've been \Nforced to use my trump.
+Dialogue: 0,0:10:10.82,0:10:12.05,Default,Esdeath,0000,0000,0000,,I applaud you.
+Dialogue: 0,0:10:12.67,0:10:14.17,Default,Esdeath,0000,0000,0000,,This was fun.
+Dialogue: 0,0:10:16.02,0:10:16.80,Default,Esdeath,0000,0000,0000,,An afterimage?
+Dialogue: 0,0:10:21.25,0:10:22.52,Default,Esdeath,0000,0000,0000,,Where did you go?
+Dialogue: 0,0:10:25.52,0:10:26.27,Default,Esdeath,0000,0000,0000,,Above—
+Dialogue: 0,0:10:25.88,0:10:27.07,Default,Akame,0000,0000,0000,,Eliminate.
+Dialogue: 0,0:10:36.45,0:10:37.60,Default,Esdeath,0000,0000,0000,,How...
+Dialogue: 0,0:10:38.60,0:10:40.57,Default,Esdeath,0000,0000,0000,,could you break through the Makahadoma?
+Dialogue: 0,0:10:41.13,0:10:44.33,Default,Akame,0000,0000,0000,,Your trump card that took Susanoo's life...
+Dialogue: 0,0:10:45.23,0:10:47.69,Default,Akame,0000,0000,0000,,I was waiting for you to use it.
+Dialogue: 0,0:10:48.15,0:10:49.54,Default,Esdeath,0000,0000,0000,,That was part of your plan.
+Dialogue: 0,0:10:49.83,0:10:53.15,Default,Akame,0000,0000,0000,,The afterimage you saw was your bloodlust.
+Dialogue: 0,0:10:53.69,0:10:56.17,Default,Akame,0000,0000,0000,,I stabbed your inflated ideal of hunting.
+Dialogue: 0,0:11:02.85,0:11:04.96,Default,Akame,0000,0000,0000,,Mission accomplished.
+Dialogue: 0,0:11:13.79,0:11:15.51,Default,Esdeath,0000,0000,0000,,You really are interesting...
+Dialogue: 0,0:11:15.51,0:11:17.88,Default,Esdeath,0000,0000,0000,,Where does such strength derive?
+Dialogue: 0,0:11:17.88,0:11:20.23,Default,Akame,0000,0000,0000,,From all the lives for which I am responsible.
+Dialogue: 0,0:11:21.09,0:11:23.19,Default,Akame,0000,0000,0000,,Those are what gave me strength.
+Dialogue: 0,0:11:23.73,0:11:28.75,Default,Esdeath,0000,0000,0000,,You plan to continue being dragged \Ndown by others' souls?
+Dialogue: 0,0:11:28.75,0:11:29.79,Default,Akame,0000,0000,0000,,That's right.
+Dialogue: 0,0:11:30.91,0:11:32.53,Default,Esdeath,0000,0000,0000,,I cannot possibly understand.
+Dialogue: 0,0:11:33.03,0:11:35.31,Default,Esdeath,0000,0000,0000,,However, a loss is a loss.
+Dialogue: 0,0:11:47.39,0:11:49.20,Default,Esdeath,0000,0000,0000,,I suppose it is time to die.
+Dialogue: 0,0:11:52.14,0:11:53.02,Default,Akame,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:11:54.05,0:11:55.10,Default,Akame,0000,0000,0000,,Esdeath!
+Dialogue: 0,0:12:04.02,0:12:05.13,Default,Esdeath,0000,0000,0000,,Tatsumi,
+Dialogue: 0,0:12:05.60,0:12:09.49,Default,Esdeath,0000,0000,0000,,I wish that you had been beside me.
+Dialogue: 0,0:12:24.51,0:12:27.27,Default - italics,Akame,0000,0000,0000,,Those feelings you have for Tatsumi
+Dialogue: 0,0:12:27.71,0:12:31.31,Default - italics,Akame,0000,0000,0000,,are exactly what you said you \Ncouldn't possibly understand.
+Dialogue: 0,0:12:38.60,0:12:39.75,Default,Wave,0000,0000,0000,,Captain...
+Dialogue: 0,0:12:40.59,0:12:42.07,Default,Ran,0000,0000,0000,,Rest in peace.
+Dialogue: 0,0:12:54.00,0:12:57.34,Default,Onest,0000,0000,0000,,The wise are those who win in the end.
+Dialogue: 0,0:12:57.34,0:12:59.85,Default,Onest,0000,0000,0000,,As long as I'm alive,
+Dialogue: 0,0:12:59.85,0:13:02.27,Default,Onest,0000,0000,0000,,I can try again and again.
+Dialogue: 0,0:13:05.03,0:13:06.12,Default,Leone,0000,0000,0000,,Found you.
+Dialogue: 0,0:13:06.62,0:13:11.49,Default,Leone,0000,0000,0000,,I won't let a piece of crap like you escape.
+Dialogue: 0,0:13:11.49,0:13:12.39,Default,Onest,0000,0000,0000,,Someone...
+Dialogue: 0,0:13:12.39,0:13:14.31,Default,Onest,0000,0000,0000,,Isn't anyone there?
+Dialogue: 0,0:13:14.31,0:13:16.73,Default,Leone,0000,0000,0000,,You're the one who avoided detection.
+Dialogue: 0,0:13:17.13,0:13:18.94,Default,Leone,0000,0000,0000,,I need you to die now.
+Dialogue: 0,0:13:18.94,0:13:20.27,Default,Onest,0000,0000,0000,,Don't come any closer.
+Dialogue: 0,0:13:23.17,0:13:23.92,Default,Leone,0000,0000,0000,,What?
+Dialogue: 0,0:13:28.82,0:13:29.62,Default,Leone,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:33.00,0:13:34.47,Default,Onest,0000,0000,0000,,Fool!
+Dialogue: 0,0:13:34.47,0:13:37.00,Default,Onest,0000,0000,0000,,This is the power of my Imperial Arms.
+Dialogue: 0,0:13:37.45,0:13:40.71,Default,Onest,0000,0000,0000,,Concealing your trump card is critical.
+Dialogue: 0,0:13:42.51,0:13:45.84,Default,Onest,0000,0000,0000,,Now, since you're guilty of scaring me,
+Dialogue: 0,0:13:46.34,0:13:47.51,Default,Onest,0000,0000,0000,,you get the death penalty.
+Dialogue: 0,0:13:51.03,0:13:52.20,Default,Onest,0000,0000,0000,,Well, well...
+Dialogue: 0,0:13:52.20,0:13:54.03,Default,Onest,0000,0000,0000,,I said this about the emperor, too,
+Dialogue: 0,0:13:54.48,0:13:57.31,Default,Onest,0000,0000,0000,,but dealing with fools is tiring.
+Dialogue: 0,0:14:08.81,0:14:10.86,Default,Onest,0000,0000,0000,,H-How do you have
+Dialogue: 0,0:14:10.86,0:14:12.82,Default,Onest,0000,0000,0000,,so much strength...
+Dialogue: 0,0:14:12.82,0:14:15.92,Default,Leone,0000,0000,0000,,I grew up in the slums, so my body's tough.
+Dialogue: 0,0:14:16.34,0:14:18.17,Default,Leone,0000,0000,0000,,You can't imagine what that's like, can you?
+Dialogue: 0,0:14:30.61,0:14:34.14,Default,Leone,0000,0000,0000,,Even if you stop my Imperial Arms,
+Dialogue: 0,0:14:36.39,0:14:38.94,Default,Leone,0000,0000,0000,,my soul is stronger...
+Dialogue: 0,0:14:40.39,0:14:44.11,Default,Leone,0000,0000,0000,,than whatever rotten thing you have for one!
+Dialogue: 0,0:14:58.18,0:15:00.92,Default,Leone,0000,0000,0000,,Ah, it's finally over!
+Dialogue: 0,0:15:01.73,0:15:04.68,Default,Leone,0000,0000,0000,,Night Raid's done, huh?
+Dialogue: 0,0:15:05.18,0:15:05.92,Default,Akame,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:09.71,0:15:11.47,Default,Leone,0000,0000,0000,,Goodbye, my friend.
+Dialogue: 0,0:15:13.18,0:15:15.75,Default,Akame,0000,0000,0000,,Leone, you...
+Dialogue: 0,0:15:16.70,0:15:18.56,Default,Leone,0000,0000,0000,,Don't give me that look.
+Dialogue: 0,0:15:18.72,0:15:20.94,Default,Leone,0000,0000,0000,,I'll be able to see everyone now.
+Dialogue: 0,0:15:24.22,0:15:26.25,Default,Leone,0000,0000,0000,,There... That's a nice smile.
+Dialogue: 0,0:15:27.13,0:15:27.74,Default,Leone,0000,0000,0000,,See ya.
+Dialogue: 0,0:15:34.21,0:15:36.41,Default,Akame,0000,0000,0000,,See you, Leone.
+Dialogue: 0,0:15:57.56,0:16:00.77,Default,Men,0000,0000,0000,,Cheers to the revolution!
+Dialogue: 0,0:16:00.77,0:16:03.61,Default,Man A,0000,0000,0000,,I'm not gonna live in poverty anymore!
+Dialogue: 0,0:16:03.61,0:16:06.82,Default,Man B,0000,0000,0000,,But if you keep messing around, \Nyou're just gonna stay poor.
+Dialogue: 0,0:16:07.46,0:16:08.75,Default,Man C,0000,0000,0000,,Good point!
+Dialogue: 0,0:16:10.65,0:16:12.03,Default,Man A,0000,0000,0000,,Hey, Leone...
+Dialogue: 0,0:16:12.03,0:16:14.20,Default,Man A,0000,0000,0000,,Have a drink with us.
+Dialogue: 0,0:16:14.20,0:16:15.03,Default,Man B,0000,0000,0000,,Hey, old man!
+Dialogue: 0,0:16:15.31,0:16:17.03,Default,Man B,0000,0000,0000,,Get Leone a drink, too, will ya?
+Dialogue: 0,0:16:17.48,0:16:19.44,Default,Man C,0000,0000,0000,,Come on, Leone...
+Dialogue: 0,0:16:21.21,0:16:22.03,Default,Man C,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:04.56,0:17:05.88,Default,Emperor,0000,0000,0000,,The guillotine, I see.
+Dialogue: 0,0:17:07.18,0:17:09.27,Default,Emperor,0000,0000,0000,,That's what must be done \Nto set things straight.
+Dialogue: 0,0:17:09.67,0:17:10.38,Default,Najenda,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:10.85,0:17:14.10,Default,Emperor,0000,0000,0000,,I failed as an emperor...
+Dialogue: 0,0:17:14.10,0:17:16.24,Default,Emperor,0000,0000,0000,,But I have one last task.
+Dialogue: 0,0:17:16.67,0:17:17.43,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:17.69,0:17:21.64,Default,Emperor,0000,0000,0000,,If I cry now, I'd be a laughingstock.
+Dialogue: 0,0:17:22.19,0:17:24.91,Default,Emperor,0000,0000,0000,,I would, at least, like to die with honor.
+Dialogue: 0,0:17:37.69,0:17:41.08,Default,Emperor,0000,0000,0000,,Please build a peaceful kingdom \Nwithout any more bloodshed.
+Dialogue: 0,0:17:43.72,0:17:44.82,Default - italics,Najenda,0000,0000,0000,,You have my vow.
+Dialogue: 0,0:17:45.41,0:17:47.79,Default - italics,Najenda,0000,0000,0000,,This will be the last drop of blood shed.
+Dialogue: 0,0:17:55.59,0:17:56.65,Default,Wave,0000,0000,0000,,Kurome,
+Dialogue: 0,0:17:57.11,0:18:01.40,Default,Wave,0000,0000,0000,,I'm going to do my best to protect \Nthe new kingdom's peace.
+Dialogue: 0,0:18:02.00,0:18:03.28,Default,Wave,0000,0000,0000,,For your sake, as well.
+Dialogue: 0,0:18:03.81,0:18:06.98,Default,Ran,0000,0000,0000,,And I shall do my best from \Nwithin the government
+Dialogue: 0,0:18:07.68,0:18:09.44,Default,Ran,0000,0000,0000,,for everyone's future.
+Dialogue: 0,0:18:11.45,0:18:15.38,Default,Wave,0000,0000,0000,,I wish you could give us some \Nof your strength, Captain.
+Dialogue: 0,0:18:16.36,0:18:19.28,Default,Ran,0000,0000,0000,,I wonder if she was able to meet Tatsumi.
+Dialogue: 0,0:18:19.84,0:18:22.58,Default,Wave,0000,0000,0000,,I bet he's running away from her again...
+Dialogue: 0,0:18:24.24,0:18:26.02,Default,Ran,0000,0000,0000,,Now, shall we go?
+Dialogue: 0,0:18:26.48,0:18:28.54,Default,Ran,0000,0000,0000,,There is much to do.
+Dialogue: 0,0:18:39.67,0:18:41.35,Default,Chief,0000,0000,0000,,It's more than we've ever gotten.
+Dialogue: 0,0:18:41.75,0:18:46.85,Default,Villager A,0000,0000,0000,,Thanks to Tatsumi and the others, \Nno one else has starved...
+Dialogue: 0,0:18:46.85,0:18:48.99,Default,Villager B,0000,0000,0000,,Since there's a new kingdom,
+Dialogue: 0,0:18:48.99,0:18:51.98,Default,Villager B,0000,0000,0000,,maybe Tatsumi, Sayo, and Ieyasu \Nwill be coming back.
+Dialogue: 0,0:18:52.30,0:18:53.50,Default,Chief,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:53.50,0:18:55.27,Default,Chief,0000,0000,0000,,Our heroes are returning.
+Dialogue: 0,0:18:55.89,0:18:59.14,Default,Chief,0000,0000,0000,,We'll welcome them home with \Nan extravagant celebration.
+Dialogue: 0,0:19:27.98,0:19:29.89,Default,Najenda,0000,0000,0000,,People really are strong.
+Dialogue: 0,0:19:30.44,0:19:32.20,Default,Najenda,0000,0000,0000,,The city is already restoring itself.
+Dialogue: 0,0:19:32.57,0:19:33.72,Default,Akame,0000,0000,0000,,Boss,
+Dialogue: 0,0:19:33.72,0:19:35.30,Default,Akame,0000,0000,0000,,are you all right?
+Dialogue: 0,0:19:35.60,0:19:36.42,Default,Najenda,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:36.97,0:19:39.58,Default,Najenda,0000,0000,0000,,My lifespan was merely shortened.
+Dialogue: 0,0:19:40.25,0:19:42.41,Default,Najenda,0000,0000,0000,,While I don't know how long I'll live...
+Dialogue: 0,0:19:45.61,0:19:49.30,Default,Najenda,0000,0000,0000,,I'll gladly use the rest of my life to help \Nbuild the kingdom's foundation.
+Dialogue: 0,0:19:49.85,0:19:53.51,Default,Najenda,0000,0000,0000,,As a survivor, that's the best I can do.
+Dialogue: 0,0:19:54.22,0:19:55.51,Default,Akame,0000,0000,0000,,I believe in you.
+Dialogue: 0,0:19:55.94,0:19:57.03,Default,Akame,0000,0000,0000,,Do your best.
+Dialogue: 0,0:20:02.03,0:20:04.47,Default,Najenda,0000,0000,0000,,Are you going to leave, Akame?
+Dialogue: 0,0:20:05.13,0:20:05.98,Default,Akame,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:06.51,0:20:11.02,Default,Akame,0000,0000,0000,,You can place all the Revolutionary \NArmy's wrongdoings on me.
+Dialogue: 0,0:20:11.51,0:20:12.77,Default,Najenda,0000,0000,0000,,Thanks and I'm sorry.
+Dialogue: 0,0:20:12.77,0:20:13.86,Default,Najenda,0000,0000,0000,,That's a difficult role.
+Dialogue: 0,0:20:14.33,0:20:17.82,Default,Akame,0000,0000,0000,,Your role in helping build the new \Nkingdom is far more difficult.
+Dialogue: 0,0:20:18.85,0:20:20.79,Default,Akame,0000,0000,0000,,There was a lot of heartache.
+Dialogue: 0,0:20:21.26,0:20:25.19,Default,Akame,0000,0000,0000,,But I'm glad you invited me into Night Raid,
+Dialogue: 0,0:20:26.10,0:20:27.01,Default,Akame,0000,0000,0000,,Najenda.
+Dialogue: 0,0:20:27.52,0:20:28.36,Default,Najenda,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:29.86,0:20:31.22,Default,Najenda,0000,0000,0000,,It's been fun.
+Dialogue: 0,0:20:36.67,0:20:37.63,Default,Akame,0000,0000,0000,,Farewell.
+Dialogue: 0,0:20:40.42,0:20:42.45,Default - italics,Najenda,0000,0000,0000,,Survive, Akame.
+Dialogue: 0,0:20:49.23,0:20:50.54,Default,Narrator,0000,0000,0000,,Night Raid.
+Dialogue: 0,0:20:51.60,0:20:53.32,Default,Narrator,0000,0000,0000,,The end of the Imperial Era.
+Dialogue: 0,0:20:53.69,0:20:57.56,Default,Narrator,0000,0000,0000,,They were known as the criminal organization \Nthat caused an uproar in the capital.
+Dialogue: 0,0:20:58.64,0:21:01.57,Default,Narrator,0000,0000,0000,,However, no trace of them remains
+Dialogue: 0,0:21:02.03,0:21:05.24,Default,Narrator,0000,0000,0000,,in the new kingdom's historical records.
+Dialogue: 0,0:21:07.22,0:21:10.60,Default,Narrator,0000,0000,0000,,Where there is life, there is darkness.
+Dialogue: 0,0:21:11.73,0:21:14.57,Default,Narrator,0000,0000,0000,,Where there is darkness, there is evil.
+Dialogue: 0,0:21:15.41,0:21:19.68,Default,Narrator,0000,0000,0000,,To protect those who are unarmed, \Nand to punish the evildoers
+Dialogue: 0,0:21:20.34,0:21:22.26,Default,Narrator,0000,0000,0000,,that heaven cannot judge in the shadows...
+Dialogue: 0,0:21:23.54,0:21:26.52,Default,Narrator,0000,0000,0000,,We are all assassins.
+Dialogue: 0,0:23:04.59,0:23:06.92,Default - italics,Akame,0000,0000,0000,,I survived...
+Dialogue: 0,0:23:07.54,0:23:10.75,Default - italics,Akame,0000,0000,0000,,So I must continue to bear on my shoulders
+Dialogue: 0,0:23:10.75,0:23:12.72,Default - italics,,0000,0000,0000,,the feelings of those who've passed.
+Dialogue: 0,0:23:17.80,0:23:19.98,Default - italics,Akame,0000,0000,0000,,I can only kill.
+Dialogue: 0,0:23:21.06,0:23:24.75,Default - italics,Akame,0000,0000,0000,,However, that doesn't mean I have no future.
+Dialogue: 0,0:23:26.29,0:23:27.21,Default - italics,Akame,0000,0000,0000,,I have faith.
+Dialogue: 0,0:23:28.24,0:23:29.51,Default - italics,Akame,0000,0000,0000,,That's why...
+Dialogue: 0,0:23:29.95,0:23:32.54,Default - italics,Akame,0000,0000,0000,,I will continue to walk this path.
+Dialogue: 0,0:23:35.82,0:23:36.88,Default,Akame,0000,0000,0000,,Eliminate.

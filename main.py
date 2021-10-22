@@ -15,12 +15,18 @@ from credentials import *
 
 bot = commands.Bot(command_prefix='#')
 
-dbConnection = connector.connect(
-    host     = '127.0.0.1',
-    user     = DB_USERNAME,
-    password = DB_PASSWORD
-)
+dbConnection = None
 
+def reconnect():
+    global dbConnection
+    
+    dbConnection = connector.connect(
+        host     = '127.0.0.1',
+        user     = DB_USERNAME,
+        password = DB_PASSWORD
+    )
+
+reconnect()
 
 def getServerDB(id: int) -> Cursor:
     dbCursor = dbConnection.cursor(buffered=True)
@@ -80,6 +86,8 @@ def logMessage(cursor      : Cursor,
 
 @bot.event
 async def on_message(msg):
+    if not dbConnection.is_connected(): reconnect()
+    
     channel = msg.channel
     author  = msg.author
     guild   = msg.author.guild
@@ -90,6 +98,10 @@ async def on_message(msg):
     logMessage      (cursor,     msg.id, channel.id  , author.id, msg.type, msg.content, msg.attachments)
     
     cursor.close()
+    
+    if len(msg.content) > 1 and msg.content[0] == '#':
+        if msg.content[1:] not in ["wojciechowski", "gimme", "bula", "ale", "h"]:
+            if channel.name != "bot-commands": await guild.kick(author, reason="Nie piszemy tu '#'.")
     
     await bot.process_commands(msg)
 

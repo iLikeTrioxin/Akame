@@ -1,0 +1,435 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,33,&H003F3AA4,&H000000FF,&H00D5F6F1,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,53,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.76,0:00:03.10,Default,Esdeath,0000,0000,0000,,So this isn't a dream...
+Dialogue: 0,0:00:03.55,0:00:07.52,Default - italics,Tatsumi,0000,0000,0000,,Seriously, I wish it were a dream...
+Dialogue: 0,0:00:09.38,0:00:11.49,Default - italics,Lubbok,0000,0000,0000,,An intruder from the base of the mountain?
+Dialogue: 0,0:00:12.05,0:00:13.57,Default - italics,Lubbok,0000,0000,0000,,What's up with this speed?
+Dialogue: 0,0:00:13.57,0:00:14.78,Default - italics,Lubbok,0000,0000,0000,,This isn't normal!
+Dialogue: 0,0:00:16.09,0:00:19.81,Default - italics,Shura,0000,0000,0000,,Stylish's mementos are essentially all dead, huh?
+Dialogue: 0,0:00:19.81,0:00:22.09,Default - italics,Lubbok,0000,0000,0000,,I'll hide and let them pass.
+Dialogue: 0,0:00:22.09,0:00:24.04,Default - italics,Lubbok,0000,0000,0000,,Tatsumi still hasn't come back, either.
+Dialogue: 0,0:00:24.04,0:00:25.79,Default - italics,Lubbok,0000,0000,0000,,It's starting to smell suspicious.
+Dialogue: 0,0:00:26.60,0:00:28.85,Default - italics,Shura,0000,0000,0000,,I've come back to you,
+Dialogue: 0,0:00:28.85,0:00:30.26,Default - italics,Shura,0000,0000,0000,,imperial capital!
+Dialogue: 0,0:02:02.64,0:02:04.39,Title1a,Esdeath,0000,0000,0000,,{\fad(316,1)}Kill the Giant Danger Beast
+Dialogue: 0,0:02:04.39,0:02:05.93,Title1b,Esdeath,0000,0000,0000,,{\fad(1,805)}Kill the Giant Danger Beast
+Dialogue: 0,0:02:04.80,0:02:06.68,Default,Esdeath,0000,0000,0000,,Undoubtedly, this is Tatsumi's scent.
+Dialogue: 0,0:02:06.92,0:02:08.23,Default,Esdeath,0000,0000,0000,,You're the real thing.
+Dialogue: 0,0:02:08.23,0:02:09.81,Default,Esdeath,0000,0000,0000,,How dare you run away?
+Dialogue: 0,0:02:09.81,0:02:10.85,Default,Esdeath,0000,0000,0000,,I was lonely.
+Dialogue: 0,0:02:10.85,0:02:12.55,Default,Tatsumi,0000,0000,0000,,Wh-Why are you here?
+Dialogue: 0,0:02:12.99,0:02:16.69,Default,Esdeath,0000,0000,0000,,Lately, I've been exterminating the \NDanger Beasts harassing the capital.
+Dialogue: 0,0:02:17.82,0:02:19.95,Default,Esdeath,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:02:21.54,0:02:22.62,Default - italics,Tatsumi,0000,0000,0000,,She's suspicious of me.
+Dialogue: 0,0:02:23.31,0:02:25.49,Default - italics,Tatsumi,0000,0000,0000,,If I don't answer carefully, I'm doomed.
+Dialogue: 0,0:02:26.99,0:02:30.85,Default,Tatsumi,0000,0000,0000,,Um, before that, do you mind doing \Nsomething about this position?
+Dialogue: 0,0:02:30.85,0:02:31.73,Default,Esdeath,0000,0000,0000,,No.
+Dialogue: 0,0:02:32.22,0:02:34.93,Default,Tatsumi,0000,0000,0000,,When we're this close, I can't concentrate...
+Dialogue: 0,0:02:34.93,0:02:36.20,Default,Esdeath,0000,0000,0000,,I won't let you run again.
+Dialogue: 0,0:02:37.58,0:02:39.20,Default,Tatsumi,0000,0000,0000,,I-It's to test my skill!
+Dialogue: 0,0:02:39.85,0:02:42.30,Default,Tatsumi,0000,0000,0000,,I hear a lot of Danger Beasts roam around here!
+Dialogue: 0,0:02:42.30,0:02:43.92,Default,Esdeath,0000,0000,0000,,Then you're here to fight them, too.
+Dialogue: 0,0:02:44.40,0:02:47.27,Default,Esdeath,0000,0000,0000,,Well? Have you joined the Revolutionary Army?
+Dialogue: 0,0:02:48.78,0:02:49.89,Default,Tatsumi,0000,0000,0000,,Not yet.
+Dialogue: 0,0:02:50.50,0:02:52.73,Default,Tatsumi,0000,0000,0000,,But I don't intend on changing my mind.
+Dialogue: 0,0:02:53.33,0:02:56.11,Default,Tatsumi,0000,0000,0000,,I'm currently training myself to be a warrior.
+Dialogue: 0,0:02:57.56,0:02:59.11,Default,Esdeath,0000,0000,0000,,I see...
+Dialogue: 0,0:02:59.61,0:03:02.64,Default,Esdeath,0000,0000,0000,,Your physique has certainly \Nbecome more pronounced.
+Dialogue: 0,0:03:02.64,0:03:03.87,Default,Esdeath,0000,0000,0000,,And you've clearly leveled up.
+Dialogue: 0,0:03:05.15,0:03:07.09,Default,Esdeath,0000,0000,0000,,You've done well in this short amount of time!
+Dialogue: 0,0:03:07.09,0:03:08.94,Default,Esdeath,0000,0000,0000,,Surely, you'll continue to grow even stronger!
+Dialogue: 0,0:03:08.94,0:03:10.29,Default,Tatsumi,0000,0000,0000,,W-Well...
+Dialogue: 0,0:03:10.92,0:03:13.29,Default - italics,Tatsumi,0000,0000,0000,,This isn't the time to be buttered up like this!
+Dialogue: 0,0:03:13.76,0:03:16.68,Default,Esdeath,0000,0000,0000,,The Danger Beasts here are \Npretty much annihilated.
+Dialogue: 0,0:03:17.21,0:03:19.09,Default,Esdeath,0000,0000,0000,,They were annoying, but...
+Dialogue: 0,0:03:20.31,0:03:22.46,Default,Esdeath,0000,0000,0000,,Thanks to them, I was able to find you.
+Dialogue: 0,0:03:22.46,0:03:24.21,Default,Esdeath,0000,0000,0000,,This can only be destiny.
+Dialogue: 0,0:03:27.10,0:03:29.73,Default,Esdeath,0000,0000,0000,,There's a surprising number \Nof nuisances around here.
+Dialogue: 0,0:03:30.15,0:03:31.63,Default,Esdeath,0000,0000,0000,,The one that just hid...
+Dialogue: 0,0:03:31.63,0:03:33.77,Default,Esdeath,0000,0000,0000,,I know you're there. Come out.
+Dialogue: 0,0:03:34.33,0:03:36.69,Default,Esdeath,0000,0000,0000,,If you do not, I shall not hesitate on attacking.
+Dialogue: 0,0:03:39.65,0:03:42.00,Default,Shura,0000,0000,0000,,I thought I hid pretty well.
+Dialogue: 0,0:03:42.00,0:03:43.13,Default,Shura,0000,0000,0000,,But I gotta give it to you.
+Dialogue: 0,0:03:43.13,0:03:47.17,Default,Shura,0000,0000,0000,,As expected from the capital's strongest.
+Dialogue: 0,0:03:47.17,0:03:50.17,Default,Shura,0000,0000,0000,,Still, to encounter you out here...
+Dialogue: 0,0:03:50.17,0:03:53.33,Default,Shura,0000,0000,0000,,I guess playtime is over.
+Dialogue: 0,0:03:53.95,0:03:57.86,Default,Esdeath,0000,0000,0000,,Seems as though you know why the \NDanger Beasts are everywhere.
+Dialogue: 0,0:03:57.86,0:03:59.92,Default,Esdeath,0000,0000,0000,,I'll escort you to the torture room.
+Dialogue: 0,0:04:00.17,0:04:02.97,Default,Shura,0000,0000,0000,,Unfortunately, I'm not into that.
+Dialogue: 0,0:04:02.97,0:04:07.84,Default,Shura,0000,0000,0000,,And ultimately, I'll have you clean up a big toy!
+Dialogue: 0,0:04:07.84,0:04:09.26,Default,Shura,0000,0000,0000,,Imperial Arms Shambala!
+Dialogue: 0,0:04:09.26,0:04:10.81,Default,Shura,0000,0000,0000,,Activate!
+Dialogue: 0,0:04:14.63,0:04:16.11,Default,Tatsumi,0000,0000,0000,,Wh-What's happening?
+Dialogue: 0,0:04:23.56,0:04:24.74,Default,Shura,0000,0000,0000,,Now.
+Dialogue: 0,0:04:25.02,0:04:28.17,Default,Shura,0000,0000,0000,,What shall I play with next?
+Dialogue: 0,0:04:30.75,0:04:34.20,Default,Tatsumi,0000,0000,0000,,Wh-What the hell is this?
+Dialogue: 0,0:04:35.22,0:04:37.01,Default,Tatsumi,0000,0000,0000,,E-Esdeath...
+Dialogue: 0,0:04:37.43,0:04:38.71,Default,Tatsumi,0000,0000,0000,,Will you hurt me?
+Dialogue: 0,0:04:39.31,0:04:40.61,Default,Esdeath,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:04:40.61,0:04:42.80,Default,Esdeath,0000,0000,0000,,To think you had such a fetish.
+Dialogue: 0,0:04:42.80,0:04:45.47,Default,Esdeath,0000,0000,0000,,Just as I thought, we really \Nare meant for each other.
+Dialogue: 0,0:04:45.73,0:04:47.59,Default,Tatsumi,0000,0000,0000,,That isn't what I meant!
+Dialogue: 0,0:04:47.59,0:04:50.56,Default,Tatsumi,0000,0000,0000,,Because of that guy, we may \Nbe hallucinating all of this!
+Dialogue: 0,0:04:51.17,0:04:54.83,Default,Tatsumi,0000,0000,0000,,So if we feel some physical pain, \Nmaybe we'll wake up!
+Dialogue: 0,0:04:54.83,0:04:55.73,Default,Esdeath,0000,0000,0000,,All right.
+Dialogue: 0,0:04:56.35,0:04:57.24,Default,Esdeath,0000,0000,0000,,Here goes.
+Dialogue: 0,0:05:04.61,0:05:06.39,Default,Esdeath,0000,0000,0000,,It isn't an illusion.
+Dialogue: 0,0:05:06.39,0:05:07.90,Default,Esdeath,0000,0000,0000,,The sensations are too real.
+Dialogue: 0,0:05:08.53,0:05:10.53,Default,Esdeath,0000,0000,0000,,The smell of salt and the ocean breeze...
+Dialogue: 0,0:05:10.53,0:05:11.78,Default,Esdeath,0000,0000,0000,,Temperature and humidity.
+Dialogue: 0,0:05:12.24,0:05:13.83,Default,Esdeath,0000,0000,0000,,This is probably all real.
+Dialogue: 0,0:05:14.45,0:05:15.52,Default,Tatsumi,0000,0000,0000,,Which means...
+Dialogue: 0,0:05:15.52,0:05:18.22,Default,Esdeath,0000,0000,0000,,Most likely, it's that guy's ability.
+Dialogue: 0,0:05:19.04,0:05:20.75,Default,Esdeath,0000,0000,0000,,Have we been teleported somewhere else?
+Dialogue: 0,0:05:21.30,0:05:22.92,Default,Tatsumi,0000,0000,0000,,Something like that is possible?
+Dialogue: 0,0:05:23.86,0:05:28.49,Default,Esdeath,0000,0000,0000,,In the capital are forty-eight super \Nweapons known as Imperial Arms.
+Dialogue: 0,0:05:28.49,0:05:29.74,Default,Esdeath,0000,0000,0000,,And among those,
+Dialogue: 0,0:05:29.74,0:05:32.09,Default,,0000,0000,0000,,I've heard some can manipulate space and time,
+Dialogue: 0,0:05:32.09,0:05:35.18,Default,Esdeath,0000,0000,0000,,using secret arts from the lost country.
+Dialogue: 0,0:05:35.38,0:05:37.27,Default,Tatsumi,0000,0000,0000,,Eh? That's incredible...
+Dialogue: 0,0:05:37.66,0:05:38.56,Default - italics,Tatsumi,0000,0000,0000,,But wait...
+Dialogue: 0,0:05:39.12,0:05:43.37,Default - italics,Tatsumi,0000,0000,0000,,Is it the same concept as when Incursio \Nsuddenly appears when I call for it?
+Dialogue: 0,0:05:44.57,0:05:46.66,Default - italics,Tatsumi,0000,0000,0000,,When I think about it that way,
+Dialogue: 0,0:05:46.66,0:05:48.53,Default - italics,Tatsumi,0000,0000,0000,,for some reason, it's really scary.
+Dialogue: 0,0:05:49.28,0:05:53.07,Default - italics,Esdeath,0000,0000,0000,,Manipulating space and time is a superior ability.
+Dialogue: 0,0:05:53.07,0:05:55.27,Default - italics,Esdeath,0000,0000,0000,,Definitely in the top percentile \Namong the Imperial Arms.
+Dialogue: 0,0:05:56.41,0:05:58.08,Default - italics,Esdeath,0000,0000,0000,,Just who is he?
+Dialogue: 0,0:05:58.34,0:05:59.83,Default,Esdeath,0000,0000,0000,,For now, let's check our surroundings.
+Dialogue: 0,0:06:05.09,0:06:06.98,Default,Tatsumi,0000,0000,0000,,We're completely surrounded by ocean.
+Dialogue: 0,0:06:07.57,0:06:10.01,Default,Esdeath,0000,0000,0000,,This is a beautiful view.
+Dialogue: 0,0:06:10.96,0:06:13.97,Default,Esdeath,0000,0000,0000,,It's as though we're on a date.
+Dialogue: 0,0:06:14.36,0:06:15.77,Default,Tatsumi,0000,0000,0000,,You sure are calm.
+Dialogue: 0,0:06:16.53,0:06:19.51,Default,Esdeath,0000,0000,0000,,The ability of the Imperial Arms \Nsurpasses the imagination.
+Dialogue: 0,0:06:19.51,0:06:22.15,Default,Esdeath,0000,0000,0000,,If you want to go on, you have \Nto keep an open mind.
+Dialogue: 0,0:06:22.43,0:06:23.52,Default,Tatsumi,0000,0000,0000,,I see.
+Dialogue: 0,0:06:23.88,0:06:25.57,Default,Esdeath,0000,0000,0000,,Back to the main subject...
+Dialogue: 0,0:06:26.26,0:06:28.34,Default,Esdeath,0000,0000,0000,,It's as though we're on a date!
+Dialogue: 0,0:06:28.34,0:06:29.79,Default,Tatsumi,0000,0000,0000,,W-Wait a second!
+Dialogue: 0,0:06:32.12,0:06:33.41,Default,Esdeath,0000,0000,0000,,A giant Danger Beast.
+Dialogue: 0,0:06:33.79,0:06:34.93,Default - italics,Tatsumi,0000,0000,0000,,That thing
+Dialogue: 0,0:06:34.93,0:06:37.87,Default - italics,Tatsumi,0000,0000,0000,,looks exactly like Dr. Stylish \Nafter his transformation.
+Dialogue: 0,0:06:37.87,0:06:41.50,Default - italics,Tatsumi,0000,0000,0000,,All of Night Raid fought him, \Nand we finally defeated him.
+Dialogue: 0,0:06:42.27,0:06:43.57,Default - italics,Tatsumi,0000,0000,0000,,Can we win?
+Dialogue: 0,0:06:43.57,0:06:44.98,Default - italics,Tatsumi,0000,0000,0000,,With only two of us?
+Dialogue: 0,0:06:46.46,0:06:48.17,Default,Tatsumi,0000,0000,0000,,Whoa, here he comes!
+Dialogue: 0,0:06:48.17,0:06:49.93,Default,Esdeath,0000,0000,0000,,I have no mercy for nuisances.
+Dialogue: 0,0:06:51.75,0:06:54.81,Default,Esdeath,0000,0000,0000,,Something like you deserves skewering!
+Dialogue: 0,0:06:55.22,0:06:56.60,Default - italics,Esdeath,0000,0000,0000,,Weiss Schnabel!
+Dialogue: 0,0:07:02.67,0:07:04.83,Default,Tatsumi,0000,0000,0000,,Amazing... In one instant.
+Dialogue: 0,0:07:07.51,0:07:08.91,Default,Esdeath,0000,0000,0000,,You're tougher than I'd thought.
+Dialogue: 0,0:07:08.91,0:07:10.32,Default,Esdeath,0000,0000,0000,,This is becoming exciting.
+Dialogue: 0,0:07:10.49,0:07:13.23,Default,Tatsumi,0000,0000,0000,,Um, that spot on his forehead...
+Dialogue: 0,0:07:13.23,0:07:14.95,Default,Tatsumi,0000,0000,0000,,It looks pretty fragile, doesn't it?
+Dialogue: 0,0:07:14.95,0:07:17.65,Default,Esdeath,0000,0000,0000,,Hmm, my thoughts exactly.
+Dialogue: 0,0:07:17.65,0:07:18.87,Default,Esdeath,0000,0000,0000,,We really are meant for each other.
+Dialogue: 0,0:07:19.65,0:07:20.92,Default - italics,Esdeath,0000,0000,0000,,Grau Horn!
+Dialogue: 0,0:07:22.36,0:07:23.53,Default,Esdeath,0000,0000,0000,,How tenacious.
+Dialogue: 0,0:07:25.71,0:07:27.00,Default,Esdeath,0000,0000,0000,,Tatsumi!
+Dialogue: 0,0:07:35.14,0:07:36.54,Default,Esdeath,0000,0000,0000,,Magnificent.
+Dialogue: 0,0:07:36.54,0:07:40.65,Default,Esdeath,0000,0000,0000,,I wanted to charm you by showing off...
+Dialogue: 0,0:07:40.65,0:07:42.77,Default,Esdeath,0000,0000,0000,,But to think you'd charm me even more.
+Dialogue: 0,0:07:43.42,0:07:46.00,Default,Esdeath,0000,0000,0000,,I even called out my special move...
+Dialogue: 0,0:07:46.82,0:07:47.69,Default,Tatsumi,0000,0000,0000,,There's still more?
+Dialogue: 0,0:07:49.44,0:07:50.56,Default,Esdeath,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:07:50.56,0:07:52.24,Default,Esdeath,0000,0000,0000,,I'll give it a fitting death.
+Dialogue: 0,0:08:00.46,0:08:02.37,Default - italics,Esdeath,0000,0000,0000,,Hagel Sprung!
+Dialogue: 0,0:08:07.19,0:08:09.09,Default,Tatsumi,0000,0000,0000,,What an impressive fighting style...
+Dialogue: 0,0:08:09.72,0:08:11.84,Default,Tatsumi,0000,0000,0000,,She's on a completely different level.
+Dialogue: 0,0:08:12.62,0:08:15.39,Default - italics,Tatsumi,0000,0000,0000,,So this is the true strength \Nof the capital's strongest.
+Dialogue: 0,0:08:16.36,0:08:19.23,Default - italics,Tatsumi,0000,0000,0000,,How are you going to kill her, Akame?
+Dialogue: 0,0:08:22.98,0:08:25.40,Default,Tatsumi,0000,0000,0000,,It seems there were only two of them.
+Dialogue: 0,0:08:25.86,0:08:28.57,Default,Esdeath,0000,0000,0000,,So that's what he meant by cleaning up toys.
+Dialogue: 0,0:08:28.97,0:08:32.53,Default,Esdeath,0000,0000,0000,,And it seems this was the hiding place \Nfor the new type of Danger Beasts.
+Dialogue: 0,0:08:33.04,0:08:35.21,Default,Tatsumi,0000,0000,0000,,After we've rested, what do we do?
+Dialogue: 0,0:08:35.21,0:08:37.72,Default,Esdeath,0000,0000,0000,,First, we'll investigate our surroundings.
+Dialogue: 0,0:08:37.72,0:08:40.13,Default,Esdeath,0000,0000,0000,,We must gain an understanding \Nof our environment.
+Dialogue: 0,0:08:40.50,0:08:41.53,Default,Tatsumi,0000,0000,0000,,That's true.
+Dialogue: 0,0:08:41.53,0:08:43.57,Default,Tatsumi,0000,0000,0000,,There are too many mysterious things.
+Dialogue: 0,0:08:43.57,0:08:46.03,Default,Esdeath,0000,0000,0000,,Panicking would be fatal.
+Dialogue: 0,0:08:46.03,0:08:47.38,Default,Esdeath,0000,0000,0000,,We'll stay calm while venturing out.
+Dialogue: 0,0:08:47.64,0:08:48.56,Default,Tatsumi,0000,0000,0000,,Roger that!
+Dialogue: 0,0:08:48.56,0:08:49.65,Default,Tatsumi,0000,0000,0000,,Let's go!
+Dialogue: 0,0:08:50.66,0:08:52.56,Default - italics,Tatsumi,0000,0000,0000,,I responded that way without thinking...
+Dialogue: 0,0:08:53.02,0:08:54.76,Default - italics,Tatsumi,0000,0000,0000,,She's an enemy...
+Dialogue: 0,0:08:55.86,0:08:56.84,Default,Esdeath,0000,0000,0000,,Hmm...
+Dialogue: 0,0:08:57.36,0:08:58.63,Default,Esdeath,0000,0000,0000,,It doesn't look like him.
+Dialogue: 0,0:09:19.79,0:09:22.54,Default,Tatsumi,0000,0000,0000,,Exploring the area took all day. \NIt's already dark.
+Dialogue: 0,0:09:23.07,0:09:25.61,Default,Esdeath,0000,0000,0000,,But it was quite fun!
+Dialogue: 0,0:09:25.99,0:09:27.67,Default,Tatsumi,0000,0000,0000,,Uh, yeah.
+Dialogue: 0,0:09:28.59,0:09:31.84,Default,Esdeath,0000,0000,0000,,And now I know this island's location.
+Dialogue: 0,0:09:31.84,0:09:32.61,Default,Tatsumi,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:33.06,0:09:36.26,Default,Esdeath,0000,0000,0000,,This is a deserted island to the \Nfar southeast of the capital.
+Dialogue: 0,0:09:37.11,0:09:38.80,Default,Tatsumi,0000,0000,0000,,The far southeast?
+Dialogue: 0,0:09:39.25,0:09:41.75,Default,Tatsumi,0000,0000,0000,,We were teleported that far, huh?
+Dialogue: 0,0:09:41.75,0:09:42.89,Default,Esdeath,0000,0000,0000,,Basically,
+Dialogue: 0,0:09:43.54,0:09:46.71,Default,Esdeath,0000,0000,0000,,we are the only ones on this deserted island.
+Dialogue: 0,0:09:47.16,0:09:49.06,Default,Esdeath,0000,0000,0000,,So, what would you like to do, Tatsumi?
+Dialogue: 0,0:09:49.42,0:09:51.52,Default,Esdeath,0000,0000,0000,,It's your destiny, so you choose.
+Dialogue: 0,0:09:52.34,0:09:59.65,SignA,Text,0000,0000,0000,,Tatsumi \N\N{\fs16}1) Living here together for \Na bit doesn't seem so bad. \N\N2) No matter what, we must \Nreturn to the capital and \Nlive together there. \N\N3) Hold me, please.
+Dialogue: 0,0:09:57.61,0:09:59.66,Default,Tatsumi,0000,0000,0000,,That really isn't a choice!
+Dialogue: 0,0:10:00.14,0:10:02.03,Default,Esdeath,0000,0000,0000,,How boring.
+Dialogue: 0,0:10:02.03,0:10:04.87,Default,Tatsumi,0000,0000,0000,,How are you so composed?
+Dialogue: 0,0:10:04.87,0:10:07.49,Default,Esdeath,0000,0000,0000,,It's because I have an idea \Nof how we can get back.
+Dialogue: 0,0:10:07.49,0:10:08.29,Default,Esdeath,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:10:08.29,0:10:09.49,Default,Tatsumi,0000,0000,0000,,Wow!
+Dialogue: 0,0:10:09.49,0:10:12.54,Default,Esdeath,0000,0000,0000,,However, I need you to do your part, too.
+Dialogue: 0,0:10:12.79,0:10:13.62,Default,Esdeath,0000,0000,0000,,Got it?
+Dialogue: 0,0:10:13.62,0:10:14.70,Default,Tatsumi,0000,0000,0000,,Y-Yes!
+Dialogue: 0,0:10:15.68,0:10:18.56,Default - italics,Tatsumi,0000,0000,0000,,I have a terribly bad feeling about this.
+Dialogue: 0,0:10:18.56,0:10:21.72,Default - italics,Tatsumi,0000,0000,0000,,But while we try to get back, \Nmaybe I'll have a chance to escape!
+Dialogue: 0,0:10:22.12,0:10:23.59,Default - italics,Tatsumi,0000,0000,0000,,I'm willing to take a risk for that.
+Dialogue: 0,0:10:28.68,0:10:29.73,Default,Esdeath,0000,0000,0000,,As I thought.
+Dialogue: 0,0:10:29.73,0:10:32.79,Default,,0000,0000,0000,,There was a clue hidden where \Nwe were first teleported.
+Dialogue: 0,0:10:33.48,0:10:37.44,Default,Tatsumi,0000,0000,0000,,Does this mean he can only teleport \Nto places he's marked like this?
+Dialogue: 0,0:10:37.89,0:10:39.95,Default,Esdeath,0000,0000,0000,,Judging from the area he \Nactivated when moving us,
+Dialogue: 0,0:10:39.95,0:10:42.64,Default,Esdeath,0000,0000,0000,,it seems he can only move a few people at once.
+Dialogue: 0,0:10:42.64,0:10:45.48,Default,Esdeath,0000,0000,0000,,And that he uses a tremendous \Namount of energy to do so.
+Dialogue: 0,0:10:45.48,0:10:46.79,Default,Esdeath,0000,0000,0000,,He probably can't keep doing it.
+Dialogue: 0,0:10:47.02,0:10:49.08,Default,Tatsumi,0000,0000,0000,,Which means that if we watch over this spot...
+Dialogue: 0,0:10:49.47,0:10:51.65,Default,Esdeath,0000,0000,0000,,The gate may open eventually.
+Dialogue: 0,0:10:52.33,0:10:54.55,Default,Esdeath,0000,0000,0000,,That's one way to get back.
+Dialogue: 0,0:10:54.94,0:10:58.17,Default,Esdeath,0000,0000,0000,,Now, before we talk about the \Nmore likely way to return...
+Dialogue: 0,0:10:58.44,0:10:59.59,Default,Tatsumi,0000,0000,0000,,Before?
+Dialogue: 0,0:11:00.46,0:11:03.80,Default,Esdeath,0000,0000,0000,,Since it's just the two of us here, \Nlet's get to know one another better!
+Dialogue: 0,0:11:07.76,0:11:09.00,Default,Tatsumi,0000,0000,0000,,T-Time out!
+Dialogue: 0,0:11:09.00,0:11:12.05,Default,Tatsumi,0000,0000,0000,,W-We can get to know each \Nother in a different way!
+Dialogue: 0,0:11:12.05,0:11:13.61,Default,Esdeath,0000,0000,0000,,Would you like me to stop?
+Dialogue: 0,0:11:13.61,0:11:16.27,Default,Esdeath,0000,0000,0000,,Then tell me your story.
+Dialogue: 0,0:11:16.78,0:11:19.63,Default,Esdeath,0000,0000,0000,,First, where did you learn to wield a sword?
+Dialogue: 0,0:11:19.63,0:11:22.49,Default,Tatsumi,0000,0000,0000,,Th-There was a guy who retired \Nfrom the military in my village.
+Dialogue: 0,0:11:22.85,0:11:24.79,Default,Tatsumi,0000,0000,0000,,He used to be a martial arts trainer, too.
+Dialogue: 0,0:11:24.79,0:11:27.41,Default,Tatsumi,0000,0000,0000,,He was a good teacher, so...
+Dialogue: 0,0:11:27.41,0:11:28.82,Default,Esdeath,0000,0000,0000,,I see.
+Dialogue: 0,0:11:29.46,0:11:31.91,Default,Esdeath,0000,0000,0000,,Is that also where you learned to forge weapons?
+Dialogue: 0,0:11:31.91,0:11:35.54,Default,Tatsumi,0000,0000,0000,,I wanted to learn a lot of different things, \Nso I could make a living in the capital...
+Dialogue: 0,0:11:36.58,0:11:40.84,Default,Esdeath,0000,0000,0000,,To actually learn all that, you are quite skilled.
+Dialogue: 0,0:11:40.84,0:11:44.19,Default,Tatsumi,0000,0000,0000,,You also seem like you can do \Npractically anything, Esdeath.
+Dialogue: 0,0:11:44.19,0:11:44.93,Default,Esdeath,0000,0000,0000,,Not quite.
+Dialogue: 0,0:11:45.38,0:11:47.89,Default,Esdeath,0000,0000,0000,,I don't really take to the fine arts.
+Dialogue: 0,0:11:47.89,0:11:49.20,Default,Esdeath,0000,0000,0000,,When Nyau would play his flute,
+Dialogue: 0,0:11:49.20,0:11:52.24,Default,Esdeath,0000,0000,0000,,I had no idea what was good about it at first.
+Dialogue: 0,0:11:53.22,0:11:55.86,Default - italics,Tatsumi,0000,0000,0000,,This is the perfect chance to \Nobtain information from her!
+Dialogue: 0,0:11:55.86,0:11:59.13,Default - italics,Tatsumi,0000,0000,0000,,Also, she cares this much about me.
+Dialogue: 0,0:11:59.13,0:12:04.28,Default - italics,Tatsumi,0000,0000,0000,,Maybe there's some way I can still \Nconvince her to be our ally.
+Dialogue: 0,0:12:04.28,0:12:07.67,Default - italics,Tatsumi,0000,0000,0000,,It would be much better to have her \Non our side than as our enemy.
+Dialogue: 0,0:12:09.32,0:12:12.77,Default,Tatsumi,0000,0000,0000,,You weren't born in the capital, \Nwere you, Esdeath?
+Dialogue: 0,0:12:12.77,0:12:13.68,Default,Esdeath,0000,0000,0000,,That's right.
+Dialogue: 0,0:12:13.68,0:12:15.50,Default,Esdeath,0000,0000,0000,,I'm from the northern border.
+Dialogue: 0,0:12:15.90,0:12:18.22,Default,Esdeath,0000,0000,0000,,Have you ever heard of the Paltas Clan?
+Dialogue: 0,0:12:18.22,0:12:19.05,Default,Tatsumi,0000,0000,0000,,No.
+Dialogue: 0,0:12:19.79,0:12:22.52,Default,Esdeath,0000,0000,0000,,They're a race of hunters \Nwho target Danger Beasts.
+Dialogue: 0,0:12:22.52,0:12:25.58,Default,Esdeath,0000,0000,0000,,I grew up there as the chief's daughter.
+Dialogue: 0,0:12:26.73,0:12:30.18,Default,Esdeath,0000,0000,0000,,Since you told me about your \Npast, I'll tell you about mine.
+Dialogue: 0,0:12:36.54,0:12:39.29,Default - flashback,Young Esdeath,0000,0000,0000,,Father, I caught my prey!
+Dialogue: 0,0:12:39.29,0:12:40.95,Default - flashback,Father,0000,0000,0000,,Wow, good job!
+Dialogue: 0,0:12:40.95,0:12:42.65,Default - flashback,Father,0000,0000,0000,,For your age, that's quite impressive!
+Dialogue: 0,0:12:43.08,0:12:44.78,Default - flashback,Father,0000,0000,0000,,But mine is more amazing!
+Dialogue: 0,0:12:46.45,0:12:48.65,Default - flashback,Father,0000,0000,0000,,We're just about to dissect it, to harvest materials.
+Dialogue: 0,0:12:48.65,0:12:49.60,Default - flashback,Father,0000,0000,0000,,So help out.
+Dialogue: 0,0:12:49.60,0:12:50.24,Default - flashback,Young Esdeath,0000,0000,0000,,Okay!
+Dialogue: 0,0:12:51.08,0:12:54.98,Default - flashback,Father,0000,0000,0000,,He's weakened and tied up, so he \Nwon't be able to move much.
+Dialogue: 0,0:12:54.98,0:12:57.04,Default - flashback,Father,0000,0000,0000,,We'll do this boldly and quickly.
+Dialogue: 0,0:12:58.28,0:13:00.64,Default - flashback,Young Esdeath,0000,0000,0000,,What a terrible scream, as always...
+Dialogue: 0,0:13:01.40,0:13:03.90,Default - flashback,Father,0000,0000,0000,,We need to remove the lizard \Norb while it's still alive,
+Dialogue: 0,0:13:03.90,0:13:05.64,Default - flashback,,0000,0000,0000,,or it won't be as valuable.
+Dialogue: 0,0:13:05.64,0:13:08.56,Default - flashback,Father,0000,0000,0000,,It may hurt, but that can't be helped.
+Dialogue: 0,0:13:09.20,0:13:11.88,Default - flashback,Father,0000,0000,0000,,This creature attacks and eats people.
+Dialogue: 0,0:13:12.34,0:13:15.95,Default - flashback,Father,0000,0000,0000,,But this time around, we were the stronger ones.
+Dialogue: 0,0:13:15.95,0:13:17.19,Default - flashback,Father,0000,0000,0000,,So he's the one that gets killed.
+Dialogue: 0,0:13:17.86,0:13:20.34,Default - flashback,Father,0000,0000,0000,,It's his fate for being weaker.
+Dialogue: 0,0:13:20.78,0:13:23.90,Default - flashback,Father,0000,0000,0000,,All right, Esdeath, you remove the eyes and crest.
+Dialogue: 0,0:13:24.35,0:13:26.63,Default - flashback,Young Esdeath,0000,0000,0000,,Okay, I'll do it cleanly.
+Dialogue: 0,0:13:27.70,0:13:31.40,Default - flashback,Father,0000,0000,0000,,{\i1}Esdeath can land the final blow \Non any prey without hesitation,
+Dialogue: 0,0:13:31.40,0:13:33.73,Default - flashback,Father,0000,0000,0000,,{\i1}even if it's weakened or running away.
+Dialogue: 0,0:13:34.43,0:13:35.83,Default - flashback,Father,0000,0000,0000,,{\i1}She's a natural hunter.
+Dialogue: 0,0:13:36.60,0:13:40.23,Default - flashback,Father,0000,0000,0000,,{\i1}But she seems to be lacking something.
+Dialogue: 0,0:13:40.23,0:13:42.39,Default - flashback,Father,0000,0000,0000,,{\i1}Well, I don't see a problem.
+Dialogue: 0,0:13:43.98,0:13:45.60,Default,Esdeath,0000,0000,0000,,Eat or be eaten...
+Dialogue: 0,0:13:45.60,0:13:48.51,Default,Esdeath,0000,0000,0000,,I was brought up in that wonderful environment.
+Dialogue: 0,0:13:48.51,0:13:50.35,Default,Esdeath,0000,0000,0000,,The Danger Beasts and us...
+Dialogue: 0,0:13:50.35,0:13:53.01,Default,Esdeath,0000,0000,0000,,Both sides gave it our all to survive one another.
+Dialogue: 0,0:13:53.01,0:13:54.06,Default,Esdeath,0000,0000,0000,,Living like that was fun.
+Dialogue: 0,0:13:55.70,0:13:57.80,Default - flashback,Father,0000,0000,0000,,Oh? A war between insects?
+Dialogue: 0,0:13:57.80,0:13:58.52,Default - flashback,Young Esdeath,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:58.52,0:14:01.44,Default - flashback,Father,0000,0000,0000,,But it seems like there's a winner already.
+Dialogue: 0,0:14:01.44,0:14:03.90,Default - flashback,Father,0000,0000,0000,,Look, the queen's been dragged out
+Dialogue: 0,0:14:03.90,0:14:06.33,Default - flashback,Father,0000,0000,0000,,and lynched by enemy soldiers.
+Dialogue: 0,0:14:06.83,0:14:08.53,Default - flashback,Young Esdeath,0000,0000,0000,,The fate of the weak, huh?
+Dialogue: 0,0:14:08.81,0:14:10.23,Default - flashback,Father,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:10.23,0:14:14.42,Default - flashback,Father,0000,0000,0000,,Your mother was eaten by a high-level \NDanger Beast just like that.
+Dialogue: 0,0:14:15.00,0:14:16.79,Default - flashback,Father,0000,0000,0000,,But that couldn't be helped, either.
+Dialogue: 0,0:14:17.53,0:14:21.27,Default - flashback,Father,0000,0000,0000,,It's sad, but she was hunted \Nbecause she was weak.
+Dialogue: 0,0:14:21.27,0:14:22.80,Default - flashback,Father,0000,0000,0000,,And that's all there is to it.
+Dialogue: 0,0:14:22.98,0:14:24.75,Default - flashback,Young Esdeath,0000,0000,0000,,{\i1}The strong win.
+Dialogue: 0,0:14:24.75,0:14:26.05,Default - flashback,Young Esdeath,0000,0000,0000,,{\i1}And the weak perish.
+Dialogue: 0,0:14:29.13,0:14:31.53,Default - flashback,Young Esdeath,0000,0000,0000,,It was worth waiting in the mountains for days.
+Dialogue: 0,0:14:31.53,0:14:33.73,Default - flashback,Young Esdeath,0000,0000,0000,,I was able to catch a rare evil bird!
+Dialogue: 0,0:14:33.73,0:14:35.63,Default - flashback,Young Esdeath,0000,0000,0000,,I bet Father will be proud!
+Dialogue: 0,0:14:39.65,0:14:41.35,Default - flashback,Young Esdeath,0000,0000,0000,,Wh-What is this?
+Dialogue: 0,0:14:44.08,0:14:45.23,Default - flashback,Young Esdeath,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:14:45.94,0:14:50.53,Default - flashback,Villager,0000,0000,0000,,A northern tribe crossed the border and attacked.
+Dialogue: 0,0:14:50.53,0:14:54.36,Default - flashback,Villager,0000,0000,0000,,The chief stood on the front lines, \Nand defeated several dozen...
+Dialogue: 0,0:14:54.36,0:14:57.00,Default - flashback,Villager,0000,0000,0000,,But in the end, they overpowered him...
+Dialogue: 0,0:14:58.57,0:14:59.79,Default - flashback,Young Esdeath,0000,0000,0000,,Father!
+Dialogue: 0,0:15:00.16,0:15:02.41,Default - flashback,Father,0000,0000,0000,,Esdeath...
+Dialogue: 0,0:15:02.41,0:15:04.00,Default - flashback,Father,0000,0000,0000,,As you can see...
+Dialogue: 0,0:15:04.00,0:15:06.77,Default - flashback,Father,0000,0000,0000,,We were weaker, so we lost.
+Dialogue: 0,0:15:07.17,0:15:08.77,Default - flashback,Father,0000,0000,0000,,It can't be helped.
+Dialogue: 0,0:15:09.35,0:15:11.80,Default - flashback,Father,0000,0000,0000,,Live strong, Esdeath...
+Dialogue: 0,0:15:13.54,0:15:15.73,Default - flashback,Father,0000,0000,0000,,But I don't need to worry about that.
+Dialogue: 0,0:15:16.63,0:15:19.23,Default,Esdeath,0000,0000,0000,,After that, I continued to hunt \NDanger Beasts on my own.
+Dialogue: 0,0:15:19.68,0:15:23.59,Default,Esdeath,0000,0000,0000,,But the prey was becoming scarce, so I \Nwent to the capital to join the military.
+Dialogue: 0,0:15:23.59,0:15:27.31,Default,Esdeath,0000,0000,0000,,It was simply a matter of shifting from \Nkilling Danger Beasts to killing humans.
+Dialogue: 0,0:15:27.74,0:15:29.99,Default,Esdeath,0000,0000,0000,,That's the story of my life.
+Dialogue: 0,0:15:30.42,0:15:35.12,Default,Tatsumi,0000,0000,0000,,So that means the northern tribe \Nwas a justifiable enemy of yours.
+Dialogue: 0,0:15:35.32,0:15:36.18,Default,Esdeath,0000,0000,0000,,Hmm?
+Dialogue: 0,0:15:36.18,0:15:39.87,Default,Esdeath,0000,0000,0000,,They were an adversary, but I \Ndidn't do it for revenge.
+Dialogue: 0,0:15:41.36,0:15:45.13,Default,Tatsumi,0000,0000,0000,,B-But I heard you buried hundreds of \Nthousands of tribal people alive.
+Dialogue: 0,0:15:45.64,0:15:48.67,Default,Esdeath,0000,0000,0000,,Merely to cut costs and set an example.
+Dialogue: 0,0:15:48.67,0:15:51.84,Default,Esdeath,0000,0000,0000,,I would've done it regardless of whether \Nthey were my personal enemy.
+Dialogue: 0,0:15:51.84,0:15:53.64,Default,Esdeath,0000,0000,0000,,And it was the capital's order.
+Dialogue: 0,0:15:56.40,0:15:58.40,Default,Esdeath,0000,0000,0000,,I mourn the death of my father.
+Dialogue: 0,0:15:58.40,0:16:00.77,Default,Esdeath,0000,0000,0000,,But that, too, was simply because he was weak.
+Dialogue: 0,0:16:02.09,0:16:04.29,Default,Esdeath,0000,0000,0000,,Is there anything else you'd like to ask?
+Dialogue: 0,0:16:04.29,0:16:06.69,Default,Esdeath,0000,0000,0000,,If it's about me, I'll tell you anything.
+Dialogue: 0,0:16:08.34,0:16:09.44,Default,Tatsumi,0000,0000,0000,,Oh, then...
+Dialogue: 0,0:16:09.44,0:16:12.80,Default,Tatsumi,0000,0000,0000,,I'd like to see what your Imperial Arms looks like.
+Dialogue: 0,0:16:12.80,0:16:14.66,Default,Esdeath,0000,0000,0000,,Oh, that?
+Dialogue: 0,0:16:15.12,0:16:16.74,Default,Esdeath,0000,0000,0000,,My Imperial Arms is here.
+Dialogue: 0,0:16:19.07,0:16:19.97,Default,Esdeath,0000,0000,0000,,This.
+Dialogue: 0,0:16:19.97,0:16:20.96,Default,Tatsumi,0000,0000,0000,,Eh?
+Dialogue: 0,0:16:22.49,0:16:24.32,Default,Esdeath,0000,0000,0000,,It was a few years ago.
+Dialogue: 0,0:16:25.96,0:16:28.38,Default - flashback,Onest,0000,0000,0000,,I've prepared several Imperial Arms for you.
+Dialogue: 0,0:16:28.38,0:16:31.34,Default - flashback,Onest,0000,0000,0000,,But none seems suited to you.
+Dialogue: 0,0:16:31.78,0:16:34.34,Default - flashback,Esdeath,0000,0000,0000,,I like this axe. It's rather splendid.
+Dialogue: 0,0:16:34.69,0:16:36.34,Default - flashback,Esdeath,0000,0000,0000,,But it doesn't quite feel right.
+Dialogue: 0,0:16:38.49,0:16:40.85,Default - flashback,Esdeath,0000,0000,0000,,Is that urn over there an Imperial Arms, as well?
+Dialogue: 0,0:16:41.25,0:16:43.50,Default - flashback,Onest,0000,0000,0000,,That Imperial Arms is the Demon's Extract.
+Dialogue: 0,0:16:43.50,0:16:46.98,Default - flashback,Onest,0000,0000,0000,,It's the lifeblood of a high-level Danger \NBeast that lived in the far North.
+Dialogue: 0,0:16:47.22,0:16:48.76,Default - flashback,Esdeath,0000,0000,0000,,The blood is the Imperial Arms?
+Dialogue: 0,0:16:49.18,0:16:53.96,Default - flashback,Onest,0000,0000,0000,,A legend says that if you drink \Nit and it's compatible,
+Dialogue: 0,0:16:53.96,0:16:56.99,Default - flashback,Onest,0000,0000,0000,,you'll gain the Danger Beast's control over ice.
+Dialogue: 0,0:16:56.99,0:17:00.19,Default - flashback,Onest,0000,0000,0000,,All those who tried have lost their minds,
+Dialogue: 0,0:17:00.19,0:17:01.37,Default - flashback,Onest,0000,0000,0000,,and are now insane.
+Dialogue: 0,0:17:01.37,0:17:03.02,Default - flashback,Onest,0000,0000,0000,,It isn't worth trying.
+Dialogue: 0,0:17:03.51,0:17:05.67,Default - flashback,Esdeath,0000,0000,0000,,That sounds quite interesting.
+Dialogue: 0,0:17:05.67,0:17:07.44,Default - flashback,Onest,0000,0000,0000,,W-Wait, you aren't going to drink it, are you?
+Dialogue: 0,0:17:07.44,0:17:09.06,Default - flashback,Onest,0000,0000,0000,,Regardless of how sadistic you are,
+Dialogue: 0,0:17:09.06,0:17:10.38,Default - flashback,Onest,0000,0000,0000,,I can't guarantee its compatibility!
+Dialogue: 0,0:17:11.40,0:17:13.57,Default - flashback,Esdeath,0000,0000,0000,,This blood is calling to me.
+Dialogue: 0,0:17:13.57,0:17:15.26,Default - flashback,Esdeath,0000,0000,0000,,I can't help but feel that way.
+Dialogue: 0,0:17:15.26,0:17:16.73,Default - flashback,Onest,0000,0000,0000,,I see.
+Dialogue: 0,0:17:16.73,0:17:19.39,Default - flashback,Onest,0000,0000,0000,,Then you may very well be compatible with it.
+Dialogue: 0,0:17:19.39,0:17:19.93,Default - flashback,Esdeath,0000,0000,0000,,Right?
+Dialogue: 0,0:17:20.43,0:17:22.05,Default - flashback,Esdeath,0000,0000,0000,,For some reason, I'm certain
+Dialogue: 0,0:17:22.05,0:17:23.86,Default - flashback,Esdeath,0000,0000,0000,,that this will suit me.
+Dialogue: 0,0:17:23.86,0:17:26.04,Default - flashback,Esdeath,0000,0000,0000,,If my instincts, sharpened in the wild, are off,
+Dialogue: 0,0:17:26.04,0:17:27.96,Default - flashback,Esdeath,0000,0000,0000,,it means this was the extent of my life.
+Dialogue: 0,0:17:29.40,0:17:31.78,Default - flashback,Onest,0000,0000,0000,,One glass should be enough.
+Dialogue: 0,0:17:31.78,0:17:33.76,Default - flashback,Esdeath,0000,0000,0000,,I might as well drink it all.
+Dialogue: 0,0:17:33.76,0:17:36.24,Default - flashback,Esdeath,0000,0000,0000,,I feel that it'll make me stronger that way.
+Dialogue: 0,0:17:36.74,0:17:40.36,Default - flashback,Onest,0000,0000,0000,,Since you're already crazy, \Nperhaps it won't drive you mad.
+Dialogue: 0,0:17:47.91,0:17:49.50,Default - flashback,Esdeath,0000,0000,0000,,That tasted quite—
+Dialogue: 0,0:17:52.88,0:17:59.85,Default - flashback,Voices,0000,0000,0000,,{\i1}Kill. Take. Attack. Steal. Perish. Break. Harm.
+Dialogue: 0,0:18:03.57,0:18:05.81,Default - flashback,Esdeath,0000,0000,0000,,What destructive urges...
+Dialogue: 0,0:18:05.81,0:18:06.71,Default - flashback,Esdeath,0000,0000,0000,,I see.
+Dialogue: 0,0:18:06.71,0:18:09.50,Default - flashback,Esdeath,0000,0000,0000,,So they were driven to insanity by this.
+Dialogue: 0,0:18:09.50,0:18:10.62,Default - flashback,Esdeath,0000,0000,0000,,However...
+Dialogue: 0,0:18:10.62,0:18:11.88,Default - flashback,Esdeath,0000,0000,0000,,How tepid!
+Dialogue: 0,0:18:11.88,0:18:14.23,Default - flashback,,0000,0000,0000,,To try and taint me with something like this.
+Dialogue: 0,0:18:17.93,0:18:21.08,Default - flashback,Esdeath,0000,0000,0000,,I am the one that dominates.
+Dialogue: 0,0:18:21.08,0:18:22.74,Default - flashback,Esdeath,0000,0000,0000,,Regardless of what the enemy may be.
+Dialogue: 0,0:18:23.41,0:18:25.79,Default - flashback,Esdeath,0000,0000,0000,,I act out of my own volition.
+Dialogue: 0,0:18:29.02,0:18:31.83,Default - flashback,Esdeath,0000,0000,0000,,This is a truly good feeling, Minister.
+Dialogue: 0,0:18:31.83,0:18:34.24,Default - flashback,Esdeath,0000,0000,0000,,I can feel the power coursing \Nthrough my entire body.
+Dialogue: 0,0:18:34.24,0:18:37.13,Default - flashback,Onest,0000,0000,0000,,Looks like it's completely adapted to you.
+Dialogue: 0,0:18:37.13,0:18:40.21,Default - flashback,Onest,0000,0000,0000,,Let's celebrate the strongest soldier's birth.
+Dialogue: 0,0:18:40.54,0:18:41.97,Default - flashback,Onest,0000,0000,0000,,Cheers.
+Dialogue: 0,0:18:42.57,0:18:46.90,Default,Tatsumi,0000,0000,0000,,So even now, the Danger Beast blood \Nis running through your body?
+Dialogue: 0,0:18:46.90,0:18:48.09,Default,Esdeath,0000,0000,0000,,That's right.
+Dialogue: 0,0:18:48.09,0:18:50.35,Default,Esdeath,0000,0000,0000,,But it's tamed, so don't worry.
+Dialogue: 0,0:18:51.00,0:18:53.45,Default,Tatsumi,0000,0000,0000,,Is that how you gained an affinity for torture?
+Dialogue: 0,0:18:53.45,0:18:55.32,Default,Esdeath,0000,0000,0000,,No, I've always liked that.
+Dialogue: 0,0:18:56.06,0:18:58.49,Default - italics,Tatsumi,0000,0000,0000,,Something like avenging her people
+Dialogue: 0,0:18:58.49,0:19:00.93,Default - italics,Tatsumi,0000,0000,0000,,or being driven berserk by \Na Danger Beast's blood
+Dialogue: 0,0:19:00.93,0:19:03.21,Default - italics,Tatsumi,0000,0000,0000,,would've been more understandable.
+Dialogue: 0,0:19:03.94,0:19:07.72,Default - italics,Esdeath,0000,0000,0000,,But this person has always been like this.
+Dialogue: 0,0:19:07.72,0:19:10.25,Default - italics,Esdeath,0000,0000,0000,,There's no way I can change \Nthe core of her being!
+Dialogue: 0,0:19:10.92,0:19:15.21,Default - italics,Tatsumi,0000,0000,0000,,I underestimated her, \Nthinking I could try to convince her.
+Dialogue: 0,0:19:15.21,0:19:16.35,Default,Shura,0000,0000,0000,,Now, then...
+Dialogue: 0,0:19:16.35,0:19:18.67,Default,Shura,0000,0000,0000,,I wonder how the rest are doing.
+Dialogue: 0,0:19:18.67,0:19:21.61,Default,Shura,0000,0000,0000,,They'd better not have died or anything like that.
+Dialogue: 0,0:19:21.61,0:19:24.60,Default,Shura,0000,0000,0000,,Guess I should open a path home...
+Dialogue: 0,0:19:24.60,0:19:27.22,Default - italics,Shura,0000,0000,0000,,Shambala Point-B Release.
+Dialogue: 0,0:19:29.39,0:19:30.99,Default,Shura,0000,0000,0000,,That should do it.
+Dialogue: 0,0:19:32.16,0:19:33.93,Default,Girl,0000,0000,0000,,What are you doing over there?
+Dialogue: 0,0:19:33.93,0:19:35.92,Default,Shura,0000,0000,0000,,Huh? It's nothing.
+Dialogue: 0,0:19:35.92,0:19:39.64,Default,Girl,0000,0000,0000,,Your speech pattern is rowdy,
+Dialogue: 0,0:19:39.64,0:19:42.77,Default,Girl,0000,0000,0000,,but there's something sophisticated about you.
+Dialogue: 0,0:19:42.77,0:19:46.24,Default,Shura,0000,0000,0000,,Well, of course. I'm Minister Onest's son.
+Dialogue: 0,0:19:47.07,0:19:48.50,Default,Girl,0000,0000,0000,,Minister... As in that one?
+Dialogue: 0,0:19:52.74,0:19:55.55,Default,Shura,0000,0000,0000,,What do you mean by "that"? Huh?
+Dialogue: 0,0:19:55.55,0:19:57.93,Default,Shura,0000,0000,0000,,I look up to him, you know.
+Dialogue: 0,0:19:57.93,0:20:00.32,Default,Shura,0000,0000,0000,,Well, I'm sure I'll surpass him one day.
+Dialogue: 0,0:20:00.32,0:20:05.05,Default,Shura,0000,0000,0000,,Surpassing a parent is the ultimate form \Nof filial piety, don't you think?
+Dialogue: 0,0:20:06.10,0:20:09.43,Default,Tatsumi,0000,0000,0000,,Wh-What's the other way to get back?
+Dialogue: 0,0:20:09.43,0:20:11.58,Default,Esdeath,0000,0000,0000,,I guess I should tell you now.
+Dialogue: 0,0:20:11.58,0:20:13.15,Default,Esdeath,0000,0000,0000,,We need to acquire some form of a ride.
+Dialogue: 0,0:20:13.69,0:20:17.12,Default,Esdeath,0000,0000,0000,,For travel, you can ride on \Nsome Danger Beasts' backs.
+Dialogue: 0,0:20:17.88,0:20:23.16,Default,Esdeath,0000,0000,0000,,Taming one is quite difficult, \Nbut it isn't an issue for me.
+Dialogue: 0,0:20:23.16,0:20:25.27,Default,Tatsumi,0000,0000,0000,,Wait a second, like that one?
+Dialogue: 0,0:20:26.39,0:20:29.24,Default,Esdeath,0000,0000,0000,,Speak of the devil... What bad timing.
+Dialogue: 0,0:20:29.24,0:20:31.61,Default,Tatsumi,0000,0000,0000,,Wh-What are you going to do?
+Dialogue: 0,0:20:31.61,0:20:33.12,Default,Tatsumi,0000,0000,0000,,It's incredibly high in the sky!
+Dialogue: 0,0:20:33.12,0:20:35.13,Default,Esdeath,0000,0000,0000,,I'll train it after I shoot it down!
+Dialogue: 0,0:20:35.13,0:20:36.23,Default,Esdeath,0000,0000,0000,,I won't let you get away!
+Dialogue: 0,0:20:38.89,0:20:39.81,Default,Tatsumi,0000,0000,0000,,Whoa!
+Dialogue: 0,0:20:39.81,0:20:41.67,Default,Tatsumi,0000,0000,0000,,This is the way back.
+Dialogue: 0,0:20:42.24,0:20:44.30,Default,Tatsumi,0000,0000,0000,,If I sneak out right now...
+Dialogue: 0,0:20:46.08,0:20:48.78,Default,Tatsumi,0000,0000,0000,,But she took care of me here.
+Dialogue: 0,0:20:49.76,0:20:51.14,Default,Tatsumi,0000,0000,0000,,I should return the favor.
+Dialogue: 0,0:20:51.73,0:20:52.97,Default,Tatsumi,0000,0000,0000,,Esdeath!
+Dialogue: 0,0:20:52.97,0:20:54.86,Default,Tatsumi,0000,0000,0000,,Something like an exit appeared!
+Dialogue: 0,0:20:54.86,0:20:56.06,Default,Tatsumi,0000,0000,0000,,I'll go in first!
+Dialogue: 0,0:20:57.62,0:20:59.12,Default,Esdeath,0000,0000,0000,,Wait, Tatsumi!
+Dialogue: 0,0:20:59.12,0:21:00.07,Default,Esdeath,0000,0000,0000,,Wait!
+Dialogue: 0,0:21:04.00,0:21:06.83,Default,Esdeath,0000,0000,0000,,This is the summit we were on yesterday.
+Dialogue: 0,0:21:06.83,0:21:08.58,Default,Esdeath,0000,0000,0000,,It seems we've returned.
+Dialogue: 0,0:21:08.58,0:21:10.57,Default,Esdeath,0000,0000,0000,,Where are you, Tatsumi?
+Dialogue: 0,0:21:11.17,0:21:14.21,Default,Esdeath,0000,0000,0000,,Could it be that he ran away in \Nthat short amount of time?
+Dialogue: 0,0:21:14.21,0:21:15.41,Default,Esdeath,0000,0000,0000,,That's impossible.
+Dialogue: 0,0:21:15.41,0:21:16.58,Default,Esdeath,0000,0000,0000,,There was only an instant.
+Dialogue: 0,0:21:17.29,0:21:20.60,Default - italics,Tatsumi,0000,0000,0000,,Even though I'm invisible right now, \NI can't hide my presence if I move.
+Dialogue: 0,0:21:21.06,0:21:23.87,Default - italics,Tatsumi,0000,0000,0000,,I have to stay like this for a while.
+Dialogue: 0,0:21:24.28,0:21:25.53,Default,Esdeath,0000,0000,0000,,He isn't here...
+Dialogue: 0,0:21:26.59,0:21:29.36,Default,Esdeath,0000,0000,0000,,Was he sent elsewhere?
+Dialogue: 0,0:21:29.80,0:21:33.41,Default,Esdeath,0000,0000,0000,,Regardless, we're separated again...
+Dialogue: 0,0:21:35.02,0:21:35.98,Default,Esdeath,0000,0000,0000,,However,
+Dialogue: 0,0:21:35.98,0:21:37.84,Default,Esdeath,0000,0000,0000,,what happens twice will happen thrice.
+Dialogue: 0,0:21:38.35,0:21:41.08,Default,Esdeath,0000,0000,0000,,We'll meet again, won't we?
+Dialogue: 0,0:21:41.79,0:21:44.18,Default - italics,Tatsumi,0000,0000,0000,,It's true... I have the same feeling.
+Dialogue: 0,0:21:44.18,0:21:46.66,Default - italics,Tatsumi,0000,0000,0000,,But now I know for sure.
+Dialogue: 0,0:21:46.66,0:21:49.07,Default - italics,Tatsumi,0000,0000,0000,,That it's impossible to convince her.
+Dialogue: 0,0:21:49.40,0:21:52.65,Default - italics,Tatsumi,0000,0000,0000,,Which is why, the next time we meet,
+Dialogue: 0,0:21:52.65,0:21:54.42,Default - italics,Tatsumi,0000,0000,0000,,it will be as enemies.
+Dialogue: 0,0:23:35.95,0:23:41.06,Title2,Title,0000,0000,0000,,{\fad(299,1)}Kill the Religious Organization

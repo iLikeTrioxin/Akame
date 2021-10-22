@@ -1,0 +1,316 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,33,&H001D1B15,&H000000FF,&H008AA7DD,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.68,0:00:07.35,Default,Daidara,0000,0000,0000,,Looks like I can get some great experience!
+Dialogue: 0,0:00:08.18,0:00:09.15,Default,Tatsumi,0000,0000,0000,,Bro!
+Dialogue: 0,0:00:15.24,0:00:17.07,Default - italics,Tatsumi,0000,0000,0000,,He killed the big one,
+Dialogue: 0,0:00:17.07,0:00:19.03,Default - italics,Tatsumi,0000,0000,0000,,and still dealt with the other two.
+Dialogue: 0,0:00:19.38,0:00:20.24,Default - italics,Tatsumi,0000,0000,0000,,All...
+Dialogue: 0,0:00:20.81,0:00:22.71,Default - italics,,0000,0000,0000,,All in a single moment!
+Dialogue: 0,0:00:23.09,0:00:26.17,Default,Liver,0000,0000,0000,,That Imperial Arms, that strength.
+Dialogue: 0,0:00:26.70,0:00:29.00,Default,Liver,0000,0000,0000,,So it is you, Bulat.
+Dialogue: 0,0:00:31.14,0:00:32.45,Default,Bulat,0000,0000,0000,,You are
+Dialogue: 0,0:00:32.45,0:00:33.96,Default,Bulat,0000,0000,0000,,General Liver.
+Dialogue: 0,0:00:35.28,0:00:37.56,Default,Liver,0000,0000,0000,,I am no longer a general.
+Dialogue: 0,0:00:37.56,0:00:40.06,Default,Liver,0000,0000,0000,,After Lady Esdeath saved me,
+Dialogue: 0,0:00:40.46,0:00:42.77,Default,Liver,0000,0000,0000,,I became her servant.
+Dialogue: 0,0:00:42.77,0:00:43.82,Default - italics,Tatsumi,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:43.82,0:00:48.15,Default - italics,Tatsumi,0000,0000,0000,,Could this be the guy from Bro's story?
+Dialogue: 0,0:01:00.71,0:01:04.18,Default,Bulat,0000,0000,0000,,If we'd been on the same side, we could've \Nhad a drink to celebrate the reunion.
+Dialogue: 0,0:01:05.12,0:01:06.96,Default,Bulat,0000,0000,0000,,But since you've resurfaced as my enemy,
+Dialogue: 0,0:01:06.96,0:01:08.13,Default,Bulat,0000,0000,0000,,I must kill you.
+Dialogue: 0,0:01:10.80,0:01:12.55,Default,Bulat,0000,0000,0000,,I must complete the mission!
+Dialogue: 0,0:01:13.03,0:01:15.37,Default,Liver,0000,0000,0000,,That is my line.
+Dialogue: 0,0:01:15.37,0:01:18.27,Default,Liver,0000,0000,0000,,The mission must be carried out...
+Dialogue: 0,0:01:20.11,0:01:22.10,Default,Liver,0000,0000,0000,,With this Imperial Arms
+Dialogue: 0,0:01:22.31,0:01:24.93,Default,Liver,0000,0000,0000,,my master bestowed upon me!
+Dialogue: 0,0:03:02.53,0:03:04.36,Title1a,,0000,0000,0000,,{\fad(861,1)}Kill the Three \N{\fs20}— Part Two —
+Dialogue: 0,0:03:04.36,0:03:05.99,Title1b,,0000,0000,0000,,{\fad(1,847)}Kill the Three \N{\fs20}— Part Two —
+Dialogue: 0,0:03:08.59,0:03:11.20,Default,Liver,0000,0000,0000,,The Imperial Arms Black Marlin!
+Dialogue: 0,0:03:12.33,0:03:18.01,Default,Liver,0000,0000,0000,,Created from the organ of an aquatic \NDanger Beast that controls water.
+Dialogue: 0,0:03:18.01,0:03:21.84,Default,Liver,0000,0000,0000,,Thus, its user can freely manipulate \Nany liquid surrounding them.
+Dialogue: 0,0:03:22.92,0:03:27.00,Default,Liver,0000,0000,0000,,It's immensely fortunate that my battle \Nwith you two takes place here!
+Dialogue: 0,0:03:29.98,0:03:31.98,Default,Bulat,0000,0000,0000,,A water-controller, huh?
+Dialogue: 0,0:03:31.98,0:03:34.23,Default,Bulat,0000,0000,0000,,Appropriate for the servant \Nof one who controls ice.
+Dialogue: 0,0:03:34.76,0:03:38.32,Default,Liver,0000,0000,0000,,Lady Esdeath can create ice from nothing.
+Dialogue: 0,0:03:38.32,0:03:40.19,Default,Liver,0000,0000,0000,,She is on a completely different level.
+Dialogue: 0,0:03:40.19,0:03:41.70,Default,Liver,0000,0000,0000,,It's awe-inspiring!
+Dialogue: 0,0:03:42.30,0:03:43.45,Default - italics,Liver,0000,0000,0000,,Water Spirit Cannon!
+Dialogue: 0,0:03:44.88,0:03:45.95,Default,Bulat,0000,0000,0000,,How brazen!
+Dialogue: 0,0:03:49.14,0:03:51.02,Default,Nyau,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:03:51.02,0:03:54.04,Default,Nayu,0000,0000,0000,,That guy's strength is roughly \Nsecond to Lady Esdeath's...
+Dialogue: 0,0:03:54.56,0:03:57.50,Default,Nyau,0000,0000,0000,,But since we're on water, Liver can defeat him.
+Dialogue: 0,0:03:58.07,0:03:59.31,Default,Nyau,0000,0000,0000,,I should back him up, too.
+Dialogue: 0,0:03:59.31,0:04:00.42,Default,Tatsumi,0000,0000,0000,,Hold it!
+Dialogue: 0,0:04:03.64,0:04:07.30,Default,Tatsumi,0000,0000,0000,,I won't just sit back and let him protect me!
+Dialogue: 0,0:04:07.64,0:04:09.22,Default,Nyau,0000,0000,0000,,This guy...
+Dialogue: 0,0:04:09.54,0:04:10.60,Default,Nyau,0000,0000,0000,,You're in the way!
+Dialogue: 0,0:04:11.86,0:04:13.21,Default,Nyau,0000,0000,0000,,Night Raid...
+Dialogue: 0,0:04:13.21,0:04:14.48,Default,Nyau,0000,0000,0000,,You're getting cocky!
+Dialogue: 0,0:04:32.58,0:04:35.08,Default - italics,Tatsumi,0000,0000,0000,,Damn, he's ridiculously fast...
+Dialogue: 0,0:04:38.15,0:04:38.79,Default - italics,Tatsumi,0000,0000,0000,,However...
+Dialogue: 0,0:04:45.47,0:04:47.01,Default,Tatsumi,0000,0000,0000,,Akame is faster!
+Dialogue: 0,0:04:47.44,0:04:49.85,Default,Nyau,0000,0000,0000,,Hmph! Don't compare me to a mere assassin!
+Dialogue: 0,0:04:57.19,0:05:00.77,Default - italics,Nyau,0000,0000,0000,,If I hadn't been hit earlier, \Nthis guy would be nothing.
+Dialogue: 0,0:05:01.31,0:05:04.67,Default - italics,Tatsumi,0000,0000,0000,,Considering his wounds, his speed is absurd.
+Dialogue: 0,0:05:05.06,0:05:06.51,Default - italics,Tatsumi,0000,0000,0000,,The Three Beasts...
+Dialogue: 0,0:05:06.51,0:05:09.49,Default - italics,Tatsumi,0000,0000,0000,,Compared to their strength, Ogre was nothing.
+Dialogue: 0,0:05:21.30,0:05:24.30,Default,Tatsumi,0000,0000,0000,,Whoa, something crazy is happening over there.
+Dialogue: 0,0:05:25.08,0:05:28.49,Default,Nyau,0000,0000,0000,,As long as there's a lot of water, Liver will win!
+Dialogue: 0,0:05:28.82,0:05:31.91,Default,Tatsumi,0000,0000,0000,,Heh, it's pretty obvious that Bro's gonna win.
+Dialogue: 0,0:05:32.31,0:05:33.36,Default,Nyau,0000,0000,0000,,No, Liver will!
+Dialogue: 0,0:05:33.36,0:05:34.31,Default,Tatsumi,0000,0000,0000,,It's gonna be Bro!
+Dialogue: 0,0:05:34.55,0:05:38.28,Default,Liver,0000,0000,0000,,Succumb to the water pressure, Bulat!
+Dialogue: 0,0:05:42.00,0:05:43.86,Default - italics,Liver,0000,0000,0000,,Ravine Serpent!
+Dialogue: 0,0:05:59.31,0:06:02.84,Default,Liver,0000,0000,0000,,I expected that you'd go straight for \Nthe serpent rather than dodge it.
+Dialogue: 0,0:06:03.38,0:06:06.98,Default,Liver,0000,0000,0000,,Given the casualties if it had hit the boat.
+Dialogue: 0,0:06:07.57,0:06:12.72,Default,Liver,0000,0000,0000,,However, now that you're off \Nthe deck and in the air...
+Dialogue: 0,0:06:13.17,0:06:14.93,Default,Liver,0000,0000,0000,,There's no way you can dodge this!
+Dialogue: 0,0:06:17.49,0:06:18.98,Default - italics,Liver,0000,0000,0000,,Dark Stream Spear!
+Dialogue: 0,0:06:27.45,0:06:29.82,Default,Bulat,0000,0000,0000,,Splashing some water around
+Dialogue: 0,0:06:29.82,0:06:31.96,Default,Bulat,0000,0000,0000,,won't be enough to quench my resolve!
+Dialogue: 0,0:06:33.27,0:06:34.37,Default,Liver,0000,0000,0000,,That's right.
+Dialogue: 0,0:06:34.37,0:06:37.79,Default,Liver,0000,0000,0000,,This won't suffice to defeat you.
+Dialogue: 0,0:06:39.30,0:06:41.46,Default,Liver,0000,0000,0000,,I am well aware of that.
+Dialogue: 0,0:06:42.21,0:06:45.80,Default,Liver,0000,0000,0000,,We have been through countless battles together.
+Dialogue: 0,0:06:45.80,0:06:47.88,Default,Liver,0000,0000,0000,,Your strength and your determination...
+Dialogue: 0,0:06:47.88,0:06:50.53,Default,Liver,0000,0000,0000,,I understand them better than anyone.
+Dialogue: 0,0:06:51.51,0:06:53.05,Default,Liver,0000,0000,0000,,And that's precisely why
+Dialogue: 0,0:06:53.40,0:06:57.80,Default,Liver,0000,0000,0000,,I'll have you feast on my greatest technique!
+Dialogue: 0,0:06:58.20,0:07:00.64,Default - italics,Liver,0000,0000,0000,,Water Dragon's Divine Conquest!
+Dialogue: 0,0:07:15.18,0:07:16.45,Default,Liver,0000,0000,0000,,Is he dead?
+Dialogue: 0,0:07:18.17,0:07:21.23,Default,Bulat,0000,0000,0000,,If it's ever in question,
+Dialogue: 0,0:07:21.23,0:07:23.67,Default,Bulat,0000,0000,0000,,you haven't defeated your enemy!
+Dialogue: 0,0:07:23.67,0:07:25.00,Default,Liver,0000,0000,0000,,He survived it!
+Dialogue: 0,0:07:37.03,0:07:38.83,Default,Nyau,0000,0000,0000,,That's too bad...
+Dialogue: 0,0:07:38.83,0:07:41.64,Default,Nyau,0000,0000,0000,,You missed your chance to defeat Liver.
+Dialogue: 0,0:07:43.85,0:07:45.29,Default,Tatsumi,0000,0000,0000,,B-Bro...
+Dialogue: 0,0:07:46.34,0:07:47.41,Default,Bulat,0000,0000,0000,,Tatsumi?
+Dialogue: 0,0:07:47.41,0:07:49.94,Default,Tatsumi,0000,0000,0000,,Forgive me, Bro...
+Dialogue: 0,0:07:50.63,0:07:54.20,Default,Tatsumi,0000,0000,0000,,I wasn't able to... hold him off long enough.
+Dialogue: 0,0:07:54.52,0:07:55.65,Default,Nyau,0000,0000,0000,,Oh?
+Dialogue: 0,0:07:55.65,0:07:57.36,Default,Nyau,0000,0000,0000,,You can still move?
+Dialogue: 0,0:07:57.92,0:08:02.33,Default,Nyau,0000,0000,0000,,I told you if you kept still, I'd play with you later.
+Dialogue: 0,0:08:02.33,0:08:03.94,Default,Bulat,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:08:07.07,0:08:10.30,Default,Bulat,0000,0000,0000,,Your survival, after fighting without an \NImperial Arms, is impressive enough.
+Dialogue: 0,0:08:10.77,0:08:12.02,Default,Tasumi,0000,0000,0000,,Bro...
+Dialogue: 0,0:08:12.67,0:08:14.91,Default - italics,Tatsumi,0000,0000,0000,,He was even injured within that armor.
+Dialogue: 0,0:08:15.60,0:08:20.76,Default,Liver,0000,0000,0000,,After sustaining sufficient damage, \Nyour Imperial Arms appears to release.
+Dialogue: 0,0:08:21.45,0:08:22.94,Default,Liver,0000,0000,0000,,We're almost finished.
+Dialogue: 0,0:08:23.59,0:08:25.87,Default,Bulat,0000,0000,0000,,Heh, don't act tough.
+Dialogue: 0,0:08:26.75,0:08:29.40,Default,Bulat,0000,0000,0000,,You're bleeding from your ears, Liver.
+Dialogue: 0,0:08:32.01,0:08:34.59,Default,Bulat,0000,0000,0000,,After pulling off those tremendous moves,
+Dialogue: 0,0:08:34.59,0:08:36.57,Default,Bulat,0000,0000,0000,,your body must be worn out.
+Dialogue: 0,0:08:37.50,0:08:40.58,Default,Bulat,0000,0000,0000,,You're in no condition to use \Nyour Imperial Arms, either.
+Dialogue: 0,0:08:41.78,0:08:43.93,Default,Liver,0000,0000,0000,,If that's revealed, there's no help for it.
+Dialogue: 0,0:08:43.93,0:08:47.11,Default,Liver,0000,0000,0000,,I wanted to negotiate from a higher vantage point,
+Dialogue: 0,0:08:48.91,0:08:50.05,Default,Liver,0000,0000,0000,,but I'll simply ask.
+Dialogue: 0,0:08:50.33,0:08:54.63,Default,Liver,0000,0000,0000,,Bulat, do you have any interest \Nin joining Lady Esdeath's army?
+Dialogue: 0,0:08:54.63,0:08:57.84,Default,Liver,0000,0000,0000,,Since it's you, a second-in-command \Nrank would be conceivable.
+Dialogue: 0,0:08:57.84,0:09:01.51,Default,Bulat,0000,0000,0000,,I have no interest in serving the empire anymore.
+Dialogue: 0,0:09:01.51,0:09:02.88,Default,Liver,0000,0000,0000,,Not the empire.
+Dialogue: 0,0:09:02.88,0:09:05.60,Default,Liver,0000,0000,0000,,Think of it as serving Lady Esdeath.
+Dialogue: 0,0:09:06.03,0:09:08.21,Default,Liver,0000,0000,0000,,That was the way I was saved...
+Dialogue: 0,0:09:08.21,0:09:09.94,Default,Liver,0000,0000,0000,,You could do as you please,
+Dialogue: 0,0:09:09.94,0:09:12.28,Default,Liver,0000,0000,0000,,and be feared by all.
+Dialogue: 0,0:09:12.61,0:09:13.38,Default,Liver,0000,0000,0000,,That's right.
+Dialogue: 0,0:09:13.38,0:09:17.63,Default,Liver,0000,0000,0000,,Even those filthy political officials, spreading their tainted philosophy,
+Dialogue: 0,0:09:17.63,0:09:19.78,Default,Liver,0000,0000,0000,,would bow down to you!
+Dialogue: 0,0:09:22.03,0:09:24.30,Default,Liver,0000,0000,0000,,Come with me, Bulat!
+Dialogue: 0,0:09:24.30,0:09:27.29,Default,Liver,0000,0000,0000,,Lady Esdeath can expunge your crimes!
+Dialogue: 0,0:09:27.80,0:09:29.04,Default,Bulat,0000,0000,0000,,I refuse.
+Dialogue: 0,0:09:29.91,0:09:32.25,Default,Bulat,0000,0000,0000,,You may be comfortable \Nwith your current position,
+Dialogue: 0,0:09:32.25,0:09:34.84,Default,Bulat,0000,0000,0000,,considering how you feel \Nabout political officials.
+Dialogue: 0,0:09:36.23,0:09:39.23,Default,Bulat,0000,0000,0000,,But I am a defender of the people.
+Dialogue: 0,0:09:39.23,0:09:42.10,Default,Bulat,0000,0000,0000,,If I were to join the Esdeath Army that's working with the minister...
+Dialogue: 0,0:09:42.61,0:09:44.60,Default,Bulat,0000,0000,0000,,I wouldn't be able to say that anymore.
+Dialogue: 0,0:09:45.43,0:09:47.26,Default,Liver,0000,0000,0000,,"Defender of the people"?
+Dialogue: 0,0:09:47.26,0:09:50.31,Default,Liver,0000,0000,0000,,Not something I'd expect to hear from an assassin.
+Dialogue: 0,0:09:51.28,0:09:54.15,Default,Bulat,0000,0000,0000,,That's why I tried to say it with humility.
+Dialogue: 0,0:09:54.58,0:09:56.86,Default - italics,Nyau,0000,0000,0000,,He's already at his limit, too.
+Dialogue: 0,0:09:56.86,0:09:59.32,Default - italics,Nyau,0000,0000,0000,,But we still have our trump card.
+Dialogue: 0,0:10:00.07,0:10:01.58,Default - italics,Nyau,0000,0000,0000,,And we'll win with that!
+Dialogue: 0,0:10:02.46,0:10:03.70,Default - italics,Tatsumi,0000,0000,0000,,Bro...
+Dialogue: 0,0:10:04.38,0:10:06.80,Default - italics,Tatsumi,0000,0000,0000,,If two Imperial Arms users battle one another,
+Dialogue: 0,0:10:07.24,0:10:08.87,Default - italics,Tatsumi,0000,0000,0000,,it's certain that only one will survive.
+Dialogue: 0,0:10:09.76,0:10:11.92,Default,Bulat,0000,0000,0000,,Since neither of us can use our Imperial Arms...
+Dialogue: 0,0:10:11.92,0:10:14.38,Default,Liver,0000,0000,0000,,...We'll settle this with our swords.
+Dialogue: 0,0:10:22.97,0:10:25.46,Default,Liver,0000,0000,0000,,I'll be enhancing my strength.
+Dialogue: 0,0:10:25.81,0:10:27.89,Default,Liver,0000,0000,0000,,Since you're my opponent, after all.
+Dialogue: 0,0:10:27.89,0:10:29.40,Default,Tatsumi,0000,0000,0000,,Ah, Bro!
+Dialogue: 0,0:10:29.40,0:10:30.99,Default,Tatsumi,0000,0000,0000,,This guy's dangerous!
+Dialogue: 0,0:10:31.49,0:10:34.36,Default,Bulat,0000,0000,0000,,I'm well prepared to face \Na formidable opponent.
+Dialogue: 0,0:10:39.16,0:10:40.03,Default,Bulat,0000,0000,0000,,Here I come!
+Dialogue: 0,0:10:51.25,0:10:55.09,Default,Tasumi,0000,0000,0000,,These can't be an injured person's movements...
+Dialogue: 0,0:11:14.94,0:11:15.61,Default,Tatsumi,0000,0000,0000,,Yes!
+Dialogue: 0,0:11:21.11,0:11:23.97,Default - italics,Liver,0000,0000,0000,,Hidden Technique: Blade of Blood!
+Dialogue: 0,0:11:25.87,0:11:27.83,Default,Bulat,0000,0000,0000,,So you had something up your sleeve!
+Dialogue: 0,0:11:29.53,0:11:30.33,Default,Tatsumi,0000,0000,0000,,Bro!
+Dialogue: 0,0:11:39.80,0:11:41.69,Default,Tatsumi,0000,0000,0000,,A-Are you all right, Bro?
+Dialogue: 0,0:11:41.69,0:11:44.11,Default,Bulat,0000,0000,0000,,These wounds aren't fatal...
+Dialogue: 0,0:11:44.11,0:11:45.43,Default,Bulat,0000,0000,0000,,Don't worry...
+Dialogue: 0,0:11:45.79,0:11:48.51,Default,Liver,0000,0000,0000,,An attack that uses your own life force...
+Dialogue: 0,0:11:48.97,0:11:50.69,Default - italics,Liver,0000,0000,0000,,To think he withstood it...
+Dialogue: 0,0:11:51.03,0:11:52.06,Default - italics,Liver,0000,0000,0000,,Impressive.
+Dialogue: 0,0:11:56.94,0:11:59.42,Default,Bulat,0000,0000,0000,,If I'd misjudged even a second,
+Dialogue: 0,0:11:59.42,0:12:01.21,Default,Bulat,0000,0000,0000,,I would've lost.
+Dialogue: 0,0:12:02.10,0:12:04.29,Default,Bulat,0000,0000,0000,,The moment I saw him spewing blood,
+Dialogue: 0,0:12:04.29,0:12:06.73,Default,Bulat,0000,0000,0000,,I realized that was a form of liquid.
+Dialogue: 0,0:12:08.31,0:12:09.87,Default,Tatsumi,0000,0000,0000,,Good thinking, Bro!
+Dialogue: 0,0:12:10.68,0:12:13.06,Default - italics,Tatsumi,0000,0000,0000,,I may have just held him back...
+Dialogue: 0,0:12:13.06,0:12:16.33,Default - italics,Tatsumi,0000,0000,0000,,But to think we both survived \Nsuch powerful opponents!
+Dialogue: 0,0:12:16.91,0:12:18.19,Default - italics,Tatsumi,0000,0000,0000,,I'm so relieved.
+Dialogue: 0,0:12:19.25,0:12:20.42,Default,Liver,0000,0000,0000,,Bulat...
+Dialogue: 0,0:12:22.60,0:12:24.93,Default,Liver,0000,0000,0000,,There's one last thing.
+Dialogue: 0,0:12:25.24,0:12:30.34,Default,Liver,0000,0000,0000,,The real reason I decided to \Njoin Lady Esdeath's army.
+Dialogue: 0,0:12:34.66,0:12:38.39,Default - flashback,Esdeath,0000,0000,0000,,Disappearing like this would be \Na complete waste for you.
+Dialogue: 0,0:12:38.88,0:12:41.84,Default - flashback,Esdeath,0000,0000,0000,,I've been searching for a competent assistant.
+Dialogue: 0,0:12:42.69,0:12:44.31,Default - flashback,Esdeath,0000,0000,0000,,Join my army.
+Dialogue: 0,0:12:47.68,0:12:50.75,Default - flashback,Liver,0000,0000,0000,,Even if I wanted to, I'm still a criminal.
+Dialogue: 0,0:12:50.75,0:12:52.20,Default - flashback,Liver,0000,0000,0000,,I cannot return to the army.
+Dialogue: 0,0:12:53.29,0:12:54.83,Default - flashback,Esdeath,0000,0000,0000,,Stop being so hesitant.
+Dialogue: 0,0:12:55.04,0:12:56.64,Default - flashback,Esdeath,0000,0000,0000,,Of course you can return.
+Dialogue: 0,0:12:56.64,0:12:59.01,Default - flashback,Esdeath,0000,0000,0000,,Because it is what I wish.
+Dialogue: 0,0:12:59.01,0:13:02.34,Default - flashback,Esdeath,0000,0000,0000,,Which means I won't let anyone oppose it.
+Dialogue: 0,0:13:02.72,0:13:04.95,Default - flashback,Liver,0000,0000,0000,,But the minister wouldn't allow that.
+Dialogue: 0,0:13:04.95,0:13:08.05,Default - flashback,Esdeath,0000,0000,0000,,The minister is safe because of my army and me.
+Dialogue: 0,0:13:08.05,0:13:11.24,Default - flashback,Esdeath,0000,0000,0000,,If it is to fortify that army, \Nmore power will be gladly received.
+Dialogue: 0,0:13:12.13,0:13:14.36,Default - flashback,Esdeath,0000,0000,0000,,Come to my side, Liver.
+Dialogue: 0,0:13:14.36,0:13:16.44,Default - flashback,Esdeath,0000,0000,0000,,If there's anything else troubling you
+Dialogue: 0,0:13:16.44,0:13:18.19,Default - flashback,Esdeath,0000,0000,0000,,I will make it all disappear.
+Dialogue: 0,0:13:22.91,0:13:26.13,Default,Liver,0000,0000,0000,,Simply put, I idolized her.
+Dialogue: 0,0:13:26.62,0:13:28.07,Default,Liver,0000,0000,0000,,That's all.
+Dialogue: 0,0:13:29.14,0:13:30.41,Default,Bulat,0000,0000,0000,,Liver...
+Dialogue: 0,0:13:31.04,0:13:32.19,Default,Liver,0000,0000,0000,,Therefore...
+Dialogue: 0,0:13:32.61,0:13:35.76,Default,Liver,0000,0000,0000,,As someone who exists solely \Nto serve Lady Esdeath,
+Dialogue: 0,0:13:36.16,0:13:38.63,Default,Liver,0000,0000,0000,,I will take your life!
+Dialogue: 0,0:13:40.81,0:13:41.71,Default,Tatsumi,0000,0000,0000,,Bro!
+Dialogue: 0,0:13:42.34,0:13:45.85,Default,Bulat,0000,0000,0000,,That vial before wasn't merely \Nto enhance his strength...
+Dialogue: 0,0:13:46.89,0:13:49.90,Default,Bulat,0000,0000,0000,,It was also a deadly poison!
+Dialogue: 0,0:13:50.85,0:13:55.06,Default,Liver,0000,0000,0000,,The poison will course through someone \Nlike you, one with no resistance.
+Dialogue: 0,0:13:55.62,0:13:56.89,Default,Liver,0000,0000,0000,,You cannot be saved.
+Dialogue: 0,0:13:57.56,0:13:59.12,Default,Liver,0000,0000,0000,,I will...
+Dialogue: 0,0:13:59.12,0:14:01.15,Default,Liver,0000,0000,0000,,be going... ahead.
+Dialogue: 0,0:14:09.33,0:14:12.59,Default,Bulat,0000,0000,0000,,As expected of my former superior...
+Dialogue: 0,0:14:12.59,0:14:14.24,Default,Bulat,0000,0000,0000,,A draw, huh?
+Dialogue: 0,0:14:16.56,0:14:18.04,Default,Tatsumi,0000,0000,0000,,We have to hurry and get you help!
+Dialogue: 0,0:14:19.80,0:14:20.73,Default,Bulat,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:14:21.86,0:14:25.25,Default,Bulat,0000,0000,0000,,The battle isn't over yet...
+Dialogue: 0,0:14:28.91,0:14:32.05,Default,Nyau,0000,0000,0000,,Did you think the Blade of Blood was our trump?
+Dialogue: 0,0:14:32.69,0:14:34.10,Default,Nyau,0000,0000,0000,,Wrong.
+Dialogue: 0,0:14:34.75,0:14:37.15,Default,Nyau,0000,0000,0000,,I am the real trump card.
+Dialogue: 0,0:14:37.96,0:14:41.44,Default - italics,Nayu,0000,0000,0000,,Secret Technique: Demon Summon.
+Dialogue: 0,0:14:53.89,0:14:58.63,Default,Nyau,0000,0000,0000,,My Imperial Arms Scream's purpose \Nisn't only to affect others.
+Dialogue: 0,0:14:59.06,0:15:03.88,Default,Nyau,0000,0000,0000,,It can also be used to affect my own body.
+Dialogue: 0,0:15:05.55,0:15:09.38,Default,Tatsumi,0000,0000,0000,,He increased his strength... \NSo this is his secret technique.
+Dialogue: 0,0:15:09.73,0:15:15.60,Default,Nyau,0000,0000,0000,,Ah, it's been a while since I've \Nchanged into this form.
+Dialogue: 0,0:15:16.08,0:15:17.17,Default - italics,Tatsumi,0000,0000,0000,,This is bad.
+Dialogue: 0,0:15:17.64,0:15:19.89,Default - italics,Tatsumi,0000,0000,0000,,He beat me earlier...
+Dialogue: 0,0:15:20.63,0:15:22.55,Default - italics,Tatsumi,0000,0000,0000,,What can I do alone?
+Dialogue: 0,0:15:23.51,0:15:24.44,Default,Bulat,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:15:26.16,0:15:29.61,Default,Bulat,0000,0000,0000,,Tatsumi, I'm entrusting this to you.
+Dialogue: 0,0:15:30.88,0:15:32.02,Default,Tatsumi,0000,0000,0000,,That's...
+Dialogue: 0,0:15:32.46,0:15:34.83,Default,Bulat,0000,0000,0000,,It's Incursio's key.
+Dialogue: 0,0:15:35.44,0:15:38.83,Default,Bulat,0000,0000,0000,,The armor will come to the \None who possesses it.
+Dialogue: 0,0:15:39.04,0:15:42.04,Default,Tatsumi,0000,0000,0000,,Y-You want me to use your Imperial Arms?
+Dialogue: 0,0:15:43.72,0:15:46.05,Default,Nyau,0000,0000,0000,,That's impossible... Simply impossible!
+Dialogue: 0,0:15:46.05,0:15:48.66,Default,Nyau,0000,0000,0000,,Incursio places an immense \Nstrain upon its user.
+Dialogue: 0,0:15:48.66,0:15:52.05,Default,Nyau,0000,0000,0000,,It's enough to immediately kill someone \Nrandom who's using it, right?
+Dialogue: 0,0:15:52.51,0:15:54.40,Default,Nyau,0000,0000,0000,,If I were you, I wouldn't put that on.
+Dialogue: 0,0:15:54.88,0:15:57.59,Default,Nyau,0000,0000,0000,,You'll be dead before you even fight.
+Dialogue: 0,0:15:58.05,0:16:00.06,Default,Nyau,0000,0000,0000,,Let's just fight normally.
+Dialogue: 0,0:16:06.94,0:16:10.93,Default,Bulat,0000,0000,0000,,Don't get caught up in your \Nenemy's words, dumbass!
+Dialogue: 0,0:16:12.25,0:16:15.26,Default,Bulat,0000,0000,0000,,Think about your training and \Nall you've been through!
+Dialogue: 0,0:16:15.26,0:16:18.49,Default,Bulat,0000,0000,0000,,You're more than qualified to use this, Tatsumi!
+Dialogue: 0,0:16:19.65,0:16:20.66,Default,Tatsumi,0000,0000,0000,,Bro!
+Dialogue: 0,0:16:22.69,0:16:26.47,Default - italics,Nyau,0000,0000,0000,,Since I'm avenging the other two, \NI want to slice them into pieces.
+Dialogue: 0,0:16:26.47,0:16:28.97,Default - italics,Nyau,0000,0000,0000,,But if they died instantly, it would be boring.
+Dialogue: 0,0:16:29.78,0:16:32.53,Default,Nyau,0000,0000,0000,,There's the matter of compatibility \Nwith Imperial Arms.
+Dialogue: 0,0:16:32.99,0:16:35.01,Default,Nyau,0000,0000,0000,,If you aren't compatible, you'll die instantly!
+Dialogue: 0,0:16:35.88,0:16:38.07,Default,Bulat,0000,0000,0000,,Compatibility between the Imperial Arms and you
+Dialogue: 0,0:16:38.07,0:16:41.34,Default,Bulat,0000,0000,0000,,is mostly determined by first impressions, \Nlike your reaction to its appearance.
+Dialogue: 0,0:16:42.30,0:16:44.27,Default,Bulat,0000,0000,0000,,And whether you liked it or not.
+Dialogue: 0,0:16:51.07,0:16:52.90,Default - flashback,Tatsumi,0000,0000,0000,,Whoa, amazing!
+Dialogue: 0,0:16:53.34,0:16:55.17,Default,Bulat,0000,0000,0000,,You can do it.
+Dialogue: 0,0:16:55.65,0:16:57.45,Default,Bulat,0000,0000,0000,,Go, Tatsumi!
+Dialogue: 0,0:16:59.42,0:17:00.43,Default,Tatsumi,0000,0000,0000,,Bro...
+Dialogue: 0,0:17:08.20,0:17:11.58,Default,Tatsumi,0000,0000,0000,,Someone I respect is saying all of this...
+Dialogue: 0,0:17:12.95,0:17:15.59,Default,Tatsumi,0000,0000,0000,,If I don't live up to that, \Nwhat kind of a man would I be?
+Dialogue: 0,0:17:16.10,0:17:19.38,Default,Nyau,0000,0000,0000,,Ah, then you're putting it on?
+Dialogue: 0,0:17:19.82,0:17:21.04,Default,Nyau,0000,0000,0000,,Well, then...
+Dialogue: 0,0:17:21.04,0:17:23.81,Default,Nyau,0000,0000,0000,,I'll kill you before you can kill yourself!
+Dialogue: 0,0:17:25.72,0:17:27.24,Default,Bulat,0000,0000,0000,,Shout it out, Tatsumi!
+Dialogue: 0,0:17:27.24,0:17:29.22,Default,Bulat,0000,0000,0000,,With your raging spirit!
+Dialogue: 0,0:17:33.16,0:17:37.16,Default - italics,Tatsumi,0000,0000,0000,,Incursio!
+Dialogue: 0,0:17:43.08,0:17:44.15,Default - italics,Bulat,0000,0000,0000,,The armor...
+Dialogue: 0,0:17:44.50,0:17:48.00,Default - italics,Bulat,0000,0000,0000,,It's changing form to suit Tatsumi's body!
+Dialogue: 0,0:17:51.08,0:17:52.78,Default,Nyau,0000,0000,0000,,What's with that armor?
+Dialogue: 0,0:17:53.11,0:17:55.80,Default,Nyau,0000,0000,0000,,Don't tell me... Its raw form is still alive!
+Dialogue: 0,0:17:56.75,0:18:01.28,Default,Bulat,0000,0000,0000,,Incursio was created by purifying \Nraw materials taken from Tyrant,
+Dialogue: 0,0:18:01.28,0:18:04.84,Default,Bulat,0000,0000,0000,,a dragon-type Danger Beast whose life \Nforce exceeds that of any other.
+Dialogue: 0,0:18:05.81,0:18:09.02,Default,Bulat,0000,0000,0000,,That dragon could wander any land, \Nwhether burning desert or freezing tundra.
+Dialogue: 0,0:18:09.40,0:18:12.60,Default,Bulat,0000,0000,0000,,It could survive any environment \Nby evolving itself and adapting.
+Dialogue: 0,0:18:13.15,0:18:15.31,Default,Bulat,0000,0000,0000,,Even after being used in an Imperial Arms,
+Dialogue: 0,0:18:15.31,0:18:17.74,Default,Bulat,0000,0000,0000,,the dragon's flesh is still alive!
+Dialogue: 0,0:18:18.37,0:18:20.45,Default,Nyau,0000,0000,0000,,Wh-What an incredible Imperial Arms...
+Dialogue: 0,0:18:22.75,0:18:23.95,Default,Bulat,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:18:24.54,0:18:25.88,Default,Bulat,0000,0000,0000,,I see...
+Dialogue: 0,0:18:25.88,0:18:27.46,Default,Bulat,0000,0000,0000,,Your passion
+Dialogue: 0,0:18:27.46,0:18:29.71,Default,Bulat,0000,0000,0000,,has caused Incursio to evolve once more!
+Dialogue: 0,0:18:34.01,0:18:38.59,Default,Tatsumi,0000,0000,0000,,Esdeath's army... You've committed multiple \Nassassinations in Night Raid's name!
+Dialogue: 0,0:18:39.00,0:18:40.93,Default,Tatsumi,0000,0000,0000,,It's time to accept your punishment!
+Dialogue: 0,0:18:42.55,0:18:44.89,Default,Nyau,0000,0000,0000,,You're suddenly full of yourself.
+Dialogue: 0,0:18:46.05,0:18:47.23,Default,Tatsumi,0000,0000,0000,,I can feel it...
+Dialogue: 0,0:18:47.68,0:18:51.40,Default,Tatsumi,0000,0000,0000,,This armor is vigorously increasing my strength!
+Dialogue: 0,0:18:53.61,0:18:55.44,Default,Tatsumi,0000,0000,0000,,I will defeat you!
+Dialogue: 0,0:18:58.12,0:19:00.32,Default,Nyau,0000,0000,0000,,Go ahead and try!
+Dialogue: 0,0:19:32.30,0:19:33.47,Default,Bulat,0000,0000,0000,,Amazing.
+Dialogue: 0,0:19:33.91,0:19:36.25,Default,Bulat,0000,0000,0000,,If you're this powerful now,
+Dialogue: 0,0:19:36.84,0:19:38.53,Default,Bulat,0000,0000,0000,,it's clear that eventually,
+Dialogue: 0,0:19:39.29,0:19:41.61,Default,Bulat,0000,0000,0000,,you will surpass me.
+Dialogue: 0,0:19:45.22,0:19:47.27,Default - italics,Bulat,0000,0000,0000,,Keep moving forward...
+Dialogue: 0,0:19:48.08,0:19:50.28,Default - italics,Bulat,0000,0000,0000,,I'll be watching over you.
+Dialogue: 0,0:20:08.32,0:20:09.34,Default,Tatsumi,0000,0000,0000,,Bro...
+Dialogue: 0,0:20:10.65,0:20:13.01,Default,Tatsumi,0000,0000,0000,,I won, thanks to you.
+Dialogue: 0,0:20:14.62,0:20:15.56,Default,Tatsumi,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:20:16.21,0:20:20.52,Default,Tatsumi,0000,0000,0000,,Even till the end, I did dumb \Nthings that you hit me for.
+Dialogue: 0,0:20:21.33,0:20:23.45,Default,Tatsumi,0000,0000,0000,,I'll become stronger...
+Dialogue: 0,0:20:24.29,0:20:27.75,Default,Tatsumi,0000,0000,0000,,And I'll learn to use Incursio properly.
+Dialogue: 0,0:20:28.92,0:20:32.84,Default,Tatsumi,0000,0000,0000,,S-So... So...
+Dialogue: 0,0:20:33.88,0:20:36.44,Default,Tatsumi,0000,0000,0000,,It's okay if I cry now, right...
+Dialogue: 0,0:20:37.99,0:20:39.34,Default,,0000,0000,0000,,Bro?
+Dialogue: 0,0:21:06.63,0:21:09.79,Default,Kurome,0000,0000,0000,,Human bodies really are fun!
+Dialogue: 0,0:21:10.27,0:21:13.75,Default,Reinforcement A,0000,0000,0000,,We have to thoroughly dispose \Nof the remains with fire.
+Dialogue: 0,0:21:14.06,0:21:17.22,Default,Reinforcement B,0000,0000,0000,,Putting the goods we've taken from \Nthem on the black market
+Dialogue: 0,0:21:17.22,0:21:18.64,Default,Reinforcement B,0000,0000,0000,,is a major crime, isn't it?
+Dialogue: 0,0:21:20.02,0:21:21.84,Default,Reinforcement C,0000,0000,0000,,Kurome, we have a message!
+Dialogue: 0,0:21:21.84,0:21:24.06,Default,Reinforcement C,0000,0000,0000,,You've been summoned to an \Nassembly in the capital.
+Dialogue: 0,0:21:22.84,0:21:24.68,SignA,Text,0000,0000,0000,,Kurome's Snacks
+Dialogue: 0,0:21:27.23,0:21:28.68,Default,Kurome,0000,0000,0000,,Just me?
+Dialogue: 0,0:21:29.01,0:21:29.73,Default,Reinforcement C,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:29.73,0:21:33.16,Default,Reinforcement C,0000,0000,0000,,You're the only one chosen as one of the six.
+Dialogue: 0,0:21:33.16,0:21:34.44,Default,Reinforcement A,0000,0000,0000,,Six?
+Dialogue: 0,0:21:34.44,0:21:36.84,Default,Reinforcement B,0000,0000,0000,,Apparently, it's to form a new organization.
+Dialogue: 0,0:21:41.83,0:21:43.66,Default,Kurome,0000,0000,0000,,The capital, huh?
+Dialogue: 0,0:21:45.53,0:21:47.72,Default,Kurome,0000,0000,0000,,Maybe I'll get to see you...
+Dialogue: 0,0:21:50.44,0:21:52.22,Default,Kurome,0000,0000,0000,,Sister.
+Dialogue: 0,0:23:33.91,0:23:41.06,Title2,,0000,0000,0000,,{\fad(420,1)}Kill the Battle Fanatic

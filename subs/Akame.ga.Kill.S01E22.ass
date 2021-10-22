@@ -1,0 +1,325 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,27,&H000D0D0D,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,53,27,0
+Style: snacks,Open Sans Semibold,24,&H00000000,&H000000FF,&H00705742,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,227,13,213,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:10.54,0:00:13.71,Default,Tatsumi,0000,0000,0000,,Why... Just to save me?
+Dialogue: 0,0:00:13.71,0:00:14.94,Default,Najenda,0000,0000,0000,,Don't be so self-absorbed.
+Dialogue: 0,0:00:17.26,0:00:19.55,Default,Najenda,0000,0000,0000,,We needed to stop the public execution
+Dialogue: 0,0:00:19.55,0:00:22.05,Default,,0000,0000,0000,,to protect the Revolutionary Army's morale.
+Dialogue: 0,0:00:22.78,0:00:25.01,Default,Najenda,0000,0000,0000,,Everyone went in prepared for this.
+Dialogue: 0,0:00:25.52,0:00:27.23,Default,Tatsumi,0000,0000,0000,,Even if that's the case...
+Dialogue: 0,0:00:28.32,0:00:29.62,Default,Najenda,0000,0000,0000,,Also,
+Dialogue: 0,0:00:29.62,0:00:32.19,Default,Najenda,0000,0000,0000,,we were able to eliminate Commander-in-Chief Budou,
+Dialogue: 0,0:00:32.19,0:00:33.65,Default,,0000,0000,0000,,who's been a problem for years.
+Dialogue: 0,0:00:34.12,0:00:35.92,Default,Najenda,0000,0000,0000,,All things considered, a notable military gain.
+Dialogue: 0,0:00:35.92,0:00:37.71,Default,Tatsumi,0000,0000,0000,,How can you say that?
+Dialogue: 0,0:00:37.71,0:00:38.65,Default,Leone,0000,0000,0000,,Tatsumi,
+Dialogue: 0,0:00:38.65,0:00:40.97,Default,Leone,0000,0000,0000,,it isn't like the boss isn't in pain, too.
+Dialogue: 0,0:00:40.97,0:00:42.57,Default,Leone,0000,0000,0000,,She lost Susanoo.
+Dialogue: 0,0:00:43.45,0:00:44.76,Default,Najenda,0000,0000,0000,,Don't worry about that.
+Dialogue: 0,0:00:44.76,0:00:47.60,Default,Najenda,0000,0000,0000,,As an Imperial Arms, \Nhe simply fulfilled his mission.
+Dialogue: 0,0:00:48.92,0:00:50.12,Default,Tatsumi,0000,0000,0000,,Su...
+Dialogue: 0,0:00:51.21,0:00:53.34,Default,Akame,0000,0000,0000,,As the survivors, we carry the feelings
+Dialogue: 0,0:00:53.82,0:00:55.97,Default,,0000,0000,0000,,of those who've passed away on our shoulders.
+Dialogue: 0,0:00:56.47,0:00:57.93,Default,Tatsumi,0000,0000,0000,,They're heavy...
+Dialogue: 0,0:00:58.55,0:00:59.68,Default,Akame,0000,0000,0000,,They are.
+Dialogue: 0,0:00:59.68,0:01:02.84,Default,Akame,0000,0000,0000,,However, we can't just surrender \Nbecause we feel they're too much.
+Dialogue: 0,0:01:03.21,0:01:04.42,Default,Tatsumi,0000,0000,0000,,Akame...
+Dialogue: 0,0:01:04.42,0:01:06.47,Default,Leone,0000,0000,0000,,If we throw in the towel,
+Dialogue: 0,0:01:06.47,0:01:08.67,Default,Leone,0000,0000,0000,,the dead won't be able to rest in peace!
+Dialogue: 0,0:01:10.54,0:01:11.89,Default,Tatsumi,0000,0000,0000,,You're right.
+Dialogue: 0,0:01:13.27,0:01:16.04,Default,Tatsumi,0000,0000,0000,,This anguish... We have to end it.
+Dialogue: 0,0:01:25.94,0:01:29.92,Default - italics,Najenda,0000,0000,0000,,My life was required to activate \NSusanoo's trump card.
+Dialogue: 0,0:01:30.50,0:01:32.44,Default - italics,Najenda,0000,0000,0000,,And yet, I'm still alive.
+Dialogue: 0,0:01:33.16,0:01:38.45,Default - italics,Najenda,0000,0000,0000,,Susanoo, you took your own life to save mine.
+Dialogue: 0,0:01:43.75,0:01:46.14,Default - italics,Najenda,0000,0000,0000,,You weren't a mere weapon.
+Dialogue: 0,0:01:46.85,0:01:50.67,Default - italics,Najenda,0000,0000,0000,,You were my precious partner.
+Dialogue: 0,0:01:54.34,0:01:58.70,Default - italics,Tatsumi,0000,0000,0000,,You told me that you wanted \Nto stand on the winning side,
+Dialogue: 0,0:01:58.70,0:02:01.05,Default - italics,Tatsumi,0000,0000,0000,,and create a world without discrimination.
+Dialogue: 0,0:02:02.11,0:02:05.47,Default - italics,Tatsumi,0000,0000,0000,,I'm going to fulfill that wish for you,
+Dialogue: 0,0:02:06.34,0:02:07.32,Default - italics,,0000,0000,0000,,Mine...
+Dialogue: 0,0:03:43.84,0:03:45.61,Title1a,,0000,0000,0000,,{\fad(425,1)}Kill the Little Sister
+Dialogue: 0,0:03:45.61,0:03:47.20,Title1b,,0000,0000,0000,,{\fad(1,807)}Kill the Little Sister
+Dialogue: 0,0:03:49.22,0:03:50.21,Default,Civilian A,0000,0000,0000,,Let go...
+Dialogue: 0,0:03:50.21,0:03:52.87,Default,Wave,0000,0000,0000,,If you keep resisting, I'll have you arrested!
+Dialogue: 0,0:03:53.72,0:03:54.93,Default,Civilian B,0000,0000,0000,,Don't make me laugh.
+Dialogue: 0,0:03:54.93,0:03:56.42,Default,Civilian B,0000,0000,0000,,This kingdom's done for.
+Dialogue: 0,0:03:56.75,0:03:57.97,Default,Soldier,0000,0000,0000,,What did you say, you bastard?
+Dialogue: 0,0:03:57.97,0:03:58.71,Default,Wave,0000,0000,0000,,Stop!
+Dialogue: 0,0:04:01.05,0:04:02.39,Default,Wave,0000,0000,0000,,Damn it!
+Dialogue: 0,0:04:02.39,0:04:04.81,Default,Wave,0000,0000,0000,,How long are we supposed to keep this up?
+Dialogue: 0,0:04:05.19,0:04:08.29,Default,Ran,0000,0000,0000,,This kingdom will not last much longer.
+Dialogue: 0,0:04:08.93,0:04:12.97,Default,Wave,0000,0000,0000,,Most of the civilians we're supposed to \Nprotect side with the rebel army.
+Dialogue: 0,0:04:12.97,0:04:15.45,Default,Wave,0000,0000,0000,,Are we, the Jaegers, really okay with this?!
+Dialogue: 0,0:04:15.82,0:04:17.20,Default,Ran,0000,0000,0000,,Please calm down.
+Dialogue: 0,0:04:18.29,0:04:21.01,Default,Ran,0000,0000,0000,,This chaos will, most likely, \Ncontinue past the revolution.
+Dialogue: 0,0:04:21.86,0:04:24.67,Default,Ran,0000,0000,0000,,We will be needed then.
+Dialogue: 0,0:04:24.67,0:04:27.66,Default,Wave,0000,0000,0000,,You talk as though you knew all this would happen.
+Dialogue: 0,0:04:28.35,0:04:30.58,Default,Ran,0000,0000,0000,,It occurred faster than I'd predicted, though.
+Dialogue: 0,0:04:30.82,0:04:31.53,Default,Wave,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:31.93,0:04:34.15,Default,Ran,0000,0000,0000,,I hoped for revolution,
+Dialogue: 0,0:04:34.15,0:04:36.36,Default,Ran,0000,0000,0000,,and joined the Jaegers in order to change
+Dialogue: 0,0:04:36.36,0:04:38.25,Default,,0000,0000,0000,,this kingdom from the inside.
+Dialogue: 0,0:04:38.82,0:04:40.59,Default,Wave,0000,0000,0000,,Change the kingdom?
+Dialogue: 0,0:04:40.59,0:04:42.55,Default,Ran,0000,0000,0000,,This kingdom is rotten.
+Dialogue: 0,0:04:43.05,0:04:46.00,Default,Ran,0000,0000,0000,,However, rebelling like those out \Nthere would have been foolish.
+Dialogue: 0,0:04:46.43,0:04:49.05,Default,Wave,0000,0000,0000,,That's why you joined Esdeath's special forces.
+Dialogue: 0,0:04:49.05,0:04:49.92,Default,Ran,0000,0000,0000,,That's right.
+Dialogue: 0,0:04:50.60,0:04:52.22,Default,,0000,0000,0000,,She's quite the interesting specimen.
+Dialogue: 0,0:04:52.88,0:04:54.31,Default,Wave,0000,0000,0000,,You're pretty odd.
+Dialogue: 0,0:04:54.86,0:04:56.02,Default,Ran,0000,0000,0000,,I'm often told that.
+Dialogue: 0,0:04:56.71,0:05:00.45,Default,Ran,0000,0000,0000,,Being here, I became so comfortable,
+Dialogue: 0,0:05:00.45,0:05:02.30,Default,Ran,0000,0000,0000,,I nearly forgot my true objective.
+Dialogue: 0,0:05:08.70,0:05:11.33,Default,Ran,0000,0000,0000,,And as for you, what will you do?
+Dialogue: 0,0:05:11.92,0:05:13.45,Default,Ran,0000,0000,0000,,You don't have much time left.
+Dialogue: 0,0:05:14.56,0:05:17.63,Default,Wave,0000,0000,0000,,Y-You knew about Kurome's condition?
+Dialogue: 0,0:05:17.97,0:05:19.81,Default,Ran,0000,0000,0000,,Don't be so surprised.
+Dialogue: 0,0:05:20.49,0:05:22.99,Default,Ran,0000,0000,0000,,Your attitude and behavior gave it away.
+Dialogue: 0,0:05:25.94,0:05:29.01,Default,Ran,0000,0000,0000,,If you leave now, you won't have to worry \Nabout capture or punishment.
+Dialogue: 0,0:05:29.01,0:05:30.49,Default,Ran,0000,0000,0000,,You can be free.
+Dialogue: 0,0:05:31.21,0:05:32.25,Default,Kurome,0000,0000,0000,,Freedom...
+Dialogue: 0,0:05:32.70,0:05:33.39,Default,Ran,0000,0000,0000,,That's right.
+Dialogue: 0,0:05:34.26,0:05:36.81,Default,Kurome,0000,0000,0000,,Freedom isn't what I desire.
+Dialogue: 0,0:05:37.73,0:05:40.44,Default,Kurome,0000,0000,0000,,There's only one thing I want...
+Dialogue: 0,0:05:45.22,0:05:47.99,Default,Esdeath,0000,0000,0000,,This is, indeed, how a battle should be.
+Dialogue: 0,0:05:47.99,0:05:51.14,Default,Esdeath,0000,0000,0000,,If you're discontent with your situation,
+Dialogue: 0,0:05:51.14,0:05:53.99,Default,Esdeath,0000,0000,0000,,show me how strong you are by defeating me.
+Dialogue: 0,0:05:53.99,0:05:56.00,Default,Soldier,0000,0000,0000,,Say your prayers, Esdeath.
+Dialogue: 0,0:05:56.00,0:05:58.37,Default,Soldier,0000,0000,0000,,If we defeat you, this will all end!
+Dialogue: 0,0:06:00.00,0:06:01.56,Default,Esdeath,0000,0000,0000,,An Imperial Arms user.
+Dialogue: 0,0:06:01.56,0:06:02.54,Default,Esdeath,0000,0000,0000,,How interesting!
+Dialogue: 0,0:06:12.11,0:06:14.68,Default,Esdeath,0000,0000,0000,,Is there no one who can overcome death?
+Dialogue: 0,0:06:16.28,0:06:17.80,Default - italics,Esdeath,0000,0000,0000,,Tatsumi survived.
+Dialogue: 0,0:06:18.25,0:06:20.38,Default - italics,Esdeath,0000,0000,0000,,He managed to escape \Ndeath in that dire situation.
+Dialogue: 0,0:06:20.76,0:06:23.48,Default - italics,Esdeath,0000,0000,0000,,As I thought, we are destined for each other.
+Dialogue: 0,0:06:25.93,0:06:27.10,Default - italics,Esdeath,0000,0000,0000,,Wait for me.
+Dialogue: 0,0:06:27.55,0:06:30.53,Default - italics,Esdeath,0000,0000,0000,,After I take care of the grunts, \NI'll be coming for you.
+Dialogue: 0,0:06:30.89,0:06:33.70,Default,Soldier,0000,0000,0000,,Shisuikan and Bench Fortress have both fallen.
+Dialogue: 0,0:06:33.70,0:06:36.82,Default,Officer B,0000,0000,0000,,The capital's almost completely surrounded.
+Dialogue: 0,0:06:36.82,0:06:38.49,Default,Officer B,0000,0000,0000,,What is Esdeath doing?
+Dialogue: 0,0:06:38.49,0:06:40.40,Default,Officer C,0000,0000,0000,,If she's attacked on all sides,
+Dialogue: 0,0:06:40.40,0:06:43.32,Default,,0000,0000,0000,,even General Esdeath wouldn't be able to...
+Dialogue: 0,0:06:43.87,0:06:44.96,Default,Officer A,0000,0000,0000,,Your Excellency!
+Dialogue: 0,0:06:45.88,0:06:47.51,Default,Emperor,0000,0000,0000,,Because of me,
+Dialogue: 0,0:06:47.51,0:06:49.88,Default,Emperor,0000,0000,0000,,the kingdom is going to be destroyed...
+Dialogue: 0,0:06:50.45,0:06:52.18,Default,Emperor,0000,0000,0000,,Have I been wrong this whole time?
+Dialogue: 0,0:06:52.18,0:06:55.55,Default,Onest,0000,0000,0000,,You haven't been wrong, Your Excellency.
+Dialogue: 0,0:06:55.55,0:06:56.93,Default,Emperor,0000,0000,0000,,O-Onest...
+Dialogue: 0,0:06:57.55,0:06:59.89,Default,Onest,0000,0000,0000,,Not a single person is reliable.
+Dialogue: 0,0:07:00.86,0:07:02.77,Default,Onest,0000,0000,0000,,Everyone is far too flustered.
+Dialogue: 0,0:07:03.68,0:07:08.13,Default,Onest,0000,0000,0000,,I am painfully aware of how you \Nare feeling, Your Excellency.
+Dialogue: 0,0:07:08.57,0:07:10.74,Default,Onest,0000,0000,0000,,The citizens are being foolish.
+Dialogue: 0,0:07:10.74,0:07:15.32,Default,Onest,0000,0000,0000,,They don't understand what it's like \Nto protect an entire kingdom.
+Dialogue: 0,0:07:15.80,0:07:18.55,Default,Emperor,0000,0000,0000,,I can't believe my people would rebel.
+Dialogue: 0,0:07:18.55,0:07:19.91,Default,Emperor,0000,0000,0000,,What am I supposed to do?
+Dialogue: 0,0:07:20.82,0:07:25.17,Default,Onest,0000,0000,0000,,Your Excellency, at times, \Nan emperor must be cruel.
+Dialogue: 0,0:07:25.78,0:07:29.21,Default,Onest,0000,0000,0000,,Now is the time to demonstrate your authority.
+Dialogue: 0,0:07:29.98,0:07:31.55,Default,Onest,0000,0000,0000,,It's time to prepare!
+Dialogue: 0,0:07:34.85,0:07:37.68,Default - italics,Onest,0000,0000,0000,,The emperor's true strength...
+Dialogue: 0,0:07:42.92,0:07:45.08,Default,Kurome,0000,0000,0000,,It's almost over for me.
+Dialogue: 0,0:07:45.84,0:07:46.87,Default,Kurome,0000,0000,0000,,So...
+Dialogue: 0,0:07:47.43,0:07:50.28,Default,,0000,0000,0000,,Let's settle this once and for all, Sis.
+Dialogue: 0,0:07:52.34,0:07:54.37,Default,Citizen 1,0000,0000,0000,,They say he was a Revolutionary Army spy.
+Dialogue: 0,0:07:54.86,0:07:56.59,Default,Citizen 2,0000,0000,0000,,Is this meant to be a warning?
+Dialogue: 0,0:07:56.59,0:07:57.95,Default,Tatsumi,0000,0000,0000,,How cruel...
+Dialogue: 0,0:08:01.92,0:08:03.26,Default,Akame,0000,0000,0000,,It's a code.
+Dialogue: 0,0:08:04.41,0:08:05.44,Default,Tatsumi,0000,0000,0000,,A code?
+Dialogue: 0,0:08:06.08,0:08:07.89,Default,Akame,0000,0000,0000,,It's for me.
+Dialogue: 0,0:08:08.57,0:08:09.38,Default,Tatsumi,0000,0000,0000,,What did you say?
+Dialogue: 0,0:08:10.54,0:08:13.30,Default,Akame,0000,0000,0000,,"I will be waiting for you near \Nthe Kadai Forest facility."
+Dialogue: 0,0:08:14.08,0:08:16.18,Default,Tatsumi,0000,0000,0000,,Don't be stupid... You know it's a trap!
+Dialogue: 0,0:08:16.91,0:08:19.80,Default,Akame,0000,0000,0000,,At this point in time, there'd be \Nno reason to single me out.
+Dialogue: 0,0:08:20.42,0:08:21.76,Default,Akame,0000,0000,0000,,This is personal.
+Dialogue: 0,0:08:22.39,0:08:24.10,Default,Tatsumi,0000,0000,0000,,Personal? Who?
+Dialogue: 0,0:08:25.38,0:08:27.36,Default,Akame,0000,0000,0000,,Kurome wants to settle things for good.
+Dialogue: 0,0:08:29.09,0:08:33.21,Default,Tatsumi,0000,0000,0000,,Is it important that you two see this through?
+Dialogue: 0,0:08:34.68,0:08:38.56,Default,Tatsumi,0000,0000,0000,,Right now, many people are \Npinning their hopes on us.
+Dialogue: 0,0:08:38.99,0:08:41.34,Default,Tatsumi,0000,0000,0000,,Despite that, is this something you must do?
+Dialogue: 0,0:08:41.89,0:08:43.81,Default,Akame,0000,0000,0000,,It's especially because we're their last hope.
+Dialogue: 0,0:08:44.41,0:08:47.49,Default,Akame,0000,0000,0000,,I have to respect Kurome's wishes.
+Dialogue: 0,0:08:47.88,0:08:49.04,Default,Tatsumi,0000,0000,0000,,Even if she's the enemy?
+Dialogue: 0,0:08:49.46,0:08:50.34,Default,Akame,0000,0000,0000,,She's my sister.
+Dialogue: 0,0:08:52.26,0:08:55.12,Default,Akame,0000,0000,0000,,I'm the only one who can understand and accept
+Dialogue: 0,0:08:55.94,0:08:57.30,Default,,0000,0000,0000,,her wishes.
+Dialogue: 0,0:08:59.47,0:09:02.16,Default,Tatsumi,0000,0000,0000,,I understand. I'm coming with you.
+Dialogue: 0,0:09:02.16,0:09:03.45,Default,Akame,0000,0000,0000,,No, you're not.
+Dialogue: 0,0:09:03.45,0:09:06.52,Default,Akame,0000,0000,0000,,Your strength will be \Nneeded in the final battle.
+Dialogue: 0,0:09:07.12,0:09:08.54,Default,Akame,0000,0000,0000,,You must fulfill your mission.
+Dialogue: 0,0:09:08.54,0:09:09.56,Default,Tatsumi,0000,0000,0000,,Then...
+Dialogue: 0,0:09:09.56,0:09:11.43,Default,Tatsumi,0000,0000,0000,,Promise that you'll come back alive.
+Dialogue: 0,0:09:12.67,0:09:13.66,Default,Akame,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:09:14.08,0:09:16.16,Default,Tatsumi,0000,0000,0000,,You've always said those words to me.
+Dialogue: 0,0:09:16.52,0:09:18.03,Default,Tatsumi,0000,0000,0000,,Don't make me the only one to promise!
+Dialogue: 0,0:09:20.31,0:09:21.48,Default,Akame,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:22.52,0:09:23.58,Default,,0000,0000,0000,,It's a promise.
+Dialogue: 0,0:09:54.42,0:09:57.63,Default,Kurome,0000,0000,0000,,I knew you'd come, Sis.
+Dialogue: 0,0:10:00.75,0:10:02.08,Default,Akame,0000,0000,0000,,Kurome...
+Dialogue: 0,0:10:03.74,0:10:04.87,Default,Kurome,0000,0000,0000,,Do you want any?
+Dialogue: 0,0:10:17.69,0:10:21.22,Default,Kurome,0000,0000,0000,,In the past, we were reunited in this place.
+Dialogue: 0,0:10:22.13,0:10:26.18,Default,Kurome,0000,0000,0000,,And this is also where you betrayed us.
+Dialogue: 0,0:10:27.30,0:10:30.81,Default,Kurome,0000,0000,0000,,I can't think of a place more \Nfitting for me to kill you.
+Dialogue: 0,0:10:31.49,0:10:33.05,Default,Kurome,0000,0000,0000,,It's nostalgic...
+Dialogue: 0,0:10:33.92,0:10:37.15,Default,Kurome,0000,0000,0000,,You've always protected me.
+Dialogue: 0,0:10:38.61,0:10:40.44,Default,Akame,0000,0000,0000,,As children who had no relatives,
+Dialogue: 0,0:10:41.14,0:10:43.46,Default,Akame,0000,0000,0000,,we didn't belong anywhere but here.
+Dialogue: 0,0:10:45.03,0:10:47.57,Default,Akame,0000,0000,0000,,Raised as assassins for the empire,
+Dialogue: 0,0:10:48.09,0:10:50.47,Default,Akame,0000,0000,0000,,we were tasked with upholding public order
+Dialogue: 0,0:10:50.47,0:10:52.78,Default,Akame,0000,0000,0000,,by stopping any potential insurgency.
+Dialogue: 0,0:10:53.40,0:10:55.92,Default,Akame,0000,0000,0000,,That's what we were told \Nand how we were raised.
+Dialogue: 0,0:10:57.09,0:10:59.07,Default,Akame,0000,0000,0000,,We obeyed our orders,
+Dialogue: 0,0:10:59.07,0:11:01.89,Default,,0000,0000,0000,,killing those who'd wronged the empire.
+Dialogue: 0,0:11:04.76,0:11:07.62,Default,Akame,0000,0000,0000,,Because we believed it was the right thing to do.
+Dialogue: 0,0:11:10.39,0:11:11.62,Default - flashback,Kurome,0000,0000,0000,,Sis!
+Dialogue: 0,0:11:13.58,0:11:14.37,Default - flashback,Akame,0000,0000,0000,,Kurome...
+Dialogue: 0,0:11:15.01,0:11:16.38,Default - flashback,Kurome,0000,0000,0000,,Sis...
+Dialogue: 0,0:11:19.13,0:11:24.28,Default,Akame,0000,0000,0000,,We were finally reunited after being \Ntrained in separate divisions,
+Dialogue: 0,0:11:24.88,0:11:27.72,Default,Akame,0000,0000,0000,,simply because we needed to \Nreplace our fallen comrades.
+Dialogue: 0,0:11:29.76,0:11:33.16,Default,Kurome,0000,0000,0000,,After that, we were always together.
+Dialogue: 0,0:11:33.16,0:11:36.04,Default,Kurome,0000,0000,0000,,Almost as if we were reliving our childhood.
+Dialogue: 0,0:11:36.96,0:11:40.04,Default,Kurome,0000,0000,0000,,We were the best squad of assassins.
+Dialogue: 0,0:11:40.56,0:11:43.00,Default,Kurome,0000,0000,0000,,Some missions were painful.
+Dialogue: 0,0:11:43.00,0:11:45.10,Default,Kurome,0000,0000,0000,,But because we were together, we managed.
+Dialogue: 0,0:11:45.40,0:11:48.47,Default,Kurome,0000,0000,0000,,As long as I was with you, I was happy.
+Dialogue: 0,0:11:48.47,0:11:49.60,Default,Kurome,0000,0000,0000,,But you...
+Dialogue: 0,0:11:50.49,0:11:51.35,Default,Kurome,0000,0000,0000,,But you...
+Dialogue: 0,0:11:52.36,0:11:53.48,Default,Kurome,0000,0000,0000,,But you...
+Dialogue: 0,0:11:57.65,0:12:01.36,Default,Kurome,0000,0000,0000,,You betrayed the empire and joined Night Raid.
+Dialogue: 0,0:12:01.92,0:12:03.21,Default,Kurome,0000,0000,0000,,Why?
+Dialogue: 0,0:12:03.21,0:12:04.79,Default,Kurome,0000,0000,0000,,I tried to stop you.
+Dialogue: 0,0:12:09.32,0:12:12.60,Default,Kurome,0000,0000,0000,,After you left me, I was miserable.
+Dialogue: 0,0:12:13.04,0:12:14.79,Default,Kurome,0000,0000,0000,,I thought about you every day.
+Dialogue: 0,0:12:14.79,0:12:16.75,Default,Kurome,0000,0000,0000,,About how I was going to kill you.
+Dialogue: 0,0:12:17.51,0:12:19.34,Default,Akame,0000,0000,0000,,If you kill me, will you find peace?
+Dialogue: 0,0:12:19.73,0:12:21.63,Default,Kurome,0000,0000,0000,,There is no peace.
+Dialogue: 0,0:12:21.63,0:12:26.56,Default,Kurome,0000,0000,0000,,I just want to be the one that \Ndoes it, so you'll belong to me.
+Dialogue: 0,0:12:30.30,0:12:33.56,Default,Akame,0000,0000,0000,,Using your Imperial Arms takes an \Nenormous amount of energy.
+Dialogue: 0,0:12:33.98,0:12:35.97,Default,Akame,0000,0000,0000,,It's agonizing, isn't it?
+Dialogue: 0,0:12:36.57,0:12:37.82,Default,Akame,0000,0000,0000,,I'll help you feel better.
+Dialogue: 0,0:12:39.75,0:12:41.39,Default,Kurome,0000,0000,0000,,Let's kill each other,
+Dialogue: 0,0:12:41.91,0:12:43.23,Default,Kurome,0000,0000,0000,,Sis.
+Dialogue: 0,0:12:44.15,0:12:46.99,snacks,,0000,0000,0000,,{\fad(864,1)}Kurome's Snacks
+Dialogue: 0,0:12:45.69,0:12:46.99,Default,Wave,0000,0000,0000,,Kurome...
+Dialogue: 0,0:12:48.15,0:12:50.24,Default,Ran,0000,0000,0000,,She went out, didn't she?
+Dialogue: 0,0:12:50.91,0:12:53.55,Default,Ran,0000,0000,0000,,To sort everything out for herself.
+Dialogue: 0,0:12:54.42,0:12:57.00,Default,Wave,0000,0000,0000,,Why would she do that \Nwithout letting any of us know?
+Dialogue: 0,0:12:57.42,0:12:59.80,Default,Ran,0000,0000,0000,,Because if she'd told you, \Nyou'd have stopped her.
+Dialogue: 0,0:13:02.33,0:13:04.33,Default,Wave,0000,0000,0000,,Do you have any idea what location she'd choose?
+Dialogue: 0,0:13:04.72,0:13:06.72,Default,Wave,0000,0000,0000,,A place that's special to them?
+Dialogue: 0,0:13:29.12,0:13:31.25,Default,Kurome,0000,0000,0000,,Why did you betray our squad?
+Dialogue: 0,0:13:31.57,0:13:34.86,Default,Kurome,0000,0000,0000,,We could've stayed together!
+Dialogue: 0,0:13:34.86,0:13:37.32,Default,Akame,0000,0000,0000,,I started to realize that what we were doing
+Dialogue: 0,0:13:37.32,0:13:39.04,Default,,0000,0000,0000,,wasn't to keep the peace.
+Dialogue: 0,0:13:39.04,0:13:40.00,Default,Akame,0000,0000,0000,,It was all a lie.
+Dialogue: 0,0:13:41.04,0:13:43.10,Default,Akame,0000,0000,0000,,We were a special unit dedicated
+Dialogue: 0,0:13:43.10,0:13:45.86,Default,,0000,0000,0000,,to executing any orders from the capital.
+Dialogue: 0,0:13:46.34,0:13:50.01,Default,Akame,0000,0000,0000,,If the current empire continues to exist, \Nthe citizens are doomed to suffer.
+Dialogue: 0,0:13:50.37,0:13:52.64,Default,Akame,0000,0000,0000,,That's why I tried to get you to escape with me.
+Dialogue: 0,0:13:52.64,0:13:54.40,Default,Kurome,0000,0000,0000,,There's no way I could simply escape.
+Dialogue: 0,0:13:54.40,0:13:57.52,Default,Kurome,0000,0000,0000,,I can't betray our comrades, \Nwho gave their lives for the mission!
+Dialogue: 0,0:13:57.84,0:14:00.25,Default,Akame,0000,0000,0000,,The people who run the empire are \Nthe source of everyone's misery.
+Dialogue: 0,0:14:00.25,0:14:03.07,Default,Akame,0000,0000,0000,,If eliminating them will help the citizens,
+Dialogue: 0,0:14:03.07,0:14:04.86,Default,Akame,0000,0000,0000,,our comrades that passed would understand.
+Dialogue: 0,0:14:04.86,0:14:06.57,Default,Kurome,0000,0000,0000,,That's a convenient argument, Sis!
+Dialogue: 0,0:14:23.16,0:14:24.49,Default,Kurome,0000,0000,0000,,A Danger Beast?
+Dialogue: 0,0:14:24.49,0:14:28.62,Default,Akame,0000,0000,0000,,The clash of our battle must've awakened him.
+Dialogue: 0,0:14:31.55,0:14:32.44,Default,Akame,0000,0000,0000,,Kurome!
+Dialogue: 0,0:14:36.40,0:14:37.51,Default,Kurome,0000,0000,0000,,Natala!
+Dialogue: 0,0:14:40.39,0:14:42.61,Default,Kurome,0000,0000,0000,,How dare you do that to my friend?!
+Dialogue: 0,0:14:43.62,0:14:44.19,Default,Kurome,0000,0000,0000,,Doya!
+Dialogue: 0,0:14:50.64,0:14:51.72,Default,Kurome,0000,0000,0000,,Doya!
+Dialogue: 0,0:14:53.21,0:14:54.69,Default,Kurome,0000,0000,0000,,Even Doya...
+Dialogue: 0,0:14:54.69,0:14:57.41,Default,Kurome,0000,0000,0000,,I'll never let you into my collection!
+Dialogue: 0,0:15:07.77,0:15:09.71,Default,Akame,0000,0000,0000,,Are you all right, Kurome?
+Dialogue: 0,0:15:10.32,0:15:11.39,Default,Kurome,0000,0000,0000,,Sis...
+Dialogue: 0,0:15:14.27,0:15:14.89,Default,Akame,0000,0000,0000,,Let's do it.
+Dialogue: 0,0:15:36.03,0:15:36.91,Default,Akame,0000,0000,0000,,Eliminate!
+Dialogue: 0,0:15:49.11,0:15:51.53,Default,Kurome,0000,0000,0000,,As expected of you and me.
+Dialogue: 0,0:15:52.26,0:15:55.27,Default,Kurome,0000,0000,0000,,We always made the best team.
+Dialogue: 0,0:15:55.83,0:15:58.10,Default,Kurome,0000,0000,0000,,Isn't that right, Sis?
+Dialogue: 0,0:16:08.60,0:16:09.74,Default,Kurome,0000,0000,0000,,Come forth!
+Dialogue: 0,0:16:23.81,0:16:26.00,Default,Kurome,0000,0000,0000,,Random puppets won't do...
+Dialogue: 0,0:16:26.40,0:16:27.42,Default,Akame,0000,0000,0000,,This is
+Dialogue: 0,0:16:28.13,0:16:29.15,Default,Akame,0000,0000,0000,,the end!
+Dialogue: 0,0:16:35.24,0:16:37.64,Default,Wave,0000,0000,0000,,I won't let you hurt Kurome.
+Dialogue: 0,0:16:37.64,0:16:38.63,Default,Kurome,0000,0000,0000,,Wave?
+Dialogue: 0,0:16:38.63,0:16:41.06,Default,Wave,0000,0000,0000,,Night Raid, I am your opponent!
+Dialogue: 0,0:16:43.46,0:16:44.30,Default,Akame,0000,0000,0000,,Tatsumi?
+Dialogue: 0,0:16:47.16,0:16:48.46,Default,Wave,0000,0000,0000,,Get out of the way, Tatsumi!
+Dialogue: 0,0:16:48.46,0:16:50.11,Default,Kurome,0000,0000,0000,,Don't interrupt us!
+Dialogue: 0,0:16:50.90,0:16:54.68,Default,Wave,0000,0000,0000,,Kurome, I can't just abandon my comrades.
+Dialogue: 0,0:16:54.68,0:16:56.90,Default,Kurome,0000,0000,0000,,This doesn't make me happy at all...
+Dialogue: 0,0:16:56.90,0:16:58.20,Default,Wave,0000,0000,0000,,Kurome...
+Dialogue: 0,0:16:58.20,0:16:59.27,Default,Akame,0000,0000,0000,,Tatsumi,
+Dialogue: 0,0:16:59.27,0:17:00.46,Default,Akame,0000,0000,0000,,why did you come?
+Dialogue: 0,0:17:00.46,0:17:03.00,Default,Tatsumi,0000,0000,0000,,To make sure no one interferes with your duel.
+Dialogue: 0,0:17:06.02,0:17:08.59,Default,Wave,0000,0000,0000,,Tatsumi, I don't have time to deal with—
+Dialogue: 0,0:17:08.59,0:17:10.11,Default,Tatsumi,0000,0000,0000,,I want to stop them, too.
+Dialogue: 0,0:17:10.11,0:17:13.17,Default,Tatsumi,0000,0000,0000,,But then they'll never overcome their past!
+Dialogue: 0,0:17:13.43,0:17:16.28,Default,Wave,0000,0000,0000,,Is that the answer you've \Ngotten from Night Raid?
+Dialogue: 0,0:17:16.28,0:17:18.55,Default,Wave,0000,0000,0000,,I can't allow this battle to occur!
+Dialogue: 0,0:17:18.75,0:17:20.51,Default,Tatsumi,0000,0000,0000,,Everyone has their own reasons.
+Dialogue: 0,0:17:20.51,0:17:23.68,Default,Tatsumi,0000,0000,0000,,Sometimes, you must settle it without others' help
+Dialogue: 0,0:17:23.68,0:17:25.14,Default,Tatsumi,0000,0000,0000,,or there's no way forward!
+Dialogue: 0,0:17:29.84,0:17:31.80,Default,Kurome,0000,0000,0000,,Their own reasons...
+Dialogue: 0,0:17:38.65,0:17:39.70,Default,Wave,0000,0000,0000,,I...
+Dialogue: 0,0:17:42.39,0:17:43.45,Default,Kurome,0000,0000,0000,,Wave...
+Dialogue: 0,0:17:47.93,0:17:49.80,Default,Kurome,0000,0000,0000,,Thank you for coming.
+Dialogue: 0,0:17:50.65,0:17:54.13,Default,Kurome,0000,0000,0000,,I wish we could've been \Ncloser in a different situation.
+Dialogue: 0,0:17:58.02,0:17:59.18,Default,Wave,0000,0000,0000,,Kurome...
+Dialogue: 0,0:17:59.73,0:18:03.56,Default,Kurome,0000,0000,0000,,I need this to deal with my \Nregret from back then.
+Dialogue: 0,0:18:04.82,0:18:06.82,Default,Kurome,0000,0000,0000,,So I can finally move on.
+Dialogue: 0,0:18:07.54,0:18:09.70,Default,Kurome,0000,0000,0000,,Let's do this, Sis.
+Dialogue: 0,0:18:18.93,0:18:21.85,Default,Akame,0000,0000,0000,,Kurome... My little sister...
+Dialogue: 0,0:18:23.60,0:18:27.39,Default,Kurome,0000,0000,0000,,That's right. I love you, Sis.
+Dialogue: 0,0:19:19.02,0:19:21.93,Default,Wave,0000,0000,0000,,It couldn't be any other way?
+Dialogue: 0,0:19:25.61,0:19:29.31,Default,Wave,0000,0000,0000,,I couldn't do anything for Kurome...
+Dialogue: 0,0:19:30.53,0:19:32.83,Default,Akame,0000,0000,0000,,You came for her.
+Dialogue: 0,0:19:34.11,0:19:35.32,Default,Akame,0000,0000,0000,,That's plenty.
+Dialogue: 0,0:19:40.04,0:19:41.25,Default,Wave,0000,0000,0000,,Damn it.
+Dialogue: 0,0:19:42.06,0:19:43.48,Default,,0000,0000,0000,,Damn it...
+Dialogue: 0,0:19:44.15,0:19:45.94,Default,Wave,0000,0000,0000,,Damn it!
+Dialogue: 0,0:19:52.39,0:19:53.64,Default,Wave,0000,0000,0000,,Night Raid...
+Dialogue: 0,0:19:54.65,0:19:56.99,Default,Wave,0000,0000,0000,,What are we fighting for?
+Dialogue: 0,0:19:57.69,0:20:00.93,Default,Akame,0000,0000,0000,,If you can't answer that for yourself, \Nyou've no business with a weapon.
+Dialogue: 0,0:20:02.01,0:20:06.55,Default,Akame,0000,0000,0000,,Only those who've committed themselves \Nhave the right to wield a sword.
+Dialogue: 0,0:20:07.29,0:20:08.31,Default,Wave,0000,0000,0000,,Committed?
+Dialogue: 0,0:20:09.13,0:20:11.06,Default,Akame,0000,0000,0000,,Committed to keep carrying on.
+Dialogue: 0,0:20:27.51,0:20:28.47,Default,Tatsumi,0000,0000,0000,,Akame!
+Dialogue: 0,0:20:29.92,0:20:31.53,Default,Akame,0000,0000,0000,,I told you not to come.
+Dialogue: 0,0:20:32.54,0:20:34.00,Default,Tatsumi,0000,0000,0000,,Not to fight.
+Dialogue: 0,0:20:34.42,0:20:38.00,Default,,0000,0000,0000,,But I'm just here to pick up a wounded comrade.
+Dialogue: 0,0:20:42.45,0:20:45.30,Default,Tatsumi,0000,0000,0000,,I've lost a lot that's important to me.
+Dialogue: 0,0:20:46.22,0:20:47.64,Default,Tatsumi,0000,0000,0000,,But you...
+Dialogue: 0,0:20:47.64,0:20:50.72,Default,Tatsumi,0000,0000,0000,,You've borne more than I can \Nimagine on your shoulders,
+Dialogue: 0,0:20:50.72,0:20:52.81,Default,,0000,0000,0000,,this whole time.
+Dialogue: 0,0:20:55.00,0:20:55.91,Default,Tatsumi,0000,0000,0000,,Akame,
+Dialogue: 0,0:20:56.42,0:20:59.48,Default,Tatsumi,0000,0000,0000,,we're done losing things that are precious to us.
+Dialogue: 0,0:21:27.34,0:21:29.78,Default,Onest,0000,0000,0000,,What impressive determination.
+Dialogue: 0,0:21:29.78,0:21:32.47,Default,Onest,0000,0000,0000,,Your wisdom is a testament to your greatness.
+Dialogue: 0,0:21:32.47,0:21:38.48,Default,Onest,0000,0000,0000,,Now is the time to unleash the capital's \Nsupreme Imperial Arms.
+Dialogue: 0,0:21:38.97,0:21:43.42,Default,Onest,0000,0000,0000,,You must show the foolish \Nrebels and foolish citizens
+Dialogue: 0,0:21:43.42,0:21:46.01,Default,Onest,0000,0000,0000,,the emperor's true power.
+Dialogue: 0,0:21:46.71,0:21:48.49,Default,Emperor,0000,0000,0000,,I am the Emperor.
+Dialogue: 0,0:21:49.66,0:21:53.56,Default,Emperor,0000,0000,0000,,I must protect the kingdom with my power.
+Dialogue: 0,0:23:33.99,0:23:40.98,Title2,,0000,0000,0000,,{\fad(322,1)}Kill the Emperor
+Dialogue: 0,0:23:42.61,0:23:44.61,Title2,,0000,0000,0000,,
+Dialogue: 0,0:23:44.61,0:23:46.61,Title2,,0000,0000,0000,,

@@ -1,0 +1,367 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,33,&H00AE24D7,&H000000FF,&H00EFD0E6,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.73,0:00:04.36,Default,husband,0000,0000,0000,,Lately, I've heard that
+Dialogue: 0,0:00:04.36,0:00:07.61,Default,husband,0000,0000,0000,,the new breed of Danger Beasts have \Nbeen appearing around here quite often.
+Dialogue: 0,0:00:08.26,0:00:11.56,Default,husband,0000,0000,0000,,Make sure you don't go out alone.
+Dialogue: 0,0:00:11.56,0:00:13.82,Default,wife,0000,0000,0000,,Yes, I know.
+Dialogue: 0,0:00:14.45,0:00:15.03,Default,husband,0000,0000,0000,,Wha—
+Dialogue: 0,0:00:29.35,0:00:31.80,Default,wife,0000,0000,0000,,No... Please don't...
+Dialogue: 0,0:02:06.75,0:02:08.69,Title1a,title,0000,0000,0000,,{\fad(585,1)}Kill the Nuisances
+Dialogue: 0,0:02:06.89,0:02:08.62,Default,emp,0000,0000,0000,,Due to the Jaegers,
+Dialogue: 0,0:02:08.62,0:02:11.52,Default,,0000,0000,0000,,most of the rebels around the \Ncapital have been purged.
+Dialogue: 0,0:02:08.69,0:02:10.15,Title1b,title,0000,0000,0000,,{\fad(1,688)}Kill the Nuisances
+Dialogue: 0,0:02:12.08,0:02:14.64,Default,emp,0000,0000,0000,,Perhaps it's because they cower in your presence,
+Dialogue: 0,0:02:14.64,0:02:16.99,Default,emp,0000,0000,0000,,but Night Raid has also stayed hidden.
+Dialogue: 0,0:02:17.47,0:02:19.21,Default,emp,0000,0000,0000,,Splendid.
+Dialogue: 0,0:02:19.21,0:02:20.26,Default,esd,0000,0000,0000,,Yes, my lord.
+Dialogue: 0,0:02:20.26,0:02:23.24,Default,,0000,0000,0000,,As soon as Night Raid shows themselves, \Nwe shall take care of them swiftly.
+Dialogue: 0,0:02:23.42,0:02:24.32,Default,emp,0000,0000,0000,,Very well.
+Dialogue: 0,0:02:24.32,0:02:26.39,Default,emp,0000,0000,0000,,That's fine and all,
+Dialogue: 0,0:02:26.39,0:02:29.73,Default,,0000,0000,0000,,but we can't seem to find a guy \Nwho meets all your standards.
+Dialogue: 0,0:02:30.13,0:02:33.00,Default,emp,0000,0000,0000,,If you don't like the minister, \Nthen how about his son?
+Dialogue: 0,0:02:33.33,0:02:35.21,Default,emp,0000,0000,0000,,He has a really promising future.
+Dialogue: 0,0:02:35.51,0:02:36.64,Default,esd,0000,0000,0000,,My lord,
+Dialogue: 0,0:02:36.64,0:02:40.34,Default,esd,0000,0000,0000,,as previously reported, I have \Nfound someone on my own.
+Dialogue: 0,0:02:40.69,0:02:41.72,Default,esd,0000,0000,0000,,There's no need to worry.
+Dialogue: 0,0:02:41.95,0:02:45.06,Default,emp,0000,0000,0000,,But he disappeared, right?
+Dialogue: 0,0:02:45.06,0:02:47.06,Default,,0000,0000,0000,,Then you guys can't fall in love.
+Dialogue: 0,0:02:47.86,0:02:50.05,Default,esd,0000,0000,0000,,I am passionate about getting him back.
+Dialogue: 0,0:02:50.87,0:02:52.44,Default,,0000,0000,0000,,I believe that is a part of love.
+Dialogue: 0,0:02:54.39,0:02:55.58,Default,emp,0000,0000,0000,,That's deep!
+Dialogue: 0,0:02:56.05,0:02:58.28,Default,onest,0000,0000,0000,,I don't think that's actually deep.
+Dialogue: 0,0:02:59.54,0:03:02.29,Default,onest,0000,0000,0000,,Seems like the emperor been\N affected by you, as well,
+Dialogue: 0,0:03:02.29,0:03:04.97,Default,,0000,0000,0000,,and has become interested in love himself.
+Dialogue: 0,0:03:04.97,0:03:06.64,Default,onest,0000,0000,0000,,A few more years, and I'll give him women,
+Dialogue: 0,0:03:06.64,0:03:10.30,Default,,0000,0000,0000,,alcohol, and the most delicious foods, \Nsending him into depravity.
+Dialogue: 0,0:03:13.68,0:03:18.21,Default,onest,0000,0000,0000,,I'll ensure he makes many sweet memories.
+Dialogue: 0,0:03:19.08,0:03:21.09,Default,esd,0000,0000,0000,,Don't let him get any adult diseases.
+Dialogue: 0,0:03:21.58,0:03:25.00,Default,onest,0000,0000,0000,,So, I have another request for you, General.
+Dialogue: 0,0:03:25.49,0:03:26.39,Default,esd,0000,0000,0000,,Speak.
+Dialogue: 0,0:03:27.96,0:03:31.69,Default,onest,0000,0000,0000,,The new kind of Danger Beast that's \Nappeared around the capital...
+Dialogue: 0,0:03:31.69,0:03:33.73,Default,onest,0000,0000,0000,,I'd like you to capture and suppress them.
+Dialogue: 0,0:03:34.14,0:03:35.29,Default,esd,0000,0000,0000,,Ah, that.
+Dialogue: 0,0:03:36.03,0:03:38.44,Default,,0000,0000,0000,,I've been looking into that matter myself.
+Dialogue: 0,0:03:39.51,0:03:43.74,Default,esd,0000,0000,0000,,At first, they appeared in dense forests and mines...
+Dialogue: 0,0:03:43.74,0:03:44.97,Default,esd,0000,0000,0000,,But the other day,
+Dialogue: 0,0:03:44.97,0:03:47.21,Default,,0000,0000,0000,,they evidently forced their way into \Na house and attacked the owners.
+Dialogue: 0,0:03:47.21,0:03:48.45,Default,,0000,0000,0000,,Then ate them.
+Dialogue: 0,0:03:48.45,0:03:50.02,Default,onest,0000,0000,0000,,Exactly.
+Dialogue: 0,0:03:50.02,0:03:53.95,Default,onest,0000,0000,0000,,I heard they resemble humans pretty closely.
+Dialogue: 0,0:03:53.95,0:03:57.09,Default,,0000,0000,0000,,Don't you think they sound like amusing toys?
+Dialogue: 0,0:03:58.23,0:04:02.35,Default,onest,0000,0000,0000,,Commander-in-Chief Budou has \Ngiven the order to crush them,
+Dialogue: 0,0:04:02.35,0:04:04.51,Default,onest,0000,0000,0000,,but I'd definitely like to study them.
+Dialogue: 0,0:04:04.92,0:04:06.26,Default,esd,0000,0000,0000,,Very well.
+Dialogue: 0,0:04:06.99,0:04:09.85,Default,,0000,0000,0000,,I heard they were ferocious Danger \NBeasts, so I wanted to hunt them.
+Dialogue: 0,0:04:10.61,0:04:12.79,Default,esd,0000,0000,0000,,I'll bring back two or three alive.
+Dialogue: 0,0:04:13.40,0:04:17.11,Default,esd,0000,0000,0000,,Send the reward to the troops I left up north.
+Dialogue: 0,0:04:17.51,0:04:21.30,Default,onest,0000,0000,0000,,I see you're kind to your subordinates, as usual.
+Dialogue: 0,0:04:23.16,0:04:27.26,Default,esd,0000,0000,0000,,The more devoted, the more likely soldiers \Nare to risk their lives to fight for me.
+Dialogue: 0,0:04:27.78,0:04:32.75,Default,esd,0000,0000,0000,,That's one of the reasons my army is so powerful.
+Dialogue: 0,0:04:34.96,0:04:36.33,Default,onest,0000,0000,0000,,How promising...
+Dialogue: 0,0:04:36.81,0:04:39.52,Default,,0000,0000,0000,,Make sure you bring back a lively one.
+Dialogue: 0,0:04:41.05,0:04:44.05,Default,man 2,0000,0000,0000,,Let's hurry up and enter the \Ncapital while it's still light.
+Dialogue: 0,0:04:44.05,0:04:45.34,Default,man 1,0000,0000,0000,,I know.
+Dialogue: 0,0:04:45.34,0:04:47.89,Default,,0000,0000,0000,,Let's get the hell out of this dangerous area.
+Dialogue: 0,0:04:51.27,0:04:52.60,Default,man 2,0000,0000,0000,,Th-There they are!
+Dialogue: 0,0:04:58.47,0:04:59.44,Default,bols,0000,0000,0000,,I made it in time.
+Dialogue: 0,0:05:02.20,0:05:04.86,Default,bols,0000,0000,0000,,This should finish you.
+Dialogue: 0,0:05:16.45,0:05:18.83,Default,bols,0000,0000,0000,,Everyone, there's nothing to fear anymore.
+Dialogue: 0,0:05:20.60,0:05:23.09,Default,bols,0000,0000,0000,,Um, I defeated the Danger Beasts, so...
+Dialogue: 0,0:05:23.88,0:05:27.21,Default,bols,0000,0000,0000,,You don't have to quiver in fear like that...
+Dialogue: 0,0:05:30.22,0:05:32.21,Default,seryu,0000,0000,0000,,It's all right now.
+Dialogue: 0,0:05:32.21,0:05:34.48,Default,,0000,0000,0000,,The flames of justice burned through evil!
+Dialogue: 0,0:05:36.46,0:05:38.86,Default,man 1,0000,0000,0000,,You must be soldiers from the capital.
+Dialogue: 0,0:05:38.86,0:05:39.81,Default,,0000,0000,0000,,We're saved...
+Dialogue: 0,0:05:40.71,0:05:42.97,Default,wave,0000,0000,0000,,Um... Well, you know...
+Dialogue: 0,0:05:43.69,0:05:45.15,Default,wave,0000,0000,0000,,Don't take it personally, Bols.
+Dialogue: 0,0:05:45.87,0:05:47.32,Default,bols,0000,0000,0000,,Those people...
+Dialogue: 0,0:05:48.65,0:05:51.28,Default,bols,0000,0000,0000,,seem to have calmed down! Thank goodness!
+Dialogue: 0,0:06:04.72,0:06:06.03,Default,esd,0000,0000,0000,,As planned,
+Dialogue: 0,0:06:07.28,0:06:10.01,Default,,0000,0000,0000,,those that ran away were frozen and \Nhave been successfully captured.
+Dialogue: 0,0:06:11.57,0:06:15.47,Default,esd,0000,0000,0000,,I see... This is definitely a type I've never seen.
+Dialogue: 0,0:06:21.09,0:06:22.20,Default,esd,0000,0000,0000,,Don't eat them.
+Dialogue: 0,0:06:26.86,0:06:29.45,Default,bols,0000,0000,0000,,Wave, Kurome... The tea's ready.
+Dialogue: 0,0:06:29.77,0:06:31.07,Default,kurome,0000,0000,0000,,Thanks.
+Dialogue: 0,0:06:31.07,0:06:33.12,Default,wave,0000,0000,0000,,Oh, thank you, as always.
+Dialogue: 0,0:06:33.12,0:06:35.91,Default,bols,0000,0000,0000,,No problem at all. \NI do this because I enjoy it.
+Dialogue: 0,0:06:38.62,0:06:39.96,Default,bols,0000,0000,0000,,What's the matter, Wave?
+Dialogue: 0,0:06:40.56,0:06:42.28,Default,wave,0000,0000,0000,,It just makes me angry.
+Dialogue: 0,0:06:42.62,0:06:44.55,Default,wave,0000,0000,0000,,You're a nice person, Bols.
+Dialogue: 0,0:06:44.98,0:06:47.92,Default,,0000,0000,0000,,And yet, those merchants you saved back there...
+Dialogue: 0,0:06:47.92,0:06:49.93,Default,wave,0000,0000,0000,,Everyone judges you by appearances!
+Dialogue: 0,0:06:50.29,0:06:51.91,Default,kurome,0000,0000,0000,,Like you can talk?
+Dialogue: 0,0:06:51.91,0:06:52.43,Default,wave,0000,0000,0000,,Eh?
+Dialogue: 0,0:06:54.80,0:06:55.81,Default,wave,0000,0000,0000,,That's right!
+Dialogue: 0,0:06:56.91,0:07:01.48,Default,bols,0000,0000,0000,,Wave, I've said this before, \Nbut I'm not a nice person.
+Dialogue: 0,0:07:02.98,0:07:05.10,Default,bols,0000,0000,0000,,I've burned and killed a whole village's population
+Dialogue: 0,0:07:05.10,0:07:07.34,Default,,0000,0000,0000,,because they were infected with a disease.
+Dialogue: 0,0:07:08.02,0:07:12.50,Default,bols,0000,0000,0000,,And even burned someone who was proclaiming \Ntheir innocence because I was ordered to.
+Dialogue: 0,0:07:14.60,0:07:15.74,Default,bols,0000,0000,0000,,So...
+Dialogue: 0,0:07:16.54,0:07:20.12,Default,,0000,0000,0000,,I'm hated by countless numbers of people.
+Dialogue: 0,0:07:20.12,0:07:23.14,Default,wave,0000,0000,0000,,But as a soldier, you were just ordered to...
+Dialogue: 0,0:07:23.14,0:07:26.88,Default,bols,0000,0000,0000,,I know that someone has to do it, and it's my job.
+Dialogue: 0,0:07:28.07,0:07:31.02,Default,bols,0000,0000,0000,,I believe getting that kind of \Nreaction from those I save
+Dialogue: 0,0:07:31.02,0:07:32.59,Default,,0000,0000,0000,,is my recompense.
+Dialogue: 0,0:07:33.00,0:07:35.79,Default,wave,0000,0000,0000,,Bols, that's too harsh!
+Dialogue: 0,0:07:35.79,0:07:38.00,Default,wave,0000,0000,0000,,If you want, I'd be more than happy to listen—
+Dialogue: 0,0:07:38.00,0:07:38.68,Default,kiji,0000,0000,0000,,Honey!
+Dialogue: 0,0:07:40.09,0:07:41.48,Default,rogue,0000,0000,0000,,Papa!
+Dialogue: 0,0:07:42.23,0:07:42.77,Default,bols,0000,0000,0000,,What's this?
+Dialogue: 0,0:07:43.76,0:07:45.47,Default,bols,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:07:45.47,0:07:49.57,Default,kijie,0000,0000,0000,,Well, you forgot the lunch we made together!
+Dialogue: 0,0:07:49.57,0:07:51.41,Default,bols,0000,0000,0000,,Oh, how could I?
+Dialogue: 0,0:07:51.41,0:07:53.79,Default,rogue,0000,0000,0000,,Papa, you're silly!
+Dialogue: 0,0:07:56.26,0:07:58.24,Default,kiji,0000,0000,0000,,Since your job is so demanding,
+Dialogue: 0,0:07:58.24,0:08:00.37,Default,,0000,0000,0000,,you need to be sure to keep up your strength.
+Dialogue: 0,0:08:01.12,0:08:03.71,Default,bols,0000,0000,0000,,Right! I'll be more careful.
+Dialogue: 0,0:08:04.04,0:08:06.17,Default,rogue,0000,0000,0000,,Papa, pick me up!
+Dialogue: 0,0:08:06.17,0:08:08.00,Default,bols,0000,0000,0000,,There, there. What a good girl.
+Dialogue: 0,0:08:09.99,0:08:11.68,Default,bols,0000,0000,0000,,Thank you, Wave.
+Dialogue: 0,0:08:13.28,0:08:17.58,Default,bols,0000,0000,0000,,My wife and daughter know everything I've done,
+Dialogue: 0,0:08:17.58,0:08:19.85,Default,,0000,0000,0000,,and they still cheer me on.
+Dialogue: 0,0:08:20.19,0:08:21.60,Default,bols,0000,0000,0000,,That's why,
+Dialogue: 0,0:08:22.91,0:08:25.09,Default,,0000,0000,0000,,no matter how hard things are, I'm perfectly fine.
+Dialogue: 0,0:08:25.09,0:08:28.07,Default,wave,0000,0000,0000,,S-So bright... Is this love?
+Dialogue: 0,0:08:28.73,0:08:32.00,Default,wave,0000,0000,0000,,Or rather, I'm useless again.
+Dialogue: 0,0:08:35.01,0:08:36.68,Default,kiji,0000,0000,0000,,Oh, you...
+Dialogue: 0,0:08:55.18,0:08:58.01,Default,susa,0000,0000,0000,,Don't merely use your entire body.
+Dialogue: 0,0:09:09.92,0:09:11.67,Default,susa,0000,0000,0000,,No matter how sturdy something appears,
+Dialogue: 0,0:09:11.67,0:09:14.03,Default,,0000,0000,0000,,it should have some weakness.
+Dialogue: 0,0:09:14.79,0:09:16.03,Default,tatsu,0000,0000,0000,,Wow...
+Dialogue: 0,0:09:17.43,0:09:20.84,Default,susa,0000,0000,0000,,If you can discover that in battle, \Nit'll be very effective.
+Dialogue: 0,0:09:21.32,0:09:22.04,Default,tatsu,0000,0000,0000,,True.
+Dialogue: 0,0:09:23.03,0:09:27.11,Default,tatsu,0000,0000,0000,,But I wonder if I'll be able to find \Nsomeone's weakness while fighting.
+Dialogue: 0,0:09:27.59,0:09:29.97,Default,susa,0000,0000,0000,,If I'm unable to, it bothers me.
+Dialogue: 0,0:09:30.51,0:09:32.55,Default,tatsu,0000,0000,0000,,You must be a natural, Su.
+Dialogue: 0,0:09:32.97,0:09:36.44,Default,susa,0000,0000,0000,,Of course. I'm an Imperial Arms, \Nmade to look after my master.
+Dialogue: 0,0:09:37.09,0:09:39.76,Default,susa,0000,0000,0000,,I would never let a change in those \Nwho serve my master go unnoticed.
+Dialogue: 0,0:09:40.30,0:09:43.84,Default,tatsu,0000,0000,0000,,I understand. But it's really reassuring.
+Dialogue: 0,0:09:43.84,0:09:49.40,Default,tatsu,0000,0000,0000,,With you around, I think we won't have \Nto lose another one of us eight!
+Dialogue: 0,0:09:50.09,0:09:51.73,Default,susa,0000,0000,0000,,I'm an Imperial Arms.
+Dialogue: 0,0:09:51.73,0:09:54.21,Default,,0000,0000,0000,,You do not have to count me as a person.
+Dialogue: 0,0:09:54.21,0:09:55.81,Default,tatsu,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:09:55.81,0:09:57.53,Default,tatsu,0000,0000,0000,,You're definitely one of us!
+Dialogue: 0,0:09:58.80,0:10:01.33,Default,susa,0000,0000,0000,,One of you, huh?
+Dialogue: 0,0:10:02.61,0:10:04.61,Default,susa,0000,0000,0000,,I don't really understand.
+Dialogue: 0,0:10:05.17,0:10:07.18,Default,susa,0000,0000,0000,,To be one of you means to \Nfight alongside you, right?
+Dialogue: 0,0:10:07.18,0:10:11.34,Default,tatsu,0000,0000,0000,,Eh? Well, yeah, but...
+Dialogue: 0,0:10:13.16,0:10:15.67,Default,tatsu,0000,0000,0000,,We also help each other out.
+Dialogue: 0,0:10:15.96,0:10:16.55,Default,tatsu,0000,0000,0000,,I know!
+Dialogue: 0,0:10:17.03,0:10:19.10,Default,tatsu,0000,0000,0000,,Su, you're really good-looking,
+Dialogue: 0,0:10:19.10,0:10:22.97,Default,,0000,0000,0000,,so you should help Lubba and me \Nwhen we go look for hot chicks.
+Dialogue: 0,0:10:24.29,0:10:25.39,Default,susa,0000,0000,0000,,I don't really understand, but...
+Dialogue: 0,0:10:26.90,0:10:30.89,Default,susa,0000,0000,0000,,If that is what you wish, I shall \Ndo whatever I can to help.
+Dialogue: 0,0:10:30.89,0:10:31.81,Default,tatsu,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:32.42,0:10:34.14,Default,akame,0000,0000,0000,,Su! Tatsumi!
+Dialogue: 0,0:10:36.11,0:10:38.78,Default,akame,0000,0000,0000,,We got an emergency summons. Hurry back.
+Dialogue: 0,0:10:39.76,0:10:41.62,Default,tatsu,0000,0000,0000,,Emergency? Why?
+Dialogue: 0,0:10:41.62,0:10:44.23,Default,akame,0000,0000,0000,,Evidently, Danger Beasts have \Nappeared around the capital,
+Dialogue: 0,0:10:44.23,0:10:45.66,Default,,0000,0000,0000,,causing a lot of trouble.
+Dialogue: 0,0:10:46.36,0:10:50.12,Default,akame,0000,0000,0000,,We're to eradicate them, while we \Nhead to our new hideout.
+Dialogue: 0,0:10:52.04,0:10:53.24,Default,tatsu,0000,0000,0000,,The capital, huh?
+Dialogue: 0,0:11:00.99,0:11:02.01,Default,tatsu,0000,0000,0000,,You know...
+Dialogue: 0,0:11:02.70,0:11:05.51,Default,tatsu,0000,0000,0000,,This doesn't really feel like a new hideout.
+Dialogue: 0,0:11:06.10,0:11:08.98,Default,akame,0000,0000,0000,,If you think about how hard it is to \Nfind, and how easy it is to flee,
+Dialogue: 0,0:11:08.98,0:11:11.27,Default,akame,0000,0000,0000,,of course it seems like our old hideout.
+Dialogue: 0,0:11:11.61,0:11:14.39,Default,mine,0000,0000,0000,,Well, it's nice to have a hot spring again.
+Dialogue: 0,0:11:14.88,0:11:17.43,Default,leone,0000,0000,0000,,When we're done with work, \Nlet's have a drink there.
+Dialogue: 0,0:11:17.43,0:11:18.61,Default,chels,0000,0000,0000,,Sounds good!
+Dialogue: 0,0:11:18.93,0:11:21.29,Default,lubb,0000,0000,0000,,Miss Najenda,
+Dialogue: 0,0:11:21.29,0:11:24.17,Default,lubb,0000,0000,0000,,I've finished erecting a barrier around the base.
+Dialogue: 0,0:11:24.17,0:11:24.97,Default,najen,0000,0000,0000,,Good.
+Dialogue: 0,0:11:25.48,0:11:28.04,Default,susa,0000,0000,0000,,I've finished digging an emergency \Nescape tunnel, as well.
+Dialogue: 0,0:11:28.04,0:11:30.71,Default,najen,0000,0000,0000,,Oh, that was fast. Well done, Susanoo.
+Dialogue: 0,0:11:33.50,0:11:35.36,Default,lubb,0000,0000,0000,,Don't think you've won just yet.
+Dialogue: 0,0:11:36.36,0:11:37.88,Default,susa,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:11:40.99,0:11:42.75,Default,najen,0000,0000,0000,,I know we just got here,
+Dialogue: 0,0:11:42.75,0:11:45.76,Default,najen,0000,0000,0000,,but our enemy this time is the new Danger Beast.
+Dialogue: 0,0:11:46.57,0:11:51.64,Default,najen,0000,0000,0000,,They tend to act in packs, and seem \Nto possess some intelligence.
+Dialogue: 0,0:11:52.30,0:11:54.69,Default,najen,0000,0000,0000,,Physically, they are quite strong,
+Dialogue: 0,0:11:54.69,0:11:58.27,Default,,0000,0000,0000,,and most of the fighters who have \Nchallenged them have lost.
+Dialogue: 0,0:11:58.74,0:12:00.85,Default,najen,0000,0000,0000,,People and livestock around the
+Dialogue: 0,0:12:00.85,0:12:05.16,Default,,0000,0000,0000,,dense forests and mines south of \Nthe capital have been attacked.
+Dialogue: 0,0:12:06.12,0:12:10.28,Default,najen,0000,0000,0000,,Apparently, the Jaegers and the capital soldiers \Nhave been exterminating them daily.
+Dialogue: 0,0:12:10.28,0:12:13.79,Default,najen,0000,0000,0000,,But their numbers aren't dropping, \Nand casualties have become great.
+Dialogue: 0,0:12:14.11,0:12:16.67,Default,mine,0000,0000,0000,,Considering the trouble the capital \Nseems to be having with this,
+Dialogue: 0,0:12:16.67,0:12:17.88,Default,,0000,0000,0000,,it doesn't seem to be a trap.
+Dialogue: 0,0:12:20.15,0:12:23.76,Default,najen,0000,0000,0000,,Simply put, we're going to end \Nup helping the capital.
+Dialogue: 0,0:12:24.38,0:12:25.14,Default,najen,0000,0000,0000,,Got it?
+Dialogue: 0,0:12:25.80,0:12:27.28,Default,tatsu,0000,0000,0000,,Of course!
+Dialogue: 0,0:12:27.28,0:12:29.32,Default,tatsu,0000,0000,0000,,This time, it can't be helped.
+Dialogue: 0,0:12:29.32,0:12:32.64,Default,akame,0000,0000,0000,,Considering what we just heard, \Nthey should be taken care of at once.
+Dialogue: 0,0:12:34.93,0:12:38.15,Default,leone,0000,0000,0000,,But I'd like to avoid bumping \Nheads with the soldiers.
+Dialogue: 0,0:12:39.87,0:12:42.01,Default,najen,0000,0000,0000,,We are Night Raid.
+Dialogue: 0,0:12:42.01,0:12:44.57,Default,najen,0000,0000,0000,,We can simply move at night, \Nwhen the capital's side rests.
+Dialogue: 0,0:12:44.90,0:12:46.27,Default,leone,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:12:48.18,0:12:51.45,Default,chel,0000,0000,0000,,Putting ourselves in danger and \Nexterminating some monsters...
+Dialogue: 0,0:12:52.07,0:12:55.27,Default,chel,0000,0000,0000,,We should just leave this to the Jaegers.
+Dialogue: 0,0:12:55.27,0:12:57.79,Default,,0000,0000,0000,,You guys really are naïve.
+Dialogue: 0,0:12:59.91,0:13:01.50,Default,tatsu,0000,0000,0000,,I understand what you're saying.
+Dialogue: 0,0:13:02.67,0:13:06.55,Default,tatsu,0000,0000,0000,,But even now, those things might\N be attacking more people.
+Dialogue: 0,0:13:06.96,0:13:10.69,Default,tatsu,0000,0000,0000,,We're assassins, but I believe \Nwe're on the people's side!
+Dialogue: 0,0:13:11.20,0:13:14.37,Default,tatsu,0000,0000,0000,,I want to annihilate them as soon as possible, \Nso we can save even more people!
+Dialogue: 0,0:13:15.51,0:13:17.79,Default,chel,0000,0000,0000,,Well, I thought you'd say that.
+Dialogue: 0,0:13:18.20,0:13:19.57,Default,,0000,0000,0000,,Got it, got it.
+Dialogue: 0,0:13:23.31,0:13:24.68,Default,susa,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:13:24.68,0:13:27.22,Default,susa,0000,0000,0000,,There's one thing I'd like to say to you.
+Dialogue: 0,0:13:28.01,0:13:29.06,Default,tatsu,0000,0000,0000,,Su?
+Dialogue: 0,0:13:29.83,0:13:33.45,Default,susa,0000,0000,0000,,Your fly is down! It's bothering me, \Nso please close it.
+Dialogue: 0,0:13:39.17,0:13:41.58,Default,leone,0000,0000,0000,,And you almost looked cool! How lame!
+Dialogue: 0,0:13:41.58,0:13:43.51,Default,lubb,0000,0000,0000,,Hey, how do you feel right now?
+Dialogue: 0,0:13:43.51,0:13:44.51,Default,lubb,0000,0000,0000,,Well?
+Dialogue: 0,0:13:44.51,0:13:45.80,Default,mine,0000,0000,0000,,That's what you get for trying to act cool.
+Dialogue: 0,0:13:46.04,0:13:47.35,Default,tatsu,0000,0000,0000,,Shut up!
+Dialogue: 0,0:13:47.35,0:13:48.85,Default,akame,0000,0000,0000,,I'm sorry, Tatsumi.
+Dialogue: 0,0:13:50.89,0:13:53.79,Default,akame,0000,0000,0000,,I noticed it, but I thought it was \Nsome sort of fashion statement.
+Dialogue: 0,0:13:53.79,0:13:56.69,Default,tatsu,0000,0000,0000,,I'm not someone that free and open!
+Dialogue: 0,0:13:58.64,0:14:00.80,Default,akame,0000,0000,0000,,From now on, I'll be more careful, \Nand take a look now and then.
+Dialogue: 0,0:14:01.15,0:14:03.32,Default,tatsu,0000,0000,0000,,No, please don't!
+Dialogue: 0,0:14:03.78,0:14:07.20,Default,lubb,0000,0000,0000,,"We're on the people's side." \NAnd your fly was totally down.
+Dialogue: 0,0:14:07.20,0:14:08.45,Default,tatsu,0000,0000,0000,,Don't make me take you down, Lubba!
+Dialogue: 0,0:14:08.45,0:14:10.05,Default,leone,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:14:10.05,0:14:12.73,Default,,0000,0000,0000,,Your fly was open for the people's sake, right?
+Dialogue: 0,0:14:12.73,0:14:13.83,Default,tatsu,0000,0000,0000,,Sis, not you, too!
+Dialogue: 0,0:14:14.42,0:14:16.56,Default,najen,0000,0000,0000,,This is how we are.
+Dialogue: 0,0:14:17.12,0:14:18.96,Default,,0000,0000,0000,,I apologize for any trouble we cause you, Chelsea.
+Dialogue: 0,0:14:19.37,0:14:22.84,Default,chel,0000,0000,0000,,That's fine and all, but I'm worried.
+Dialogue: 0,0:14:22.84,0:14:25.88,Default,,0000,0000,0000,,From what I saw in Sheele and Bulat's records,
+Dialogue: 0,0:14:26.53,0:14:30.95,Default,chel,0000,0000,0000,,that kindness seems like it \Nwill take Tatsumi's life.
+Dialogue: 0,0:14:37.46,0:14:40.20,Default,esd,0000,0000,0000,,Run, I'll tell you this...
+Dialogue: 0,0:14:40.20,0:14:44.15,Default,esd,0000,0000,0000,,According to the minister's findings, \Nthose Danger Beasts were once human.
+Dialogue: 0,0:14:44.38,0:14:45.69,Default,run,0000,0000,0000,,As I suspected.
+Dialogue: 0,0:14:46.60,0:14:49.50,Default,run,0000,0000,0000,,I thought their physical appearance was quite similar.
+Dialogue: 0,0:14:49.89,0:14:51.81,Default,esd,0000,0000,0000,,Turning humans into Danger Beasts...
+Dialogue: 0,0:14:52.45,0:14:55.24,Default,esd,0000,0000,0000,,The only one who'd be able to do \Nthat is an Imperial Arms user.
+Dialogue: 0,0:14:55.88,0:15:00.32,Default,run,0000,0000,0000,,Those Danger Beasts may have been \Nthe Doctor's experiments.
+Dialogue: 0,0:15:01.25,0:15:05.88,Default,run,0000,0000,0000,,Right after he disappeared, they started to appear.
+Dialogue: 0,0:15:06.37,0:15:07.51,Default,esd,0000,0000,0000,,Have you any other proof?
+Dialogue: 0,0:15:08.15,0:15:12.75,Default,run,0000,0000,0000,,When we examined his lab, it looked pretty plain.
+Dialogue: 0,0:15:13.28,0:15:15.71,Default,run,0000,0000,0000,,He should have been doing all sorts of experiments,
+Dialogue: 0,0:15:15.71,0:15:17.52,Default,,0000,0000,0000,,but it was a bit quiet.
+Dialogue: 0,0:15:18.38,0:15:21.99,Default,esd,0000,0000,0000,,So he might have had a separate secret lab?
+Dialogue: 0,0:15:22.40,0:15:27.23,Default,run,0000,0000,0000,,Yes, perhaps those he was holding \Nthere escaped into the open.
+Dialogue: 0,0:15:27.79,0:15:32.31,Default,run,0000,0000,0000,,It could be someone totally unrelated \Nand their Imperial Arms,
+Dialogue: 0,0:15:32.31,0:15:34.62,Default,run,0000,0000,0000,,but that seems like too much coincidence.
+Dialogue: 0,0:15:35.26,0:15:37.85,Default,run,0000,0000,0000,,Meaning, it's possible it wasn't
+Dialogue: 0,0:15:37.85,0:15:40.86,Default,,0000,0000,0000,,that the Doctor was trying to find \NTatsumi and ran into the enemy,
+Dialogue: 0,0:15:40.86,0:15:45.27,Default,run,0000,0000,0000,,but that, after finding the enemy hideout, \Nhe tried to capture them as test subjects
+Dialogue: 0,0:15:45.27,0:15:47.54,Default,run,0000,0000,0000,,and was eliminated instead.
+Dialogue: 0,0:15:48.88,0:15:52.76,Default,esd,0000,0000,0000,,Apparently, that man might have been \Nmuch further gone than we thought.
+Dialogue: 0,0:15:53.89,0:15:57.11,Default,run,0000,0000,0000,,If those Danger Beasts are a product \Nof the Doctor's experiments,
+Dialogue: 0,0:15:57.11,0:15:58.80,Default,,0000,0000,0000,,their numbers should be limited.
+Dialogue: 0,0:15:59.43,0:16:01.75,Default,run,0000,0000,0000,,So this problem should resolve itself eventually.
+Dialogue: 0,0:16:02.77,0:16:05.01,Default,esd,0000,0000,0000,,That doesn't end this problem.
+Dialogue: 0,0:16:05.91,0:16:09.63,Default,esd,0000,0000,0000,,Did those things escape on their own?
+Dialogue: 0,0:16:10.11,0:16:12.53,Default,esd,0000,0000,0000,,Or did someone release them?
+Dialogue: 0,0:16:14.93,0:16:15.95,Default,run,0000,0000,0000,,I understand.
+Dialogue: 0,0:16:16.39,0:16:19.50,Default,,0000,0000,0000,,I shall look into various things \Nregarding this matter.
+Dialogue: 0,0:16:19.88,0:16:21.14,Default,esd,0000,0000,0000,,I'm counting on you.
+Dialogue: 0,0:16:21.61,0:16:23.54,Default,,0000,0000,0000,,This could be a deep-rooted problem.
+Dialogue: 0,0:16:25.01,0:16:29.36,Default,run,0000,0000,0000,,But it's rather rare for you to be admiring flowers.
+Dialogue: 0,0:16:30.90,0:16:31.81,Default,esd,0000,0000,0000,,Right...
+Dialogue: 0,0:16:33.00,0:16:37.42,Default,esd,0000,0000,0000,,If you rub these flowers into wounds, \Nit causes intense pain.
+Dialogue: 0,0:16:38.04,0:16:40.52,Default,esd,0000,0000,0000,,They're great for light torture.
+Dialogue: 0,0:16:43.85,0:16:45.31,Default,run,0000,0000,0000,,I shall keep that in mind.
+Dialogue: 0,0:16:47.16,0:16:50.11,Default,seryu,0000,0000,0000,,You evildoers that threaten the lives \Nof those who live around the capital!
+Dialogue: 0,0:16:50.11,0:16:51.11,Default,seryu,0000,0000,0000,,Coro, number one!
+Dialogue: 0,0:16:53.90,0:16:56.52,Default - italics,seryu,0000,0000,0000,,Shinko's Ball of Justice!
+Dialogue: 0,0:16:58.48,0:17:00.79,Default,seryu,0000,0000,0000,,Coro, eat the weakened evil!
+Dialogue: 0,0:17:06.60,0:17:09.50,Default - italics,Shura,0000,0000,0000,,So those are the Jaegers I've been hearing about.
+Dialogue: 0,0:17:10.25,0:17:12.88,Default - italics,shura,0000,0000,0000,,I see, they're rather strong.
+Dialogue: 0,0:17:10.38,0:17:12.88,Default,seryu,0000,0000,0000,,There, there. Are you full now?
+Dialogue: 0,0:17:14.68,0:17:18.55,Default - italics,shura,0000,0000,0000,,I'll have you play with my toys a while longer.
+Dialogue: 0,0:17:22.79,0:17:25.36,Default,lubba,0000,0000,0000,,I'm paired with a guy?
+Dialogue: 0,0:17:25.36,0:17:27.81,Default,tatsu,0000,0000,0000,,You don't have to sound so depressed about it.
+Dialogue: 0,0:17:28.05,0:17:31.30,Default,lubba,0000,0000,0000,,There aren't any capital soldiers \Nhiding out here, are there?
+Dialogue: 0,0:17:31.30,0:17:32.94,Default,tatsu,0000,0000,0000,,You don't have to be so freaked out.
+Dialogue: 0,0:17:34.07,0:17:35.07,Default,lubba,0000,0000,0000,,You know...
+Dialogue: 0,0:17:35.24,0:17:39.24,Default,lubba,0000,0000,0000,,Cowardice is extremely important \Nfor an assassin's survival.
+Dialogue: 0,0:17:39.24,0:17:42.87,Default,lubba,0000,0000,0000,,Miss Najenda said that, too. Don't forget it.
+Dialogue: 0,0:17:45.68,0:17:48.46,Default,tatsu,0000,0000,0000,,By the way, I was thinking \Nabout this earlier, but...
+Dialogue: 0,0:17:49.84,0:17:50.91,Default,lubba,0000,0000,0000,,What?
+Dialogue: 0,0:17:50.91,0:17:55.16,Default,tatsu,0000,0000,0000,,You call the boss "Miss Najenda."
+Dialogue: 0,0:17:57.89,0:18:00.64,Default,lubba,0000,0000,0000,,Well... Well, you know...
+Dialogue: 0,0:18:01.55,0:18:06.02,Default,lubba,0000,0000,0000,,We've known each other since \Nshe was in the Imperial Army.
+Dialogue: 0,0:18:08.94,0:18:12.77,Default,lubba,0000,0000,0000,,Out in the country, I was the fourth \Nson of a wealthy merchant.
+Dialogue: 0,0:18:13.30,0:18:14.78,Default,lubba,0000,0000,0000,,Ever since I was a kid,
+Dialogue: 0,0:18:14.78,0:18:18.31,Default,,0000,0000,0000,,I had whatever I wanted, and could \Ndo effectively anything.
+Dialogue: 0,0:18:18.31,0:18:20.57,Default,,0000,0000,0000,,So I was rather bored with the world.
+Dialogue: 0,0:18:20.98,0:18:23.02,Default,tatsu,0000,0000,0000,,Man, you're an ass.
+Dialogue: 0,0:18:23.02,0:18:25.16,Default,lubba,0000,0000,0000,,This is the sad part! Listen up!
+Dialogue: 0,0:18:26.64,0:18:31.14,Default,lubba,0000,0000,0000,,That was when Miss Najenda was \Nassigned to the city where I lived.
+Dialogue: 0,0:18:32.16,0:18:34.29,Default,lubba,0000,0000,0000,,It was love at first sight.
+Dialogue: 0,0:18:35.56,0:18:38.36,Default,lubba,0000,0000,0000,,So I enlisted as a soldier,
+Dialogue: 0,0:18:38.36,0:18:43.03,Default,,0000,0000,0000,,and used my skills to become one of \Nthe soldiers working beside her.
+Dialogue: 0,0:18:45.27,0:18:48.36,Default,tatsu,0000,0000,0000,,Then the reason that you're in Night Raid...
+Dialogue: 0,0:18:48.85,0:18:52.23,Default,lubba,0000,0000,0000,,You could say that it's my love for her.
+Dialogue: 0,0:18:53.60,0:18:55.29,Default,lubba,0000,0000,0000,,When I left the capital,
+Dialogue: 0,0:18:55.29,0:18:57.65,Default,,0000,0000,0000,,I made sure the records said I was dead.
+Dialogue: 0,0:18:58.87,0:19:01.45,Default,lubba,0000,0000,0000,,Isn't it tragic?
+Dialogue: 0,0:19:01.83,0:19:03.80,Default,lubba,0000,0000,0000,,And I'll never be rewarded...
+Dialogue: 0,0:19:04.25,0:19:07.33,Default,lubba,0000,0000,0000,,It's sad. Makes you cry, doesn't it?
+Dialogue: 0,0:19:08.86,0:19:09.90,Default,tatsu,0000,0000,0000,,Lubba...
+Dialogue: 0,0:19:11.38,0:19:14.28,Default,tatsu,0000,0000,0000,,First off, then don't try to peep \Nat other women in the bath!
+Dialogue: 0,0:19:14.28,0:19:15.16,Default,lubba,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:15.16,0:19:18.21,Default,lubba,0000,0000,0000,,Having someone you love is different \Nthan the need to look at cute girls!
+Dialogue: 0,0:19:18.21,0:19:19.40,Default,lubba,0000,0000,0000,,What the hell are you talking about?
+Dialogue: 0,0:19:19.40,0:19:21.89,Default,tatsu,0000,0000,0000,,That's why you'll never be rewarded!
+Dialogue: 0,0:19:22.57,0:19:25.16,Default,lubba,0000,0000,0000,,Just wait... One day, I'll make her fall for me.
+Dialogue: 0,0:19:25.16,0:19:27.85,Default,tatsu,0000,0000,0000,,And when that happens, I'll treat \Nyou to whatever you want.
+Dialogue: 0,0:19:29.17,0:19:32.18,Default,tatsu,0000,0000,0000,,But it doesn't look like any Danger \NBeasts are around here.
+Dialogue: 0,0:19:32.18,0:19:34.65,Default,tatsu,0000,0000,0000,,Maybe the ones in the mountains \Nhave all been hunted.
+Dialogue: 0,0:19:34.65,0:19:38.49,Default,lubba,0000,0000,0000,,I've got my wires laid out, but nothing's \Nbeen caught on them yet.
+Dialogue: 0,0:19:38.49,0:19:39.28,Default,tatsu,0000,0000,0000,,All right.
+Dialogue: 0,0:19:39.84,0:19:43.91,Default,,0000,0000,0000,,If it's safe over here, I'm gonna \Ngo take a look at the summit.
+Dialogue: 0,0:19:43.91,0:19:47.04,Default,lubba,0000,0000,0000,,If you spot something, run. \NWe'll attack together.
+Dialogue: 0,0:19:47.48,0:19:48.41,Default,tatsu,0000,0000,0000,,Got it.
+Dialogue: 0,0:19:57.91,0:20:02.01,Default - italics,tatsu,0000,0000,0000,,I don't see anything that resembles what \Nwe're seeking. Or anything alive.
+Dialogue: 0,0:20:08.24,0:20:10.14,Default,tatsu,0000,0000,0000,,I wonder if they're sleeping...
+Dialogue: 0,0:20:16.04,0:20:19.46,Default,esd,0000,0000,0000,,Despite being on night patrol,
+Dialogue: 0,0:20:19.46,0:20:23.51,Default,,0000,0000,0000,,I'm out here, taking a moonlit \Nstroll because it's pretty.
+Dialogue: 0,0:20:23.51,0:20:24.91,Default,esd,0000,0000,0000,,That isn't like me at all.
+Dialogue: 0,0:20:26.52,0:20:29.24,Default - italics,esd,0000,0000,0000,,The reason I've become this strange...
+Dialogue: 0,0:20:29.91,0:20:32.25,Default - italics,esd,0000,0000,0000,,It's all your fault, Tatsumi.
+Dialogue: 0,0:20:34.75,0:20:35.89,Default - italics,esd,0000,0000,0000,,Someone's shadow?
+Dialogue: 0,0:20:35.89,0:20:37.02,Default - italics,esd,0000,0000,0000,,A Danger Beast?
+Dialogue: 0,0:20:39.15,0:20:41.34,Default - italics,esd,0000,0000,0000,,If it is, it's rather unlucky.
+Dialogue: 0,0:20:41.34,0:20:44.87,Default - italics,esd,0000,0000,0000,,I was just in a rather bad mood.
+Dialogue: 0,0:20:46.96,0:20:48.22,Default,tatsu,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:20:51.75,0:20:53.44,Default,esd,0000,0000,0000,,You'll have to deal with me.
+Dialogue: 0,0:20:53.44,0:20:55.19,Default,,0000,0000,0000,,I'll test out my new torture method—
+Dialogue: 0,0:20:55.62,0:20:56.69,Default,esd,0000,0000,0000,,Eh?
+Dialogue: 0,0:20:57.76,0:20:58.97,Default,esd,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:21:00.63,0:21:02.85,Default - italics,tatsu,0000,0000,0000,,Wh-Why is Esdeath here?
+Dialogue: 0,0:21:02.85,0:21:03.74,Default - italics,tatsu,0000,0000,0000,,Is it coincidence?
+Dialogue: 0,0:21:03.74,0:21:06.91,Default - italics,,0000,0000,0000,,It isn't like I could have predicted that \Nshe'd suddenly fall from the sky!
+Dialogue: 0,0:21:07.52,0:21:10.23,Default - italics,tatsu,0000,0000,0000,,What should I do? What should I do? \NWhat should I do? What should I do?
+Dialogue: 0,0:21:15.36,0:21:17.46,Default - italics,tatsu,0000,0000,0000,,Now they come out?!
+Dialogue: 0,0:21:17.46,0:21:20.25,Default - italics,tatsu,0000,0000,0000,,Wait a sec. They look really strong.
+Dialogue: 0,0:21:20.25,0:21:21.80,Default - italics,,0000,0000,0000,,I could use them as a distraction and escape.
+Dialogue: 0,0:21:26.87,0:21:29.93,Default,tatsu,0000,0000,0000,,Apparently, that moment's passed, \Nand now I can't escape...
+Dialogue: 0,0:21:37.30,0:21:39.06,Default,esd,0000,0000,0000,,Don't get in my way.
+Dialogue: 0,0:21:41.64,0:21:42.99,Default,esd,0000,0000,0000,,So this isn't a dream...
+Dialogue: 0,0:21:43.41,0:21:46.77,Default,,0000,0000,0000,,I've been looking forward to the \Nday we'd be reunited, Tatsumi.
+Dialogue: 0,0:21:47.42,0:21:51.29,Default - italics,tatsu,0000,0000,0000,,Seriously, I wish it were a dream...
+Dialogue: 0,0:21:52.07,0:21:54.85,Default - italics,,0000,0000,0000,,Also, why not put that thing out of its misery?
+Dialogue: 0,0:23:34.49,0:23:40.98,Title2,sign,0000,0000,0000,,{\fad(341,1)}Kill the Giant Danger Beast
+Dialogue: 0,0:23:40.98,0:23:42.98,Title2,,0000,0000,0000,,

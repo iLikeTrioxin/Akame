@@ -1,0 +1,388 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,30,&H001C2119,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,240,53,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:09.77,0:00:10.69,Default,Tatsumi,0000,0000,0000,,Hey.
+Dialogue: 0,0:00:11.98,0:00:13.42,Default,Ieyasu,0000,0000,0000,,Tatsumi,
+Dialogue: 0,0:00:13.42,0:00:15.49,Default,Ieyasu,0000,0000,0000,,it's about time we got going.
+Dialogue: 0,0:00:15.49,0:00:17.43,Default,Sayo,0000,0000,0000,,We're going this way.
+Dialogue: 0,0:00:17.43,0:00:19.08,Default,Sayo,0000,0000,0000,,Tatsumi, you head back now.
+Dialogue: 0,0:00:19.08,0:00:20.71,Default,Tatsumi,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:00:20.71,0:00:22.26,Default,Tatsumi,0000,0000,0000,,We're supposed to be together—
+Dialogue: 0,0:00:22.26,0:00:25.34,Default,Ieyasu,0000,0000,0000,,You already made some new friends, didn't you?
+Dialogue: 0,0:00:25.34,0:00:27.88,Default,Sayo,0000,0000,0000,,You can't rely on us forever!
+Dialogue: 0,0:00:28.74,0:00:30.36,Default,Ieyasu,0000,0000,0000,,See ya, Tatsumi.
+Dialogue: 0,0:00:30.81,0:00:33.95,Default,Sayo,0000,0000,0000,,If there is a next life, we'll meet there.
+Dialogue: 0,0:00:33.95,0:00:35.74,Default,Tatsumi,0000,0000,0000,,W-Wait...
+Dialogue: 0,0:00:35.74,0:00:37.07,Default,Tatsumi,0000,0000,0000,,Wait a second!
+Dialogue: 0,0:00:37.07,0:00:38.19,Default,Tatsumi,0000,0000,0000,,Don't...
+Dialogue: 0,0:00:38.19,0:00:39.97,Default,Tatsumi,0000,0000,0000,,Don't leave me all alone!
+Dialogue: 0,0:00:53.35,0:00:55.51,Default,Tatsumi,0000,0000,0000,,What a painful dream...
+Dialogue: 0,0:00:59.21,0:01:00.99,Default,Tatsumi,0000,0000,0000,,And this one's asleep.
+Dialogue: 0,0:01:04.00,0:01:08.01,Default,Sheele,0000,0000,0000,,It seems Tatsumi will be training under me.
+Dialogue: 0,0:01:08.01,0:01:10.21,Default,Sheele,0000,0000,0000,,Let's do our best!
+Dialogue: 0,0:01:10.47,0:01:11.63,Default - italics,Tatsumi,0000,0000,0000,,An air-headed superior?
+Dialogue: 0,0:01:19.81,0:01:21.99,Default,Sheele,0000,0000,0000,,Good morning.
+Dialogue: 0,0:01:27.35,0:01:29.27,Default,Sheele,0000,0000,0000,,My glasses! My glasses!
+Dialogue: 0,0:01:32.72,0:01:34.54,Default,Sheele,0000,0000,0000,,Good morning.
+Dialogue: 0,0:03:04.95,0:03:08.88,SignA,Sign,0000,0000,0000,,Arranged by Akame
+Dialogue: 0,0:03:06.68,0:03:08.29,Title1a,Title,0000,0000,0000,,{\fad(423,1)}Kill the Dream
+Dialogue: 0,0:03:08.29,0:03:09.85,Title1b,Title,0000,0000,0000,,{\fad(1,745)}Kill the Dream
+Dialogue: 0,0:03:11.27,0:03:13.06,Default,Lubbok,0000,0000,0000,,Hmm...
+Dialogue: 0,0:03:14.62,0:03:17.64,Default,Lubbok,0000,0000,0000,,I wonder if it's really okay \Nto put Sheele in charge.
+Dialogue: 0,0:03:18.40,0:03:20.01,Default,Najenda,0000,0000,0000,,I'm sure it'll be fine.
+Dialogue: 0,0:03:20.01,0:03:22.18,Default,Najenda,0000,0000,0000,,Sheele will probably get along with Tatsumi.
+Dialogue: 0,0:03:22.49,0:03:23.91,Default,Lubbok,0000,0000,0000,,What makes you say that?
+Dialogue: 0,0:03:23.91,0:03:26.07,Default,Najenda,0000,0000,0000,,Tatsumi will take to an older trainer more.
+Dialogue: 0,0:03:26.07,0:03:27.07,Default,Leone,0000,0000,0000,,Right here!
+Dialogue: 0,0:03:27.07,0:03:29.38,Default,Leone,0000,0000,0000,,I called dibs on training him next.
+Dialogue: 0,0:03:29.38,0:03:31.32,Default,Najenda,0000,0000,0000,,See? Even this is a skill.
+Dialogue: 0,0:03:31.32,0:03:33.69,Default,Lubbok,0000,0000,0000,,What the hell? That's so unfair!
+Dialogue: 0,0:03:34.49,0:03:37.69,Default,Najenda,0000,0000,0000,,The more experienced the assassin, \Nthe better the kill.
+Dialogue: 0,0:03:39.28,0:03:40.30,Default,Najenda,0000,0000,0000,,How's that?
+Dialogue: 0,0:03:40.83,0:03:42.05,Default,Najenda,0000,0000,0000,,Wasn't that phrased well?
+Dialogue: 0,0:03:46.19,0:03:48.12,Default,Najenda,0000,0000,0000,,Perhaps not.
+Dialogue: 0,0:03:48.77,0:03:52.18,Default,Akame,0000,0000,0000,,Regarding lunch, I'm making \Nmabo tofu in a beef bowl.
+Dialogue: 0,0:03:52.18,0:03:52.94,Default,Akame,0000,0000,0000,,What do you think?
+Dialogue: 0,0:03:52.94,0:03:56.21,Default,Lubbok,0000,0000,0000,,Uh, shouldn't the tofu be by itself? \NAnd the beef bowl just a beef bowl?
+Dialogue: 0,0:03:56.21,0:03:57.61,Default,Both,0000,0000,0000,,Sounds great!
+Dialogue: 0,0:03:58.07,0:04:00.68,Default,Akame,0000,0000,0000,,And I was thinking of a fried chicken topping.
+Dialogue: 0,0:04:00.68,0:04:01.50,Default,Akame,0000,0000,0000,,Thoughts?
+Dialogue: 0,0:04:01.50,0:04:04.13,Default,Lubbok,0000,0000,0000,,Isn't that a bit heavy? \NThere's no need for more meat—
+Dialogue: 0,0:04:04.13,0:04:05.56,Default,Both,0000,0000,0000,,Sounds great!
+Dialogue: 0,0:04:05.56,0:04:08.51,Default,Lubbok,0000,0000,0000,,Night Raid women are carnivorous.
+Dialogue: 0,0:04:17.78,0:04:20.44,Default,Sheele,0000,0000,0000,,You did well to swim in that armor.
+Dialogue: 0,0:04:23.70,0:04:26.43,Default,Tatsumi,0000,0000,0000,,It's so heavy... This is hard.
+Dialogue: 0,0:04:26.43,0:04:30.68,Default,Sheele,0000,0000,0000,,It's an important discipline on the \Nassassin-training curriculum.
+Dialogue: 0,0:04:30.68,0:04:33.70,Default,Sheele,0000,0000,0000,,Since I don't have a specific job at the base,
+Dialogue: 0,0:04:33.70,0:04:35.74,Default,Sheele,0000,0000,0000,,I can concentrate on training you.
+Dialogue: 0,0:04:35.74,0:04:37.13,Default,Tatsumi,0000,0000,0000,,Why don't you have a job?
+Dialogue: 0,0:04:39.93,0:04:40.92,Default,Sheele,0000,0000,0000,,While cooking...
+Dialogue: 0,0:04:42.05,0:04:45.07,Default,Sheele,0000,0000,0000,,I burned the meat, and angered Akame.
+Dialogue: 0,0:04:45.07,0:04:45.84,Default - flashback,Akame,0000,0000,0000,,The meat...
+Dialogue: 0,0:04:46.66,0:04:51.31,Default,Sheele,0000,0000,0000,,While cleaning, I made a bigger mess, \Nand made more work for Bulat.
+Dialogue: 0,0:04:52.93,0:04:54.06,Default - flashback,Bulat,0000,0000,0000,,Don't worry about it!
+Dialogue: 0,0:04:55.13,0:04:59.52,Default,Sheele,0000,0000,0000,,While shopping, I mistook sugar for \Nsalt, and Leone laughed at me.
+Dialogue: 0,0:05:00.58,0:05:02.60,Default - flashback,Leone,0000,0000,0000,,And this amount is ridiculous!
+Dialogue: 0,0:05:03.80,0:05:05.03,Default,Sheele,0000,0000,0000,,While doing laundry...
+Dialogue: 0,0:05:06.57,0:05:10.07,Default,Sheele,0000,0000,0000,,I accidentally washed Mine with the laundry.
+Dialogue: 0,0:05:10.07,0:05:12.07,Default,Tatsumi,0000,0000,0000,,Uh, I don't mind that last one.
+Dialogue: 0,0:05:12.07,0:05:13.50,Default - italics,Tatsumi,0000,0000,0000,,In fact, good job.
+Dialogue: 0,0:05:14.12,0:05:15.62,Default,Tatsumi,0000,0000,0000,,By the way, Sheele...
+Dialogue: 0,0:05:16.47,0:05:19.86,Default,Tatsumi,0000,0000,0000,,When I first met everyone, you weren't \Nin that returning group, right?
+Dialogue: 0,0:05:21.58,0:05:22.75,Default,Sheele,0000,0000,0000,,Hmm...
+Dialogue: 0,0:05:22.75,0:05:25.75,Default,Sheele,0000,0000,0000,,I feel like there was a reason...
+Dialogue: 0,0:05:26.29,0:05:27.97,Default,Sheele,0000,0000,0000,,But I've forgotten.
+Dialogue: 0,0:05:28.39,0:05:29.63,Default,Tatsumi,0000,0000,0000,,Oh...
+Dialogue: 0,0:05:29.63,0:05:31.57,Default,Sheele,0000,0000,0000,,I'm sorry for being so—
+Dialogue: 0,0:05:32.35,0:05:33.85,Default,Sheele,0000,0000,0000,,My glasses, my glasses...
+Dialogue: 0,0:05:38.62,0:05:41.07,Default,Tatsumi,0000,0000,0000,,Why are you in this line of work, Sheele?
+Dialogue: 0,0:05:44.59,0:05:47.19,Default,Sheele,0000,0000,0000,,If I were to start from the beginning...
+Dialogue: 0,0:05:47.72,0:05:51.01,Default,Sheele,0000,0000,0000,,I grew up in the capital's downtown district.
+Dialogue: 0,0:05:57.72,0:06:01.16,Default,Sheele,0000,0000,0000,,Ever since childhood, I've been \Nclumsy and bad at everything.
+Dialogue: 0,0:06:01.16,0:06:04.89,Default,Sheele,0000,0000,0000,,In my life, I couldn't take pride in a single thing.
+Dialogue: 0,0:06:05.98,0:06:09.33,Default,Sheele,0000,0000,0000,,"She probably has a screw loose \Nin her head somewhere."
+Dialogue: 0,0:06:09.33,0:06:12.18,Default,Sheele,0000,0000,0000,,People often said things like that about me.
+Dialogue: 0,0:06:16.35,0:06:17.58,Default,Sheele,0000,0000,0000,,However...
+Dialogue: 0,0:06:20.42,0:06:24.69,Default,Sheele,0000,0000,0000,,There was someone who was kind to me.
+Dialogue: 0,0:06:25.55,0:06:27.82,Default,Sheele,0000,0000,0000,,She wouldn't make fun of me,
+Dialogue: 0,0:06:27.82,0:06:31.33,Default,Sheele,0000,0000,0000,,no matter what mistakes I made.
+Dialogue: 0,0:06:31.78,0:06:36.66,Default,Sheele,0000,0000,0000,,The time I spent with her was the \Nonly time I was truly happy.
+Dialogue: 0,0:06:37.57,0:06:38.96,Default,Sheele,0000,0000,0000,,Until that day...
+Dialogue: 0,0:06:41.72,0:06:44.38,Default,Sheele,0000,0000,0000,,I was with her, as usual, at her house.
+Dialogue: 0,0:06:45.67,0:06:47.89,Default,Sheele,0000,0000,0000,,A man appeared at the door.
+Dialogue: 0,0:06:49.02,0:06:51.39,Default,Sheele,0000,0000,0000,,It was my friend's former boyfriend.
+Dialogue: 0,0:06:51.76,0:06:53.80,Default,Sheele,0000,0000,0000,,He resented her for leaving him,
+Dialogue: 0,0:06:54.01,0:06:55.31,Default,Sheele,0000,0000,0000,,and began to get violent in the house.
+Dialogue: 0,0:06:55.70,0:06:58.48,Default,Sheele,0000,0000,0000,,Eventually, he grabbed her neck \Nand started to strangle her.
+Dialogue: 0,0:06:59.17,0:07:01.62,Default,Sheele,0000,0000,0000,,The man was high from drugs.
+Dialogue: 0,0:07:02.22,0:07:05.27,Default,Sheele,0000,0000,0000,,I thought to myself, "I have to save her."
+Dialogue: 0,0:07:13.09,0:07:15.48,Default,Sheele,0000,0000,0000,,I was surprisingly calm.
+Dialogue: 0,0:07:16.24,0:07:18.75,Default,Sheele,0000,0000,0000,,The man died immediately.
+Dialogue: 0,0:07:19.95,0:07:22.66,Default,Sheele,0000,0000,0000,,She was shaking from what had just happened.
+Dialogue: 0,0:07:23.50,0:07:26.50,Default,Sheele,0000,0000,0000,,But in contrast, my mind was clear.
+Dialogue: 0,0:07:28.85,0:07:33.52,Default,Sheele,0000,0000,0000,,In the end, the incident was ruled self-defense.
+Dialogue: 0,0:07:33.52,0:07:36.94,Default,Sheele,0000,0000,0000,,But I never saw my friend again.
+Dialogue: 0,0:07:38.12,0:07:39.39,Default,Sheele,0000,0000,0000,,And then...
+Dialogue: 0,0:07:41.32,0:07:45.37,Default,Sheele,0000,0000,0000,,A few days later, the man's friends \Ncame to avenge his death.
+Dialogue: 0,0:07:45.37,0:07:49.90,Default,Sheele,0000,0000,0000,,"We already killed your parents. \NYou're next," they said.
+Dialogue: 0,0:07:49.90,0:07:51.86,Default,Sheele,0000,0000,0000,,Although I was being threatened,
+Dialogue: 0,0:07:52.57,0:07:55.32,Default,Sheele,0000,0000,0000,,my mind was surprisingly calm again.
+Dialogue: 0,0:08:03.92,0:08:05.98,Default,Sheele,0000,0000,0000,,I killed the men, one after the next,
+Dialogue: 0,0:08:05.98,0:08:07.80,Default,Sheele,0000,0000,0000,,with the knife I kept for protection.
+Dialogue: 0,0:08:25.73,0:08:28.74,Default,Sheele,0000,0000,0000,,That was when I realized...
+Dialogue: 0,0:08:30.28,0:08:32.40,Default,Sheele,0000,0000,0000,,The screw that was loose in my head...
+Dialogue: 0,0:08:32.40,0:08:34.28,Default,Sheele,0000,0000,0000,,made me a talented killer.
+Dialogue: 0,0:08:34.98,0:08:37.57,Default - flashback,Sheele,0000,0000,0000,,I can help rid society of garbage.
+Dialogue: 0,0:08:37.57,0:08:40.54,Default - flashback,Sheele,0000,0000,0000,,There's something I can be of use for...
+Dialogue: 0,0:08:41.77,0:08:46.96,Default,Sheele,0000,0000,0000,,When the Revolutionary Army recruited me,\N I was a freelance assassin in the capital.
+Dialogue: 0,0:08:48.01,0:08:50.61,Default - italics,Tatsumi,0000,0000,0000,,Everyone's been through so much.
+Dialogue: 0,0:08:51.60,0:08:53.99,Default,Tatsumi,0000,0000,0000,,I wonder if I can do this.
+Dialogue: 0,0:08:53.99,0:08:55.32,Default,Sheele,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:08:59.67,0:09:03.23,Default,Sheele,0000,0000,0000,,Unlike me, you're good at cooking!
+Dialogue: 0,0:09:03.23,0:09:04.91,Default - italics,Tatsumi,0000,0000,0000,,That's what you mean?
+Dialogue: 0,0:09:05.34,0:09:07.21,Default,Bulat,0000,0000,0000,,Seems you're doing well, Tatsumi!
+Dialogue: 0,0:09:12.03,0:09:14.03,Default - italics,Tatsumi,0000,0000,0000,,I wonder if I can do this...
+Dialogue: 0,0:09:14.87,0:09:15.79,Default,Najenda,0000,0000,0000,,Tatsumi,
+Dialogue: 0,0:09:15.79,0:09:17.74,Default,Najenda,0000,0000,0000,,your wounds have pretty much healed, right?
+Dialogue: 0,0:09:17.99,0:09:20.31,Default,Najenda,0000,0000,0000,,This is the Imperial Arms we took from Zank.
+Dialogue: 0,0:09:20.85,0:09:21.95,Default,Najenda,0000,0000,0000,,Try it on.
+Dialogue: 0,0:09:22.41,0:09:23.73,Default,Tatsumi,0000,0000,0000,,Really?
+Dialogue: 0,0:09:24.19,0:09:25.32,Default,Tatsumi,0000,0000,0000,,What about everyone else?
+Dialogue: 0,0:09:25.32,0:09:27.22,Default,Bulat,0000,0000,0000,,Only one Imperial Arms per person.
+Dialogue: 0,0:09:27.22,0:09:30.76,Default,Lubbok,0000,0000,0000,,Operating them takes a lot of \Nmental and physical strength.
+Dialogue: 0,0:09:31.33,0:09:33.05,Default - italics,Tatsumi,0000,0000,0000,,It doesn't look too cool,
+Dialogue: 0,0:09:33.59,0:09:37.04,Default - italics,Tatsumi,0000,0000,0000,,but this eye has incredible abilities!
+Dialogue: 0,0:09:38.66,0:09:40.88,Default,Najenda,0000,0000,0000,,It wasn't in any of the documents,
+Dialogue: 0,0:09:40.88,0:09:42.21,Default,Najenda,0000,0000,0000,,so we don't know a lot about it.
+Dialogue: 0,0:09:42.21,0:09:44.56,Default,Akame,0000,0000,0000,,It has the ability to read minds, right?
+Dialogue: 0,0:09:44.56,0:09:46.02,Default,Akame,0000,0000,0000,,Try looking at me.
+Dialogue: 0,0:09:47.59,0:09:48.87,Default,Tatsumi,0000,0000,0000,,You...
+Dialogue: 0,0:09:55.29,0:09:57.63,Default,Tatsumi,0000,0000,0000,,You want to eat meat tonight!
+Dialogue: 0,0:09:57.96,0:09:58.89,Default,Akame,0000,0000,0000,,It's perfect.
+Dialogue: 0,0:09:58.89,0:09:59.83,Default,Leone,0000,0000,0000,,Nope.
+Dialogue: 0,0:09:59.83,0:10:01.91,Default,Leone,0000,0000,0000,,It hasn't even activated.
+Dialogue: 0,0:10:02.14,0:10:04.75,Default,Mine,0000,0000,0000,,I don't want my mind read!
+Dialogue: 0,0:10:04.75,0:10:07.87,Default,Mine,0000,0000,0000,,If it has five visionary abilities, \Nwhy not test another?
+Dialogue: 0,0:10:08.17,0:10:09.83,Default,Tatsumi,0000,0000,0000,,You've always got something to say.
+Dialogue: 0,0:10:10.28,0:10:11.00,Default,Tatsumi,0000,0000,0000,,All right, then.
+Dialogue: 0,0:10:13.07,0:10:16.09,Default,Tatsumi,0000,0000,0000,,The last unknown ability...
+Dialogue: 0,0:10:16.09,0:10:17.22,Default,Tatsumi,0000,0000,0000,,Activate!
+Dialogue: 0,0:10:23.67,0:10:24.76,Default,Mine,0000,0000,0000,,So?
+Dialogue: 0,0:10:26.81,0:10:28.21,Default,Mine,0000,0000,0000,,What's wrong with you?
+Dialogue: 0,0:10:28.21,0:10:30.55,Default,Tatsumi,0000,0000,0000,,What's this wonderful power?
+Dialogue: 0,0:10:28.55,0:10:29.76,Default,Mine,0000,0000,0000,,What's with him?
+Dialogue: 0,0:10:30.55,0:10:31.81,Default,Tatsumi,0000,0000,0000,,Imperial Arms are amazing!
+Dialogue: 0,0:10:33.96,0:10:35.79,Default,Lubbok,0000,0000,0000,,This is bad... It's rejecting him!
+Dialogue: 0,0:10:35.79,0:10:37.03,Default,Akame,0000,0000,0000,,Take it off at once.
+Dialogue: 0,0:10:37.81,0:10:39.39,Default,Tatsumi,0000,0000,0000,,I was suddenly exhausted...
+Dialogue: 0,0:10:39.39,0:10:40.46,Default,Najenda,0000,0000,0000,,It's the compatibility.
+Dialogue: 0,0:10:41.02,0:10:42.49,Default,Najenda,0000,0000,0000,,It just didn't suit you.
+Dialogue: 0,0:10:42.49,0:10:45.76,Default,Mine,0000,0000,0000,,I bet you were worried about \Nhow lame you looked.
+Dialogue: 0,0:10:45.76,0:10:49.78,Default,Mine,0000,0000,0000,,They say the first impression an \NImperial Arms has of you matters.
+Dialogue: 0,0:10:50.83,0:10:53.41,Default,Najenda,0000,0000,0000,,We'll send it to the Revolutionary \NArmy's headquarters.
+Dialogue: 0,0:10:53.41,0:10:56.17,Default,Najenda,0000,0000,0000,,They'll analyze it, and it'll become \Na crucial part of our strength.
+Dialogue: 0,0:10:56.86,0:10:59.37,Default,Akame,0000,0000,0000,,Although we are mainly a team of assassins,
+Dialogue: 0,0:10:59.37,0:11:02.48,Default,Akame,0000,0000,0000,,collecting the Imperial Arms \Nis an important sub-mission.
+Dialogue: 0,0:11:02.48,0:11:06.18,Default,Akame,0000,0000,0000,,In cases with Imperial Arms holders, \Nlike Zank, we take them.
+Dialogue: 0,0:11:06.18,0:11:08.35,Default,Akame,0000,0000,0000,,If we can't take it, destroying it is best.
+Dialogue: 0,0:11:08.85,0:11:11.22,Default,Tatsumi,0000,0000,0000,,Basically, the more Imperial Arms we get,
+Dialogue: 0,0:11:11.22,0:11:13.06,Default,Tatsumi,0000,0000,0000,,the stronger the Revolutionary Army?
+Dialogue: 0,0:11:13.06,0:11:14.22,Default,Najenda,0000,0000,0000,,Exactly.
+Dialogue: 0,0:11:14.66,0:11:17.11,Default,Najenda,0000,0000,0000,,This has information on the Imperial \NArms. You should read it.
+Dialogue: 0,0:11:19.35,0:11:20.86,Default,Tatsumi,0000,0000,0000,,Amazing...
+Dialogue: 0,0:11:20.86,0:11:22.17,Default,Tatsumi,0000,0000,0000,,There are so many.
+Dialogue: 0,0:11:22.59,0:11:23.57,Default,Tatsumi,0000,0000,0000,,And this is only some?
+Dialogue: 0,0:11:24.18,0:11:27.37,Default,Najenda,0000,0000,0000,,Learn as much as you can, if only \Nabout the ones in there.
+Dialogue: 0,0:11:27.88,0:11:30.88,Default,Tatsumi,0000,0000,0000,,Speaking of that, which is the \Nstrongest Imperial Arms?
+Dialogue: 0,0:11:30.88,0:11:32.90,Default,Najenda,0000,0000,0000,,That depends on usage and compatibility.
+Dialogue: 0,0:11:33.53,0:11:35.89,Default,Najenda,0000,0000,0000,,But if I had to choose one...
+Dialogue: 0,0:11:37.15,0:11:39.32,Default,Najenda,0000,0000,0000,,The Imperial Arms that controls ice.
+Dialogue: 0,0:11:39.85,0:11:41.79,Default,Najenda,0000,0000,0000,,That is what I believe.
+Dialogue: 0,0:11:41.79,0:11:44.93,Default,Najenda,0000,0000,0000,,Fortunately, its user isn't in the capital.
+Dialogue: 0,0:11:45.28,0:11:47.43,Default,Najenda,0000,0000,0000,,They're busy conquering the northern race.
+Dialogue: 0,0:11:47.89,0:11:49.76,Default,Tatsumi,0000,0000,0000,,Northern race?
+Dialogue: 0,0:11:49.76,0:11:51.89,Default,Najenda,0000,0000,0000,,Hero of the north, Numa Seika...
+Dialogue: 0,0:11:53.04,0:11:54.91,Default,Najenda,0000,0000,0000,,The prince of the northern race.
+Dialogue: 0,0:11:55.32,0:11:57.87,Default,Najenda,0000,0000,0000,,He's never lost a battle with his spear in hand.
+Dialogue: 0,0:11:57.87,0:12:01.90,Default,Najenda,0000,0000,0000,,A fierce, brilliant strategist in whom the \Nnorthern race has invested their faith.
+Dialogue: 0,0:12:02.65,0:12:04.41,Default,Najenda,0000,0000,0000,,Naturally, he's a threat to the capital.
+Dialogue: 0,0:12:05.63,0:12:09.67,Default,Najenda,0000,0000,0000,,His powerful army uses their most \Nfortified city as its base.
+Dialogue: 0,0:12:09.67,0:12:12.25,Default,Najenda,0000,0000,0000,,They were training to invade the capital.
+Dialogue: 0,0:12:12.94,0:12:14.78,Default,Najenda,0000,0000,0000,,In order to prevent that,
+Dialogue: 0,0:12:14.78,0:12:18.96,Default,Najenda,0000,0000,0000,,the capital arranged for the North's conquest.
+Dialogue: 0,0:12:20.66,0:12:23.04,Default,Lubbok,0000,0000,0000,,There's nothing to worry about.
+Dialogue: 0,0:12:23.04,0:12:26.87,Default,Lubbok,0000,0000,0000,,Even if it's that woman, conquering the \NNorth will take at least a year.
+Dialogue: 0,0:12:27.35,0:12:28.10,Default,Najenda,0000,0000,0000,,That's true.
+Dialogue: 0,0:12:31.10,0:12:32.97,Default,Tatsumi,0000,0000,0000,,Bring the formidable enemies on!
+Dialogue: 0,0:12:32.97,0:12:34.69,Default,Tatsumi,0000,0000,0000,,We're collecting Imperial Arms, after all!
+Dialogue: 0,0:12:34.69,0:12:36.86,Default,Leone,0000,0000,0000,,You're rather chipper.
+Dialogue: 0,0:12:36.86,0:12:38.35,Default,Leone,0000,0000,0000,,What's with that, all of a sudden?
+Dialogue: 0,0:12:38.35,0:12:41.51,Default,Tatsumi,0000,0000,0000,,Well, there are still many Imperial \NArms with unknown abilities, right?
+Dialogue: 0,0:12:41.51,0:12:43.56,Default,Tatsumi,0000,0000,0000,,That's when I realized it.
+Dialogue: 0,0:12:43.56,0:12:45.28,Default,Tatsumi,0000,0000,0000,,Having seen only some of these abilities
+Dialogue: 0,0:12:45.62,0:12:46.85,Default,Tatsumi,0000,0000,0000,,tells me that maybe...
+Dialogue: 0,0:12:46.85,0:12:48.24,Default,Tatsumi,0000,0000,0000,,Just maybe...
+Dialogue: 0,0:12:48.69,0:12:51.70,Default,Tatsumi,0000,0000,0000,,There might be an Imperial Arms \Nthat can resurrect people!
+Dialogue: 0,0:12:51.70,0:12:52.66,Default,Tatsumi,0000,0000,0000,,Right?
+Dialogue: 0,0:12:53.92,0:12:56.83,Default,Tatsumi,0000,0000,0000,,That way, I can bring Sayo and Ieyasu back!
+Dialogue: 0,0:12:56.83,0:12:58.26,Default,Tatsumi,0000,0000,0000,,So I'll collect as many Imperial—
+Dialogue: 0,0:12:58.26,0:12:59.21,Default,Bulat,0000,0000,0000,,You can't.
+Dialogue: 0,0:13:00.32,0:13:01.30,Default,Tatsumi,0000,0000,0000,,Bro?
+Dialogue: 0,0:13:01.65,0:13:04.72,Default,Bulat,0000,0000,0000,,Even Imperial Arms can't bring back the dead.
+Dialogue: 0,0:13:05.82,0:13:07.72,Default,Bulat,0000,0000,0000,,You only get one life.
+Dialogue: 0,0:13:08.25,0:13:10.74,Default,Tatsumi,0000,0000,0000,,Y-You don't know that!
+Dialogue: 0,0:13:10.74,0:13:12.30,Default,Tasumi,0000,0000,0000,,Not until you try!
+Dialogue: 0,0:13:12.30,0:13:13.85,Default,Akame,0000,0000,0000,,The current Emperor is perfect evidence.
+Dialogue: 0,0:13:14.56,0:13:17.05,Default,Akame,0000,0000,0000,,If an Imperial Arms like that existed, \Nthe old Emperor would still rule.
+Dialogue: 0,0:13:17.55,0:13:21.23,Default,Bulat,0000,0000,0000,,He created, and passed down, the Imperial \NArms because he knew he'd perish.
+Dialogue: 0,0:13:24.59,0:13:25.73,Default,Akame,0000,0000,0000,,You must give up.
+Dialogue: 0,0:13:26.19,0:13:29.58,Default,Akame,0000,0000,0000,,Otherwise, that weakness in your \Nheart will be used against you.
+Dialogue: 0,0:13:30.51,0:13:32.95,Default,Akame,0000,0000,0000,,And you will die.
+Dialogue: 0,0:13:51.42,0:13:52.52,Default,Sheele,0000,0000,0000,,Tatsumi?
+Dialogue: 0,0:13:52.52,0:13:53.89,Default,Sheele,0000,0000,0000,,You're still awake?
+Dialogue: 0,0:13:54.93,0:13:56.27,Default,Tatsumi,0000,0000,0000,,I thought
+Dialogue: 0,0:13:56.66,0:13:59.77,Default,Tatsumi,0000,0000,0000,,maybe they could return, and it made me happy.
+Dialogue: 0,0:14:00.07,0:14:03.28,Default,Tatsumi,0000,0000,0000,,Even if the odds were low, I could hope...
+Dialogue: 0,0:14:06.73,0:14:10.23,Default,Tatsumi,0000,0000,0000,,I guess it really is goodbye.
+Dialogue: 0,0:14:11.09,0:14:13.06,Default,Tatsumi,0000,0000,0000,,I thought I'd already given up.
+Dialogue: 0,0:14:14.75,0:14:15.77,Default,Tatsumi,0000,0000,0000,,But I...
+Dialogue: 0,0:14:18.34,0:14:19.59,Default,Sheele,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:14:31.21,0:14:33.68,Default,Sheele,0000,0000,0000,,I'll keep this a secret from everyone,
+Dialogue: 0,0:14:34.14,0:14:36.39,Default,Sheele,0000,0000,0000,,so cry as much as you'd like.
+Dialogue: 0,0:14:39.56,0:14:41.05,Default,Tatsumi,0000,0000,0000,,Is it really okay?
+Dialogue: 0,0:14:41.05,0:14:42.65,Default,Tatsumi,0000,0000,0000,,For my superior to be this easy on me?
+Dialogue: 0,0:14:43.02,0:14:44.13,Default,Sheele,0000,0000,0000,,Who knows?
+Dialogue: 0,0:14:44.13,0:14:45.73,Default,Sheele,0000,0000,0000,,I think it's fine.
+Dialogue: 0,0:14:45.73,0:14:46.69,Default,Sheele,0000,0000,0000,,Probably.
+Dialogue: 0,0:14:48.15,0:14:49.41,Default,Tatsumi,0000,0000,0000,,That's just like you, Sheele.
+Dialogue: 0,0:14:51.93,0:14:54.17,Default,Tatsumi,0000,0000,0000,,Thanks, Sheele.
+Dialogue: 0,0:14:58.26,0:15:00.92,Default - italics,Sheele,0000,0000,0000,,I would like to thank you, as well, Tatsumi.
+Dialogue: 0,0:15:02.02,0:15:04.73,Default - italics,Sheele,0000,0000,0000,,Thanks to you, I've found another thing
+Dialogue: 0,0:15:04.73,0:15:06.83,Default - italics,Sheele,0000,0000,0000,,I can be useful for.
+Dialogue: 0,0:15:26.57,0:15:29.50,Default,Soldier1,0000,0000,0000,,The northerners were defeated in an instant,
+Dialogue: 0,0:15:29.50,0:15:31.20,Default,Soldier1,0000,0000,0000,,as expected of you, General Esdeath.
+Dialogue: 0,0:15:32.62,0:15:34.87,Default,Esdeath,0000,0000,0000,,To think, this is supposed to be the North's hero.
+Dialogue: 0,0:15:34.87,0:15:36.07,Default,Esdeath,0000,0000,0000,,How boring.
+Dialogue: 0,0:15:36.07,0:15:36.87,Default,Esdeath,0000,0000,0000,,Die.
+Dialogue: 0,0:15:39.98,0:15:44.43,Default,Esdeath,0000,0000,0000,,Is there no worthy enemy anywhere \Nthat can satisfy me?
+Dialogue: 0,0:15:50.06,0:15:52.44,Default,Tatsumi,0000,0000,0000,,The slums are pretty lively...
+Dialogue: 0,0:15:52.44,0:15:54.53,Default,Leone,0000,0000,0000,,It's the spirit of the poor.
+Dialogue: 0,0:15:54.53,0:15:56.68,Default,Leone,0000,0000,0000,,If you're born into poverty,
+Dialogue: 0,0:15:56.68,0:15:58.54,Default,Leone,0000,0000,0000,,you learn to get stronger.
+Dialogue: 0,0:15:57.33,0:15:58.54,Default,Girl,0000,0000,0000,,Hello, Leone!
+Dialogue: 0,0:15:58.54,0:16:00.96,Default,Old Woman,0000,0000,0000,,Come massage my shoulders again, won't you?
+Dialogue: 0,0:16:00.96,0:16:02.65,Default,Man,0000,0000,0000,,How about a drink tonight, Leone?
+Dialogue: 0,0:16:02.65,0:16:05.82,Default,Kid,0000,0000,0000,,Leone! Come play with me!
+Dialogue: 0,0:16:05.82,0:16:08.23,Default,Tatsumi,0000,0000,0000,,You're really popular here.
+Dialogue: 0,0:16:08.59,0:16:11.33,Default,Leone,0000,0000,0000,,I was born and raised here, after all.
+Dialogue: 0,0:16:11.33,0:16:14.19,Default,Leone,0000,0000,0000,,I also made a name for myself \Naround here as a masseuse—
+Dialogue: 0,0:16:14.19,0:16:15.49,Default,Man1,0000,0000,0000,,There she is! It's Leone!
+Dialogue: 0,0:16:15.72,0:16:17.35,Default,Man2,0000,0000,0000,,I'll finally have you pay your tab!
+Dialogue: 0,0:16:18.03,0:16:19.95,Default,Man3,0000,0000,0000,,Time to settle your gambling debts!
+Dialogue: 0,0:16:19.03,0:16:19.95,Default,Man3,0000,0000,0000,,Ah, hey!
+Dialogue: 0,0:16:19.95,0:16:23.42,Default,Man4,0000,0000,0000,,Return the money you hustled from my brother!
+Dialogue: 0,0:16:23.42,0:16:25.80,Default,Leone,0000,0000,0000,,What do you think? Isn't this place fun?
+Dialogue: 0,0:16:25.80,0:16:29.38,Default,Tatsumi,0000,0000,0000,,I'm worried you might end up killed here!
+Dialogue: 0,0:16:31.26,0:16:32.76,Default,Soldier2,0000,0000,0000,,I have news to report.
+Dialogue: 0,0:16:32.76,0:16:36.04,Default,Soldier2,0000,0000,0000,,General Nakakido and General Hemi have left
+Dialogue: 0,0:16:36.04,0:16:38.52,Default,Soldier2,0000,0000,0000,,to join the Revolutionary Army.
+Dialogue: 0,0:16:38.52,0:16:40.56,Default,Aid1,0000,0000,0000,,That military specialist, General Nakakido, has...
+Dialogue: 0,0:16:40.56,0:16:44.41,Default,Aid3,0000,0000,0000,,The Revolutionary Army is growing \Nstronger at an exponential rate.
+Dialogue: 0,0:16:44.41,0:16:46.44,Default,Aid6,0000,0000,0000,,If we don't hurry and end this, the capital...
+Dialogue: 0,0:16:46.44,0:16:47.94,Default,Emperor,0000,0000,0000,,Do not be flustered!
+Dialogue: 0,0:16:48.52,0:16:50.99,Default,Emperor,0000,0000,0000,,They are down in the southern region.
+Dialogue: 0,0:16:50.99,0:16:53.00,Default,Emperor,0000,0000,0000,,We can deal with them at any time!
+Dialogue: 0,0:16:53.00,0:16:57.91,Default,Emperor,0000,0000,0000,,If they're gathered together, taking care \Nof them will be easier, anyway!
+Dialogue: 0,0:16:58.42,0:17:00.54,Default,Emperor,0000,0000,0000,,Isn't that right, Minister?
+Dialogue: 0,0:17:01.67,0:17:03.52,Default,Minister,0000,0000,0000,,As expected of you, my lord.
+Dialogue: 0,0:17:03.52,0:17:05.98,Default,Minister,0000,0000,0000,,In this matter, you are the voice of calm.
+Dialogue: 0,0:17:05.98,0:17:07.92,Default,Minister,0000,0000,0000,,Rather than deal with some faraway \NRevolutionary Army...
+Dialogue: 0,0:17:13.22,0:17:15.93,Default,Minister,0000,0000,0000,,There are traitors much closer \Nthat must be dealt with.
+Dialogue: 0,0:17:16.38,0:17:19.93,Default,Minister,0000,0000,0000,,Ogre, of the imperial police, \Nmy own relative, Iokal,
+Dialogue: 0,0:17:19.93,0:17:21.63,Default,Minister,0000,0000,0000,,and even the serial killer Zank
+Dialogue: 0,0:17:21.63,0:17:25.31,Default,Minister,0000,0000,0000,,were all defeated, and the Imperial \NArms stolen by Night Raid.
+Dialogue: 0,0:17:25.31,0:17:28.39,Default,Minister,0000,0000,0000,,We're being struck down, left and right!
+Dialogue: 0,0:17:28.39,0:17:31.81,Default,Minister,0000,0000,0000,,I've been so overwhelmed, I'm gaining weight!
+Dialogue: 0,0:17:35.83,0:17:38.16,Default,Minister,0000,0000,0000,,We will call for General Esdeath to return.
+Dialogue: 0,0:17:40.56,0:17:42.15,Default,Aid6,0000,0000,0000,,I-In the capital,
+Dialogue: 0,0:17:42.15,0:17:44.47,Default,Aid6,0000,0000,0000,,Commander-in-chief Budou has command.
+Dialogue: 0,0:17:44.47,0:17:46.63,Default,Minister,0000,0000,0000,,Hunting traitors would be beneath \Nthe Grand General.
+Dialogue: 0,0:17:46.63,0:17:49.08,Default,Minister,0000,0000,0000,,It would hurt his pride, would it not?
+Dialogue: 0,0:17:49.08,0:17:50.54,Default,Emperor,0000,0000,0000,,Esdeath, huh?
+Dialogue: 0,0:17:52.02,0:17:54.60,Default,Emperor,0000,0000,0000,,She is the strategist that rivals the Grand General.
+Dialogue: 0,0:17:54.60,0:17:55.87,Default,Emperor,0000,0000,0000,,There's nothing to worry about.
+Dialogue: 0,0:17:55.87,0:18:01.10,Default,Minister,0000,0000,0000,,She's the ice-woman who buried over four \Nhundred thousand northerners alive...
+Dialogue: 0,0:18:02.01,0:18:04.05,Default,Minister,0000,0000,0000,,It's no longer a question of life or death.
+Dialogue: 0,0:18:04.05,0:18:08.10,Default,Minister,0000,0000,0000,,She will hunt them all down, \Nand bring about their demise!
+Dialogue: 0,0:18:15.32,0:18:17.68,Default,Tatsumi,0000,0000,0000,,I'm sure this is far enough to lose them...
+Dialogue: 0,0:18:17.68,0:18:19.24,Default,Tatsumi,0000,0000,0000,,Right, Sis—
+Dialogue: 0,0:18:19.98,0:18:22.13,Default,Tatsumi,0000,0000,0000,,Hey... Huh?
+Dialogue: 0,0:18:22.90,0:18:24.08,Default,Tatsumi,0000,0000,0000,,Sis?
+Dialogue: 0,0:18:25.43,0:18:27.04,Default - italics,Tatsumi,0000,0000,0000,,This is bad! We're separated!
+Dialogue: 0,0:18:27.94,0:18:30.00,Default - italics,Tatsumi,0000,0000,0000,,And I don't know where I am!
+Dialogue: 0,0:18:33.43,0:18:35.76,Default,Seryu,0000,0000,0000,,My justice radar is picking up something!
+Dialogue: 0,0:18:36.10,0:18:37.31,Default,Seryu,0000,0000,0000,,You, over there!
+Dialogue: 0,0:18:39.37,0:18:41.18,Default,Seryu,0000,0000,0000,,Is there something I can help you with?
+Dialogue: 0,0:18:42.23,0:18:43.56,Default,Tatsumi,0000,0000,0000,,That uniform...
+Dialogue: 0,0:18:43.56,0:18:45.46,Default,Seryu,0000,0000,0000,,I'm Seryu, of the imperial police...
+Dialogue: 0,0:18:45.46,0:18:46.52,Default,Seryu,0000,0000,0000,,A soldier of justice!
+Dialogue: 0,0:18:46.52,0:18:48.06,Default - italics,Tatsumi,0000,0000,0000,,Imperial police...
+Dialogue: 0,0:18:54.23,0:18:56.38,Default,Seryu,0000,0000,0000,,Coro, are you hungry?
+Dialogue: 0,0:18:56.38,0:18:57.51,Default,Seryu,0000,0000,0000,,Hang in there a little longer, okay?
+Dialogue: 0,0:18:58.10,0:19:00.41,Default,Tatsumi,0000,0000,0000,,Um, what's that?
+Dialogue: 0,0:19:01.41,0:19:03.40,Default,Seryu,0000,0000,0000,,This is the Imperial Arms Hecatoncheir.
+Dialogue: 0,0:19:03.40,0:19:04.64,Default,Seryu,0000,0000,0000,,There's nothing to worry about.
+Dialogue: 0,0:19:04.64,0:19:06.25,Default,Seryu,0000,0000,0000,,He's harmless except to those who are evil.
+Dialogue: 0,0:19:07.98,0:19:09.92,Default - italics,Tatsumi,0000,0000,0000,,He was in that book.
+Dialogue: 0,0:19:10.33,0:19:12.60,Default,Seryu,0000,0000,0000,,Anyway, did you need something?
+Dialogue: 0,0:19:12.60,0:19:16.17,Default,Tatsumi,0000,0000,0000,,Uh, well... I lost my way.
+Dialogue: 0,0:19:16.17,0:19:18.43,Default,Tatsumi,0000,0000,0000,,But I know the name of the area I was in earlier.
+Dialogue: 0,0:19:18.86,0:19:19.93,Default,Seryu,0000,0000,0000,,What an ordeal!
+Dialogue: 0,0:19:19.93,0:19:21.80,Default,Seryu,0000,0000,0000,,I'll take you there, on my patrol.
+Dialogue: 0,0:19:22.90,0:19:23.84,Default,Seryu,0000,0000,0000,,This way!
+Dialogue: 0,0:19:23.84,0:19:25.46,Default,Seryu,0000,0000,0000,,Don't get separated from me, okay?
+Dialogue: 0,0:19:30.24,0:19:33.98,Default,Tatsumi,0000,0000,0000,,Do all imperial police have these?
+Dialogue: 0,0:19:33.98,0:19:35.76,Default,Seryu,0000,0000,0000,,Nope.
+Dialogue: 0,0:19:35.76,0:19:38.26,Default,Seryu,0000,0000,0000,,I'm the only one with this Imperial Arms.
+Dialogue: 0,0:19:38.26,0:19:39.13,Default,Seryu,0000,0000,0000,,Coro—
+Dialogue: 0,0:19:39.13,0:19:42.50,Default,Seryu,0000,0000,0000,,Ah, that's the name I gave him, but...
+Dialogue: 0,0:19:42.50,0:19:46.83,Default,Seryu,0000,0000,0000,,If he doesn't like his user, he won't even move.
+Dialogue: 0,0:19:48.05,0:19:52.41,Default,Seryu,0000,0000,0000,,No one higher up was compatible with Coro.
+Dialogue: 0,0:19:52.41,0:19:55.84,Default,Seryu,0000,0000,0000,,So they tested compatibility \Neven with the lower ranks.
+Dialogue: 0,0:19:56.21,0:20:00.74,Default,Seryu,0000,0000,0000,,{\fad(1,415)}That was when he reacted to my love for justice.
+Dialogue: 0,0:20:01.48,0:20:04.33,Default,Seryu,0000,0000,0000,,So, now he's my beloved partner.
+Dialogue: 0,0:20:04.83,0:20:06.05,Default,Seyru,0000,0000,0000,,Right, Coro?
+Dialogue: 0,0:20:08.22,0:20:10.77,Default,Tatsumi,0000,0000,0000,,O-Oh...
+Dialogue: 0,0:20:13.26,0:20:17.00,Default,Seryu,0000,0000,0000,,Um, I believe this is the area \Nyou mentioned earlier.
+Dialogue: 0,0:20:17.56,0:20:18.73,Default,Tatsumi,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:20:19.09,0:20:20.28,Default,Seryu,0000,0000,0000,,Don't mention it!
+Dialogue: 0,0:20:20.28,0:20:22.74,Default,Seryu,0000,0000,0000,,If you encounter any evil, please give me a call.
+Dialogue: 0,0:20:22.74,0:20:24.62,Default,Seryu,0000,0000,0000,,We'll destroy it for you.
+Dialogue: 0,0:20:25.73,0:20:27.58,Default,Tatsumi,0000,0000,0000,,That's reassuring...
+Dialogue: 0,0:20:27.99,0:20:29.17,Default,Seryu,0000,0000,0000,,Let's go, Coro.
+Dialogue: 0,0:20:29.17,0:20:30.46,Default,Seryu,0000,0000,0000,,I bet you're hungry.
+Dialogue: 0,0:20:30.46,0:20:32.82,Default,Seryu,0000,0000,0000,,How would you like five death-row inmates?
+Dialogue: 0,0:20:41.15,0:20:43.83,Default - italics,Tatsumi,0000,0000,0000,,An imperial police officer who \Nuses Imperial Arms, huh?
+Dialogue: 0,0:20:43.83,0:20:45.14,Default - italics,Tatsumi,0000,0000,0000,,Sounds like trouble.
+Dialogue: 0,0:20:45.93,0:20:47.72,Default - italics,Tatsumi,0000,0000,0000,,I should report this to Najenda.
+Dialogue: 0,0:20:48.68,0:20:50.68,Default - italics,Seryu,0000,0000,0000,,Helping people is important.
+Dialogue: 0,0:20:50.68,0:20:53.07,Default - italics,Seryu,0000,0000,0000,,But I have to hurry and find Night Raid!
+Dialogue: 0,0:20:54.98,0:20:56.31,Default - italics,Seryu,0000,0000,0000,,General Ogre...
+Dialogue: 0,0:21:04.93,0:21:06.51,Default - flashback,Ogre,0000,0000,0000,,Nice attack, Seryu.
+Dialogue: 0,0:21:06.51,0:21:08.41,Default - flashback,Ogre,0000,0000,0000,,You've gotten a little stronger, haven't you?
+Dialogue: 0,0:21:10.46,0:21:12.58,Default - flashback,Seryu,0000,0000,0000,,That temperamental Imperial \NArms chose me for a reason.
+Dialogue: 0,0:21:13.16,0:21:15.62,Default - flashback,Seryu,0000,0000,0000,,I must get stronger!
+Dialogue: 0,0:21:18.13,0:21:20.30,Default - flashback,Seryu,0000,0000,0000,,Justice will never yield to evil!
+Dialogue: 0,0:21:20.67,0:21:22.76,Default - flashback,Seryu,0000,0000,0000,,My father, killed in the line of duty, said that!
+Dialogue: 0,0:21:22.99,0:21:24.60,Default - flashback,Ogre,0000,0000,0000,,Oh?
+Dialogue: 0,0:21:24.60,0:21:27.16,Default - flashback,Ogre,0000,0000,0000,,If you want to get stronger that much,
+Dialogue: 0,0:21:27.16,0:21:29.20,Default - flashback,Ogre,0000,0000,0000,,I can offer you a trump card.
+Dialogue: 0,0:21:29.20,0:21:30.26,Default - flashback,Seryu,0000,0000,0000,,Really?
+Dialogue: 0,0:21:30.48,0:21:34.33,Default - flashback,Ogre,0000,0000,0000,,A doctor I know has been wanting \Nto do an experiment...
+Dialogue: 0,0:21:34.33,0:21:37.15,Default - flashback,Ogre,0000,0000,0000,,However, you'll suffer great pain.
+Dialogue: 0,0:21:37.54,0:21:39.11,Default - flashback,Seryu,0000,0000,0000,,That doesn't matter!
+Dialogue: 0,0:21:39.11,0:21:42.15,Default - flashback,Seryu,0000,0000,0000,,I'll do anything to help me defeat evil!
+Dialogue: 0,0:21:42.70,0:21:46.36,Default - italics,Seryu,0000,0000,0000,,The evil that killed my master, General Ogre!
+Dialogue: 0,0:21:48.48,0:21:49.75,Default - italics,Seryu,0000,0000,0000,,Night Raid...
+Dialogue: 0,0:21:49.75,0:21:51.51,Default - italics,Seryu,0000,0000,0000,,I will never forgive you!
+Dialogue: 0,0:23:34.81,0:23:40.98,Title2,title,0000,0000,0000,,{\fad(341,1)}Kill the Absolute Justice
+Dialogue: 0,0:23:40.98,0:23:42.98,Title2,,0000,0000,0000,,

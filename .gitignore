@@ -3,3 +3,4 @@ __pycache__
 .idea
 logs
 akame.service
+test.py

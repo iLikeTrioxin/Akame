@@ -1,0 +1,364 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default - flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title1a,Open Sans Semibold,36,&H0048487B,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title1b,Open Sans Semibold,36,&H00020202,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: Title2,Open Sans Semibold,36,&H004B3471,&H000000FF,&H00FFFAFB,&H00000000,1,0,0,0,100,100,0,0,1,1,0,8,53,53,24,0
+Style: SignA,Open Sans Semibold,27,&H000D0D0D,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,53,53,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.88,0:00:04.48,Default,AdvisorB,0000,0000,0000,,What? There was another surrender \Nwithout any bloodshed?
+Dialogue: 0,0:00:04.75,0:00:07.73,Default,AdvisorC,0000,0000,0000,,Honestly... How can they be so disloyal?
+Dialogue: 0,0:00:08.03,0:00:10.53,Default,Onest,0000,0000,0000,,Well, the viceroys in remote regions
+Dialogue: 0,0:00:10.53,0:00:16.08,Default,,0000,0000,0000,,were those who were demoted for \Nopposing the capital in the first place.
+Dialogue: 0,0:00:16.08,0:00:18.10,Default,Onest,0000,0000,0000,,It's no surprise they would betray us.
+Dialogue: 0,0:00:18.10,0:00:21.59,Default,AdvisorA,0000,0000,0000,,H-However, if this keeps up, \Nthe rebel army will reach the capital—
+Dialogue: 0,0:00:21.59,0:00:22.83,Default,Budou,0000,0000,0000,,Stop panicking.
+Dialogue: 0,0:00:23.36,0:00:25.52,Default,AdvisorA,0000,0000,0000,,C-Commander-in-Chief Budou...
+Dialogue: 0,0:00:25.52,0:00:28.80,Default,Budou,0000,0000,0000,,They say the military should keep \Ntheir mouth shut about politics.
+Dialogue: 0,0:00:28.80,0:00:33.33,Default,Budou,0000,0000,0000,,I've abided by that maxim, \Nbut given the circumstances,
+Dialogue: 0,0:00:33.33,0:00:36.06,Default,Budou,0000,0000,0000,,I can't keep quiet, either, Minister.
+Dialogue: 0,0:00:36.06,0:00:39.33,Default,Onest,0000,0000,0000,,My, that's harsh...
+Dialogue: 0,0:00:39.33,0:00:41.16,Default,Budou,0000,0000,0000,,"Protect this kingdom."
+Dialogue: 0,0:00:41.16,0:00:45.73,Default,Budou,0000,0000,0000,,For a thousand years, this mission has \Nbeen bestowed upon my family.
+Dialogue: 0,0:00:45.73,0:00:50.85,Default,Budou,0000,0000,0000,,I shall sever whatever disturbs the \Nnation's peace, with my own hands.
+Dialogue: 0,0:00:50.85,0:00:52.93,Default,Budou,0000,0000,0000,,Regardless of who or what it may be.
+Dialogue: 0,0:00:52.93,0:00:55.03,Default,Onest,0000,0000,0000,,Oh, how terrifying.
+Dialogue: 0,0:00:55.03,0:00:57.33,Default,Onest,0000,0000,0000,,But you need not worry.
+Dialogue: 0,0:00:57.33,0:01:02.03,Default,Onest,0000,0000,0000,,Even if the masses rebel, \Nwe have countermeasures in place.
+Dialogue: 0,0:01:02.79,0:01:04.91,Default,Onest,0000,0000,0000,,Allow me to introduce you...
+Dialogue: 0,0:01:04.91,0:01:07.80,Default,Onest,0000,0000,0000,,In order to maintain public \Norder within the capital,
+Dialogue: 0,0:01:07.80,0:01:10.98,Default,Onest,0000,0000,0000,,a new elite unit has been established!
+Dialogue: 0,0:01:11.69,0:01:13.30,Default,Shura,0000,0000,0000,,Pardon the intrusion.
+Dialogue: 0,0:01:16.81,0:01:18.75,Default,Onest,0000,0000,0000,,He's too incompetent to be a commander,
+Dialogue: 0,0:01:18.75,0:01:22.73,Default,,0000,0000,0000,,but I've chosen my son, Shura, for the job.
+Dialogue: 0,0:01:23.88,0:01:26.48,Default,Shura,0000,0000,0000,,Ah, so you're the infamous Commander-in-Chief.
+Dialogue: 0,0:01:26.48,0:01:29.73,Default,Shura,0000,0000,0000,,I heard that only General Esdeath \Ncan match your strength.
+Dialogue: 0,0:01:31.15,0:01:33.81,Default,Shura,0000,0000,0000,,There's no need for someone \Nof your rank to step in,
+Dialogue: 0,0:01:33.81,0:01:35.66,Default,Shura,0000,0000,0000,,just because some have decided to rebel.
+Dialogue: 0,0:01:35.66,0:01:37.43,Default,Shura,0000,0000,0000,,Simply leave it to me.
+Dialogue: 0,0:01:37.81,0:01:39.49,Default,Onest,0000,0000,0000,,Oh? Where are you going?
+Dialogue: 0,0:01:40.05,0:01:44.05,Default,Budou,0000,0000,0000,,There are always a few rats that sniff around
+Dialogue: 0,0:01:44.05,0:01:46.83,Default,Budou,0000,0000,0000,,before the whole swarm arrives.
+Dialogue: 0,0:01:47.08,0:01:50.96,Default,Shura,0000,0000,0000,,Jeez... Doesn't he know he \Ncan sit back and relax?
+Dialogue: 0,0:01:51.30,0:01:52.78,Default,Onest,0000,0000,0000,,Now, Shura...
+Dialogue: 0,0:01:52.78,0:01:55.80,Default,Onest,0000,0000,0000,,I'll be observing what you can do.
+Dialogue: 0,0:01:55.80,0:01:59.55,Default,Onest,0000,0000,0000,,To determine whether you're \Nworthy to be my successor.
+Dialogue: 0,0:01:59.85,0:02:02.34,Default,Shura,0000,0000,0000,,Yeah, I'll be looking forward to it.
+Dialogue: 0,0:02:02.93,0:02:04.83,Default - italics,Shura,0000,0000,0000,,Hunting some rats, huh?
+Dialogue: 0,0:02:04.83,0:02:07.22,Default - italics,Shura,0000,0000,0000,,It'll be the perfect warm-up.
+Dialogue: 0,0:03:39.46,0:03:41.20,Title1a,Title,0000,0000,0000,,{\fad(259,1)}Kill the Carnage
+Dialogue: 0,0:03:41.20,0:03:42.95,Title1b,Title,0000,0000,0000,,{\fad(1,812)}Kill the Carnage
+Dialogue: 0,0:03:47.49,0:03:50.02,Default,Wave,0000,0000,0000,,This place got a whole lot emptier.
+Dialogue: 0,0:03:51.29,0:03:54.17,Default,Wave,0000,0000,0000,,Kurome, is your body really okay?
+Dialogue: 0,0:03:54.60,0:03:55.91,Default,Kurome,0000,0000,0000,,There are no issues.
+Dialogue: 0,0:03:58.98,0:04:00.18,Default,Ran,0000,0000,0000,,Here you are.
+Dialogue: 0,0:04:00.18,0:04:03.05,Default,Ran,0000,0000,0000,,I don't know if it's as good \Nas what Bols used to make.
+Dialogue: 0,0:04:04.90,0:04:06.26,Default,Ran,0000,0000,0000,,Have you heard, Wave?
+Dialogue: 0,0:04:06.70,0:04:10.37,Default,Ran,0000,0000,0000,,Supposedly, the minister has created \Nan elite unit he directly supervises.
+Dialogue: 0,0:04:10.37,0:04:11.57,Default,Wave,0000,0000,0000,,Seems that way.
+Dialogue: 0,0:04:11.57,0:04:13.66,Default,Ran,0000,0000,0000,,Captain Esdeath is away on an expedition.
+Dialogue: 0,0:04:14.10,0:04:17.98,Default,Ran,0000,0000,0000,,And the Jaegers are down to \Nhalf of what we started with.
+Dialogue: 0,0:04:18.32,0:04:23.15,Default,Wave,0000,0000,0000,,But isn't that exactly why we should \Nbe the ones on the front lines?
+Dialogue: 0,0:04:23.15,0:04:25.02,Default,Wave,0000,0000,0000,,Why would they put us on standby?
+Dialogue: 0,0:04:25.41,0:04:28.83,Default,Ran,0000,0000,0000,,This must mean the capital has \Nmore than one central figure.
+Dialogue: 0,0:04:28.83,0:04:31.08,Default,Wave,0000,0000,0000,,What the hell are they thinking?!
+Dialogue: 0,0:04:31.31,0:04:35.96,Default,Wave,0000,0000,0000,,At times like these, we should unite to \Nstop the rebel army in their tracks!
+Dialogue: 0,0:04:37.05,0:04:37.63,Default,Kurome,0000,0000,0000,,Seconds.
+Dialogue: 0,0:04:37.63,0:04:38.71,Default,Wave,0000,0000,0000,,So fast!
+Dialogue: 0,0:04:39.11,0:04:42.30,Default,Wave,0000,0000,0000,,Man, as always, you're a bottomless pit.
+Dialogue: 0,0:04:43.27,0:04:44.27,Default,Ran,0000,0000,0000,,Here you are.
+Dialogue: 0,0:04:49.38,0:04:50.14,Default,Wave,0000,0000,0000,,Kurome!
+Dialogue: 0,0:04:50.39,0:04:51.31,Default,Ran,0000,0000,0000,,Kurome?
+Dialogue: 0,0:04:51.31,0:04:52.20,Default,Wave,0000,0000,0000,,Kurome!
+Dialogue: 0,0:04:52.20,0:04:53.12,Default,Ran,0000,0000,0000,,Kurome?
+Dialogue: 0,0:04:53.12,0:04:53.92,Default,Wave,0000,0000,0000,,Kurome!
+Dialogue: 0,0:04:53.92,0:04:54.64,Default,Ran,0000,0000,0000,,Kurome?
+Dialogue: 0,0:04:54.64,0:04:55.45,Default,Wave,0000,0000,0000,,Hey, Kurome!
+Dialogue: 0,0:04:55.45,0:04:56.26,Default,Ran,0000,0000,0000,,Kurome...
+Dialogue: 0,0:04:58.37,0:05:00.23,Default,Tatsumi,0000,0000,0000,,The soldiers are being sent out again.
+Dialogue: 0,0:05:00.23,0:05:03.74,Default,Lubbock,0000,0000,0000,,Yeah, the capital's gonna be \Na battle zone soon, too.
+Dialogue: 0,0:05:04.04,0:05:05.86,Default,Lubbock,0000,0000,0000,,We'll take advantage of that commotion,
+Dialogue: 0,0:05:05.86,0:05:07.48,Default,,0000,0000,0000,,sneak into the palace,
+Dialogue: 0,0:05:07.48,0:05:09.20,Default,Lubbock,0000,0000,0000,,and kill the minister.
+Dialogue: 0,0:05:09.20,0:05:11.49,Default,Lubbock,0000,0000,0000,,You've steeled your resolve, right, Tatsumi?
+Dialogue: 0,0:05:11.49,0:05:12.98,Default,Tatsumi,0000,0000,0000,,Of course I have.
+Dialogue: 0,0:05:13.49,0:05:17.25,Default,Tatsumi,0000,0000,0000,,But I want as few civilian casualties as possible.
+Dialogue: 0,0:05:17.85,0:05:21.29,Default,Tatsumi,0000,0000,0000,,So the sooner we defeat the minister, the better.
+Dialogue: 0,0:05:21.83,0:05:23.20,Default,Lubbock,0000,0000,0000,,Well said.
+Dialogue: 0,0:05:23.20,0:05:24.20,Default,Lubbock,0000,0000,0000,,Now, then...
+Dialogue: 0,0:05:24.20,0:05:26.88,Default,Lubbock,0000,0000,0000,,It's almost time to meet the resistance.
+Dialogue: 0,0:05:27.20,0:05:28.18,Default,Lubbock,0000,0000,0000,,Let's go.
+Dialogue: 0,0:05:30.50,0:05:33.73,Default,Mine,0000,0000,0000,,I'm surprised they made such a \Ncomplicated underground channel.
+Dialogue: 0,0:05:33.73,0:05:37.04,Default,Leone,0000,0000,0000,,As the capital flourished, it probably \Nbecame bigger and bigger.
+Dialogue: 0,0:05:37.04,0:05:37.85,Default,Leone,0000,0000,0000,,Pointlessly.
+Dialogue: 0,0:05:38.19,0:05:41.73,Default,Leone,0000,0000,0000,,And it was managed so poorly, \Nthere aren't any accurate maps.
+Dialogue: 0,0:05:42.06,0:05:44.99,Default,Mine,0000,0000,0000,,But thanks to their carelessness, \Nwe can use it in our plans.
+Dialogue: 0,0:05:47.38,0:05:48.32,Default,Leone,0000,0000,0000,,Hey, Mine...
+Dialogue: 0,0:05:49.33,0:05:51.41,Default,Mine,0000,0000,0000,,What is it, all of a sudden?
+Dialogue: 0,0:05:52.23,0:05:55.20,Default,Leone,0000,0000,0000,,How's it going with Tatsumi lately?
+Dialogue: 0,0:05:55.20,0:05:56.56,Default,Mine,0000,0000,0000,,Huh?!
+Dialogue: 0,0:05:56.56,0:05:59.39,Default,Leone,0000,0000,0000,,Did you think your big sis Leone wouldn't notice?
+Dialogue: 0,0:05:59.39,0:06:02.34,Default,Leone,0000,0000,0000,,Since getting back from Kyoroch, \Nyou two are pretty cozy!
+Dialogue: 0,0:06:02.34,0:06:04.17,Default,Mine,0000,0000,0000,,D-Don't be stupid.
+Dialogue: 0,0:06:04.17,0:06:07.15,Default,Mine,0000,0000,0000,,Nothing's changed! In fact, \Nit isn't like that at all!
+Dialogue: 0,0:06:07.15,0:06:08.30,Default,Mine,0000,0000,0000,,What, you want to die?
+Dialogue: 0,0:06:08.30,0:06:09.75,Default,Leone,0000,0000,0000,,Stop getting so worked up.
+Dialogue: 0,0:06:09.75,0:06:11.08,Default,Leone,0000,0000,0000,,But your face gives it away.
+Dialogue: 0,0:06:11.66,0:06:13.95,Default,Mine,0000,0000,0000,,Idiot! That's impossible!
+Dialogue: 0,0:06:13.95,0:06:17.66,Default,Leone,0000,0000,0000,,If you keep saying stuff like that, \NI might snatch him for myself...
+Dialogue: 0,0:06:18.56,0:06:19.53,Default,Mine,0000,0000,0000,,You can't do that!
+Dialogue: 0,0:06:23.38,0:06:25.37,Default,Leone,0000,0000,0000,,You're finally being honest.
+Dialogue: 0,0:06:25.37,0:06:28.24,Default,Leone,0000,0000,0000,,Well, regardless, I'll be taking him.
+Dialogue: 0,0:06:31.53,0:06:33.83,Default,Mine,0000,0000,0000,,Stop saying stupid things. \NWe're here to work.
+Dialogue: 0,0:06:33.83,0:06:35.08,Default,Mine,0000,0000,0000,,Work!
+Dialogue: 0,0:06:35.08,0:06:36.26,Default,Leone,0000,0000,0000,,All right, all right.
+Dialogue: 0,0:06:37.74,0:06:38.87,Default,Najenda,0000,0000,0000,,I understand.
+Dialogue: 0,0:06:38.87,0:06:40.67,Default,Najenda,0000,0000,0000,,You may resume your duty.
+Dialogue: 0,0:06:40.93,0:06:43.13,Default,Woman,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:06:44.01,0:06:46.95,Default,Najenda,0000,0000,0000,,Communication with the \Nwestern tribes has been lost.
+Dialogue: 0,0:06:46.95,0:06:48.54,Default,Akame,0000,0000,0000,,Eh? Then...
+Dialogue: 0,0:06:48.54,0:06:50.81,Default,Najenda,0000,0000,0000,,No, this was to be expected.
+Dialogue: 0,0:06:51.31,0:06:53.30,Default,Najenda,0000,0000,0000,,We'll carry out our mission as planned.
+Dialogue: 0,0:06:53.67,0:06:57.43,Default,Najenda,0000,0000,0000,,When we infiltrate the palace, \Nyou kill the guards.
+Dialogue: 0,0:06:57.72,0:06:58.66,Default,Najenda,0000,0000,0000,,I'm counting on you.
+Dialogue: 0,0:06:59.12,0:07:00.02,Default,Susanoo,0000,0000,0000,,Understood.
+Dialogue: 0,0:07:00.91,0:07:04.11,Default - italics,Najenda,0000,0000,0000,,I'm also relying on you, Tatsumi and Lubbock.
+Dialogue: 0,0:07:05.29,0:07:06.51,Default,Lubbock,0000,0000,0000,,Hey, Tatsumi?
+Dialogue: 0,0:07:06.51,0:07:07.26,Default,Tatsumi,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:07.26,0:07:10.03,Default,Lubbock,0000,0000,0000,,After this battle, what will you do?
+Dialogue: 0,0:07:11.17,0:07:15.22,Default,Tatsumi,0000,0000,0000,,Uh, I've never really given it any thought...
+Dialogue: 0,0:07:15.56,0:07:16.83,Default,Tatsumi,0000,0000,0000,,What about you?
+Dialogue: 0,0:07:16.83,0:07:19.50,Default,Lubbock,0000,0000,0000,,I'm gonna continue running the bookstore.
+Dialogue: 0,0:07:19.50,0:07:23.35,Default,Lubbock,0000,0000,0000,,I'll expand the store, and eventually, \NI'll turn it into a national franchise.
+Dialogue: 0,0:07:23.70,0:07:24.59,Default,Tatsumi,0000,0000,0000,,Wow.
+Dialogue: 0,0:07:24.59,0:07:28.34,Default,Lubbock,0000,0000,0000,,Then I'll wait for the right time \Nto propose to Miss Najenda!
+Dialogue: 0,0:07:28.69,0:07:31.57,Default,Tatsumi,0000,0000,0000,,Oh, yeah? That's great.
+Dialogue: 0,0:07:31.57,0:07:33.32,Default,Lubbock,0000,0000,0000,,And how's it going with you?
+Dialogue: 0,0:07:33.32,0:07:34.60,Default,Lubbock,0000,0000,0000,,And Mine?
+Dialogue: 0,0:07:34.60,0:07:36.58,Default,Tatsumi,0000,0000,0000,,Mine has nothing to do with me.
+Dialogue: 0,0:07:36.58,0:07:38.32,Default,Lubbock,0000,0000,0000,,Don't play dumb.
+Dialogue: 0,0:07:38.32,0:07:40.23,Default,Lubbock,0000,0000,0000,,Ever since we got back from Kyoroch,
+Dialogue: 0,0:07:40.23,0:07:42.76,Default,,0000,0000,0000,,you two have been acting suspicious...
+Dialogue: 0,0:07:42.76,0:07:45.51,Default,Lubbock,0000,0000,0000,,Well? How far have you two gotten?
+Dialogue: 0,0:07:45.51,0:07:47.07,Default,Lubbock,0000,0000,0000,,Have you at least kissed?
+Dialogue: 0,0:07:47.38,0:07:48.84,Default,Tatsumi,0000,0000,0000,,I-Idiot.
+Dialogue: 0,0:07:48.84,0:07:49.92,Default,Woman,0000,0000,0000,,U-Um...
+Dialogue: 0,0:07:51.13,0:07:54.32,Default,Woman,0000,0000,0000,,You're members of Night Raid, right?
+Dialogue: 0,0:07:57.15,0:07:59.70,Default,Tatsumi,0000,0000,0000,,Oh, do you belong to the resistance?
+Dialogue: 0,0:07:59.70,0:08:00.58,Default,Woman,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:08.69,0:08:11.18,Default,Woman,0000,0000,0000,,From here on, you'll have to be quiet.
+Dialogue: 0,0:08:11.18,0:08:12.13,Default,Lubbock,0000,0000,0000,,Roger.
+Dialogue: 0,0:08:13.62,0:08:15.13,Default,Lubbock,0000,0000,0000,,But this is unexpected.
+Dialogue: 0,0:08:15.13,0:08:18.48,Default,Lubbock,0000,0000,0000,,For someone like you to be \Npart of the resistance...
+Dialogue: 0,0:08:18.48,0:08:22.89,Default,Woman,0000,0000,0000,,My father used to be in charge \Nof the emperor's education.
+Dialogue: 0,0:08:22.89,0:08:25.66,Default,Woman,0000,0000,0000,,But the minister framed him for treason,
+Dialogue: 0,0:08:25.66,0:08:27.65,Default,Woman,0000,0000,0000,,and both my mother and he were incarcerated.
+Dialogue: 0,0:08:28.04,0:08:29.16,Default,Lubbock,0000,0000,0000,,I see.
+Dialogue: 0,0:08:29.16,0:08:33.03,Default,Tatsumi,0000,0000,0000,,Then, does that mean other Revolutionary \NArmy members are also within the palace?
+Dialogue: 0,0:08:33.55,0:08:34.56,Default,Woman,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:34.56,0:08:37.27,Default,Woman,0000,0000,0000,,The bureaucracy that opposes the minister
+Dialogue: 0,0:08:37.27,0:08:40.37,Default,,0000,0000,0000,,has been in covert communications \Nwith the Revolutionary Army.
+Dialogue: 0,0:08:40.93,0:08:44.12,Default,Lubbock,0000,0000,0000,,So our role is to work with these people
+Dialogue: 0,0:08:44.12,0:08:48.29,Default,,0000,0000,0000,,and support the Revolutionary \NArmy's break-in from within.
+Dialogue: 0,0:08:48.63,0:08:50.92,Default,Tatsumi,0000,0000,0000,,Oh, that's reassuring.
+Dialogue: 0,0:08:51.29,0:08:54.37,Default,Lubbock,0000,0000,0000,,That's why you, who can turn invisible,
+Dialogue: 0,0:08:54.37,0:08:57.23,Default,Lubbock,0000,0000,0000,,and I, the espionage expert, \Nwere chosen for this mission.
+Dialogue: 0,0:08:57.23,0:08:58.39,Default,Lubbock,0000,0000,0000,,We have to pull this off.
+Dialogue: 0,0:08:58.39,0:08:59.34,Default,Tatsumi,0000,0000,0000,,Right.
+Dialogue: 0,0:09:05.47,0:09:06.40,Default,Woman,0000,0000,0000,,This is it.
+Dialogue: 0,0:09:15.39,0:09:16.25,Default,Tatsumi,0000,0000,0000,,What is it?
+Dialogue: 0,0:09:16.71,0:09:17.81,Default,Woman,0000,0000,0000,,Something's wrong.
+Dialogue: 0,0:09:18.25,0:09:22.30,Default,Woman,0000,0000,0000,,Normally, someone knocks from \Nthe inside to confirm...
+Dialogue: 0,0:09:23.88,0:09:24.58,Default,Lubbock,0000,0000,0000,,Get back.
+Dialogue: 0,0:09:33.99,0:09:35.67,Default,Tatsumi,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:09:35.67,0:09:37.91,Default,Lubbock,0000,0000,0000,,This is bad... It means they found out about...
+Dialogue: 0,0:09:38.81,0:09:39.93,Default,Lubbock,0000,0000,0000,,Everyone, run!
+Dialogue: 0,0:09:52.87,0:09:54.96,Default,Shura,0000,0000,0000,,Heh, you're late...
+Dialogue: 0,0:09:54.96,0:09:56.74,Default,Shura,0000,0000,0000,,I got tired of waiting.
+Dialogue: 0,0:09:57.24,0:09:58.84,Default,Shura,0000,0000,0000,,Too bad,
+Dialogue: 0,0:09:58.84,0:10:02.89,Default,Shura,0000,0000,0000,,but I've taken care of all of \Nthe resistance members.
+Dialogue: 0,0:10:03.25,0:10:05.08,Default,Shura,0000,0000,0000,,I, the great Shura!
+Dialogue: 0,0:10:07.33,0:10:09.66,Default,Shura,0000,0000,0000,,You're Night Raid?
+Dialogue: 0,0:10:09.66,0:10:12.13,Default,Shura,0000,0000,0000,,You'll entertain me at least a little, right?
+Dialogue: 0,0:10:13.42,0:10:15.63,Default,Shura,0000,0000,0000,,Hmm? Oh?
+Dialogue: 0,0:10:15.96,0:10:18.23,Default,Shura,0000,0000,0000,,You're the one who was with Esdeath,
+Dialogue: 0,0:10:18.23,0:10:21.14,Default,,0000,0000,0000,,when I transported her to the far island.
+Dialogue: 0,0:10:22.29,0:10:25.64,Default,Tatsumi,0000,0000,0000,,That means you were behind \Nall those Danger Beasts.
+Dialogue: 0,0:10:26.52,0:10:27.64,Default,Tatsumi,0000,0000,0000,,What was the point?
+Dialogue: 0,0:10:27.81,0:10:29.86,Default,Shura,0000,0000,0000,,Isn't it obvious?
+Dialogue: 0,0:10:29.86,0:10:31.77,Default,Shura,0000,0000,0000,,Because it was fun!
+Dialogue: 0,0:10:32.87,0:10:36.18,Default,Shura,0000,0000,0000,,I despise boredom.
+Dialogue: 0,0:10:36.18,0:10:39.49,Default,Shura,0000,0000,0000,,I had a lot of fun on their behalf.
+Dialogue: 0,0:10:39.67,0:10:42.42,Default,Tatsumi,0000,0000,0000,,How dare you?!
+Dialogue: 0,0:10:42.42,0:10:43.42,Default,Lubbock,0000,0000,0000,,Tatsumi!
+Dialogue: 0,0:10:50.90,0:10:52.29,Default,Tatsumi,0000,0000,0000,,Wh-What is this?
+Dialogue: 0,0:10:52.72,0:10:55.84,Default,Budou,0000,0000,0000,,As I suspected, some rats snuck in.
+Dialogue: 0,0:11:01.97,0:11:05.70,Default,Shura,0000,0000,0000,,Hey! You came at a good \Ntime, Old Man Lightning.
+Dialogue: 0,0:11:05.70,0:11:07.71,Default,Shura,0000,0000,0000,,I'll leave them to you.
+Dialogue: 0,0:11:07.71,0:11:09.73,Default,Budou,0000,0000,0000,,I don't need you to tell me.
+Dialogue: 0,0:11:11.32,0:11:13.03,Default,Budou,0000,0000,0000,,My name is Budou.
+Dialogue: 0,0:11:13.35,0:11:16.82,Default,Budou,0000,0000,0000,,I've been appointed Commander-in-Chief \Nby our lord and master.
+Dialogue: 0,0:11:17.21,0:11:19.40,Default - italics,Tatsumi,0000,0000,0000,,So this is the Commander-in-Chief.
+Dialogue: 0,0:11:19.40,0:11:22.41,Default,Budou,0000,0000,0000,,With your treasonous acts, \Nyou've wronged the empire.
+Dialogue: 0,0:11:23.38,0:11:26.11,Default,Budou,0000,0000,0000,,Your fate will be determined by my Imperial Arms,
+Dialogue: 0,0:11:26.11,0:11:29.04,Default,Budou,0000,0000,0000,,Thunder God's Rage: Adramelech.
+Dialogue: 0,0:11:35.70,0:11:36.55,Default,Lubbock,0000,0000,0000,,Tatsumi!
+Dialogue: 0,0:11:38.94,0:11:40.35,Default,Tatsumi,0000,0000,0000,,Crap...
+Dialogue: 0,0:11:40.35,0:11:41.65,Default,Tatsumi,0000,0000,0000,,I wasn't even hit.
+Dialogue: 0,0:11:41.65,0:11:42.84,Default,Tatsumi,0000,0000,0000,,What was that impact?
+Dialogue: 0,0:11:43.23,0:11:46.56,Default,Budou,0000,0000,0000,,Oh, so you dodged my attack.
+Dialogue: 0,0:11:46.56,0:11:48.60,Default,Budou,0000,0000,0000,,You've got a good eye.
+Dialogue: 0,0:11:49.69,0:11:52.69,Default - italics,Tatsumi,0000,0000,0000,,Incursio!
+Dialogue: 0,0:11:58.39,0:11:59.69,Default,Lubbock,0000,0000,0000,,Tatsumi!
+Dialogue: 0,0:12:06.41,0:12:08.41,Default,Lubbock,0000,0000,0000,,What the hell? When did you...
+Dialogue: 0,0:12:08.72,0:12:10.70,Default,Shura,0000,0000,0000,,I'll be your opponent.
+Dialogue: 0,0:12:11.35,0:12:13.04,Default,Shura,0000,0000,0000,,Make sure you guys don't interfere.
+Dialogue: 0,0:12:13.36,0:12:15.75,Default,Shura,0000,0000,0000,,This one's my prey.
+Dialogue: 0,0:12:18.70,0:12:19.88,Default,Esdeath,0000,0000,0000,,That was fun.
+Dialogue: 0,0:12:20.67,0:12:25.29,Default,Esdeath,0000,0000,0000,,Clearly, I am better suited to a \Nbattlefield than to guard duty.
+Dialogue: 0,0:12:33.72,0:12:36.23,Default,Esdeath,0000,0000,0000,,We're heading back to the capital.
+Dialogue: 0,0:12:37.23,0:12:40.51,Default - italics,Esdeath,0000,0000,0000,,You had best prepare yourselves, Night Raid.
+Dialogue: 0,0:12:46.41,0:12:47.25,Default,Lubbock,0000,0000,0000,,What?
+Dialogue: 0,0:12:47.25,0:12:49.66,Default,Shura,0000,0000,0000,,Pay attention, Night Raid!
+Dialogue: 0,0:12:52.76,0:12:55.75,Default,Shura,0000,0000,0000,,Oh? An Imperial Arms made of string.
+Dialogue: 0,0:12:55.75,0:12:57.44,Default,Shura,0000,0000,0000,,That's pretty interesting.
+Dialogue: 0,0:12:58.38,0:13:02.59,Default,Shura,0000,0000,0000,,Don't look so surprised. \NI'll reveal the trick to my Imperial Arms.
+Dialogue: 0,0:13:02.93,0:13:09.18,Default,Shura,0000,0000,0000,,My toy, Shambhala, \Ncan teleport me or anyone else,
+Dialogue: 0,0:13:10.51,0:13:12.96,Default,Shura,0000,0000,0000,,so long as I've marked the location.
+Dialogue: 0,0:13:14.19,0:13:16.27,Default - italics,Lubbock,0000,0000,0000,,An Imperial Arms that controls time and space.
+Dialogue: 0,0:13:16.47,0:13:21.07,Default,Shura,0000,0000,0000,,It's extremely tiring, so I wasn't able \Nto constantly attack before.
+Dialogue: 0,0:13:24.31,0:13:27.24,Default,Shura,0000,0000,0000,,But I got my hands on \Nsomething great in the capital.
+Dialogue: 0,0:13:28.61,0:13:31.98,Default,Shura,0000,0000,0000,,Now I can teleport as much as I want.
+Dialogue: 0,0:13:32.64,0:13:37.67,Default,Shura,0000,0000,0000,,As you can see, I've marked a \Nlot of places in the palace!
+Dialogue: 0,0:13:41.88,0:13:43.84,Default,Shura,0000,0000,0000,,What's wrong? You aren't gonna run?
+Dialogue: 0,0:13:48.83,0:13:51.39,Default,Shura,0000,0000,0000,,Hey, hey, are we done already?
+Dialogue: 0,0:13:52.11,0:13:53.95,Default - italics,Lubbock,0000,0000,0000,,There's no point in trying to get away.
+Dialogue: 0,0:13:53.95,0:13:56.77,Default - italics,Lubbock,0000,0000,0000,,No matter where I go, \Nhe'll reach me immediately!
+Dialogue: 0,0:13:57.21,0:13:58.25,Default - italics,Lubbock,0000,0000,0000,,But...
+Dialogue: 0,0:13:58.79,0:14:02.27,Default - italics,Lubbock,0000,0000,0000,,He won't be able to get to me \Nin an area he hasn't marked.
+Dialogue: 0,0:14:04.34,0:14:05.21,Default,Lubbock,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:10.41,0:14:12.72,Default,Shura,0000,0000,0000,,That's too bad.
+Dialogue: 0,0:14:12.72,0:14:15.08,Default,Lubbock,0000,0000,0000,,You can leave a mark in the air?
+Dialogue: 0,0:14:15.58,0:14:17.32,Default,Shura,0000,0000,0000,,Exactly.
+Dialogue: 0,0:14:17.32,0:14:20.25,Default,Shura,0000,0000,0000,,From the start, there was \Nnowhere for you to run.
+Dialogue: 0,0:14:20.25,0:14:21.50,Default,Shura,0000,0000,0000,,Nowhere.
+Dialogue: 0,0:14:30.43,0:14:34.09,Default - italics,Tatsumi,0000,0000,0000,,He may be strong, but his moves \Nleave openings. I can do it.
+Dialogue: 0,0:14:45.31,0:14:47.55,Default,Budou,0000,0000,0000,,Young man, what is your name?
+Dialogue: 0,0:14:47.55,0:14:48.35,Default,Tatsumi,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:48.35,0:14:49.41,Default,Budou,0000,0000,0000,,Your name...
+Dialogue: 0,0:14:49.84,0:14:52.89,Default,Budou,0000,0000,0000,,Unless assassins don't have names.
+Dialogue: 0,0:14:52.89,0:14:54.12,Default,Tatsumi,0000,0000,0000,,It's Tatsumi.
+Dialogue: 0,0:14:54.49,0:14:55.73,Default - italics,Budou,0000,0000,0000,,Tatsumi?
+Dialogue: 0,0:14:56.17,0:14:57.86,Default - italics,Budou,0000,0000,0000,,How earnest.
+Dialogue: 0,0:14:57.86,0:14:59.44,Default - italics,Budou,0000,0000,0000,,How honest.
+Dialogue: 0,0:15:00.21,0:15:02.89,Default - italics,Budou,0000,0000,0000,,There isn't a single tremor \Nin his swordsmanship.
+Dialogue: 0,0:15:03.27,0:15:08.80,Default - italics,Budou,0000,0000,0000,,How much discipline does one \Nneed to become this skilled?
+Dialogue: 0,0:15:08.80,0:15:09.80,Default - italics,Budou,0000,0000,0000,,However...
+Dialogue: 0,0:15:13.79,0:15:17.27,Default - italics,Budou,0000,0000,0000,,If you've wronged the \Nempire or His Excellency,
+Dialogue: 0,0:15:17.67,0:15:20.19,Default - italics,Budou,0000,0000,0000,,I must destroy you!
+Dialogue: 0,0:15:30.01,0:15:31.18,Default,Lubbock,0000,0000,0000,,Tatsumi!
+Dialogue: 0,0:15:32.67,0:15:33.47,Default,Lubbock,0000,0000,0000,,You...
+Dialogue: 0,0:15:33.47,0:15:34.31,Default,Woman,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:15:34.31,0:15:34.87,Default,Lubbock,0000,0000,0000,,What—
+Dialogue: 0,0:15:34.87,0:15:36.43,Default,Woman,0000,0000,0000,,If I don't do this,
+Dialogue: 0,0:15:36.43,0:15:38.25,Default,Woman,0000,0000,0000,,my father and my mother won't...
+Dialogue: 0,0:15:36.43,0:15:38.25,Default,Lubbock,0000,0000,0000,,Let go. Hey.
+Dialogue: 0,0:15:43.37,0:15:44.27,Default,Woman,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:45.23,0:15:47.21,Default,Shura,0000,0000,0000,,I said not to interfere.
+Dialogue: 0,0:15:48.50,0:15:51.84,Default,Shura,0000,0000,0000,,How dare you get in the way, \Nwhen you're just a toy?
+Dialogue: 0,0:15:51.84,0:15:54.35,Default,Lubbock,0000,0000,0000,,A toy...?
+Dialogue: 0,0:15:54.35,0:15:55.64,Default,Shura,0000,0000,0000,,That's right!
+Dialogue: 0,0:15:55.64,0:15:59.58,Default,Shura,0000,0000,0000,,This capital, everyone here... \NThey're all my toys!
+Dialogue: 0,0:15:59.58,0:16:03.44,Default,Shura,0000,0000,0000,,Eventually, I'll surpass my father, \Nand the very throne will be mine.
+Dialogue: 0,0:16:05.09,0:16:07.74,Default,Shura,0000,0000,0000,,Hey, don't tell me you're giving up.
+Dialogue: 0,0:16:07.74,0:16:09.82,Default,Shura,0000,0000,0000,,We aren't done playing.
+Dialogue: 0,0:16:09.82,0:16:12.02,Default,Lubbock,0000,0000,0000,,No, we're done.
+Dialogue: 0,0:16:12.46,0:16:13.57,Default,Lubbock,0000,0000,0000,,You lose.
+Dialogue: 0,0:16:13.57,0:16:14.48,Default,Shura,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:22.84,0:16:23.42,Default,Underlings,0000,0000,0000,,Commander Shura!
+Dialogue: 0,0:16:23.42,0:16:24.42,Default,Lubbock,0000,0000,0000,,Don't move.
+Dialogue: 0,0:16:24.91,0:16:26.71,Default,Lubbock,0000,0000,0000,,Or I'll cut off more than \Njust his arm next time.
+Dialogue: 0,0:16:26.96,0:16:28.54,Default,Shura,0000,0000,0000,,You...
+Dialogue: 0,0:16:29.33,0:16:30.55,Default,Shura,0000,0000,0000,,What's this?
+Dialogue: 0,0:16:30.55,0:16:32.60,Default,Lubbock,0000,0000,0000,,It's a barrier made of my thread.
+Dialogue: 0,0:16:32.96,0:16:37.22,Default,Lubbock,0000,0000,0000,,I used almost all of it.\N I just barely made it.
+Dialogue: 0,0:16:37.22,0:16:40.10,Default,Shura,0000,0000,0000,,You did this while you were running around?
+Dialogue: 0,0:16:40.10,0:16:46.15,Default,Lubbock,0000,0000,0000,,Thanks to your showing off, \NI figured out where all the marks were.
+Dialogue: 0,0:16:46.15,0:16:47.67,Default,Shura,0000,0000,0000,,You little bastard...
+Dialogue: 0,0:16:47.67,0:16:50.23,Default,Lubbock,0000,0000,0000,,Now, everyone drop your weapons!
+Dialogue: 0,0:16:50.51,0:16:54.11,Default,Lubbock,0000,0000,0000,,Shura, there are many questions I want to ask.
+Dialogue: 0,0:16:57.48,0:16:58.91,Default,Lubbock,0000,0000,0000,,Y-You...
+Dialogue: 0,0:17:01.57,0:17:05.80,Default,Woman,0000,0000,0000,,M-Master Shura, please take this into account.
+Dialogue: 0,0:17:05.80,0:17:09.23,Default,Woman,0000,0000,0000,,And free my father... And my mother...
+Dialogue: 0,0:17:15.77,0:17:21.31,Default,Shura,0000,0000,0000,,Too bad! Your parents were \Nkilled a long time ago!
+Dialogue: 0,0:17:21.84,0:17:24.52,Default,Shura,0000,0000,0000,,Thanks for showing me a good time, Night Raid.
+Dialogue: 0,0:17:25.04,0:17:28.60,Default,Shura,0000,0000,0000,,However, it's about time to end this.
+Dialogue: 0,0:17:28.98,0:17:32.49,Default,Shura,0000,0000,0000,,I'll let you have a taste of my hidden ability.
+Dialogue: 0,0:17:33.65,0:17:37.09,Default,Shura,0000,0000,0000,,Disappear! Off the face of the world!
+Dialogue: 0,0:17:47.42,0:17:51.17,Default,Shura,0000,0000,0000,,No one's ever come back \Nfrom this hidden ability.
+Dialogue: 0,0:17:52.48,0:17:56.05,Default,Shura,0000,0000,0000,,Crumble into dust in the abyss, Night Raid!
+Dialogue: 0,0:17:57.11,0:17:57.89,Default,Shura,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:58.55,0:17:59.64,Default - italics,Shura,0000,0000,0000,,String?
+Dialogue: 0,0:18:00.05,0:18:02.64,Default - italics,Shura,0000,0000,0000,,Don't tell me... That son of a bitch!
+Dialogue: 0,0:18:02.93,0:18:06.92,Default,Lubbock,0000,0000,0000,,Regardless of who you who are, \Nyou can't sever this thread,
+Dialogue: 0,0:18:07.31,0:18:10.40,Default,Lubbock,0000,0000,0000,,even if you have an Imperial Arms that \Ncan manipulate time and space.
+Dialogue: 0,0:18:13.72,0:18:15.97,Default,Lubbock,0000,0000,0000,,So we meet again.
+Dialogue: 0,0:18:15.97,0:18:17.28,Default,Shura,0000,0000,0000,,You...
+Dialogue: 0,0:18:19.00,0:18:20.66,Default,Lubbock,0000,0000,0000,,Like I'd let you escape!
+Dialogue: 0,0:18:23.96,0:18:26.38,Default,Lubbock,0000,0000,0000,,Don't give me that look...
+Dialogue: 0,0:18:26.38,0:18:28.79,Default,Lubbock,0000,0000,0000,,Let's go together, Mister Shura.
+Dialogue: 0,0:18:28.79,0:18:30.81,Default,Shura,0000,0000,0000,,You've gotta be joking...
+Dialogue: 0,0:18:30.81,0:18:32.93,Default,Shura,0000,0000,0000,,I can't die here.
+Dialogue: 0,0:18:32.93,0:18:37.42,Default,Shura,0000,0000,0000,,I need the throne, so I can \Nchange this boring world!
+Dialogue: 0,0:18:37.74,0:18:41.76,Default,Lubbock,0000,0000,0000,,It isn't like I don't understand what you want.
+Dialogue: 0,0:18:42.74,0:18:46.09,Default,Shura,0000,0000,0000,,Crap, I can't... In a place like this...
+Dialogue: 0,0:18:46.09,0:18:47.27,Default,Shura,0000,0000,0000,,I was supposed to...
+Dialogue: 0,0:18:47.55,0:18:50.04,Default,Lubbock,0000,0000,0000,,You want to change the world, huh?
+Dialogue: 0,0:18:50.70,0:18:54.42,Default,Lubbock,0000,0000,0000,,I understand. Everyone feels that way...
+Dialogue: 0,0:18:55.63,0:19:01.29,Default,Lubbock,0000,0000,0000,,But it doesn't give you the right to \Ntreat others' lives like toys.
+Dialogue: 0,0:19:01.29,0:19:03.99,Default,Lubbock,0000,0000,0000,,You can't just destroy whatever you want!
+Dialogue: 0,0:19:27.09,0:19:29.62,Default,Lubbock,0000,0000,0000,,We've been through a lot,
+Dialogue: 0,0:19:30.29,0:19:32.19,Default,,0000,0000,0000,,Cross Tail...
+Dialogue: 0,0:19:44.13,0:19:46.76,Default,Lubbock,0000,0000,0000,,Miss Najenda, I'm sorry.
+Dialogue: 0,0:19:47.36,0:19:49.95,Default,Lubbock,0000,0000,0000,,It seems like this is it for me...
+Dialogue: 0,0:19:51.17,0:19:53.88,Default,Lubbock,0000,0000,0000,,I'll leave the rest to you, Tatsumi.
+Dialogue: 0,0:20:10.83,0:20:11.68,Default,Tatsumi,0000,0000,0000,,Lu...
+Dialogue: 0,0:20:13.02,0:20:13.98,Default,,0000,0000,0000,,Lubba...
+Dialogue: 0,0:20:14.89,0:20:18.30,Default,Tatsumi,0000,0000,0000,,Lubba!
+Dialogue: 0,0:20:21.14,0:20:25.40,Default,Onest,0000,0000,0000,,D-D-Died?
+Dialogue: 0,0:20:27.90,0:20:31.20,Default,Onest,0000,0000,0000,,No, Shura!
+Dialogue: 0,0:20:31.20,0:20:35.46,Default,Onest,0000,0000,0000,,To think you've left me!
+Dialogue: 0,0:20:35.90,0:20:37.54,Default,Onest,0000,0000,0000,,Oh, well.
+Dialogue: 0,0:20:37.84,0:20:41.21,Default,Onest,0000,0000,0000,,Nothing to be done about his death.
+Dialogue: 0,0:20:41.21,0:20:47.09,Default,Onest,0000,0000,0000,,At least he was able to finish off \None of the Night Raid members.
+Dialogue: 0,0:20:47.55,0:20:51.86,Default,Budou,0000,0000,0000,,The other one is confined in the dungeon.
+Dialogue: 0,0:20:51.86,0:20:53.23,Default,Onest,0000,0000,0000,,Good work.
+Dialogue: 0,0:20:53.44,0:20:55.29,Default,Onest,0000,0000,0000,,Now, then...
+Dialogue: 0,0:20:57.24,0:20:59.44,Default,Onest,0000,0000,0000,,We need to make an example out of him.
+Dialogue: 0,0:20:59.89,0:21:03.89,Default,Onest,0000,0000,0000,,So the Revolutionary Army knows to back down.
+Dialogue: 0,0:21:04.52,0:21:09.28,Default,Onest,0000,0000,0000,,Now, I wonder what awful things \Nwe should do to him...
+Dialogue: 0,0:21:13.29,0:21:15.89,Default,Budou,0000,0000,0000,,Boorish as always.
+Dialogue: 0,0:21:15.89,0:21:21.71,Default,Budou,0000,0000,0000,,But it would be successful in discouraging traitors.
+Dialogue: 0,0:21:23.58,0:21:25.55,Default,Esdeath,0000,0000,0000,,I heard what happened, Budou.
+Dialogue: 0,0:21:26.13,0:21:28.26,Default,Esdeath,0000,0000,0000,,Give that role to me.
+Dialogue: 0,0:21:28.83,0:21:29.85,Default,Onest,0000,0000,0000,,Oh?
+Dialogue: 0,0:21:30.32,0:21:31.34,Default - italics,Esdeath,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:21:32.36,0:21:34.32,Default - italics,Esdeath,0000,0000,0000,,I won't let anyone else have you.
+Dialogue: 0,0:21:48.49,0:21:51.45,Default,Najenda,0000,0000,0000,,To be executed in public...
+Dialogue: 0,0:21:52.63,0:21:54.79,Default,Mine,0000,0000,0000,,Tatsumi...
+Dialogue: 0,0:23:34.99,0:23:40.98,Title2,Title,0000,0000,0000,,{\fad(489,1)}Kill the Despair
+Dialogue: 0,0:23:40.98,0:23:42.98,Title2,,0000,0000,0000,,
